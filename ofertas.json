@@ -1,7 +1,21 @@
 {
- "updated": 1793133103,
+ "updated": 1793133524,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 12,
+   "key": "mercadolivre:MLB21450143",
+   "title": "SSD Interno Macrovip Premium 240 GB Mv240gb",
+   "price": 229.89,
+   "original": 287.79,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_914305-MLA99982194493_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ssd-interno-macrovip-premium-240-gb-mv240gb/p/MLB21450143?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793133504
+  },
   {
    "n": 11,
    "key": "mercadolivre:MLB57365312",
