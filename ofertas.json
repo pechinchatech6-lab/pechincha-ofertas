@@ -1,7 +1,21 @@
 {
- "updated": 1793130998,
+ "updated": 1793131419,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 7,
+   "key": "mercadolivre:MLB17978326",
+   "title": "SSD Kingston A400 480GB SATA III 2.5\" 500MB/s SA400S37/480G",
+   "price": 470.25,
+   "original": 640.0,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_890700-MLA99502433930_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ssd-kingston-a400-480gb-sata-iii-2-5-500mb-s-sa400s37-480g/p/MLB17978326?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793131399
+  },
   {
    "n": 6,
    "key": "mercadolivre:MLB57364763",
