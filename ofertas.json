@@ -1,7 +1,21 @@
 {
- "updated": 1793219956,
+ "updated": 1793220377,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 218,
+   "key": "mercadolivre:MLB59660744",
+   "title": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portá",
+   "price": 226.61,
+   "original": 359.99,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_784663-MLA117801956087_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-hy320-hardline-smart-tv-android-wifi-6-390-ansi-lumens-full-hd-suporte-4k-hdmi-bluetooth-85-200-polegadas-alto-/p/MLB59660744?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793220357
+  },
   {
    "n": 217,
    "key": "mercadolivre:MLB51539641",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793195392
-  },
-  {
-   "n": 158,
-   "key": "mercadolivre:MLB47161143",
-   "title": "Caneta Laser Verde Ultra Forte Alcance 100km Recarregavel Para Trilhas Apresentações Profissionais Astronomia Prova D'agua Marca EX Decor",
-   "price": 39.57,
-   "original": 46.56,
-   "pct": 15,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_933964-MLA99605930680_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caneta-laser-verde-ultra-forte-alcance-100km-recarregavel-para-trilhas-apresentacoes-profissionais-astronomia-prova-d-ag/p/MLB47161143?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793194971
   }
  ]
 }
