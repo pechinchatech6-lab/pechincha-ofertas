@@ -1,7 +1,21 @@
 {
- "updated": 1793227113,
+ "updated": 1793227534,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 235,
+   "key": "mercadolivre:MLB65764004",
+   "title": "Fones De Ouvido Usb-c Tipo C Com Microfone Integrado Som Estéreo Alta Qualidade Controle Chamadas Compatível Com iPhone 15 16 17 18 Android Samsung Xiaomi Motor",
+   "price": 22.3,
+   "original": 59.99,
+   "pct": 63,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_693659-MLA113618776783_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fones-de-ouvido-usb-c-tipo-c-com-microfone-integrado-som-estereo-alta-qualidade-controle-chamadas-compativel-com-iphone-/p/MLB65764004?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793227514
+  },
   {
    "n": 234,
    "key": "mercadolivre:MLB19955269",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793202549
-  },
-  {
-   "n": 175,
-   "key": "mercadolivre:MLB66703245",
-   "title": "Cabo Adaptador P3(p2 Combo)p/ Fone E Microfone Headset 20cm Pro Brindes",
-   "price": 19.49,
-   "original": 29.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_958905-MLA108819112295_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-adaptador-p3-p2-combo-p-fone-e-microfone-headset-20cm-pro-brindes/p/MLB66703245?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793202128
   }
  ]
 }
