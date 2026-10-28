@@ -1,7 +1,21 @@
 {
- "updated": 1793181097,
+ "updated": 1793181518,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 126,
+   "key": "mercadolivre:MLB62756066",
+   "title": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Preto",
+   "price": 287.0,
+   "original": 599.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_984233-MLA105531058053_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-inteligente-gps-smartwatch-amoled-3atm-sport-gps-caixa-preto/p/MLB62756066?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793181498
+  },
   {
    "n": 125,
    "key": "mercadolivre:MLB24936286",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793156659
-  },
-  {
-   "n": 66,
-   "key": "mercadolivre:MLB25753833",
-   "title": "Limpa Contato Aerossol 300ml Mundial Prime AE06000019",
-   "price": 8.37,
-   "original": 23.9,
-   "pct": 65,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_912873-MLA112727108386_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/limpa-contato-aerossol-300ml-mundial-prime-ae06000019/p/MLB25753833?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793156238
   }
  ]
 }
