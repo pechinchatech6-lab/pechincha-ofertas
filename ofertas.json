@@ -1,7 +1,21 @@
 {
- "updated": 1793178150,
+ "updated": 1793178571,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 119,
+   "key": "mercadolivre:MLB33230345",
+   "title": "Kit Jogo de Ferramentas Precisão Magnético 115 Peças Quicko para Reparação Kit Completo Para Assistencia Tecnica Celulares Jogo De Chave Abrir Celular Equipamen",
+   "price": 27.9,
+   "original": 54.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646262-MLA114845290949_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-jogo-de-ferramentas-precisao-magnetico-115-pecas-quicko-para-reparacao-kit-completo-para-assistencia-tecnica-celular/p/MLB33230345?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793178551
+  },
   {
    "n": 118,
    "key": "mercadolivre:MLB81040696",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793153712
-  },
-  {
-   "n": 59,
-   "key": "mercadolivre:MLB79640588",
-   "title": "Leitor de Código de Barras Bahrein BAH-102 2D, USB com Fio, para PDV e Estoque",
-   "price": 92.46,
-   "original": 179.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_982775-MLA116478704786_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/leitor-de-codigo-de-barras-bahrein-bah-102-2d-usb-com-fio-para-pdv-e-estoque/p/MLB79640588?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793153291
   }
  ]
 }
