@@ -1,7 +1,21 @@
 {
- "updated": 1793220377,
+ "updated": 1793220798,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 219,
+   "key": "mercadolivre:MLB48959123",
+   "title": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portáti",
+   "price": 247.06,
+   "original": 365.9,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_898231-MLA112356757992_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-hy320-davely-smart-tv-android-wifi-6-390-ansi-lumens-full-hd-suporte-4k-hdmi-bluetooth-85-200-polegadas-alto-fa/p/MLB48959123?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793220778
+  },
   {
    "n": 218,
    "key": "mercadolivre:MLB59660744",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793195813
-  },
-  {
-   "n": 159,
-   "key": "mercadolivre:MLB79489425",
-   "title": "Adaptador DisplayPort para VGA de Vídeo Full HD 1080p 60Hz – Eletric Teck",
-   "price": 19.0,
-   "original": 34.99,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_805757-MLA118514136975_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/adaptador-displayport-para-vga-de-video-full-hd-1080p-60hz-eletric-teck/p/MLB79489425?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793195392
   }
  ]
 }
