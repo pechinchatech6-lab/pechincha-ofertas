@@ -1,7 +1,21 @@
 {
- "updated": 1793172256,
+ "updated": 1793172677,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 105,
+   "key": "mercadolivre:MLB44518871",
+   "title": "Suporte Para Projetor De Teto Parede Fixo Inclinável 15 Graus Giratório 360 Graus Suporta Até 10kg Feito Em Aço Carbono Pintura Eletrostática Brasforma Sbrp756 ",
+   "price": 54.88,
+   "original": 90.06,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_949564-MLA91981221977_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suporte-para-projetor-de-teto-parede-fixo-inclinavel-15-graus-giratorio-360-graus-suporta-ate-10kg-feito-em-aco-carbono-/p/MLB44518871?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793172657
+  },
   {
    "n": 104,
    "key": "mercadolivre:MLB60374897",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793147818
-  },
-  {
-   "n": 45,
-   "key": "mercadolivre:MLB57817318",
-   "title": "Cabo Ethernet Cat8 Cabo de Rede SSTP Blindado 20m Preto RJ45 Alta Performance 40Gbps 2000Mhz Alta Velocidade para Roteador PC Gamer",
-   "price": 138.0,
-   "original": 208.99,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_849231-MLA116549331432_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-ethernet-cat8-cabo-de-rede-sstp-blindado-20m-preto-rj45-alta-performance-40gbps-2000mhz-alta-velocidade-para-rotead/p/MLB57817318?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793147397
   }
  ]
 }
