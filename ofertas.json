@@ -1,7 +1,21 @@
 {
- "updated": 1793187834,
+ "updated": 1793188255,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 142,
+   "key": "mercadolivre:MLB15909805",
+   "title": "Range extender Wi-fi TP-Link TL-WA855RE V4 Cor Branco",
+   "price": 118.0,
+   "original": 169.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_925971-MLA99938108373_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/range-extender-wi-fi-tp-link-tl-wa855re-v4-cor-branco/p/MLB15909805?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793188235
+  },
   {
    "n": 141,
    "key": "mercadolivre:MLB51174246",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793163395
-  },
-  {
-   "n": 82,
-   "key": "mercadolivre:MLB53190875",
-   "title": "Pc Gamer Completo Intel I5, 16gb Ram, Ssd 240gb, Video 1gb 240 Gb 16 Gb Hd Graphics 2500 1gb",
-   "price": 1619.0,
-   "original": 4164.47,
-   "pct": 61,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_630584-MLA99993575737_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pc-gamer-completo-intel-i5-16gb-ram-ssd-240gb-video-1gb-240-gb-16-gb-hd-graphics-2500-1gb/p/MLB53190875?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793162974
   }
  ]
 }
