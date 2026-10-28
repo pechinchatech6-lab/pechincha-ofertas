@@ -1,7 +1,21 @@
 {
- "updated": 1793207200,
+ "updated": 1793207621,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 188,
+   "key": "mercadolivre:MLB62143380",
+   "title": "Controle Remoto Para Smart Tv Samsung ETeclas Netflix Prime Video Globoplay",
+   "price": 19.29,
+   "original": 29.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_615777-MLA109800577433_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-remoto-para-smart-tv-samsung-eteclas-netflix-prime-video-globoplay/p/MLB62143380?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793207601
+  },
   {
    "n": 187,
    "key": "mercadolivre:MLB50177920",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793182761
-  },
-  {
-   "n": 128,
-   "key": "mercadolivre:MLB43319779",
-   "title": "Smartwatch Xiaomi Redmi Watch 5 Active Tela Lcd 2.00 Preto",
-   "price": 223.99,
-   "original": 299.99,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_900217-MLA116031574344_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartwatch-xiaomi-redmi-watch-5-active-tela-lcd-2-00-preto/p/MLB43319779?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793182340
   }
  ]
 }
