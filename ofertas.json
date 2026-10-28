@@ -1,7 +1,21 @@
 {
- "updated": 1793154153,
+ "updated": 1793154574,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 62,
+   "key": "mercadolivre:MLB68292290",
+   "title": "Álcool Isoprop 99,8% Limpador De Tela 1l Pincel Raro Limpeza Profunda Solvente Seca Rápido",
+   "price": 23.9,
+   "original": 33.9,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_759724-MLA109706662054_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alcool-isoprop-99-8-limpador-de-tela-1l-pincel-raro-limpeza-profunda-solvente-seca-rapido/p/MLB68292290?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793154554
+  },
   {
    "n": 61,
    "key": "mercadolivre:MLB53793582",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793129715
-  },
-  {
-   "n": 2,
-   "key": "mercadolivre:MLB76023864",
-   "title": "Pulseira ESD Anti Estática Sem Fio Profissional 1MΩ 2 Unidades Proteção Componentes Eletrônicos Gurumania",
-   "price": 20.79,
-   "original": 39.99,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_727540-MLA114033801156_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pulseira-esd-anti-estatica-sem-fio-profissional-1m-2-unidades-protecao-componentes-eletronicos-gurumania/p/MLB76023864?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793129295
   }
  ]
 }
