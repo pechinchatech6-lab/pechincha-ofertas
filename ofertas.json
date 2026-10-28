@@ -1,7 +1,21 @@
 {
- "updated": 1793158363,
+ "updated": 1793158784,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 72,
+   "key": "mercadolivre:MLB52027456",
+   "title": "Smart Tv Samsung 32'' Hd Tizen Hdr Wi-fi Hdmi Monitor Bivolt Preta Preto",
+   "price": 999.0,
+   "original": 2100.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_924175-MLA99993108321_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-samsung-32-hd-tizen-hdr-wi-fi-hdmi-monitor-bivolt-preta-preto/p/MLB52027456?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793158764
+  },
   {
    "n": 71,
    "key": "mercadolivre:MLB29902763",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793133925
-  },
-  {
-   "n": 12,
-   "key": "mercadolivre:MLB21450143",
-   "title": "SSD Interno Macrovip Premium 240 GB Mv240gb",
-   "price": 229.89,
-   "original": 287.79,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_914305-MLA99982194493_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ssd-interno-macrovip-premium-240-gb-mv240gb/p/MLB21450143?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793133504
   }
  ]
 }
