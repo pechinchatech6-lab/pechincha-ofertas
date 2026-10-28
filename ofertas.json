@@ -1,7 +1,21 @@
 {
- "updated": 1793184465,
+ "updated": 1793184886,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 134,
+   "key": "mercadolivre:MLB61706715",
+   "title": "Smartwatch Bazik Prime WATCH Ultimate de 51mm com Tela AMOLED, GPS e NFC",
+   "price": 77.26,
+   "original": 257.55,
+   "pct": 70,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_909579-MLA97334242395_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartwatch-bazik-prime-watch-ultimate-de-51mm-com-tela-amoled-gps-e-nfc/p/MLB61706715?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793184866
+  },
   {
    "n": 133,
    "key": "mercadolivre:MLB69794678",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793160027
-  },
-  {
-   "n": 74,
-   "key": "mercadolivre:MLB47081288",
-   "title": "Monitor Portátil Gamer Bettdow de 15.6\" Full HD IPS Antirreflexo com Capa",
-   "price": 389.0,
-   "original": 799.0,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_665279-MLA91956933715_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/monitor-portatil-gamer-bettdow-de-15-6-full-hd-ips-antirreflexo-com-capa/p/MLB47081288?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793159606
   }
  ]
 }
