@@ -1,7 +1,21 @@
 {
- "updated": 1793193728,
+ "updated": 1793194149,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 156,
+   "key": "mercadolivre:MLB73195575",
+   "title": "Adaptador Conversor USB-C Para Hdmi 4k 3 Em 1 Ezsias Armarinhos",
+   "price": 25.99,
+   "original": 39.99,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_817412-MLA112069805626_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/adaptador-conversor-usb-c-para-hdmi-4k-3-em-1-ezsias-armarinhos/p/MLB73195575?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793194129
+  },
   {
    "n": 155,
    "key": "mercadolivre:MLB23159572",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793169289
-  },
-  {
-   "n": 96,
-   "key": "mercadolivre:MLB62754381",
-   "title": "Fonte Carregador Notebook Compatível com Lenovo Ideapad S145 15api 81v70004br 330 81fe0002br Adlx65 Id S145 81v70008br 65w 320 80yh001br Bivolt Ipa-1450 3-15alc",
-   "price": 56.8,
-   "original": 78.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_667470-MLA112654306649_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fonte-carregador-notebook-compativel-com-lenovo-ideapad-s145-15api-81v70004br-330-81fe0002br-adlx65-id-s145-81v70008br-6/p/MLB62754381?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793168868
   }
  ]
 }
