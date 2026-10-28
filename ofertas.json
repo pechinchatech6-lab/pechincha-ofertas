@@ -1,7 +1,21 @@
 {
- "updated": 1793208042,
+ "updated": 1793208463,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 190,
+   "key": "mercadolivre:MLB69447374",
+   "title": "Controle Remoto Para Tv Samsung Smart 4k Teclas Prime Video Netflix Globoplay Compatível Com Vários Modelos De Tv Samsung Sem Programação Substituição Imediata",
+   "price": 19.0,
+   "original": 34.49,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_811332-MLA110596902918_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-remoto-para-tv-samsung-smart-4k-teclas-prime-video-netflix-globoplay-compativel-com-varios-modelos-de-tv-samsun/p/MLB69447374?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793208443
+  },
   {
    "n": 189,
    "key": "mercadolivre:MLB38780543",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793183603
-  },
-  {
-   "n": 130,
-   "key": "mercadolivre:MLB62870615",
-   "title": "Relógio Inteligente Smart Band Sports E À Prova De Água Caixa Preto",
-   "price": 72.0,
-   "original": 209.0,
-   "pct": 66,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_880809-MLA100478384683_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-inteligente-smart-band-sports-e-a-prova-de-agua-caixa-preto/p/MLB62870615?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793183182
   }
  ]
 }
