@@ -1,7 +1,21 @@
 {
- "updated": 1793209726,
+ "updated": 1793210273,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 194,
+   "key": "mercadolivre:MLB69230650",
+   "title": "Controle Remoto Enveloz para TV LG ThinQ AI Magic com Comando de Voz e Pilhas",
+   "price": 56.0,
+   "original": 85.57,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_878011-MLA110396639092_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-remoto-enveloz-para-tv-lg-thinq-ai-magic-com-comando-de-voz-e-pilhas/p/MLB69230650?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793210253
+  },
   {
    "n": 193,
    "key": "mercadolivre:MLB79421341",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793185287
-  },
-  {
-   "n": 134,
-   "key": "mercadolivre:MLB61706715",
-   "title": "Smartwatch Bazik Prime WATCH Ultimate de 51mm com Tela AMOLED, GPS e NFC",
-   "price": 77.26,
-   "original": 257.55,
-   "pct": 70,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_909579-MLA97334242395_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartwatch-bazik-prime-watch-ultimate-de-51mm-com-tela-amoled-gps-e-nfc/p/MLB61706715?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793184866
   }
  ]
 }
