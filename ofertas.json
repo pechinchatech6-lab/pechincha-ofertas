@@ -1,7 +1,21 @@
 {
- "updated": 1793187413,
+ "updated": 1793187834,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 141,
+   "key": "mercadolivre:MLB51174246",
+   "title": "Repetidor De Sinal Mercusys Me60x 6 Dual Band 1500 Mbps",
+   "price": 229.0,
+   "original": 299.98,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_926793-MLA99991308295_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/repetidor-de-sinal-mercusys-me60x-6-dual-band-1500-mbps/p/MLB51174246?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793187814
+  },
   {
    "n": 140,
    "key": "mercadolivre:MLB43606798",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793162974
-  },
-  {
-   "n": 81,
-   "key": "mercadolivre:MLB42364005",
-   "title": "Computador Completo Top Intel Core i7 4770, 16GB RAM, SSD 512GB, Bivolt, Preto, Windows 10 Pro, Monitor 23\" Full HD - BluePC CD2E-0135TO",
-   "price": 1899.99,
-   "original": 2421.11,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_825731-MLA113584189266_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/computador-completo-top-intel-core-i7-4770-16gb-ram-ssd-512gb-bivolt-preto-windows-10-pro-monitor-23-full-hd-bluepc-cd2e/p/MLB42364005?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793162553
   }
  ]
 }
