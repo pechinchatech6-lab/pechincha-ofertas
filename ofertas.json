@@ -1,7 +1,21 @@
 {
- "updated": 1793211115,
+ "updated": 1793211536,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 197,
+   "key": "mercadolivre:MLB43263276",
+   "title": "Drone E99 4k Wifi 2 Dupla Hdcâmeras Profissional Cor Preto",
+   "price": 124.04,
+   "original": 288.12,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_724125-MLA99523584644_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/drone-e99-4k-wifi-2-dupla-hdcameras-profissional-cor-preto/p/MLB43263276?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793211516
+  },
   {
    "n": 196,
    "key": "mercadolivre:MLB68833589",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793186551
-  },
-  {
-   "n": 137,
-   "key": "mercadolivre:MLB64066830",
-   "title": "Fone De Ouvido Com Microfone Usb Heaset Call Center Telemarketing Jogos Reuniao Empresa Trabalho Profissional Com Fio Atendimento Call Center Heaseats Home Offi",
-   "price": 46.5,
-   "original": 62.9,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_653965-MLA119273010873_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-com-microfone-usb-heaset-call-center-telemarketing-jogos-reuniao-empresa-trabalho-profissional-com-fio-at/p/MLB64066830?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793186130
   }
  ]
 }
