@@ -1,7 +1,21 @@
 {
- "updated": 1793218693,
+ "updated": 1793219114,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 215,
+   "key": "mercadolivre:MLB27577458",
+   "title": "Ventilador de Coluna 40cm Super Power VSP40C 6 Pás 3 Velocidades Mondial 127v",
+   "price": 219.9,
+   "original": 289.9,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_867266-MLA114707041229_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-40cm-super-power-vsp40c-6-pas-3-velocidades-mondial-127v/p/MLB27577458?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793219094
+  },
   {
    "n": 214,
    "key": "mercadolivre:MLB43520931",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793194129
-  },
-  {
-   "n": 155,
-   "key": "mercadolivre:MLB23159572",
-   "title": "Cabo Adaptador Conversor Usb Para Hdmi Usb 3.0 Multitela Hdmi 1080p Pc Notebook Mac Tv Televisão Entrada Usb E Saída Hdmi Plug And Play - Marca Chrome Technolog",
-   "price": 38.23,
-   "original": 61.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_603736-MLA118396697467_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-adaptador-conversor-usb-para-hdmi-usb-3-0-multitela-hdmi-1080p-pc-notebook-mac-tv-televisao-entrada-usb-e-saida-hdm/p/MLB23159572?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793193708
   }
  ]
 }
