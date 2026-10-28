@@ -1,7 +1,21 @@
 {
- "updated": 1793199622,
+ "updated": 1793200043,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 170,
+   "key": "mercadolivre:MLB75642859",
+   "title": "Cabo Hdmi 3 Metros 2.1 8k 4k Ultra HD Full Hd Blindado Speed Para Projetores Ps5 Xbox E Smarttv",
+   "price": 30.99,
+   "original": 37.9,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_740068-MLA113906391954_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-hdmi-3-metros-2-1-8k-4k-ultra-hd-full-hd-blindado-speed-para-projetores-ps5-xbox-e-smarttv/p/MLB75642859?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793200023
+  },
   {
    "n": 169,
    "key": "mercadolivre:MLB68216336",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793175183
-  },
-  {
-   "n": 110,
-   "key": "mercadolivre:MLB61699327",
-   "title": "Caneta Stylus Universal Alta Precisão Para Tablet Positivo Android Kateluo Branco",
-   "price": 27.06,
-   "original": 39.9,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_835943-MLA118236263586_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caneta-stylus-universal-alta-precisao-para-tablet-positivo-android-kateluo-branco/p/MLB61699327?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793174762
   }
  ]
 }
