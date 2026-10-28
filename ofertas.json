@@ -1,7 +1,21 @@
 {
- "updated": 1793168467,
+ "updated": 1793168888,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 96,
+   "key": "mercadolivre:MLB62754381",
+   "title": "Fonte Carregador Notebook Compatível com Lenovo Ideapad S145 15api 81v70004br 330 81fe0002br Adlx65 Id S145 81v70008br 65w 320 80yh001br Bivolt Ipa-1450 3-15alc",
+   "price": 56.8,
+   "original": 78.9,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_667470-MLA112654306649_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fonte-carregador-notebook-compativel-com-lenovo-ideapad-s145-15api-81v70004br-330-81fe0002br-adlx65-id-s145-81v70008br-6/p/MLB62754381?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793168868
+  },
   {
    "n": 95,
    "key": "mercadolivre:MLB46159912",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793144029
-  },
-  {
-   "n": 36,
-   "key": "mercadolivre:MLB20704214",
-   "title": "Roteador HUAWEI WiFi AX2S 5 GHz Wi-Fi 6 HarmonyOS Mesh+ EasyMeshVisualização de Diagnósticos do Wi-Fi Controle Parental Branco",
-   "price": 159.0,
-   "original": 499.0,
-   "pct": 68,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_740344-MLA113061165432_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/roteador-huawei-wifi-ax2s-5-ghz-wi-fi-6-harmonyos-mesh-easymeshvisualizacao-de-diagnosticos-do-wi-fi-controle-parental-b/p/MLB20704214?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793143608
   }
  ]
 }
