@@ -1,7 +1,21 @@
 {
- "updated": 1793217430,
+ "updated": 1793217851,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 212,
+   "key": "mercadolivre:MLB43518035",
+   "title": "Pilha Zinco Aaa Philips Bateria Carvão Palito Tubo Kit 40 Un",
+   "price": 43.5,
+   "original": 51.06,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_722755-MLA99450207836_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pilha-zinco-aaa-philips-bateria-carvao-palito-tubo-kit-40-un/p/MLB43518035?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793217831
+  },
   {
    "n": 211,
    "key": "mercadolivre:MLB27819810",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793192866
-  },
-  {
-   "n": 152,
-   "key": "mercadolivre:MLB66526649",
-   "title": "Suporte TV Fixo Universal 10\" a 100\" Polegadas Forte Para Todas as Marcas Rezzet",
-   "price": 19.0,
-   "original": 26.9,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_889455-MLA115639608614_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suporte-tv-fixo-universal-10-a-100-polegadas-forte-para-todas-as-marcas-rezzet/p/MLB66526649?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793192445
   }
  ]
 }
