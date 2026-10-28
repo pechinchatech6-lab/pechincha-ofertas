@@ -1,7 +1,21 @@
 {
- "updated": 1793191202,
+ "updated": 1793191623,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 150,
+   "key": "mercadolivre:MLB73977320",
+   "title": "Suporte Tv Fixo Universal IRONFIX PRO Parede Painel Teto 10 24 32 43 50 55 60 75 100 Polegadas",
+   "price": 19.99,
+   "original": 35.0,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_710998-MLA113838560844_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suporte-tv-fixo-universal-ironfix-pro-parede-painel-teto-10-24-32-43-50-55-60-75-100-polegadas/p/MLB73977320?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793191603
+  },
   {
    "n": 149,
    "key": "mercadolivre:MLB54647747",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793166763
-  },
-  {
-   "n": 90,
-   "key": "mercadolivre:MLB48947564",
-   "title": "Teclado Gamer Gurumania Semi Mecanico Rgb Led Anti-Ghosting Usb Pc Xbox PS4 PS5",
-   "price": 46.99,
-   "original": 65.99,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_664235-MLA112022117474_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/teclado-gamer-gurumania-semi-mecanico-rgb-led-anti-ghosting-usb-pc-xbox-ps4-ps5/p/MLB48947564?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793166342
   }
  ]
 }
