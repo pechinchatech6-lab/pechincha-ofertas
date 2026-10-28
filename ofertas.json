@@ -1,7 +1,21 @@
 {
- "updated": 1793198780,
+ "updated": 1793199201,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 168,
+   "key": "mercadolivre:MLB59157229",
+   "title": "Capa Controle Remoto Para Tv Samsung Silicone Bn59-01432a Cor Smart Capinha Protetora 2023 Solar Case 4k Qled Cell Cristal Led Serie Impermeável Remote Uhd Sola",
+   "price": 19.89,
+   "original": 25.0,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_652564-MLA115732604245_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/capa-controle-remoto-para-tv-samsung-silicone-bn59-01432a-cor-smart-capinha-protetora-2023-solar-case-4k-qled-cell-crist/p/MLB59157229?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793199181
+  },
   {
    "n": 167,
    "key": "mercadolivre:MLB50850749",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793174341
-  },
-  {
-   "n": 108,
-   "key": "mercadolivre:MLB66044644",
-   "title": "Carregador Turbo 67w Usb-c + Cabo Tipo C Branco",
-   "price": 24.83,
-   "original": 69.99,
-   "pct": 65,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_703829-MLA113653499250_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/carregador-turbo-67w-usb-c-cabo-tipo-c-branco/p/MLB66044644?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793173920
   }
  ]
 }
