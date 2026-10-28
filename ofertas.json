@@ -1,7 +1,21 @@
 {
- "updated": 1793156258,
+ "updated": 1793156679,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 67,
+   "key": "mercadolivre:MLB50200257",
+   "title": "Monitor gamer Aoc Série B30 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 cor preto",
+   "price": 384.0,
+   "original": 629.0,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_621055-MLA91966913733_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/monitor-gamer-aoc-serie-b30-21-5-full-hd-gaming-120hz-1ms-22b30hm23-cor-preto/p/MLB50200257?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793156659
+  },
   {
    "n": 66,
    "key": "mercadolivre:MLB25753833",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793131820
-  },
-  {
-   "n": 7,
-   "key": "mercadolivre:MLB17978326",
-   "title": "SSD Kingston A400 480GB SATA III 2.5\" 500MB/s SA400S37/480G",
-   "price": 470.25,
-   "original": 640.0,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_890700-MLA99502433930_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ssd-kingston-a400-480gb-sata-iii-2-5-500mb-s-sa400s37-480g/p/MLB17978326?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793131399
   }
  ]
 }
