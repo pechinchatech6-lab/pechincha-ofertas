@@ -1,7 +1,21 @@
 {
- "updated": 1793231402,
+ "updated": 1793231823,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 245,
+   "key": "mercadolivre:MLB66024483",
+   "title": "Headset Gamer V-Shield RGB USB Com Microfone Flexível Som Imersivo Conforto Prolongado Para PC Notebook",
+   "price": 58.19,
+   "original": 99.0,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_932617-MLA118250500153_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/headset-gamer-v-shield-rgb-usb-com-microfone-flexivel-som-imersivo-conforto-prolongado-para-pc-notebook/p/MLB66024483?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793231803
+  },
   {
    "n": 244,
    "key": "mercadolivre:MLB76929413",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793206759
-  },
-  {
-   "n": 185,
-   "key": "mercadolivre:MLB34158489",
-   "title": "Kit 3 Fonte Chaveada Slim 12v 10a 120w P/ Cftv Fita Led Som Preta LUZTUDO",
-   "price": 43.35,
-   "original": 100.0,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_876919-MLA99497290998_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-3-fonte-chaveada-slim-12v-10a-120w-p-cftv-fita-led-som-preta-luztudo/p/MLB34158489?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793206338
   }
  ]
 }
