@@ -1,7 +1,21 @@
 {
- "updated": 1793206358,
+ "updated": 1793206779,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 186,
+   "key": "mercadolivre:MLB66422734",
+   "title": "Controle Remoto Para Tv Samsung Smart Hub + 2 Pilhas Audiogeek",
+   "price": 19.9,
+   "original": 38.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_704827-MLA115917728237_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-remoto-para-tv-samsung-smart-hub-2-pilhas-audiogeek/p/MLB66422734?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793206759
+  },
   {
    "n": 185,
    "key": "mercadolivre:MLB34158489",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793181919
-  },
-  {
-   "n": 126,
-   "key": "mercadolivre:MLB62756066",
-   "title": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Preto",
-   "price": 287.0,
-   "original": 599.0,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_984233-MLA105531058053_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-inteligente-gps-smartwatch-amoled-3atm-sport-gps-caixa-preto/p/MLB62756066?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793181498
   }
  ]
 }
