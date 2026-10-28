@@ -1,7 +1,21 @@
 {
- "updated": 1793168046,
+ "updated": 1793168467,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 95,
+   "key": "mercadolivre:MLB46159912",
+   "title": "Astronauta Para Quarto Com Luz Nebulosa E Galáxia Tedy cc",
+   "price": 34.39,
+   "original": 42.99,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_934322-MLA95503112184_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/astronauta-para-quarto-com-luz-nebulosa-e-galaxia-tedy-cc/p/MLB46159912?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793168447
+  },
   {
    "n": 94,
    "key": "mercadolivre:MLB47407742",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793143608
-  },
-  {
-   "n": 35,
-   "key": "mercadolivre:MLB67822123",
-   "title": "Adaptador Usb Wifi 6 Bluetooth 5.4 Alta Velocidade Placa Wi-fi Blueetoth Adaptador Wi-fi Pc Placa Wifi Pc notebook etc Adaptado Wireless Sem Fio Receptor Intern",
-   "price": 39.9,
-   "original": 66.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_985488-MLA116281228525_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/adaptador-usb-wifi-6-bluetooth-5-4-alta-velocidade-placa-wi-fi-blueetoth-adaptador-wi-fi-pc-placa-wifi-pc-notebook-etc-a/p/MLB67822123?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793143187
   }
  ]
 }
