@@ -1,7 +1,21 @@
 {
- "updated": 1793150364,
+ "updated": 1793150785,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 53,
+   "key": "mercadolivre:MLB36837979",
+   "title": "Pack 3 tintas Epson T544 cian amarela magenta 65ml",
+   "price": 248.32,
+   "original": 350.0,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_987493-MLU76140753672_052024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pack-3-tintas-epson-t544-cian-amarela-magenta-65ml/p/MLB36837979?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793150765
+  },
   {
    "n": 52,
    "key": "mercadolivre:MLB38125677",
