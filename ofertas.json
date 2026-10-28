@@ -1,7 +1,21 @@
 {
- "updated": 1793170151,
+ "updated": 1793170572,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 100,
+   "key": "mercadolivre:MLB66176437",
+   "title": "Mochila Masculina Bolsa Impermeável Faculdade Executiva Alça Reforçada Preto Liso",
+   "price": 38.61,
+   "original": 59.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_892888-MLA107403836976_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-masculina-bolsa-impermeavel-faculdade-executiva-alca-reforcada-preto-liso/p/MLB66176437?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793170552
+  },
   {
    "n": 99,
    "key": "mercadolivre:MLB53998755",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793145713
-  },
-  {
-   "n": 40,
-   "key": "mercadolivre:MLB61672306",
-   "title": "Repetidor WiFi Titanis 2.4GHz 6 Antenas Alta Estabilidade e Alcance",
-   "price": 72.0,
-   "original": 99.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_909985-MLA97523771014_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/repetidor-wifi-titanis-2-4ghz-6-antenas-alta-estabilidade-e-alcance/p/MLB61672306?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793145292
   }
  ]
 }
