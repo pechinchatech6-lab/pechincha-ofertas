@@ -1,7 +1,21 @@
 {
- "updated": 1793153732,
+ "updated": 1793154153,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 61,
+   "key": "mercadolivre:MLB53793582",
+   "title": "Kit Limpa Telas Notebook Celulares Homefy + Pano Microfibra",
+   "price": 20.07,
+   "original": 24.99,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_604638-MLA99594117354_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-limpa-telas-notebook-celulares-homefy-pano-microfibra/p/MLB53793582?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793154133
+  },
   {
    "n": 60,
    "key": "mercadolivre:MLB65008451",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793129295
-  },
-  {
-   "n": 1,
-   "key": "mercadolivre:MLB33997846",
-   "title": "Controle Sony CFI-ZCT1W Sem Fio White Ps5",
-   "price": 398.0,
-   "original": 712.2,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_682801-MLA117393672127_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-sony-cfi-zct1w-sem-fio-white-ps5/p/MLB33997846?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793124254
   }
  ]
 }
