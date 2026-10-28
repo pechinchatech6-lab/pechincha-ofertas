@@ -1,7 +1,21 @@
 {
- "updated": 1793229719,
+ "updated": 1793230139,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 241,
+   "key": "mercadolivre:MLB16056056",
+   "title": "Headset Gamer Redragon Ares Pto Preto",
+   "price": 79.06,
+   "original": 115.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_849034-MLU77358479773_062024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/headset-gamer-redragon-ares-pto-preto/p/MLB16056056?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793230119
+  },
   {
    "n": 240,
    "key": "mercadolivre:MLB49840881",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793205075
-  },
-  {
-   "n": 181,
-   "key": "mercadolivre:MLB75641147",
-   "title": "Inversor De Tensão Veicular 12v Para E 300w Automotivo Com Usb E Tomada Para Carro Starlink",
-   "price": 127.99,
-   "original": 179.99,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_652219-MLA114925602909_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/inversor-de-tensao-veicular-12v-para-e-300w-automotivo-com-usb-e-tomada-para-carro-starlink/p/MLB75641147?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793204654
   }
  ]
 }
