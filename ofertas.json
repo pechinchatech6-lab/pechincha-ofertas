@@ -1,7 +1,21 @@
 {
- "updated": 1793198359,
+ "updated": 1793198780,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 167,
+   "key": "mercadolivre:MLB50850749",
+   "title": "Case Triboshop Bolsa Preta Para JBL Boombox 3 2 1 Impermeável com Bolso Carregador",
+   "price": 123.0,
+   "original": 177.47,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_906074-MLA99851254123_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/case-triboshop-bolsa-preta-para-jbl-boombox-3-2-1-impermeavel-com-bolso-carregador/p/MLB50850749?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793198760
+  },
   {
    "n": 166,
    "key": "mercadolivre:MLB76486464",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793173920
-  },
-  {
-   "n": 107,
-   "key": "mercadolivre:MLB50592250",
-   "title": "Power Bank Basike 20000mAh Preto, Carga Rápida 22.5W para iPhone e Samsung, Com Cabos Embutidos e Display",
-   "price": 136.88,
-   "original": 213.88,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_719636-MLA99381510294_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/power-bank-basike-20000mah-preto-carga-rapida-22-5w-para-iphone-e-samsung-com-cabos-embutidos-e-display/p/MLB50592250?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793173499
   }
  ]
 }
