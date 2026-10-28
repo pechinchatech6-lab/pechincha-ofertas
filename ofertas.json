@@ -1,7 +1,21 @@
 {
- "updated": 1793218272,
+ "updated": 1793218693,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 214,
+   "key": "mercadolivre:MLB43520931",
+   "title": "40 Pilhas Zinco Aa Philips Bateria Caixa C/40 Unidades",
+   "price": 44.9,
+   "original": 57.72,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_688097-MLA99930560739_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/40-pilhas-zinco-aa-philips-bateria-caixa-c-40-unidades/p/MLB43520931?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793218673
+  },
   {
    "n": 213,
    "key": "mercadolivre:MLB38481041",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793193708
-  },
-  {
-   "n": 154,
-   "key": "mercadolivre:MLB68743746",
-   "title": "Cabo Adaptador Displayport Macho Para Hdmi Femea Plug & Play Com Pc Gamer Home Office Monitor Tv Projetor Compatível Com Placas De Vídeo Nvidea Eletric Teck",
-   "price": 19.99,
-   "original": 34.99,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_849332-MLA116265920310_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-adaptador-displayport-macho-para-hdmi-femea-plug-play-com-pc-gamer-home-office-monitor-tv-projetor-compativel-com-p/p/MLB68743746?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793193287
   }
  ]
 }
