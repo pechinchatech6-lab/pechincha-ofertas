@@ -1,7 +1,21 @@
 {
- "updated": 1793176045,
+ "updated": 1793176466,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 114,
+   "key": "mercadolivre:MLB53569339",
+   "title": "Suporte De Celular Veicular Automotivo Pra Carro Mesa Porta Painel Parede Caminhão Vw Up Jetta Volkswagen Ônix Corolla Gol Universal Ayann",
+   "price": 27.9,
+   "original": 34.9,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_688434-MLA107886731106_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suporte-de-celular-veicular-automotivo-pra-carro-mesa-porta-painel-parede-caminhao-vw-up-jetta-volkswagen-onix-corolla-g/p/MLB53569339?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793176446
+  },
   {
    "n": 113,
    "key": "mercadolivre:MLB58519492",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793151607
-  },
-  {
-   "n": 54,
-   "key": "mercadolivre:MLB39865327",
-   "title": "Impressora 3d Bambu Lab A1 Combo - Cinza",
-   "price": 3836.0,
-   "original": 6200.0,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_727903-MLA108910638494_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/impressora-3d-bambu-lab-a1-combo-cinza/p/MLB39865327?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793151186
   }
  ]
 }
