@@ -1,7 +1,21 @@
 {
- "updated": 1793156679,
+ "updated": 1793157100,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 68,
+   "key": "mercadolivre:MLB15200666",
+   "title": "Suporte Articulado Mesa Monitor 17 a 35 Polegadas 9kg ELG Pistão a Gás Giro 360° Altura 14 a 42cm Avanço 54cm VESA 100x100 Preto F80N",
+   "price": 130.13,
+   "original": 169.0,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_854275-MLA114197244800_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suporte-articulado-mesa-monitor-17-a-35-polegadas-9kg-elg-pistao-a-gas-giro-360-altura-14-a-42cm-avanco-54cm-vesa-100x10/p/MLB15200666?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793157080
+  },
   {
    "n": 67,
    "key": "mercadolivre:MLB50200257",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793132241
-  },
-  {
-   "n": 8,
-   "key": "mercadolivre:MLB57365099",
-   "title": "Pen Drive 128gb Mini Usb 2.0 Chaveiro Metalico Resistente Al Prateado",
-   "price": 77.99,
-   "original": 129.9,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_872182-MLA99478483130_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pen-drive-128gb-mini-usb-2-0-chaveiro-metalico-resistente-al-prateado/p/MLB57365099?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793131820
   }
  ]
 }
