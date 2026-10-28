@@ -1,7 +1,21 @@
 {
- "updated": 1793230139,
+ "updated": 1793230560,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 242,
+   "key": "mercadolivre:MLB64211779",
+   "title": "Controle Com Fio Usb Para Pc Tv Manete Joystick - Crowley",
+   "price": 28.0,
+   "original": 44.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_660259-MLA110461450931_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-com-fio-usb-para-pc-tv-manete-joystick-crowley/p/MLB64211779?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793230540
+  },
   {
    "n": 241,
    "key": "mercadolivre:MLB16056056",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793205496
-  },
-  {
-   "n": 182,
-   "key": "mercadolivre:MLB65011102",
-   "title": "Conector De Fios Emenda Rápida 2 Vias Kit Com 20 Unidades Entrada E Saida",
-   "price": 33.79,
-   "original": 59.9,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_799527-MLA115258586514_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/conector-de-fios-emenda-rapida-2-vias-kit-com-20-unidades-entrada-e-saida/p/MLB65011102?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793205075
   }
  ]
 }
