@@ -1,7 +1,21 @@
 {
- "updated": 1793189939,
+ "updated": 1793190360,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 147,
+   "key": "mercadolivre:MLB75728738",
+   "title": "Antena Digital Interna Externa HDTV UHF Cabo Com Cabo Longo De 4 Metros Com Base Magnética Parosprotect",
+   "price": 27.67,
+   "original": 39.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_744685-MLA116662105221_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/antena-digital-interna-externa-hdtv-uhf-cabo-com-cabo-longo-de-4-metros-com-base-magnetica-parosprotect/p/MLB75728738?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793190340
+  },
   {
    "n": 146,
    "key": "mercadolivre:MLB75856753",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793165500
-  },
-  {
-   "n": 87,
-   "key": "mercadolivre:MLB61702644",
-   "title": "Mouse Pad Gamer Apex Control Profissional 49x42 Mousepad - Preto",
-   "price": 69.9,
-   "original": 99.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_832281-MLA115160281953_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-pad-gamer-apex-control-profissional-49x42-mousepad-preto/p/MLB61702644?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793165079
   }
  ]
 }
