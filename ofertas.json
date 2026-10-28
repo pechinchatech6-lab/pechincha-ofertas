@@ -1,7 +1,21 @@
 {
- "updated": 1793183202,
+ "updated": 1793183623,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 131,
+   "key": "mercadolivre:MLB75012346",
+   "title": "Relogio Inteligente Smartwatch T900 S10 Ultra Pro longa bateria Treino Smartwatch 49mm Bluetooth Chamadas Notificações Saúde",
+   "price": 59.98,
+   "original": 78.99,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_603284-MLA119336961163_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-inteligente-smartwatch-t900-s10-ultra-pro-longa-bateria-treino-smartwatch-49mm-bluetooth-chamadas-notificacoes-s/p/MLB75012346?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793183603
+  },
   {
    "n": 130,
    "key": "mercadolivre:MLB62870615",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793158764
-  },
-  {
-   "n": 71,
-   "key": "mercadolivre:MLB29902763",
-   "title": "Monitor Fmaxx 19'' Led Com Hdmi Vga Vesa cor Preto MQ19V",
-   "price": 199.9,
-   "original": 379.99,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631062-MLA99414535008_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/monitor-fmaxx-19-led-com-hdmi-vga-vesa-cor-preto-mq19v/p/MLB29902763?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793158343
   }
  ]
 }
