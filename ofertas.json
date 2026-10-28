@@ -1,7 +1,21 @@
 {
- "updated": 1793225850,
+ "updated": 1793226271,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 232,
+   "key": "mercadolivre:MLB67267597",
+   "title": "Smart Tv Philco 50 P50vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
+   "price": 2209.47,
+   "original": 3499.0,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_750412-MLA108743699852_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-philco-50-p50vik-4k-uhd-led-roku-dolby-audio-wi-fi-hdr10-110-220v/p/MLB67267597?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793226251
+  },
   {
    "n": 231,
    "key": "mercadolivre:MLB60728265",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793201286
-  },
-  {
-   "n": 172,
-   "key": "mercadolivre:MLB65738808",
-   "title": "Cabo Displayport 1.4 8k 4k Reforçado 2 Metros Hdr 60hz 240hz Compatível G-sync Freesync Conector Ouro Monitor Gamer Áudio Imersivo Hdr Imersivo - Yuso",
-   "price": 26.99,
-   "original": 69.99,
-   "pct": 61,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_836478-MLA112424549548_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-displayport-1-4-8k-4k-reforcado-2-metros-hdr-60hz-240hz-compativel-g-sync-freesync-conector-ouro-monitor-gamer-audi/p/MLB65738808?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793200865
   }
  ]
 }
