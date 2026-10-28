@@ -1,7 +1,21 @@
 {
- "updated": 1793228797,
+ "updated": 1793229218,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 239,
+   "key": "mercadolivre:MLB36591502",
+   "title": "Fone De Ouvido Retorno Kz Edx Pro X Sem Microfone Cor Transparente",
+   "price": 62.9,
+   "original": 99.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_665883-MLA111590217429_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-retorno-kz-edx-pro-x-sem-microfone-cor-transparente/p/MLB36591502?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793229198
+  },
   {
    "n": 238,
    "key": "mercadolivre:MLB50567982",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793204233
-  },
-  {
-   "n": 179,
-   "key": "mercadolivre:MLB27062938",
-   "title": "Cabo Rede Rj45 U/utp Cat5e Furukawa Sohoplus 305m Cobre Puro Cor Preto",
-   "price": 844.0,
-   "original": 1497.5,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_736600-MLA99994129841_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-rede-rj45-u-utp-cat5e-furukawa-sohoplus-305m-cobre-puro-cor-preto/p/MLB27062938?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793203812
   }
  ]
 }
