@@ -1,7 +1,21 @@
 {
- "updated": 1793208884,
+ "updated": 1793209305,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 192,
+   "key": "mercadolivre:MLB66153868",
+   "title": "Controle Universal LG Smart TV Rezzet Compatível Com Todos os Modelos Pronto Para Uso Netlix e Prime Video",
+   "price": 19.0,
+   "original": 22.9,
+   "pct": 17,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_758226-MLA114720239581_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-universal-lg-smart-tv-rezzet-compativel-com-todos-os-modelos-pronto-para-uso-netlix-e-prime-video/p/MLB66153868?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793209285
+  },
   {
    "n": 191,
    "key": "mercadolivre:MLB38783288",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793184445
-  },
-  {
-   "n": 132,
-   "key": "mercadolivre:MLB64369743",
-   "title": "Smartwatch Bettdow Fb055 1.85\" Esportivo Ia Gps 3atm Música Preto",
-   "price": 281.3,
-   "original": 999.0,
-   "pct": 72,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_916712-MLA104456426030_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartwatch-bettdow-fb055-1-85-esportivo-ia-gps-3atm-musica-preto/p/MLB64369743?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793184024
   }
  ]
 }
