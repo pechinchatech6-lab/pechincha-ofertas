@@ -1,7 +1,21 @@
 {
- "updated": 1793228376,
+ "updated": 1793228797,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 238,
+   "key": "mercadolivre:MLB50567982",
+   "title": "Controle Gamepad GameSir X5 Lite USB-C Android iPhone 15/16 Mobile Hall Effect Turbo Leve Preto",
+   "price": 154.9,
+   "original": 249.0,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_877627-MLA99998011217_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamepad-gamesir-x5-lite-usb-c-android-iphone-15-16-mobile-hall-effect-turbo-leve-preto/p/MLB50567982?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793228777
+  },
   {
    "n": 237,
    "key": "mercadolivre:MLB36555516",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793203812
-  },
-  {
-   "n": 178,
-   "key": "mercadolivre:MLB74492722",
-   "title": "Cabo HDMI 2.1 8K 1,5 metros 4K 120fps PS5 Xbox Series X/S TV OLED 48Gbps Blindado Compatível com PS5 Xbox Series PC Gamer Notebook TV - YUSO",
-   "price": 20.44,
-   "original": 49.99,
-   "pct": 59,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_761249-MLA115979344007_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-hdmi-2-1-8k-1-5-metros-4k-120fps-ps5-xbox-series-x-s-tv-oled-48gbps-blindado-compativel-com-ps5-xbox-series-pc-game/p/MLB74492722?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793203391
   }
  ]
 }
