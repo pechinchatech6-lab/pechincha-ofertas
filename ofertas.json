@@ -1,7 +1,21 @@
 {
- "updated": 1793190781,
+ "updated": 1793191202,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 149,
+   "key": "mercadolivre:MLB54647747",
+   "title": "Suporte Tv Articulado Lcd Led 20 a 55 Dvd Net Sky Preto",
+   "price": 32.83,
+   "original": 39.9,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_863064-MLA100107179875_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suporte-tv-articulado-lcd-led-20-a-55-dvd-net-sky-preto/p/MLB54647747?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793191182
+  },
   {
    "n": 148,
    "key": "mercadolivre:MLB73406826",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793166342
-  },
-  {
-   "n": 89,
-   "key": "mercadolivre:MLB78488877",
-   "title": "Caixa De Som Gamer Soundbar Para Computador Pc Notebook TV Amplificador Alto Falante Usb Led RGB Cor Preto",
-   "price": 43.7,
-   "original": 69.99,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_762297-MLA116776658759_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-gamer-soundbar-para-computador-pc-notebook-tv-amplificador-alto-falante-usb-led-rgb-cor-preto/p/MLB78488877?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793165921
   }
  ]
 }
