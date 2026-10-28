@@ -1,7 +1,21 @@
 {
- "updated": 1793224166,
+ "updated": 1793224587,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 228,
+   "key": "mercadolivre:MLB59090080",
+   "title": "Smart Tv 43 Aoc Led Roku Full Hd Wi-fi 60hz Hdmi Usb 43s5155/78g",
+   "price": 1323.0,
+   "original": 2666.39,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_600093-MLA115184611400_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-43-aoc-led-roku-full-hd-wi-fi-60hz-hdmi-usb-43s5155-78g/p/MLB59090080?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793224567
+  },
   {
    "n": 227,
    "key": "mercadolivre:MLB61381053",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793199602
-  },
-  {
-   "n": 168,
-   "key": "mercadolivre:MLB59157229",
-   "title": "Capa Controle Remoto Para Tv Samsung Silicone Bn59-01432a Cor Smart Capinha Protetora 2023 Solar Case 4k Qled Cell Cristal Led Serie Impermeável Remote Uhd Sola",
-   "price": 19.89,
-   "original": 25.0,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_652564-MLA115732604245_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/capa-controle-remoto-para-tv-samsung-silicone-bn59-01432a-cor-smart-capinha-protetora-2023-solar-case-4k-qled-cell-crist/p/MLB59157229?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793199181
   }
  ]
 }
