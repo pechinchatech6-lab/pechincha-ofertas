@@ -1,7 +1,21 @@
 {
- "updated": 1793200043,
+ "updated": 1793200464,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 171,
+   "key": "mercadolivre:MLB66796145",
+   "title": "Cabo Adaptador 1.8M Displayport Macho Para Hdmi Macho 4k a 60Hz Blindado Gold Unidirecional 1.8 Metros Alta Definição Para Pc Tv Monitor Games - Yuso",
+   "price": 22.99,
+   "original": 44.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_702713-MLA109042385763_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-adaptador-1-8m-displayport-macho-para-hdmi-macho-4k-a-60hz-blindado-gold-unidirecional-1-8-metros-alta-definicao-pa/p/MLB66796145?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793200444
+  },
   {
    "n": 170,
    "key": "mercadolivre:MLB75642859",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793175604
-  },
-  {
-   "n": 111,
-   "key": "mercadolivre:MLB77148715",
-   "title": "Carregador Portátil Power Bank Turbo inova 20000mah 22.5w Com Display Digital Usb-c / Usb-a Carga Rápida - Azul",
-   "price": 128.79,
-   "original": 159.0,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_710863-MLA117306951342_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/carregador-portatil-power-bank-turbo-inova-20000mah-22-5w-com-display-digital-usb-c-usb-a-carga-rapida-azul/p/MLB77148715?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793175183
   }
  ]
 }
