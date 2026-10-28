@@ -1,7 +1,21 @@
 {
- "updated": 1793222903,
+ "updated": 1793223324,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 225,
+   "key": "mercadolivre:MLB62040539",
+   "title": "Projetor Magcubic HY300PRO Smart Mini LED Android 14 8K Wi-Fi 6 e Bluetooth 5.4 para Cinema em Casa Allwinner H726",
+   "price": 253.56,
+   "original": 439.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_763451-MLA113005422880_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-magcubic-hy300pro-smart-mini-led-android-14-8k-wi-fi-6-e-bluetooth-5-4-para-cinema-em-casa-allwinner-h726/p/MLB62040539?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793223304
+  },
   {
    "n": 224,
    "key": "mercadolivre:MLB48955624",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793198339
-  },
-  {
-   "n": 165,
-   "key": "mercadolivre:MLB60189714",
-   "title": "Case Bolsa Proteção Para Boombox Plus Aiwa Prova D'agua Acolchoada Premium",
-   "price": 128.0,
-   "original": 177.65,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_892110-MLA100078770513_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/case-bolsa-protecao-para-boombox-plus-aiwa-prova-d-agua-acolchoada-premium/p/MLB60189714?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793197918
   }
  ]
 }
