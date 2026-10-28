@@ -1,7 +1,21 @@
 {
- "updated": 1793185729,
+ "updated": 1793186150,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 137,
+   "key": "mercadolivre:MLB64066830",
+   "title": "Fone De Ouvido Com Microfone Usb Heaset Call Center Telemarketing Jogos Reuniao Empresa Trabalho Profissional Com Fio Atendimento Call Center Heaseats Home Offi",
+   "price": 46.5,
+   "original": 62.9,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_653965-MLA119273010873_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-com-microfone-usb-heaset-call-center-telemarketing-jogos-reuniao-empresa-trabalho-profissional-com-fio-at/p/MLB64066830?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793186130
+  },
   {
    "n": 136,
    "key": "mercadolivre:MLB64244402",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793161290
-  },
-  {
-   "n": 77,
-   "key": "mercadolivre:MLB71909304",
-   "title": "Computador Completo Intel Core I5, 8gb Ram, Ssd 240gb, Monitor 19 Led, Windows 10 Pro - Bluepc Plus Cdbp-plu101",
-   "price": 1105.08,
-   "original": 1899.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_981923-MLA111613669678_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/computador-completo-intel-core-i5-8gb-ram-ssd-240gb-monitor-19-led-windows-10-pro-bluepc-plus-cdbp-plu101/p/MLB71909304?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793160869
   }
  ]
 }
