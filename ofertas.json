@@ -1,7 +1,21 @@
 {
- "updated": 1793214904,
+ "updated": 1793215325,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 206,
+   "key": "mercadolivre:MLB28640151",
+   "title": "Barra De Led Un50nu7100 Un50ru7100 Un50nu7100g Un50ru7100g",
+   "price": 48.0,
+   "original": 78.5,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_787722-MLA100107719919_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/barra-de-led-un50nu7100-un50ru7100-un50nu7100g-un50ru7100g/p/MLB28640151?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793215305
+  },
   {
    "n": 205,
    "key": "mercadolivre:MLB53432844",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793190340
-  },
-  {
-   "n": 146,
-   "key": "mercadolivre:MLB75856753",
-   "title": "Antena Digital Interna Externa HDTV UHF Com Cabo Longo De 5 Metros Até 240km Com Base Magnetica Distancia Brazuca Cell",
-   "price": 23.9,
-   "original": 49.9,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_972338-MLA117135961447_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/antena-digital-interna-externa-hdtv-uhf-com-cabo-longo-de-5-metros-ate-240km-com-base-magnetica-distancia-brazuca-cell/p/MLB75856753?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793189919
   }
  ]
 }
