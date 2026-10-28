@@ -1,7 +1,21 @@
 {
- "updated": 1793221640,
+ "updated": 1793222061,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 222,
+   "key": "mercadolivre:MLB81001347",
+   "title": "Projetor Portátil HY300 Mini 4K Compatível Android 11 Wi-Fi 5G Bluetooth Smart Portátil Rotação 180° Tela Grande para Filmes Séries Jogos Aulas e Apresentações ",
+   "price": 176.99,
+   "original": 249.9,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_619391-MLA120188504331_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-portatil-hy300-mini-4k-compativel-android-11-wi-fi-5g-bluetooth-smart-portatil-rotacao-180-tela-grande-para-fil/p/MLB81001347?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793222041
+  },
   {
    "n": 221,
    "key": "mercadolivre:MLB63950169",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793197076
-  },
-  {
-   "n": 162,
-   "key": "mercadolivre:MLB64177706",
-   "title": "Leitor De Dvd Portátil Toca Cd Mp3 Usb Filme",
-   "price": 251.23,
-   "original": 299.0,
-   "pct": 16,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_760826-MLA103986688528_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/leitor-de-dvd-portatil-toca-cd-mp3-usb-filme/p/MLB64177706?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793196655
   }
  ]
 }
