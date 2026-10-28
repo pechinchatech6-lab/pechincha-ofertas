@@ -1,7 +1,21 @@
 {
- "updated": 1793223324,
+ "updated": 1793223745,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 226,
+   "key": "mercadolivre:MLB67333761",
+   "title": "Projetor Hy320 Mini Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth Alto Falante Com Controle Remoto Bivolt Portátil Kateluo",
+   "price": 243.51,
+   "original": 289.9,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_656772-MLA116865483177_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-hy320-mini-smart-tv-android-wifi-6-390-ansi-lumens-full-hd-suporte-4k-hdmi-bluetooth-alto-falante-com-controle-/p/MLB67333761?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793223725
+  },
   {
    "n": 225,
    "key": "mercadolivre:MLB62040539",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793198760
-  },
-  {
-   "n": 166,
-   "key": "mercadolivre:MLB76486464",
-   "title": "Capa Para Controle Remoto LG Magic MR25GA de Silicone Premium Preto Brilha no Escuro",
-   "price": 24.0,
-   "original": 37.1,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628349-MLA114384237220_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/capa-para-controle-remoto-lg-magic-mr25ga-de-silicone-premium-preto-brilha-no-escuro/p/MLB76486464?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793198339
   }
  ]
 }
