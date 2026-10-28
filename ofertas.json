@@ -1,7 +1,21 @@
 {
- "updated": 1793164257,
+ "updated": 1793164678,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 86,
+   "key": "mercadolivre:MLB53988081",
+   "title": "Caixa Caixinha De Som Potente Pc Notebook Subwoofer Para Computador 6w Usb P2 Alto Falante De Mesa Coolmusic",
+   "price": 23.4,
+   "original": 49.9,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_810844-MLA111157056648_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-caixinha-de-som-potente-pc-notebook-subwoofer-para-computador-6w-usb-p2-alto-falante-de-mesa-coolmusic/p/MLB53988081?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793164658
+  },
   {
    "n": 85,
    "key": "mercadolivre:MLB18610706",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793139819
-  },
-  {
-   "n": 26,
-   "key": "mercadolivre:MLB63238506",
-   "title": "Cabo Para Starlink Mini Usb-c Tipo C Com 3 Metros Para Power Bank Carregador Portátil Veicular Carro Acendedor Cinzeiro A Prova D'água Cabo De Alimentação 100w ",
-   "price": 47.51,
-   "original": 77.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646965-MLA101681027821_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-para-starlink-mini-usb-c-tipo-c-com-3-metros-para-power-bank-carregador-portatil-veicular-carro-acendedor-cinzeiro-/p/MLB63238506?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793139398
   }
  ]
 }
