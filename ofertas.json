@@ -1,7 +1,21 @@
 {
- "updated": 1793186992,
+ "updated": 1793187413,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 140,
+   "key": "mercadolivre:MLB43606798",
+   "title": "Roteador HUAWEI WiFi BE3 Wifi 7 3.6 Gpbs Dual-Band Wi-Fi 7 Visualização de Diagnóstico WiFi Controle Parental Branco",
+   "price": 272.0,
+   "original": 321.0,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_804586-MLA113069655028_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/roteador-huawei-wifi-be3-wifi-7-3-6-gpbs-dual-band-wi-fi-7-visualizacao-de-diagnostico-wifi-controle-parental-branco/p/MLB43606798?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793187393
+  },
   {
    "n": 139,
    "key": "mercadolivre:MLB35336266",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793162553
-  },
-  {
-   "n": 80,
-   "key": "mercadolivre:MLB38526875",
-   "title": "Computador Completo Intel Core i5, 16GB RAM, SSD 256GB, Monitor 20\" LED, Windows 10 Pro, Bivolt, Preto - BluePC Office CDBP-OFF100",
-   "price": 1250.0,
-   "original": 1543.33,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_616947-MLA116432884583_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/computador-completo-intel-core-i5-16gb-ram-ssd-256gb-monitor-20-led-windows-10-pro-bivolt-preto-bluepc-office-cdbp-off10/p/MLB38526875?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793162132
   }
  ]
 }
