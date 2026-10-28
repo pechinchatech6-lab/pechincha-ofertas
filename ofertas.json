@@ -1,7 +1,21 @@
 {
- "updated": 1793189097,
+ "updated": 1793189518,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 145,
+   "key": "mercadolivre:MLB74451605",
+   "title": "Suporte Tv Articulado Monitor Led 28 32 40 43 50 55 Polegada Preto",
+   "price": 38.0,
+   "original": 48.9,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_762678-MLA112539956232_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suporte-tv-articulado-monitor-led-28-32-40-43-50-55-polegada-preto/p/MLB74451605?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793189498
+  },
   {
    "n": 144,
    "key": "mercadolivre:MLB54488375",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793164658
-  },
-  {
-   "n": 85,
-   "key": "mercadolivre:MLB18610706",
-   "title": "Logitech Mk235 ABNT2 Português Teclado E Mouse Grafite Preto",
-   "price": 165.1,
-   "original": 219.0,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_735713-MLA99973706633_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/logitech-mk235-abnt2-portugues-teclado-e-mouse-grafite-preto/p/MLB18610706?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793164237
   }
  ]
 }
