@@ -1,7 +1,21 @@
 {
- "updated": 1793186150,
+ "updated": 1793186571,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 138,
+   "key": "mercadolivre:MLB76001582",
+   "title": "Bateria Telefone Sem Fio AAA 2,4V 600mAh Plug Universal Longa Duração Gurumania",
+   "price": 26.69,
+   "original": 49.99,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_907783-MLA114024235006_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bateria-telefone-sem-fio-aaa-2-4v-600mah-plug-universal-longa-duracao-gurumania/p/MLB76001582?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793186551
+  },
   {
    "n": 137,
    "key": "mercadolivre:MLB64066830",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793161711
-  },
-  {
-   "n": 78,
-   "key": "mercadolivre:MLB54486813",
-   "title": "Computador Completo Intel Core i5, 16GB RAM, SSD 256GB, Monitor LED 20\", Windows 10 Pro, Preto, Bivolt - BluePC Office1 CDBP-OFF1-108",
-   "price": 1288.0,
-   "original": 1543.33,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_635252-MLA99509482194_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/computador-completo-intel-core-i5-16gb-ram-ssd-256gb-monitor-led-20-windows-10-pro-preto-bivolt-bluepc-office1-cdbp-off1/p/MLB54486813?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793161290
   }
  ]
 }
