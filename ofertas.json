@@ -1,7 +1,21 @@
 {
- "updated": 1793181939,
+ "updated": 1793182360,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 128,
+   "key": "mercadolivre:MLB43319779",
+   "title": "Smartwatch Xiaomi Redmi Watch 5 Active Tela Lcd 2.00 Preto",
+   "price": 223.99,
+   "original": 299.99,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_900217-MLA116031574344_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartwatch-xiaomi-redmi-watch-5-active-tela-lcd-2-00-preto/p/MLB43319779?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793182340
+  },
   {
    "n": 127,
    "key": "mercadolivre:MLB64997788",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793157501
-  },
-  {
-   "n": 68,
-   "key": "mercadolivre:MLB15200666",
-   "title": "Suporte Articulado Mesa Monitor 17 a 35 Polegadas 9kg ELG Pistão a Gás Giro 360° Altura 14 a 42cm Avanço 54cm VESA 100x100 Preto F80N",
-   "price": 130.13,
-   "original": 169.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_854275-MLA114197244800_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suporte-articulado-mesa-monitor-17-a-35-polegadas-9kg-elg-pistao-a-gas-giro-360-altura-14-a-42cm-avanco-54cm-vesa-100x10/p/MLB15200666?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793157080
   }
  ]
 }
