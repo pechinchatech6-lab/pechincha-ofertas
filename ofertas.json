@@ -1,7 +1,21 @@
 {
- "updated": 1793162152,
+ "updated": 1793162573,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 81,
+   "key": "mercadolivre:MLB42364005",
+   "title": "Computador Completo Top Intel Core i7 4770, 16GB RAM, SSD 512GB, Bivolt, Preto, Windows 10 Pro, Monitor 23\" Full HD - BluePC CD2E-0135TO",
+   "price": 1899.99,
+   "original": 2421.11,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_825731-MLA113584189266_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/computador-completo-top-intel-core-i7-4770-16gb-ram-ssd-512gb-bivolt-preto-windows-10-pro-monitor-23-full-hd-bluepc-cd2e/p/MLB42364005?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793162553
+  },
   {
    "n": 80,
    "key": "mercadolivre:MLB38526875",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793137714
-  },
-  {
-   "n": 21,
-   "key": "mercadolivre:MLB42553350",
-   "title": "Hub Usb Com 7 Portas Ultra Rápido Para Pen Drive E Hd 3.0 5Gbps Alta Velocidade De Dados Turbo Usb Marca Ex Decor",
-   "price": 28.8,
-   "original": 40.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_821476-MLA96974887462_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hub-usb-com-7-portas-ultra-rapido-para-pen-drive-e-hd-3-0-5gbps-alta-velocidade-de-dados-turbo-usb-marca-ex-decor/p/MLB42553350?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793137293
   }
  ]
 }
