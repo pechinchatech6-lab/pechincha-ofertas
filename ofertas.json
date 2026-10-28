@@ -1,7 +1,21 @@
 {
- "updated": 1793191623,
+ "updated": 1793192044,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 151,
+   "key": "mercadolivre:MLB65534932",
+   "title": "Suporte TV Fixo Universal 10\" a 90\" Até 40kg - Aço Carbono com Kit de Instalação",
+   "price": 19.9,
+   "original": 25.87,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_975785-MLA117391388091_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suporte-tv-fixo-universal-10-a-90-ate-40kg-aco-carbono-com-kit-de-instalacao/p/MLB65534932?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793192024
+  },
   {
    "n": 150,
    "key": "mercadolivre:MLB73977320",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793167184
-  },
-  {
-   "n": 91,
-   "key": "mercadolivre:MLB59019868",
-   "title": "Mouse Vertical Ergonômico Sem Fio Recarregável Bluetooth e USB 2.4G – RGB, Silencioso, DPI Ajustável, Reduz Tensão no Pulso, Portátil e Confortável – Compatível",
-   "price": 44.1,
-   "original": 69.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_869466-MLA100026509347_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-vertical-ergonomico-sem-fio-recarregavel-bluetooth-e-usb-2-4g-rgb-silencioso-dpi-ajustavel-reduz-tensao-no-pulso-p/p/MLB59019868?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793166763
   }
  ]
 }
