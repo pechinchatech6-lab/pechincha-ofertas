@@ -1,7 +1,21 @@
 {
- "updated": 1793183623,
+ "updated": 1793184044,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 132,
+   "key": "mercadolivre:MLB64369743",
+   "title": "Smartwatch Bettdow Fb055 1.85\" Esportivo Ia Gps 3atm Música Preto",
+   "price": 281.3,
+   "original": 999.0,
+   "pct": 72,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_916712-MLA104456426030_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartwatch-bettdow-fb055-1-85-esportivo-ia-gps-3atm-musica-preto/p/MLB64369743?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793184024
+  },
   {
    "n": 131,
    "key": "mercadolivre:MLB75012346",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793159185
-  },
-  {
-   "n": 72,
-   "key": "mercadolivre:MLB52027456",
-   "title": "Smart Tv Samsung 32'' Hd Tizen Hdr Wi-fi Hdmi Monitor Bivolt Preta Preto",
-   "price": 999.0,
-   "original": 2100.0,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_924175-MLA99993108321_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-samsung-32-hd-tizen-hdr-wi-fi-hdmi-monitor-bivolt-preta-preto/p/MLB52027456?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793158764
   }
  ]
 }
