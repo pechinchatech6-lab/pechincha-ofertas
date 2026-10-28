@@ -1,7 +1,21 @@
 {
- "updated": 1793219114,
+ "updated": 1793219535,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 216,
+   "key": "mercadolivre:MLB18308946",
+   "title": "Campari Aperitivo Bitter 998ml",
+   "price": 52.46,
+   "original": 69.9,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_788917-MLA114431483662_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/campari-aperitivo-bitter-998ml/p/MLB18308946?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793219515
+  },
   {
    "n": 215,
    "key": "mercadolivre:MLB27577458",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793194550
-  },
-  {
-   "n": 156,
-   "key": "mercadolivre:MLB73195575",
-   "title": "Adaptador Conversor USB-C Para Hdmi 4k 3 Em 1 Ezsias Armarinhos",
-   "price": 25.99,
-   "original": 39.99,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_817412-MLA112069805626_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/adaptador-conversor-usb-c-para-hdmi-4k-3-em-1-ezsias-armarinhos/p/MLB73195575?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793194129
   }
  ]
 }
