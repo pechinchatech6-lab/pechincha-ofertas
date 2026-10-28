@@ -1,7 +1,21 @@
 {
- "updated": 1793195833,
+ "updated": 1793196254,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 161,
+   "key": "mercadolivre:MLB60127584",
+   "title": "Caneta Laser Hytalux Ultra Forte Alcance 100km Cor Do Laser Verde",
+   "price": 32.9,
+   "original": 46.9,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_629568-MLA112322116977_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caneta-laser-hytalux-ultra-forte-alcance-100km-cor-do-laser-verde/p/MLB60127584?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793196234
+  },
   {
    "n": 160,
    "key": "mercadolivre:MLB21603607",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793171394
-  },
-  {
-   "n": 101,
-   "key": "mercadolivre:MLB60393936",
-   "title": "Mini Ventilador Portátil Turbo Portátil, Ventilador Portátil De Mão, A Gel A Gelo 199 Configurações Ajustáveis, Usb Recarregável, Adequado Para Uso Em Viagens/A",
-   "price": 55.19,
-   "original": 78.43,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_775241-MLA100071059027_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-ventilador-portatil-turbo-portatil-ventilador-portatil-de-mao-a-gel-a-gelo-199-configuracoes-ajustaveis-usb-recarre/p/MLB60393936?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793170973
   }
  ]
 }
