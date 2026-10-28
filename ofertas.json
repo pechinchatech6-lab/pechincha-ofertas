@@ -1,7 +1,21 @@
 {
- "updated": 1793186571,
+ "updated": 1793186992,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 139,
+   "key": "mercadolivre:MLB35336266",
+   "title": "Repetidor Extensor De Sinal Sem Fio Tp Link Wa 855re 300mbps Cor Azul-claro",
+   "price": 122.4,
+   "original": 153.0,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_843566-MLA99555025252_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/repetidor-extensor-de-sinal-sem-fio-tp-link-wa-855re-300mbps-cor-azul-claro/p/MLB35336266?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793186972
+  },
   {
    "n": 138,
    "key": "mercadolivre:MLB76001582",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793162132
-  },
-  {
-   "n": 79,
-   "key": "mercadolivre:MLB61539026",
-   "title": "Computador All In One Aoc Intel I5 23.8\" Ddr3 Ssd Teclado Mouse",
-   "price": 3229.0,
-   "original": 4500.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_803023-MLA116952195804_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/computador-all-in-one-aoc-intel-i5-23-8-ddr3-ssd-teclado-mouse/p/MLB61539026?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793161711
   }
  ]
 }
