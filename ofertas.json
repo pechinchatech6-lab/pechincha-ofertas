@@ -1,7 +1,21 @@
 {
- "updated": 1793220798,
+ "updated": 1793221219,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 220,
+   "key": "mercadolivre:MLB64305534",
+   "title": "Projetor Smart Portátil Full Hd 4k Android 11 Wi-fi Bluetooth Mini Projetor Home Theater Cinema Em Casa Imagem Nítida Som Potente Compatível Com Diversos Dispos",
+   "price": 191.0,
+   "original": 419.9,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_985823-MLA113683572316_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-smart-portatil-full-hd-4k-android-11-wi-fi-bluetooth-mini-projetor-home-theater-cinema-em-casa-imagem-nitida-so/p/MLB64305534?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793221199
+  },
   {
    "n": 219,
    "key": "mercadolivre:MLB48959123",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793196234
-  },
-  {
-   "n": 160,
-   "key": "mercadolivre:MLB21603607",
-   "title": "Vention - Extensão Hdmi 2.0 4k 60fps Hdr Tv Game Ps4 Ps5 1m",
-   "price": 24.02,
-   "original": 29.9,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_856581-MLA99642957776_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/vention-extensao-hdmi-2-0-4k-60fps-hdr-tv-game-ps4-ps5-1m/p/MLB21603607?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793195813
   }
  ]
 }
