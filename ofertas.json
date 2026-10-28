@@ -1,7 +1,21 @@
 {
- "updated": 1793189518,
+ "updated": 1793189939,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 146,
+   "key": "mercadolivre:MLB75856753",
+   "title": "Antena Digital Interna Externa HDTV UHF Com Cabo Longo De 5 Metros Até 240km Com Base Magnetica Distancia Brazuca Cell",
+   "price": 23.9,
+   "original": 49.9,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_972338-MLA117135961447_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/antena-digital-interna-externa-hdtv-uhf-com-cabo-longo-de-5-metros-ate-240km-com-base-magnetica-distancia-brazuca-cell/p/MLB75856753?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793189919
+  },
   {
    "n": 145,
    "key": "mercadolivre:MLB74451605",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793165079
-  },
-  {
-   "n": 86,
-   "key": "mercadolivre:MLB53988081",
-   "title": "Caixa Caixinha De Som Potente Pc Notebook Subwoofer Para Computador 6w Usb P2 Alto Falante De Mesa Coolmusic",
-   "price": 23.4,
-   "original": 49.9,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_810844-MLA111157056648_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-caixinha-de-som-potente-pc-notebook-subwoofer-para-computador-6w-usb-p2-alto-falante-de-mesa-coolmusic/p/MLB53988081?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793164658
   }
  ]
 }
