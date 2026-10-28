@@ -1,7 +1,21 @@
 {
- "updated": 1793169309,
+ "updated": 1793169730,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 98,
+   "key": "mercadolivre:MLB79031551",
+   "title": "Suporte Para Notebook e Macbook Dobrável Ajustavel Antiderrapante Resistente Prateado 6 Posiçoes Woosh",
+   "price": 20.99,
+   "original": 49.0,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_990740-MLA115825182532_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suporte-para-notebook-e-macbook-dobravel-ajustavel-antiderrapante-resistente-prateado-6-posicoes-woosh/p/MLB79031551?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793169710
+  },
   {
    "n": 97,
    "key": "mercadolivre:MLB58147143",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793144871
-  },
-  {
-   "n": 38,
-   "key": "mercadolivre:MLB73572959",
-   "title": "Organizador De Fios E Cabos Baixo Mesa Oculto - 0,5 Mt C/nfe Preto",
-   "price": 36.99,
-   "original": 57.0,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_637033-MLA113205636369_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/organizador-de-fios-e-cabos-baixo-mesa-oculto-0-5-mt-c-nfe-preto/p/MLB73572959?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793144450
   }
  ]
 }
