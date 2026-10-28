@@ -1,7 +1,21 @@
 {
- "updated": 1793212799,
+ "updated": 1793213220,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 201,
+   "key": "mercadolivre:MLB44811728",
+   "title": "Bag Bolsa Drone Dji Mavic Mini 4k Se 1 2 3 Air 2s Mochila Preto",
+   "price": 136.49,
+   "original": 194.99,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_749079-MLA99494829008_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bag-bolsa-drone-dji-mavic-mini-4k-se-1-2-3-air-2s-mochila-preto/p/MLB44811728?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793213200
+  },
   {
    "n": 200,
    "key": "mercadolivre:MLB61825281",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793188235
-  },
-  {
-   "n": 141,
-   "key": "mercadolivre:MLB51174246",
-   "title": "Repetidor De Sinal Mercusys Me60x 6 Dual Band 1500 Mbps",
-   "price": 229.0,
-   "original": 299.98,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_926793-MLA99991308295_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/repetidor-de-sinal-mercusys-me60x-6-dual-band-1500-mbps/p/MLB51174246?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793187814
   }
  ]
 }
