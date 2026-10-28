@@ -1,7 +1,21 @@
 {
- "updated": 1793203832,
+ "updated": 1793204253,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 180,
+   "key": "mercadolivre:MLB65049828",
+   "title": "Cabo Usb-c Para Hdmi Adaptador Conversor 4k 30hz Tipo C 2m Monitor E Tv Para Macbook Notebook Celular Macho - Yuso",
+   "price": 27.99,
+   "original": 69.99,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_849673-MLA112500182688_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-usb-c-para-hdmi-adaptador-conversor-4k-30hz-tipo-c-2m-monitor-e-tv-para-macbook-notebook-celular-macho-yuso/p/MLB65049828?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793204233
+  },
   {
    "n": 179,
    "key": "mercadolivre:MLB27062938",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793179393
-  },
-  {
-   "n": 120,
-   "key": "mercadolivre:MLB53924557",
-   "title": "Tela Compatível iPhone 12/12Pro Top + Brinde / Frontal Display Lcd Touch Módulo 4 STORE PREMIUM",
-   "price": 84.89,
-   "original": 113.99,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_665465-MLA114972506691_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/tela-compativel-iphone-12-12pro-top-brinde-frontal-display-lcd-touch-modulo-4-store-premium/p/MLB53924557?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793178972
   }
  ]
 }
