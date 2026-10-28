@@ -1,7 +1,21 @@
 {
- "updated": 1793217851,
+ "updated": 1793218272,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 213,
+   "key": "mercadolivre:MLB38481041",
+   "title": "Kit Duracell Com 16 Pilhas Aa E 16 Pilhas Aaa",
+   "price": 134.9,
+   "original": 206.8,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_721036-MLA99439702098_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-duracell-com-16-pilhas-aa-e-16-pilhas-aaa/p/MLB38481041?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793218252
+  },
   {
    "n": 212,
    "key": "mercadolivre:MLB43518035",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793193287
-  },
-  {
-   "n": 153,
-   "key": "mercadolivre:MLB58601220",
-   "title": "Cabo Adaptador Hdmi Para Vga E Tv Pc Notebook Audio E Video Dr Hank",
-   "price": 9.29,
-   "original": 12.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_900486-MLA100085789449_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-adaptador-hdmi-para-vga-e-tv-pc-notebook-audio-e-video-dr-hank/p/MLB58601220?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793192866
   }
  ]
 }
