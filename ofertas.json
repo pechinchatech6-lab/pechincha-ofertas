@@ -1,7 +1,21 @@
 {
- "updated": 1793167204,
+ "updated": 1793167625,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 93,
+   "key": "mercadolivre:MLB79379664",
+   "title": "Kit Teclado Mouse Sem Fio Bluetooth Para Tablet Notebook Celular PC Computador Smartphone Portátil Home Office Tr",
+   "price": 44.52,
+   "original": 78.99,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_732840-MLA117712570725_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-teclado-mouse-sem-fio-bluetooth-para-tablet-notebook-celular-pc-computador-smartphone-portatil-home-office-tr/p/MLB79379664?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793167605
+  },
   {
    "n": 92,
    "key": "mercadolivre:MLB80097388",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793142766
-  },
-  {
-   "n": 33,
-   "key": "mercadolivre:MLB60717499",
-   "title": "Adaptador Rec Bluetooth 5.4 P/ Computador Até 7 Dispositivos",
-   "price": 35.59,
-   "original": 59.99,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_807067-MLA95808203787_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/adaptador-rec-bluetooth-5-4-p-computador-ate-7-dispositivos/p/MLB60717499?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793142345
   }
  ]
 }
