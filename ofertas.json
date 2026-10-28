@@ -1,7 +1,21 @@
 {
- "updated": 1793170993,
+ "updated": 1793171414,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 102,
+   "key": "mercadolivre:MLB47632469",
+   "title": "Tela Projeção Vithu Home 150 Polegadas Para Projetor Full Hd 4k Uso Interno E Externo Lona Com Ilhos 2,5m Grande Cinema Projetores",
+   "price": 49.9,
+   "original": 73.35,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_888496-MLA99506602544_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/tela-projecao-vithu-home-150-polegadas-para-projetor-full-hd-4k-uso-interno-e-externo-lona-com-ilhos-2-5m-grande-cinema-/p/MLB47632469?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793171394
+  },
   {
    "n": 101,
    "key": "mercadolivre:MLB60393936",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793146555
-  },
-  {
-   "n": 42,
-   "key": "mercadolivre:MLB18382231",
-   "title": "Repetidor de Sinal Wi-Fi TP-Link TL-WA850RE Extensor de Alcance N300 V7",
-   "price": 110.57,
-   "original": 199.0,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_662555-MLA118244021625_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/repetidor-de-sinal-wi-fi-tp-link-tl-wa850re-extensor-de-alcance-n300-v7/p/MLB18382231?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793146134
   }
  ]
 }
