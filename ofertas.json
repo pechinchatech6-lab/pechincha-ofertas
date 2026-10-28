@@ -1,7 +1,21 @@
 {
- "updated": 1793225008,
+ "updated": 1793225429,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 230,
+   "key": "mercadolivre:MLB75681377",
+   "title": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
+   "price": 2599.0,
+   "original": 3599.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-pro-lg-55-4k-ultra-hd-ai-55un85c/p/MLB75681377?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793225409
+  },
   {
    "n": 229,
    "key": "mercadolivre:MLB76002662",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793200444
-  },
-  {
-   "n": 170,
-   "key": "mercadolivre:MLB75642859",
-   "title": "Cabo Hdmi 3 Metros 2.1 8k 4k Ultra HD Full Hd Blindado Speed Para Projetores Ps5 Xbox E Smarttv",
-   "price": 30.99,
-   "original": 37.9,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_740068-MLA113906391954_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-hdmi-3-metros-2-1-8k-4k-ultra-hd-full-hd-blindado-speed-para-projetores-ps5-xbox-e-smarttv/p/MLB75642859?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793200023
   }
  ]
 }
