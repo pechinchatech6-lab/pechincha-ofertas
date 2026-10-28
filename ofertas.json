@@ -1,7 +1,21 @@
 {
- "updated": 1793161310,
+ "updated": 1793161731,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 79,
+   "key": "mercadolivre:MLB61539026",
+   "title": "Computador All In One Aoc Intel I5 23.8\" Ddr3 Ssd Teclado Mouse",
+   "price": 3229.0,
+   "original": 4500.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_803023-MLA116952195804_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/computador-all-in-one-aoc-intel-i5-23-8-ddr3-ssd-teclado-mouse/p/MLB61539026?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793161711
+  },
   {
    "n": 78,
    "key": "mercadolivre:MLB54486813",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793136872
-  },
-  {
-   "n": 19,
-   "key": "mercadolivre:MLB65598839",
-   "title": "Cabo De Força Energia Tripolar IEC C13 Para Pc Monitor Impressora 1,5m Metros Padrão Brasileiro Bivolt 110v 220v Computador Reforçado Alta Durabilidade Compatív",
-   "price": 19.0,
-   "original": 41.99,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_738828-MLA117812770247_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-de-forca-energia-tripolar-iec-c13-para-pc-monitor-impressora-1-5m-metros-padrao-brasileiro-bivolt-110v-220v-computa/p/MLB65598839?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793136451
   }
  ]
 }
