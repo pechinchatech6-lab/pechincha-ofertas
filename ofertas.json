@@ -1,7 +1,21 @@
 {
- "updated": 1793205937,
+ "updated": 1793206358,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 185,
+   "key": "mercadolivre:MLB34158489",
+   "title": "Kit 3 Fonte Chaveada Slim 12v 10a 120w P/ Cftv Fita Led Som Preta LUZTUDO",
+   "price": 43.35,
+   "original": 100.0,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_876919-MLA99497290998_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-3-fonte-chaveada-slim-12v-10a-120w-p-cftv-fita-led-som-preta-luztudo/p/MLB34158489?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793206338
+  },
   {
    "n": 184,
    "key": "mercadolivre:MLB76397414",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793181498
-  },
-  {
-   "n": 125,
-   "key": "mercadolivre:MLB24936286",
-   "title": "Kit 6 Radio Baofeng Walk Talk Comunicador 16 Ch 12km 777s",
-   "price": 271.9,
-   "original": 320.0,
-   "pct": 15,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_980196-MLA117194995054_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-6-radio-baofeng-walk-talk-comunicador-16-ch-12km-777s/p/MLB24936286?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793181077
   }
  ]
 }
