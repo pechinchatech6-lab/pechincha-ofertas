@@ -1,7 +1,21 @@
 {
- "updated": 1793177308,
+ "updated": 1793177729,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 117,
+   "key": "mercadolivre:MLB50301060",
+   "title": "Smartphone Motorola Moto G56 5g - 256gb 8gb Ram+8gb Ram Boost, Camera 50mp Sony Lytia 600 Ultrarresistencia Militar e Ip68 + Ip69 - Cinza",
+   "price": 1540.15,
+   "original": 2369.0,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_748002-MLA104773303805_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g56-5g-256gb-8gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-ultrarresistencia-militar-e-ip68-/p/MLB50301060?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793177709
+  },
   {
    "n": 116,
    "key": "mercadolivre:MLB1046215784",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793152870
-  },
-  {
-   "n": 57,
-   "key": "mercadolivre:MLB67655033",
-   "title": "Adaptador Usb Tipo C Leitor De Cartão De Memória 3 Em 1 Usb 3.0 Sd Micro Sd Otg Compatível Com iPhone 15 16 17 Android Samsung Notebook Macbook Velocidade Rápid",
-   "price": 22.98,
-   "original": 29.96,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_629329-MLA109270523952_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/adaptador-usb-tipo-c-leitor-de-cartao-de-memoria-3-em-1-usb-3-0-sd-micro-sd-otg-compativel-com-iphone-15-16-17-android-s/p/MLB67655033?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793152449
   }
  ]
 }
