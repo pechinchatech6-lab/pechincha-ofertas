@@ -1,7 +1,21 @@
 {
- "updated": 1793202990,
+ "updated": 1793203411,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 178,
+   "key": "mercadolivre:MLB74492722",
+   "title": "Cabo HDMI 2.1 8K 1,5 metros 4K 120fps PS5 Xbox Series X/S TV OLED 48Gbps Blindado Compatível com PS5 Xbox Series PC Gamer Notebook TV - YUSO",
+   "price": 20.44,
+   "original": 49.99,
+   "pct": 59,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_761249-MLA115979344007_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-hdmi-2-1-8k-1-5-metros-4k-120fps-ps5-xbox-series-x-s-tv-oled-48gbps-blindado-compativel-com-ps5-xbox-series-pc-game/p/MLB74492722?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793203391
+  },
   {
    "n": 177,
    "key": "mercadolivre:MLB66805562",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793178551
-  },
-  {
-   "n": 118,
-   "key": "mercadolivre:MLB81040696",
-   "title": "Celular Motorola Moto G06 128gb 4gb Ram Orange Laranja",
-   "price": 865.0,
-   "original": 1399.0,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_849630-MLA120228470163_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/celular-motorola-moto-g06-128gb-4gb-ram-orange-laranja/p/MLB81040696?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793178130
   }
  ]
 }
