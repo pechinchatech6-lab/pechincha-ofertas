@@ -1,7 +1,21 @@
 {
- "updated": 1793196254,
+ "updated": 1793196675,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 162,
+   "key": "mercadolivre:MLB64177706",
+   "title": "Leitor De Dvd Portátil Toca Cd Mp3 Usb Filme",
+   "price": 251.23,
+   "original": 299.0,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_760826-MLA103986688528_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/leitor-de-dvd-portatil-toca-cd-mp3-usb-filme/p/MLB64177706?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793196655
+  },
   {
    "n": 161,
    "key": "mercadolivre:MLB60127584",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793171815
-  },
-  {
-   "n": 102,
-   "key": "mercadolivre:MLB47632469",
-   "title": "Tela Projeção Vithu Home 150 Polegadas Para Projetor Full Hd 4k Uso Interno E Externo Lona Com Ilhos 2,5m Grande Cinema Projetores",
-   "price": 49.9,
-   "original": 73.35,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_888496-MLA99506602544_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/tela-projecao-vithu-home-150-polegadas-para-projetor-full-hd-4k-uso-interno-e-externo-lona-com-ilhos-2-5m-grande-cinema-/p/MLB47632469?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793171394
   }
  ]
 }
