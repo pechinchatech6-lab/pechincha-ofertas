@@ -1,7 +1,21 @@
 {
- "updated": 1793216167,
+ "updated": 1793216588,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 209,
+   "key": "mercadolivre:MLB19743893",
+   "title": "40 Pilha Alcalina AA LR6 1,5v Blister 82153 Elgin Energy",
+   "price": 64.94,
+   "original": 99.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_820223-MLA99925306977_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/40-pilha-alcalina-aa-lr6-1-5v-blister-82153-elgin-energy/p/MLB19743893?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793216568
+  },
   {
    "n": 208,
    "key": "mercadolivre:MLB27241001",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793191603
-  },
-  {
-   "n": 149,
-   "key": "mercadolivre:MLB54647747",
-   "title": "Suporte Tv Articulado Lcd Led 20 a 55 Dvd Net Sky Preto",
-   "price": 32.83,
-   "original": 39.9,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_863064-MLA100107179875_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suporte-tv-articulado-lcd-led-20-a-55-dvd-net-sky-preto/p/MLB54647747?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793191182
   }
  ]
 }
