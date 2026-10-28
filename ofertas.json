@@ -1,7 +1,21 @@
 {
- "updated": 1793212378,
+ "updated": 1793212799,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 200,
+   "key": "mercadolivre:MLB61825281",
+   "title": "Mini Drone Iigenai E88 Dobrável Com Câmera Dual e 2 Baterias",
+   "price": 136.16,
+   "original": 249.99,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_703573-MLA97101684350_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-drone-iigenai-e88-dobravel-com-camera-dual-e-2-baterias/p/MLB61825281?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793212779
+  },
   {
    "n": 199,
    "key": "mercadolivre:MLB72899500",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793187814
-  },
-  {
-   "n": 140,
-   "key": "mercadolivre:MLB43606798",
-   "title": "Roteador HUAWEI WiFi BE3 Wifi 7 3.6 Gpbs Dual-Band Wi-Fi 7 Visualização de Diagnóstico WiFi Controle Parental Branco",
-   "price": 272.0,
-   "original": 321.0,
-   "pct": 15,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_804586-MLA113069655028_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/roteador-huawei-wifi-be3-wifi-7-3-6-gpbs-dual-band-wi-fi-7-visualizacao-de-diagnostico-wifi-controle-parental-branco/p/MLB43606798?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793187393
   }
  ]
 }
