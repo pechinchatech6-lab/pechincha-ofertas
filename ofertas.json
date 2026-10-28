@@ -1,7 +1,21 @@
 {
- "updated": 1793215746,
+ "updated": 1793216167,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 208,
+   "key": "mercadolivre:MLB27241001",
+   "title": "Kit Barra Led Tv LG 49lj5550 Compatível 8 Barras De Leds King Note",
+   "price": 60.39,
+   "original": 118.69,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_817342-MLU78680565077_082024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-barra-led-tv-lg-49lj5550-compativel-8-barras-de-leds-king-note/p/MLB27241001?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793216147
+  },
   {
    "n": 207,
    "key": "mercadolivre:MLB27293524",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793191182
-  },
-  {
-   "n": 148,
-   "key": "mercadolivre:MLB73406826",
-   "title": "Antena Digital Interna Externa Hdtv 4k Uhf Cabo 3 Metros Para Smart Tv Led Lcd Tv Tubo Conversor Tv Aberta Sinal 360km Canais Abertos Sem Mensalidade Digital Te",
-   "price": 22.0,
-   "original": 37.9,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_614195-MLA118153098206_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/antena-digital-interna-externa-hdtv-4k-uhf-cabo-3-metros-para-smart-tv-led-lcd-tv-tubo-conversor-tv-aberta-sinal-360km-c/p/MLB73406826?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793190761
   }
  ]
 }
