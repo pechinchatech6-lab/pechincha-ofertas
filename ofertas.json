@@ -1,7 +1,21 @@
 {
- "updated": 1793208463,
+ "updated": 1793208884,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 191,
+   "key": "mercadolivre:MLB38783288",
+   "title": "Kit 2 Controle Remoto Para Tv LG Smart + 4 Pilhas Com Teclas Netflix E Prime Video",
+   "price": 19.49,
+   "original": 31.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_915315-MLU79119259619_092024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-2-controle-remoto-para-tv-lg-smart-4-pilhas-com-teclas-netflix-e-prime-video/p/MLB38783288?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793208864
+  },
   {
    "n": 190,
    "key": "mercadolivre:MLB69447374",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793184024
-  },
-  {
-   "n": 131,
-   "key": "mercadolivre:MLB75012346",
-   "title": "Relogio Inteligente Smartwatch T900 S10 Ultra Pro longa bateria Treino Smartwatch 49mm Bluetooth Chamadas Notificações Saúde",
-   "price": 59.98,
-   "original": 78.99,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_603284-MLA119336961163_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-inteligente-smartwatch-t900-s10-ultra-pro-longa-bateria-treino-smartwatch-49mm-bluetooth-chamadas-notificacoes-s/p/MLB75012346?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793183603
   }
  ]
 }
