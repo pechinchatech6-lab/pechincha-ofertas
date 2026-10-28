@@ -1,7 +1,21 @@
 {
- "updated": 1793184886,
+ "updated": 1793185307,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 135,
+   "key": "mercadolivre:MLB64212276",
+   "title": "Relógio Inteligente Smartwatch GPS Autônomo À prova d'água 3ATM NOVANTE Masculino Feminino Esportivo Digital 530mAh Preto Bluetooth Chamadas Notificações Instan",
+   "price": 195.24,
+   "original": 598.0,
+   "pct": 67,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_905711-MLA115745774435_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-inteligente-smartwatch-gps-autonomo-a-prova-d-agua-3atm-novante-masculino-feminino-esportivo-digital-530mah-pret/p/MLB64212276?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793185287
+  },
   {
    "n": 134,
    "key": "mercadolivre:MLB61706715",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793160448
-  },
-  {
-   "n": 75,
-   "key": "mercadolivre:MLB46250576",
-   "title": "Computador Completo Intel Core i5 4570 (4ª Geração), 16GB RAM, SSD 256GB, Monitor 20\" 75Hz HDMI, Windows 10 Pro, Preto, Bivolt - BluePC Office CDF-099OF",
-   "price": 1358.01,
-   "original": 1698.89,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_827644-MLA117702510645_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/computador-completo-intel-core-i5-4570-4a-geracao-16gb-ram-ssd-256gb-monitor-20-75hz-hdmi-windows-10-pro-preto-bivolt-bl/p/MLB46250576?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793160027
   }
  ]
 }
