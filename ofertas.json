@@ -1,7 +1,21 @@
 {
- "updated": 1793177729,
+ "updated": 1793178150,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 118,
+   "key": "mercadolivre:MLB81040696",
+   "title": "Celular Motorola Moto G06 128gb 4gb Ram Orange Laranja",
+   "price": 865.0,
+   "original": 1399.0,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_849630-MLA120228470163_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/celular-motorola-moto-g06-128gb-4gb-ram-orange-laranja/p/MLB81040696?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793178130
+  },
   {
    "n": 117,
    "key": "mercadolivre:MLB50301060",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793153291
-  },
-  {
-   "n": 58,
-   "key": "mercadolivre:MLB77501880",
-   "title": "Leitor de Código de Barras Laser USB com Fio para Boletos FEBRABAN",
-   "price": 89.9,
-   "original": 184.9,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_618630-MLA114910488940_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/leitor-de-codigo-de-barras-laser-usb-com-fio-para-boletos-febraban/p/MLB77501880?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793152870
   }
  ]
 }
