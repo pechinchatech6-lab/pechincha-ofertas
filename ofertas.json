@@ -1,7 +1,21 @@
 {
- "updated": 1793188255,
+ "updated": 1793188676,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 143,
+   "key": "mercadolivre:MLB66140783",
+   "title": "Tv Stick 4k Android Chromecast Smart Hdmi Wifi Ao Vivo Preto Padrão",
+   "price": 169.9,
+   "original": 329.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_928830-MLA115777838275_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/tv-stick-4k-android-chromecast-smart-hdmi-wifi-ao-vivo-preto-padrao/p/MLB66140783?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793188656
+  },
   {
    "n": 142,
    "key": "mercadolivre:MLB15909805",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793163816
-  },
-  {
-   "n": 83,
-   "key": "mercadolivre:MLB74164353",
-   "title": "Pulseira Compatível Suporte Para Rastreador Airtag Silicone Impermeável Com Tampa Cor VERMELHO",
-   "price": 38.0,
-   "original": 62.49,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_884510-MLA116609128806_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pulseira-compativel-suporte-para-rastreador-airtag-silicone-impermeavel-com-tampa-cor-vermelho/p/MLB74164353?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793163395
   }
  ]
 }
