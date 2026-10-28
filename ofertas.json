@@ -1,7 +1,21 @@
 {
- "updated": 1793201306,
+ "updated": 1793201727,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 174,
+   "key": "mercadolivre:MLB68126743",
+   "title": "Cabo Vga 1,5m Macho X Macho Com Filtro Para Monitor Pc Tv Projetor Notebook 15 Pinos Conexão Estável Alta Qualidade Imagem Nítida Compatível Com Tela Externa Us",
+   "price": 19.9,
+   "original": 32.99,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_714293-MLA119934919945_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-vga-1-5m-macho-x-macho-com-filtro-para-monitor-pc-tv-projetor-notebook-15-pinos-conexao-estavel-alta-qualidade-imag/p/MLB68126743?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793201707
+  },
   {
    "n": 173,
    "key": "mercadolivre:MLB75622871",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793176867
-  },
-  {
-   "n": 114,
-   "key": "mercadolivre:MLB53569339",
-   "title": "Suporte De Celular Veicular Automotivo Pra Carro Mesa Porta Painel Parede Caminhão Vw Up Jetta Volkswagen Ônix Corolla Gol Universal Ayann",
-   "price": 27.9,
-   "original": 34.9,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_688434-MLA107886731106_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suporte-de-celular-veicular-automotivo-pra-carro-mesa-porta-painel-parede-caminhao-vw-up-jetta-volkswagen-onix-corolla-g/p/MLB53569339?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793176446
   }
  ]
 }
