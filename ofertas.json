@@ -1,7 +1,21 @@
 {
- "updated": 1793160468,
+ "updated": 1793160889,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 77,
+   "key": "mercadolivre:MLB71909304",
+   "title": "Computador Completo Intel Core I5, 8gb Ram, Ssd 240gb, Monitor 19 Led, Windows 10 Pro - Bluepc Plus Cdbp-plu101",
+   "price": 1105.08,
+   "original": 1899.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_981923-MLA111613669678_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/computador-completo-intel-core-i5-8gb-ram-ssd-240gb-monitor-19-led-windows-10-pro-bluepc-plus-cdbp-plu101/p/MLB71909304?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793160869
+  },
   {
    "n": 76,
    "key": "mercadolivre:MLB42270876",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793136030
-  },
-  {
-   "n": 17,
-   "key": "mercadolivre:MLB62080137",
-   "title": "Adaptador Hub USB-C 8 Em 1 Adaptador Multiportas Macbook Pc Notebook",
-   "price": 39.4,
-   "original": 69.9,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_624764-MLA97655574214_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/adaptador-hub-usb-c-8-em-1-adaptador-multiportas-macbook-pc-notebook/p/MLB62080137?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793135609
   }
  ]
 }
