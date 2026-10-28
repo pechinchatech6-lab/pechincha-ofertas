@@ -1,7 +1,21 @@
 {
- "updated": 1793210694,
+ "updated": 1793211115,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 196,
+   "key": "mercadolivre:MLB68833589",
+   "title": "Controle Remotos Para Tv Philips Smart Lcd E Led Com Tecla Netflix E Pilhas",
+   "price": 19.89,
+   "original": 29.89,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_902623-MLA110122301570_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-remotos-para-tv-philips-smart-lcd-e-led-com-tecla-netflix-e-pilhas/p/MLB68833589?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793211095
+  },
   {
    "n": 195,
    "key": "mercadolivre:MLB63117594",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793186130
-  },
-  {
-   "n": 136,
-   "key": "mercadolivre:MLB64244402",
-   "title": "Relógio Inteligente Smartwatch Alexa Chamadas NOVANTE Masculino Feminino Esportivo IP68 Bluetooth Notificações Instantâneas Tela Hd 1.83 300mAh 10Dias Monitor C",
-   "price": 148.79,
-   "original": 299.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_601086-MLA105614859580_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-inteligente-smartwatch-alexa-chamadas-novante-masculino-feminino-esportivo-ip68-bluetooth-notificacoes-instantan/p/MLB64244402?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793185709
   }
  ]
 }
