@@ -1,7 +1,21 @@
 {
- "updated": 1793226271,
+ "updated": 1793226692,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 233,
+   "key": "mercadolivre:MLB57723340",
+   "title": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
+   "price": 1899.0,
+   "original": 2680.01,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_603690-MLA93305557455_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-philips-50-4k-50pug7300-comando-de-voz-bluetooth/p/MLB57723340?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793226672
+  },
   {
    "n": 232,
    "key": "mercadolivre:MLB67267597",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793201707
-  },
-  {
-   "n": 173,
-   "key": "mercadolivre:MLB75622871",
-   "title": "Cabo Hdmi 2.1 8k Gold Ultra Hd Compatível Com Ps5 Xbox Series X/s 3 Metros Ezsias Armarinhos",
-   "price": 28.99,
-   "original": 45.99,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_836836-MLA117916317501_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-hdmi-2-1-8k-gold-ultra-hd-compativel-com-ps5-xbox-series-x-s-3-metros-ezsias-armarinhos/p/MLB75622871?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793201286
   }
  ]
 }
