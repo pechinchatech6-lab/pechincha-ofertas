@@ -1,7 +1,21 @@
 {
- "updated": 1793205516,
+ "updated": 1793205937,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 184,
+   "key": "mercadolivre:MLB76397414",
+   "title": "Kit Conectores de Solda Termo Retráteis, 300 Peças, para Cabos de 0,25-6,0 mm² com Vedação Impermeável",
+   "price": 41.33,
+   "original": 54.39,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_872901-MLA114306099962_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-conectores-de-solda-termo-retrateis-300-pecas-para-cabos-de-0-25-6-0-mm2-com-vedacao-impermeavel/p/MLB76397414?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793205917
+  },
   {
    "n": 183,
    "key": "mercadolivre:MLB27750249",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793181077
-  },
-  {
-   "n": 124,
-   "key": "mercadolivre:MLB22823693",
-   "title": "Rádio Comunicador Intelbras Rc 3002 G2 Longo Alcance 20 Km",
-   "price": 295.0,
-   "original": 699.0,
-   "pct": 58,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_882781-MLA109749275947_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/radio-comunicador-intelbras-rc-3002-g2-longo-alcance-20-km/p/MLB22823693?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793180656
   }
  ]
 }
