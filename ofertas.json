@@ -1,7 +1,21 @@
 {
- "updated": 1793200464,
+ "updated": 1793200885,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 172,
+   "key": "mercadolivre:MLB65738808",
+   "title": "Cabo Displayport 1.4 8k 4k Reforçado 2 Metros Hdr 60hz 240hz Compatível G-sync Freesync Conector Ouro Monitor Gamer Áudio Imersivo Hdr Imersivo - Yuso",
+   "price": 26.99,
+   "original": 69.99,
+   "pct": 61,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_836478-MLA112424549548_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-displayport-1-4-8k-4k-reforcado-2-metros-hdr-60hz-240hz-compativel-g-sync-freesync-conector-ouro-monitor-gamer-audi/p/MLB65738808?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793200865
+  },
   {
    "n": 171,
    "key": "mercadolivre:MLB66796145",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793176025
-  },
-  {
-   "n": 112,
-   "key": "mercadolivre:MLB48478097",
-   "title": "Cabo Carregador Turbo Tipo C Para iPhone 8 X Xr 11 12 13 14 Pro Max Cor Branco Dtimp",
-   "price": 19.0,
-   "original": 29.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_826812-MLA111718763226_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-carregador-turbo-tipo-c-para-iphone-8-x-xr-11-12-13-14-pro-max-cor-branco-dtimp/p/MLB48478097?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793175604
   }
  ]
 }
