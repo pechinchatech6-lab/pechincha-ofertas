@@ -1,7 +1,21 @@
 {
- "updated": 1793182360,
+ "updated": 1793182781,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 129,
+   "key": "mercadolivre:MLB59323062",
+   "title": "Relogio Smartwatch 10 Ultra Plus Preto Tela AMOLED Monitor Saúde GPS Bluetooth",
+   "price": 52.5,
+   "original": 96.8,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_792783-MLA99508638586_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-smartwatch-10-ultra-plus-preto-tela-amoled-monitor-saude-gps-bluetooth/p/MLB59323062?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793182761
+  },
   {
    "n": 128,
    "key": "mercadolivre:MLB43319779",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793157922
-  },
-  {
-   "n": 69,
-   "key": "mercadolivre:MLB28562373",
-   "title": "Monitor LED 20 Brazil PC 20WR - 1600x900, 75Hz, 5ms - HDMI/VGA - Preto",
-   "price": 209.0,
-   "original": 389.99,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_722855-MLA105308780576_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/monitor-led-20-brazil-pc-20wr-1600x900-75hz-5ms-hdmi-vga-preto/p/MLB28562373?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793157501
   }
  ]
 }
