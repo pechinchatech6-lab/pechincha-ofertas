@@ -1,7 +1,21 @@
 {
- "updated": 1793199201,
+ "updated": 1793199622,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 169,
+   "key": "mercadolivre:MLB68216336",
+   "title": "Capinha De Silicone Para Controle Remoto Tv LG Smart Magic Preto",
+   "price": 23.47,
+   "original": 28.37,
+   "pct": 17,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_935399-MLA109668404544_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/capinha-de-silicone-para-controle-remoto-tv-lg-smart-magic-preto/p/MLB68216336?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793199602
+  },
   {
    "n": 168,
    "key": "mercadolivre:MLB59157229",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793174762
-  },
-  {
-   "n": 109,
-   "key": "mercadolivre:MLB23612880",
-   "title": "Tablet VAIO TL10 8GB 128GB Octa-Core, Tela 10.4” 2K, 4G WiFi, Câmera 8MP + Selfie 5MP, 7000mAh, Android 13, com Teclado de Conexão Inteligente – Preto",
-   "price": 1359.9,
-   "original": 1999.9,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_765639-MLA112801114353_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/tablet-vaio-tl10-8gb-128gb-octa-core-tela-10-4-2k-4g-wifi-camera-8mp-selfie-5mp-7000mah-android-13-com-teclado-de-conexa/p/MLB23612880?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793174341
   }
  ]
 }
