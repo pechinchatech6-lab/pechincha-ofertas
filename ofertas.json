@@ -1,7 +1,21 @@
 {
- "updated": 1793194991,
+ "updated": 1793195412,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 159,
+   "key": "mercadolivre:MLB79489425",
+   "title": "Adaptador DisplayPort para VGA de Vídeo Full HD 1080p 60Hz – Eletric Teck",
+   "price": 19.0,
+   "original": 34.99,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_805757-MLA118514136975_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/adaptador-displayport-para-vga-de-video-full-hd-1080p-60hz-eletric-teck/p/MLB79489425?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793195392
+  },
   {
    "n": 158,
    "key": "mercadolivre:MLB47161143",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793170552
-  },
-  {
-   "n": 99,
-   "key": "mercadolivre:MLB53998755",
-   "title": "Suporte Notebook Coolcold Com 2 Cooler Ventoinhas Base Mesa Led Refrigerada Ventilação Silenciosa Cor Preto Led Azul Laptop Notebook Até 17 Polegadas",
-   "price": 47.79,
-   "original": 59.74,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_671538-MLA116234549674_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suporte-notebook-coolcold-com-2-cooler-ventoinhas-base-mesa-led-refrigerada-ventilacao-silenciosa-cor-preto-led-azul-lap/p/MLB53998755?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793170131
   }
  ]
 }
