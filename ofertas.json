@@ -1,7 +1,21 @@
 {
- "updated": 1793159626,
+ "updated": 1793160047,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 75,
+   "key": "mercadolivre:MLB46250576",
+   "title": "Computador Completo Intel Core i5 4570 (4ª Geração), 16GB RAM, SSD 256GB, Monitor 20\" 75Hz HDMI, Windows 10 Pro, Preto, Bivolt - BluePC Office CDF-099OF",
+   "price": 1358.01,
+   "original": 1698.89,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_827644-MLA117702510645_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/computador-completo-intel-core-i5-4570-4a-geracao-16gb-ram-ssd-256gb-monitor-20-75hz-hdmi-windows-10-pro-preto-bivolt-bl/p/MLB46250576?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793160027
+  },
   {
    "n": 74,
    "key": "mercadolivre:MLB47081288",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793135188
-  },
-  {
-   "n": 15,
-   "key": "mercadolivre:MLB47609067",
-   "title": "Hub Usb 4 Portas Usb 3.0 5 Gbps Extensor Adaptador Usb 3.0 Computador Pc Notebook Chrome Technology",
-   "price": 19.99,
-   "original": 24.99,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_679252-MLA115896968127_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hub-usb-4-portas-usb-3-0-5-gbps-extensor-adaptador-usb-3-0-computador-pc-notebook-chrome-technology/p/MLB47609067?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793134767
   }
  ]
 }
