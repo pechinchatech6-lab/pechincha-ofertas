@@ -1,7 +1,21 @@
 {
- "updated": 1793211957,
+ "updated": 1793212378,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 199,
+   "key": "mercadolivre:MLB72899500",
+   "title": "Drone Profissional Gt8 Pro 4k Ultra Hd Com Câmera Aérea Desvio Inteligente De Obstáculos Controle Por Gestos Motor Sem Escovas Voo Estável E Kit Completo Acessó",
+   "price": 549.9,
+   "original": 1299.9,
+   "pct": 58,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_702096-MLA112926785611_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/drone-profissional-gt8-pro-4k-ultra-hd-com-camera-aerea-desvio-inteligente-de-obstaculos-controle-por-gestos-motor-sem-e/p/MLB72899500?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793212358
+  },
   {
    "n": 198,
    "key": "mercadolivre:MLB76468113",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793187393
-  },
-  {
-   "n": 139,
-   "key": "mercadolivre:MLB35336266",
-   "title": "Repetidor Extensor De Sinal Sem Fio Tp Link Wa 855re 300mbps Cor Azul-claro",
-   "price": 122.4,
-   "original": 153.0,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_843566-MLA99555025252_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/repetidor-extensor-de-sinal-sem-fio-tp-link-wa-855re-300mbps-cor-azul-claro/p/MLB35336266?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793186972
   }
  ]
 }
