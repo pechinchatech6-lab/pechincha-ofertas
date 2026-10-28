@@ -1,7 +1,21 @@
 {
- "updated": 1793176466,
+ "updated": 1793176887,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 115,
+   "key": "mercadolivre:MLB1055308835",
+   "title": "iPhone 17 de 256 GB - Lavanda - Distribuidor Autorizado",
+   "price": 6332.22,
+   "original": 7999.0,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_896332-MLA95400062457_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/iphone-17-de-256-gb-lavanda-distribuidor-autorizado/p/MLB1055308835?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793176867
+  },
   {
    "n": 114,
    "key": "mercadolivre:MLB53569339",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793152028
-  },
-  {
-   "n": 55,
-   "key": "mercadolivre:MLB62998911",
-   "title": "Impressora Multifuncional HP DeskJet Ink Advantage 2975 Colorida 1 USB 2.0 de alta velocidade Wi-Fi de banda dupla - 100 a 240 VCA - AJ4Y4A#AK4",
-   "price": 500.0,
-   "original": 719.0,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_641445-MLA107256158981_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/impressora-multifuncional-hp-deskjet-ink-advantage-2975-colorida-1-usb-2-0-de-alta-velocidade-wi-fi-de-banda-dupla-100-a/p/MLB62998911?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793151607
   }
  ]
 }
