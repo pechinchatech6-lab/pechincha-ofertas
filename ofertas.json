@@ -1,7 +1,21 @@
 {
- "updated": 1793210273,
+ "updated": 1793210694,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 195,
+   "key": "mercadolivre:MLB63117594",
+   "title": "Kit 2 Controle Remoto Para Smart Tv LG + 4 Pilhas Com Teclas Netflix E Prime Video Gcase",
+   "price": 19.39,
+   "original": 24.99,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_865611-MLA100694871502_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-2-controle-remoto-para-smart-tv-lg-4-pilhas-com-teclas-netflix-e-prime-video-gcase/p/MLB63117594?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793210674
+  },
   {
    "n": 194,
    "key": "mercadolivre:MLB69230650",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793185709
-  },
-  {
-   "n": 135,
-   "key": "mercadolivre:MLB64212276",
-   "title": "Relógio Inteligente Smartwatch GPS Autônomo À prova d'água 3ATM NOVANTE Masculino Feminino Esportivo Digital 530mAh Preto Bluetooth Chamadas Notificações Instan",
-   "price": 195.24,
-   "original": 598.0,
-   "pct": 67,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_905711-MLA115745774435_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-inteligente-smartwatch-gps-autonomo-a-prova-d-agua-3atm-novante-masculino-feminino-esportivo-digital-530mah-pret/p/MLB64212276?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793185287
   }
  ]
 }
