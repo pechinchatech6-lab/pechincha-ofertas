@@ -1,7 +1,21 @@
 {
- "updated": 1793154995,
+ "updated": 1793155416,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 64,
+   "key": "mercadolivre:MLB42081070",
+   "title": "Pasta Termica Thermal Pro Seringa 3.0g 12.5 w/k Authentic Silver Óxido de Alumínio",
+   "price": 26.9,
+   "original": 39.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_682905-MLA99603209138_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pasta-termica-thermal-pro-seringa-3-0g-12-5-w-k-authentic-silver-oxido-de-aluminio/p/MLB42081070?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793155396
+  },
   {
    "n": 63,
    "key": "mercadolivre:MLB42194879",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793130557
-  },
-  {
-   "n": 4,
-   "key": "mercadolivre:MLB47519001",
-   "title": "Fone de Ouvido Eardbud AIWA AWS-EB-05-B Bluetooth IPX4 24 Horas de bateria",
-   "price": 109.0,
-   "original": 164.9,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_980288-MLA99966340125_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-eardbud-aiwa-aws-eb-05-b-bluetooth-ipx4-24-horas-de-bateria/p/MLB47519001?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793130136
   }
  ]
 }
