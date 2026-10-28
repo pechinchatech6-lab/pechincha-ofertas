@@ -1,7 +1,21 @@
 {
- "updated": 1793188676,
+ "updated": 1793189097,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 144,
+   "key": "mercadolivre:MLB54488375",
+   "title": "Antena Digital Sinal 4k Hd Smart Tv Interna Externa Para Tv Samsung LG Led Lcd 3d Hdtv Uhf Amplificador Cabo Longo De 5 Metros Com Base Magnética Diggicom",
+   "price": 32.9,
+   "original": 43.16,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_696734-MLA100079982613_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/antena-digital-sinal-4k-hd-smart-tv-interna-externa-para-tv-samsung-lg-led-lcd-3d-hdtv-uhf-amplificador-cabo-longo-de-5-/p/MLB54488375?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793189077
+  },
   {
    "n": 143,
    "key": "mercadolivre:MLB66140783",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793164237
-  },
-  {
-   "n": 84,
-   "key": "mercadolivre:MLB28332994",
-   "title": "2 Pontas De Reposição Caneta Pencil Branca Wb De 1.00mm",
-   "price": 34.0,
-   "original": 49.9,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_603662-MLA100090936967_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/2-pontas-de-reposicao-caneta-pencil-branca-wb-de-1-00mm/p/MLB28332994?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793163816
   }
  ]
 }
