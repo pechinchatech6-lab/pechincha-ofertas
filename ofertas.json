@@ -1,7 +1,21 @@
 {
- "updated": 1793203411,
+ "updated": 1793203832,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 179,
+   "key": "mercadolivre:MLB27062938",
+   "title": "Cabo Rede Rj45 U/utp Cat5e Furukawa Sohoplus 305m Cobre Puro Cor Preto",
+   "price": 844.0,
+   "original": 1497.5,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_736600-MLA99994129841_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-rede-rj45-u-utp-cat5e-furukawa-sohoplus-305m-cobre-puro-cor-preto/p/MLB27062938?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793203812
+  },
   {
    "n": 178,
    "key": "mercadolivre:MLB74492722",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793178972
-  },
-  {
-   "n": 119,
-   "key": "mercadolivre:MLB33230345",
-   "title": "Kit Jogo de Ferramentas Precisão Magnético 115 Peças Quicko para Reparação Kit Completo Para Assistencia Tecnica Celulares Jogo De Chave Abrir Celular Equipamen",
-   "price": 27.9,
-   "original": 54.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646262-MLA114845290949_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-jogo-de-ferramentas-precisao-magnetico-115-pecas-quicko-para-reparacao-kit-completo-para-assistencia-tecnica-celular/p/MLB33230345?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793178551
   }
  ]
 }
