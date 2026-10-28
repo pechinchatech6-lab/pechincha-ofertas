@@ -1,7 +1,21 @@
 {
- "updated": 1793207621,
+ "updated": 1793208042,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 189,
+   "key": "mercadolivre:MLB38780543",
+   "title": "Kit 2 Controle Remoto Para Tv Philco Smart 4k Teclas Netflix, Youtube, Globoplay E Prime Video",
+   "price": 19.49,
+   "original": 31.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_681124-MLA100085437135_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-2-controle-remoto-para-tv-philco-smart-4k-teclas-netflix-youtube-globoplay-e-prime-video/p/MLB38780543?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793208022
+  },
   {
    "n": 188,
    "key": "mercadolivre:MLB62143380",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793183182
-  },
-  {
-   "n": 129,
-   "key": "mercadolivre:MLB59323062",
-   "title": "Relogio Smartwatch 10 Ultra Plus Preto Tela AMOLED Monitor Saúde GPS Bluetooth",
-   "price": 52.5,
-   "original": 96.8,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_792783-MLA99508638586_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-smartwatch-10-ultra-plus-preto-tela-amoled-monitor-saude-gps-bluetooth/p/MLB59323062?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793182761
   }
  ]
 }
