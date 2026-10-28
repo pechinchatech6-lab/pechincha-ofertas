@@ -1,7 +1,21 @@
 {
- "updated": 1793172677,
+ "updated": 1793173098,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 106,
+   "key": "mercadolivre:MLB51975147",
+   "title": "Microsoft 365 Family 2026 + Mcafee Premium - Licença 1 Ano",
+   "price": 433.0,
+   "original": 599.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_981446-MLA111696799011_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microsoft-365-family-2026-mcafee-premium-licenca-1-ano/p/MLB51975147?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793173078
+  },
   {
    "n": 105,
    "key": "mercadolivre:MLB44518871",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793148239
-  },
-  {
-   "n": 46,
-   "key": "mercadolivre:MLB19865695",
-   "title": "Nobreak Intelbras Interativo Bivolt ATTIV 600 VA",
-   "price": 421.74,
-   "original": 664.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_738119-MLA116766889603_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nobreak-intelbras-interativo-bivolt-attiv-600-va/p/MLB19865695?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793147818
   }
  ]
 }
