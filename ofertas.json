@@ -1,7 +1,21 @@
 {
- "updated": 1793161731,
+ "updated": 1793162152,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 80,
+   "key": "mercadolivre:MLB38526875",
+   "title": "Computador Completo Intel Core i5, 16GB RAM, SSD 256GB, Monitor 20\" LED, Windows 10 Pro, Bivolt, Preto - BluePC Office CDBP-OFF100",
+   "price": 1250.0,
+   "original": 1543.33,
+   "pct": 19,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_616947-MLA116432884583_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/computador-completo-intel-core-i5-16gb-ram-ssd-256gb-monitor-20-led-windows-10-pro-bivolt-preto-bluepc-office-cdbp-off10/p/MLB38526875?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793162132
+  },
   {
    "n": 79,
    "key": "mercadolivre:MLB61539026",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793137293
-  },
-  {
-   "n": 20,
-   "key": "mercadolivre:MLB70121902",
-   "title": "Hub USB-C 6 em 1 PDO com HDMI 4K e 3 Portas USB para Notebook, MacBook e iPad",
-   "price": 37.9,
-   "original": 49.9,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_781312-MLA111560926494_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hub-usb-c-6-em-1-pdo-com-hdmi-4k-e-3-portas-usb-para-notebook-macbook-e-ipad/p/MLB70121902?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793136872
   }
  ]
 }
