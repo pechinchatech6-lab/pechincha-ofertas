@@ -1,7 +1,21 @@
 {
- "updated": 1793206779,
+ "updated": 1793207200,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 187,
+   "key": "mercadolivre:MLB50177920",
+   "title": "Controle Remoto Para TV Samsung Smart 4k",
+   "price": 19.39,
+   "original": 24.89,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_987149-MLA111367270458_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-remoto-para-tv-samsung-smart-4k/p/MLB50177920?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793207180
+  },
   {
    "n": 186,
    "key": "mercadolivre:MLB66422734",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793182340
-  },
-  {
-   "n": 127,
-   "key": "mercadolivre:MLB64997788",
-   "title": "Smartwatch S10 Série 10 Relógio Digital Masculino Feminino Resistente A Agua Caixa Preta Com 2 Pulseiras Smartwatch Completo Compatível Android E Ios Monitor At",
-   "price": 78.9,
-   "original": 183.0,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_892588-MLA113463134832_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartwatch-s10-serie-10-relogio-digital-masculino-feminino-resistente-a-agua-caixa-preta-com-2-pulseiras-smartwatch-comp/p/MLB64997788?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793181919
   }
  ]
 }
