@@ -1,7 +1,21 @@
 {
- "updated": 1793224587,
+ "updated": 1793225008,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 229,
+   "key": "mercadolivre:MLB76002662",
+   "title": "Samsung Smart TV 55\" Mini LED 4K M75H 26/2027",
+   "price": 2789.9,
+   "original": 3492.0,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_615876-MLA116061870194_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/samsung-smart-tv-55-mini-led-4k-m75h-26-2027/p/MLB76002662?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793224988
+  },
   {
    "n": 228,
    "key": "mercadolivre:MLB59090080",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793200023
-  },
-  {
-   "n": 169,
-   "key": "mercadolivre:MLB68216336",
-   "title": "Capinha De Silicone Para Controle Remoto Tv LG Smart Magic Preto",
-   "price": 23.47,
-   "original": 28.37,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_935399-MLA109668404544_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/capinha-de-silicone-para-controle-remoto-tv-lg-smart-magic-preto/p/MLB68216336?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793199602
   }
  ]
 }
