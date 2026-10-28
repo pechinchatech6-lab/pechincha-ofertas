@@ -1,7 +1,21 @@
 {
- "updated": 1793204674,
+ "updated": 1793205095,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 182,
+   "key": "mercadolivre:MLB65011102",
+   "title": "Conector De Fios Emenda Rápida 2 Vias Kit Com 20 Unidades Entrada E Saida",
+   "price": 33.79,
+   "original": 59.9,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_799527-MLA115258586514_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/conector-de-fios-emenda-rapida-2-vias-kit-com-20-unidades-entrada-e-saida/p/MLB65011102?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793205075
+  },
   {
    "n": 181,
    "key": "mercadolivre:MLB75641147",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793180235
-  },
-  {
-   "n": 122,
-   "key": "mercadolivre:MLB23197493",
-   "title": "Baofeng BF-777S Comunicação Longa Distância 16 Canais Cor Preto",
-   "price": 94.44,
-   "original": 259.0,
-   "pct": 64,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_990851-MLA99998213213_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/baofeng-bf-777s-comunicacao-longa-distancia-16-canais-cor-preto/p/MLB23197493?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793179814
   }
  ]
 }
