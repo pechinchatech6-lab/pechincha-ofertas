@@ -1,7 +1,21 @@
 {
- "updated": 1793202569,
+ "updated": 1793202990,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 177,
+   "key": "mercadolivre:MLB66805562",
+   "title": "Cabo Hdmi Para Dvi 1,8 Metros 24+1 Bidirecional Full Hd Banhado A Ouro Blindado Dual Link Monitor Notebook Pc Tv Games Hdmi Macho X Dvi Macho - Yuso",
+   "price": 21.99,
+   "original": 69.99,
+   "pct": 69,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_803736-MLA111033394764_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-hdmi-para-dvi-1-8-metros-24-1-bidirecional-full-hd-banhado-a-ouro-blindado-dual-link-monitor-notebook-pc-tv-games-h/p/MLB66805562?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793202970
+  },
   {
    "n": 176,
    "key": "mercadolivre:MLB65095700",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793178130
-  },
-  {
-   "n": 117,
-   "key": "mercadolivre:MLB50301060",
-   "title": "Smartphone Motorola Moto G56 5g - 256gb 8gb Ram+8gb Ram Boost, Camera 50mp Sony Lytia 600 Ultrarresistencia Militar e Ip68 + Ip69 - Cinza",
-   "price": 1540.15,
-   "original": 2369.0,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_748002-MLA104773303805_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g56-5g-256gb-8gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-ultrarresistencia-militar-e-ip68-/p/MLB50301060?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793177709
   }
  ]
 }
