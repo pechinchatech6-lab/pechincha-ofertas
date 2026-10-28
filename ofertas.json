@@ -1,7 +1,21 @@
 {
- "updated": 1793194149,
+ "updated": 1793194570,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 157,
+   "key": "mercadolivre:MLB51529396",
+   "title": "Mini Adaptador Hdmi Para Rca Conversor Full Hd Vídeo Hdmi P/ Vídeo Rca 2av - Conectar Seus Aparelhos Com Saída Hdmi Em Sua Tv - Converter Qualquer Sinal Hdmi - ",
+   "price": 21.38,
+   "original": 32.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_720486-MLA116242376247_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-adaptador-hdmi-para-rca-conversor-full-hd-video-hdmi-p-video-rca-2av-conectar-seus-aparelhos-com-saida-hdmi-em-sua-/p/MLB51529396?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793194550
+  },
   {
    "n": 156,
    "key": "mercadolivre:MLB73195575",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793169710
-  },
-  {
-   "n": 97,
-   "key": "mercadolivre:MLB58147143",
-   "title": "Mini Ventilador Portátil Basike de 3 Velocidades Recarregável com USB",
-   "price": 78.98,
-   "original": 112.57,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_888276-MLA99369518484_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-ventilador-portatil-basike-de-3-velocidades-recarregavel-com-usb/p/MLB58147143?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793169289
   }
  ]
 }
