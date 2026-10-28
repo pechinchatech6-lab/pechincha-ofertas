@@ -1,7 +1,21 @@
 {
- "updated": 1793214483,
+ "updated": 1793214904,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 205,
+   "key": "mercadolivre:MLB53432844",
+   "title": "Tv Stick 4k Hdmi Wi-fi 16gb Android Tv Full Hd Smart Televisão Controle Filmes Pro Familar",
+   "price": 176.69,
+   "original": 309.9,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_657953-MLA111080648459_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/tv-stick-4k-hdmi-wi-fi-16gb-android-tv-full-hd-smart-televisao-controle-filmes-pro-familar/p/MLB53432844?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793214884
+  },
   {
    "n": 204,
    "key": "mercadolivre:MLB77671691",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793189919
-  },
-  {
-   "n": 145,
-   "key": "mercadolivre:MLB74451605",
-   "title": "Suporte Tv Articulado Monitor Led 28 32 40 43 50 55 Polegada Preto",
-   "price": 38.0,
-   "original": 48.9,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_762678-MLA112539956232_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suporte-tv-articulado-monitor-led-28-32-40-43-50-55-polegada-preto/p/MLB74451605?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793189498
   }
  ]
 }
