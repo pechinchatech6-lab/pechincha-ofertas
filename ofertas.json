@@ -1,7 +1,21 @@
 {
- "updated": 1793179413,
+ "updated": 1793179834,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 122,
+   "key": "mercadolivre:MLB23197493",
+   "title": "Baofeng BF-777S Comunicação Longa Distância 16 Canais Cor Preto",
+   "price": 94.44,
+   "original": 259.0,
+   "pct": 64,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_990851-MLA99998213213_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/baofeng-bf-777s-comunicacao-longa-distancia-16-canais-cor-preto/p/MLB23197493?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793179814
+  },
   {
    "n": 121,
    "key": "mercadolivre:MLB67737386",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793154975
-  },
-  {
-   "n": 62,
-   "key": "mercadolivre:MLB68292290",
-   "title": "Álcool Isoprop 99,8% Limpador De Tela 1l Pincel Raro Limpeza Profunda Solvente Seca Rápido",
-   "price": 23.9,
-   "original": 33.9,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_759724-MLA109706662054_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alcool-isoprop-99-8-limpador-de-tela-1l-pincel-raro-limpeza-profunda-solvente-seca-rapido/p/MLB68292290?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793154554
   }
  ]
 }
