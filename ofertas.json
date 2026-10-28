@@ -1,7 +1,21 @@
 {
- "updated": 1793171835,
+ "updated": 1793172256,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 104,
+   "key": "mercadolivre:MLB60374897",
+   "title": "Benq Projetor Dlp Benq Mx560c Xga (1024x768) Hdmi 4000 Lumen Branco",
+   "price": 2869.0,
+   "original": 4895.0,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_678778-MLA104990078269_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/benq-projetor-dlp-benq-mx560c-xga-1024x768-hdmi-4000-lumen-branco/p/MLB60374897?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793172236
+  },
   {
    "n": 103,
    "key": "mercadolivre:MLB43872631",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793147397
-  },
-  {
-   "n": 44,
-   "key": "mercadolivre:MLB80140406",
-   "title": "Adaptador Wi-Fi Davely para Computador e Notebook USB 3.0 Dual Band 2.4/5 GHz com Ethernet Gigabit",
-   "price": 26.9,
-   "original": 77.9,
-   "pct": 65,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_763340-MLA118570892493_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/adaptador-wi-fi-davely-para-computador-e-notebook-usb-3-0-dual-band-2-4-5-ghz-com-ethernet-gigabit/p/MLB80140406?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793146976
   }
  ]
 }
