@@ -1,7 +1,21 @@
 {
- "updated": 1793192044,
+ "updated": 1793192465,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 152,
+   "key": "mercadolivre:MLB66526649",
+   "title": "Suporte TV Fixo Universal 10\" a 100\" Polegadas Forte Para Todas as Marcas Rezzet",
+   "price": 19.0,
+   "original": 26.9,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_889455-MLA115639608614_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suporte-tv-fixo-universal-10-a-100-polegadas-forte-para-todas-as-marcas-rezzet/p/MLB66526649?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793192445
+  },
   {
    "n": 151,
    "key": "mercadolivre:MLB65534932",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793167605
-  },
-  {
-   "n": 92,
-   "key": "mercadolivre:MLB80097388",
-   "title": "Mouse Pad Gamer Grande RHEAD de 80 x 30 cm, Speed com Borda Costurada e Base Antiderrapante",
-   "price": 19.3,
-   "original": 59.99,
-   "pct": 68,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_812055-MLA116940142606_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-pad-gamer-grande-rhead-de-80-x-30-cm-speed-com-borda-costurada-e-base-antiderrapante/p/MLB80097388?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793167184
   }
  ]
 }
