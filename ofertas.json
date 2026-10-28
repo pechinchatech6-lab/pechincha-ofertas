@@ -1,7 +1,21 @@
 {
- "updated": 1793197517,
+ "updated": 1793197938,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 165,
+   "key": "mercadolivre:MLB60189714",
+   "title": "Case Bolsa Proteção Para Boombox Plus Aiwa Prova D'agua Acolchoada Premium",
+   "price": 128.0,
+   "original": 177.65,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_892110-MLA100078770513_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/case-bolsa-protecao-para-boombox-plus-aiwa-prova-d-agua-acolchoada-premium/p/MLB60189714?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793197918
+  },
   {
    "n": 164,
    "key": "mercadolivre:MLB60710168",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793173078
-  },
-  {
-   "n": 105,
-   "key": "mercadolivre:MLB44518871",
-   "title": "Suporte Para Projetor De Teto Parede Fixo Inclinável 15 Graus Giratório 360 Graus Suporta Até 10kg Feito Em Aço Carbono Pintura Eletrostática Brasforma Sbrp756 ",
-   "price": 54.88,
-   "original": 90.06,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_949564-MLA91981221977_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suporte-para-projetor-de-teto-parede-fixo-inclinavel-15-graus-giratorio-360-graus-suporta-ate-10kg-feito-em-aco-carbono-/p/MLB44518871?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793172657
   }
  ]
 }
