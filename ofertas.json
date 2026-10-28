@@ -1,7 +1,21 @@
 {
- "updated": 1793185307,
+ "updated": 1793185729,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 136,
+   "key": "mercadolivre:MLB64244402",
+   "title": "Relógio Inteligente Smartwatch Alexa Chamadas NOVANTE Masculino Feminino Esportivo IP68 Bluetooth Notificações Instantâneas Tela Hd 1.83 300mAh 10Dias Monitor C",
+   "price": 148.79,
+   "original": 299.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_601086-MLA105614859580_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-inteligente-smartwatch-alexa-chamadas-novante-masculino-feminino-esportivo-ip68-bluetooth-notificacoes-instantan/p/MLB64244402?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793185709
+  },
   {
    "n": 135,
    "key": "mercadolivre:MLB64212276",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793160869
-  },
-  {
-   "n": 76,
-   "key": "mercadolivre:MLB42270876",
-   "title": "Computador Completo Fast Intel Core i5, 8GB RAM, SSD 256GB, Windows 10 Pro, Bivolt, Preto, Monitor 20\" LED, Mouse e Teclado - BluePC CD2E-0110FA",
-   "price": 1047.0,
-   "original": 1365.56,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_996195-MLA114054845027_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/computador-completo-fast-intel-core-i5-8gb-ram-ssd-256gb-windows-10-pro-bivolt-preto-monitor-20-led-mouse-e-teclado-blue/p/MLB42270876?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793160448
   }
  ]
 }
