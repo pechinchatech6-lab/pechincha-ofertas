@@ -1,7 +1,21 @@
 {
- "updated": 1793184044,
+ "updated": 1793184465,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 133,
+   "key": "mercadolivre:MLB69794678",
+   "title": "Relogio Microwear Smartwatch S11 Mini Series 11 42mm Whatsapp Gps Nfc Modo Esporte Fitness inteligente Prateado Branco",
+   "price": 112.99,
+   "original": 234.49,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_685710-MLA112819581045_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-microwear-smartwatch-s11-mini-series-11-42mm-whatsapp-gps-nfc-modo-esporte-fitness-inteligente-prateado-branco/p/MLB69794678?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793184445
+  },
   {
    "n": 132,
    "key": "mercadolivre:MLB64369743",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793159606
-  },
-  {
-   "n": 73,
-   "key": "mercadolivre:MLB63708330",
-   "title": "Monitor LG LED 20\" - HD+, 75Hz, 2ms, HDMI/VGA, Modo Leitura, Flicker Safe, Black Stabilizer, Dynamic Action Sync, Preto- 20U401A",
-   "price": 365.7,
-   "original": 795.0,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_699928-MLA105314087580_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/monitor-lg-led-20-hd-75hz-2ms-hdmi-vga-modo-leitura-flicker-safe-black-stabilizer-dynamic-action-sync-preto-20u401a/p/MLB63708330?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793159185
   }
  ]
 }
