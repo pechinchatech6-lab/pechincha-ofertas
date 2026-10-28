@@ -1,7 +1,21 @@
 {
- "updated": 1793162994,
+ "updated": 1793163415,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 83,
+   "key": "mercadolivre:MLB74164353",
+   "title": "Pulseira Compatível Suporte Para Rastreador Airtag Silicone Impermeável Com Tampa Cor VERMELHO",
+   "price": 38.0,
+   "original": 62.49,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_884510-MLA116609128806_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pulseira-compativel-suporte-para-rastreador-airtag-silicone-impermeavel-com-tampa-cor-vermelho/p/MLB74164353?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793163395
+  },
   {
    "n": 82,
    "key": "mercadolivre:MLB53190875",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793138556
-  },
-  {
-   "n": 23,
-   "key": "mercadolivre:MLB78298533",
-   "title": "Bolsa Organizadora De Cabos Eletrônicos Extra Grande Estojo Case Bag Viagem Porta Carregador Fios ECOMMIND Azul Escuro",
-   "price": 30.02,
-   "original": 58.36,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_739035-MLA116713460547_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bolsa-organizadora-de-cabos-eletronicos-extra-grande-estojo-case-bag-viagem-porta-carregador-fios-ecommind-azul-escuro/p/MLB78298533?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793138135
   }
  ]
 }
