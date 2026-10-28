@@ -1,7 +1,21 @@
 {
- "updated": 1793202148,
+ "updated": 1793202569,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 176,
+   "key": "mercadolivre:MLB65095700",
+   "title": "Cabo Hdmi 2.1 8k Gold Ultra Hd Compatível Com Ps5 Xbox Series X/s 3 Metros",
+   "price": 26.0,
+   "original": 59.99,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_767260-MLA105587446430_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-hdmi-2-1-8k-gold-ultra-hd-compativel-com-ps5-xbox-series-x-s-3-metros/p/MLB65095700?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793202549
+  },
   {
    "n": 175,
    "key": "mercadolivre:MLB66703245",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793177709
-  },
-  {
-   "n": 116,
-   "key": "mercadolivre:MLB1046215784",
-   "title": "iPhone 16e (128 GB) - Preto - Distribuidor Autorizado",
-   "price": 3544.44,
-   "original": 5799.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793177288
   }
  ]
 }
