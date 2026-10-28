@@ -1,7 +1,21 @@
 {
- "updated": 1793222482,
+ "updated": 1793222903,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 224,
+   "key": "mercadolivre:MLB48955624",
+   "title": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth Portátil Cinema Em Casa Imagem Nítida Controle Remoto Tela Grande Para Filmes Jogos Aulas Apresentaç",
+   "price": 209.9,
+   "original": 299.0,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_909577-MLA119937439949_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-projetor-davely-hy300-4k-android-com-wi-fi-e-bluetooth-portatil-cinema-em-casa-imagem-nitida-controle-remoto-tela-g/p/MLB48955624?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793222883
+  },
   {
    "n": 223,
    "key": "mercadolivre:MLB47069513",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793197918
-  },
-  {
-   "n": 164,
-   "key": "mercadolivre:MLB60710168",
-   "title": "Bolsa Case Capa Compatível Jbl Boombox 4 Lançamento Premium",
-   "price": 177.0,
-   "original": 349.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_909102-MLA99986839091_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bolsa-case-capa-compativel-jbl-boombox-4-lancamento-premium/p/MLB60710168?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793197497
   }
  ]
 }
