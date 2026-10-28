@@ -1,7 +1,21 @@
 {
- "updated": 1793194570,
+ "updated": 1793194991,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 158,
+   "key": "mercadolivre:MLB47161143",
+   "title": "Caneta Laser Verde Ultra Forte Alcance 100km Recarregavel Para Trilhas Apresentações Profissionais Astronomia Prova D'agua Marca EX Decor",
+   "price": 39.57,
+   "original": 46.56,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_933964-MLA99605930680_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caneta-laser-verde-ultra-forte-alcance-100km-recarregavel-para-trilhas-apresentacoes-profissionais-astronomia-prova-d-ag/p/MLB47161143?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793194971
+  },
   {
    "n": 157,
    "key": "mercadolivre:MLB51529396",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793170131
-  },
-  {
-   "n": 98,
-   "key": "mercadolivre:MLB79031551",
-   "title": "Suporte Para Notebook e Macbook Dobrável Ajustavel Antiderrapante Resistente Prateado 6 Posiçoes Woosh",
-   "price": 20.99,
-   "original": 49.0,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_990740-MLA115825182532_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suporte-para-notebook-e-macbook-dobravel-ajustavel-antiderrapante-resistente-prateado-6-posicoes-woosh/p/MLB79031551?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793169710
   }
  ]
 }
