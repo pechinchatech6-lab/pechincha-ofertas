@@ -1,7 +1,21 @@
 {
- "updated": 1793209305,
+ "updated": 1793209726,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 193,
+   "key": "mercadolivre:MLB79421341",
+   "title": "Kit 2 Controles Remoto Para Tv Samsung Smart Hub 4k Lcd Led Plasma",
+   "price": 23.89,
+   "original": 59.9,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680580-MLA116549265190_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-2-controles-remoto-para-tv-samsung-smart-hub-4k-lcd-led-plasma/p/MLB79421341?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793209706
+  },
   {
    "n": 192,
    "key": "mercadolivre:MLB66153868",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793184866
-  },
-  {
-   "n": 133,
-   "key": "mercadolivre:MLB69794678",
-   "title": "Relogio Microwear Smartwatch S11 Mini Series 11 42mm Whatsapp Gps Nfc Modo Esporte Fitness inteligente Prateado Branco",
-   "price": 112.99,
-   "original": 234.49,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_685710-MLA112819581045_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-microwear-smartwatch-s11-mini-series-11-42mm-whatsapp-gps-nfc-modo-esporte-fitness-inteligente-prateado-branco/p/MLB69794678?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793184445
   }
  ]
 }
