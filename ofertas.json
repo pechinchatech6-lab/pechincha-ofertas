@@ -1,7 +1,21 @@
 {
- "updated": 1793173519,
+ "updated": 1793173940,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 108,
+   "key": "mercadolivre:MLB66044644",
+   "title": "Carregador Turbo 67w Usb-c + Cabo Tipo C Branco",
+   "price": 24.83,
+   "original": 69.99,
+   "pct": 65,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_703829-MLA113653499250_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/carregador-turbo-67w-usb-c-cabo-tipo-c-branco/p/MLB66044644?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793173920
+  },
   {
    "n": 107,
    "key": "mercadolivre:MLB50592250",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793149081
-  },
-  {
-   "n": 48,
-   "key": "mercadolivre:MLB74474921",
-   "title": "Mini Nobreak Dc Ups 9v 12v Bivolt Para Roteador Câmeras E Modems 8000mAh Roteador Modem Câmera ONU DC UPS Bivolt Backup Energia Autonomia Para Equipamentos Dave",
-   "price": 99.0,
-   "original": 168.0,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_831599-MLA116242915401_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-nobreak-dc-ups-9v-12v-bivolt-para-roteador-cameras-e-modems-8000mah-roteador-modem-camera-onu-dc-ups-bivolt-backup-/p/MLB74474921?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793148660
   }
  ]
 }
