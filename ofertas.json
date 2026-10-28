@@ -1,7 +1,21 @@
 {
- "updated": 1793158784,
+ "updated": 1793159205,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 73,
+   "key": "mercadolivre:MLB63708330",
+   "title": "Monitor LG LED 20\" - HD+, 75Hz, 2ms, HDMI/VGA, Modo Leitura, Flicker Safe, Black Stabilizer, Dynamic Action Sync, Preto- 20U401A",
+   "price": 365.7,
+   "original": 795.0,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_699928-MLA105314087580_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/monitor-lg-led-20-hd-75hz-2ms-hdmi-vga-modo-leitura-flicker-safe-black-stabilizer-dynamic-action-sync-preto-20u401a/p/MLB63708330?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793159185
+  },
   {
    "n": 72,
    "key": "mercadolivre:MLB52027456",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793134346
-  },
-  {
-   "n": 13,
-   "key": "mercadolivre:MLB76579694",
-   "title": "Pen Drive 16GB Bahrein Mini Chaveiro USB Metal Prata para Notebook e Som Automotivo",
-   "price": 33.85,
-   "original": 78.9,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674275-MLA114536473496_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pen-drive-16gb-bahrein-mini-chaveiro-usb-metal-prata-para-notebook-e-som-automotivo/p/MLB76579694?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793133925
   }
  ]
 }
