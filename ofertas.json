@@ -1,7 +1,21 @@
 {
- "updated": 1793175203,
+ "updated": 1793175624,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 112,
+   "key": "mercadolivre:MLB48478097",
+   "title": "Cabo Carregador Turbo Tipo C Para iPhone 8 X Xr 11 12 13 14 Pro Max Cor Branco Dtimp",
+   "price": 19.0,
+   "original": 29.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_826812-MLA111718763226_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-carregador-turbo-tipo-c-para-iphone-8-x-xr-11-12-13-14-pro-max-cor-branco-dtimp/p/MLB48478097?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793175604
+  },
   {
    "n": 111,
    "key": "mercadolivre:MLB77148715",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793150765
-  },
-  {
-   "n": 52,
-   "key": "mercadolivre:MLB38125677",
-   "title": "Nobreak TS Shara XPro Senoidal 1400VA Universal Bivolt - 4551",
-   "price": 931.8,
-   "original": 1399.0,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_607113-MLA99513079738_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nobreak-ts-shara-xpro-senoidal-1400va-universal-bivolt-4551/p/MLB38125677?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793150344
   }
  ]
 }
