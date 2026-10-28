@@ -1,7 +1,21 @@
 {
- "updated": 1793197938,
+ "updated": 1793198359,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 166,
+   "key": "mercadolivre:MLB76486464",
+   "title": "Capa Para Controle Remoto LG Magic MR25GA de Silicone Premium Preto Brilha no Escuro",
+   "price": 24.0,
+   "original": 37.1,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_628349-MLA114384237220_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/capa-para-controle-remoto-lg-magic-mr25ga-de-silicone-premium-preto-brilha-no-escuro/p/MLB76486464?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793198339
+  },
   {
    "n": 165,
    "key": "mercadolivre:MLB60189714",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793173499
-  },
-  {
-   "n": 106,
-   "key": "mercadolivre:MLB51975147",
-   "title": "Microsoft 365 Family 2026 + Mcafee Premium - Licença 1 Ano",
-   "price": 433.0,
-   "original": 599.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_981446-MLA111696799011_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microsoft-365-family-2026-mcafee-premium-licenca-1-ano/p/MLB51975147?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793173078
   }
  ]
 }
