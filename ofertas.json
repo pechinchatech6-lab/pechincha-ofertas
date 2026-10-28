@@ -1,7 +1,21 @@
 {
- "updated": 1793225429,
+ "updated": 1793225850,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 231,
+   "key": "mercadolivre:MLB60728265",
+   "title": "Smart Tv Aoc Dled 32 Wi-fi Roku Tv Quad Core 32s5155/78g",
+   "price": 919.99,
+   "original": 2054.99,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_802027-MLA120306983603_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-aoc-dled-32-wi-fi-roku-tv-quad-core-32s5155-78g/p/MLB60728265?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793225830
+  },
   {
    "n": 230,
    "key": "mercadolivre:MLB75681377",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793200865
-  },
-  {
-   "n": 171,
-   "key": "mercadolivre:MLB66796145",
-   "title": "Cabo Adaptador 1.8M Displayport Macho Para Hdmi Macho 4k a 60Hz Blindado Gold Unidirecional 1.8 Metros Alta Definição Para Pc Tv Monitor Games - Yuso",
-   "price": 22.99,
-   "original": 44.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_702713-MLA109042385763_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-adaptador-1-8m-displayport-macho-para-hdmi-macho-4k-a-60hz-blindado-gold-unidirecional-1-8-metros-alta-definicao-pa/p/MLB66796145?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793200444
   }
  ]
 }
