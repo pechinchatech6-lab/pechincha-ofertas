@@ -1,7 +1,21 @@
 {
- "updated": 1793174782,
+ "updated": 1793175203,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 111,
+   "key": "mercadolivre:MLB77148715",
+   "title": "Carregador Portátil Power Bank Turbo inova 20000mah 22.5w Com Display Digital Usb-c / Usb-a Carga Rápida - Azul",
+   "price": 128.79,
+   "original": 159.0,
+   "pct": 19,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_710863-MLA117306951342_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/carregador-portatil-power-bank-turbo-inova-20000mah-22-5w-com-display-digital-usb-c-usb-a-carga-rapida-azul/p/MLB77148715?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793175183
+  },
   {
    "n": 110,
    "key": "mercadolivre:MLB61699327",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793150344
-  },
-  {
-   "n": 51,
-   "key": "mercadolivre:MLB38769725",
-   "title": "Nobreak Apc 600va Entrada bIVOLT e Saída 115v Bvx600bi-br",
-   "price": 349.0,
-   "original": 443.9,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_854533-MLA111080796680_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nobreak-apc-600va-entrada-bivolt-e-saida-115v-bvx600bi-br/p/MLB38769725?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793149923
   }
  ]
 }
