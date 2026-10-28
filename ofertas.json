@@ -1,7 +1,21 @@
 {
- "updated": 1793157942,
+ "updated": 1793158363,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 71,
+   "key": "mercadolivre:MLB29902763",
+   "title": "Monitor Fmaxx 19'' Led Com Hdmi Vga Vesa cor Preto MQ19V",
+   "price": 199.9,
+   "original": 379.99,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631062-MLA99414535008_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/monitor-fmaxx-19-led-com-hdmi-vga-vesa-cor-preto-mq19v/p/MLB29902763?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793158343
+  },
   {
    "n": 70,
    "key": "mercadolivre:MLB42420279",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793133504
-  },
-  {
-   "n": 11,
-   "key": "mercadolivre:MLB57365312",
-   "title": "Pen Drive 16gb Mini Usb 2.0 Chaveiro Metalico Resistente Alt Prateado",
-   "price": 29.99,
-   "original": 43.9,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_626466-MLA100081728873_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pen-drive-16gb-mini-usb-2-0-chaveiro-metalico-resistente-alt-prateado/p/MLB57365312?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793133083
   }
  ]
 }
