@@ -1,7 +1,21 @@
 {
- "updated": 1793160889,
+ "updated": 1793161310,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 78,
+   "key": "mercadolivre:MLB54486813",
+   "title": "Computador Completo Intel Core i5, 16GB RAM, SSD 256GB, Monitor LED 20\", Windows 10 Pro, Preto, Bivolt - BluePC Office1 CDBP-OFF1-108",
+   "price": 1288.0,
+   "original": 1543.33,
+   "pct": 17,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_635252-MLA99509482194_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/computador-completo-intel-core-i5-16gb-ram-ssd-256gb-monitor-led-20-windows-10-pro-preto-bivolt-bluepc-office1-cdbp-off1/p/MLB54486813?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793161290
+  },
   {
    "n": 77,
    "key": "mercadolivre:MLB71909304",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793136451
-  },
-  {
-   "n": 18,
-   "key": "mercadolivre:MLB67713674",
-   "title": "Hub Usb 3.0 7 Portas Entradas Alta Velocidade 5gbps Com Led E Botões Individuais Plug And Play Compatível Com Notebook Pc Tv Console Impressora Mouse E Teclado ",
-   "price": 26.99,
-   "original": 42.99,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_721593-MLA109322214918_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hub-usb-3-0-7-portas-entradas-alta-velocidade-5gbps-com-led-e-botoes-individuais-plug-and-play-compativel-com-notebook-p/p/MLB67713674?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793136030
   }
  ]
 }
