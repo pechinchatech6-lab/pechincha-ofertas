@@ -1,7 +1,21 @@
 {
- "updated": 1793160047,
+ "updated": 1793160468,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 76,
+   "key": "mercadolivre:MLB42270876",
+   "title": "Computador Completo Fast Intel Core i5, 8GB RAM, SSD 256GB, Windows 10 Pro, Bivolt, Preto, Monitor 20\" LED, Mouse e Teclado - BluePC CD2E-0110FA",
+   "price": 1047.0,
+   "original": 1365.56,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_996195-MLA114054845027_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/computador-completo-fast-intel-core-i5-8gb-ram-ssd-256gb-windows-10-pro-bivolt-preto-monitor-20-led-mouse-e-teclado-blue/p/MLB42270876?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793160448
+  },
   {
    "n": 75,
    "key": "mercadolivre:MLB46250576",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793135609
-  },
-  {
-   "n": 16,
-   "key": "mercadolivre:MLB78752003",
-   "title": "Adaptador Hub Usb Com 8 Portas Rj45 Hdmi Usb 3.0 E 2.0 Tipo C Micro Sd Cartão Ethernet Cabo Thunderbolt Dock Station Dex Macbook Air M1 M2 iPad Type C Tablet Co",
-   "price": 47.38,
-   "original": 69.9,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_841385-MLA116990562325_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/adaptador-hub-usb-com-8-portas-rj45-hdmi-usb-3-0-e-2-0-tipo-c-micro-sd-cartao-ethernet-cabo-thunderbolt-dock-station-dex/p/MLB78752003?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793135188
   }
  ]
 }
