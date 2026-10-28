@@ -1,7 +1,21 @@
 {
- "updated": 1793214062,
+ "updated": 1793214483,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 204,
+   "key": "mercadolivre:MLB77671691",
+   "title": "Tv Stick Android 4k Com Wi-fi Dual Band, 8gb E 128gb Para Smart Tv Preto Padrão iDeel",
+   "price": 180.89,
+   "original": 286.77,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_887407-MLA116395254541_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/tv-stick-android-4k-com-wi-fi-dual-band-8gb-e-128gb-para-smart-tv-preto-padrao-ideel/p/MLB77671691?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793214463
+  },
   {
    "n": 203,
    "key": "mercadolivre:MLB40923284",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793189498
-  },
-  {
-   "n": 144,
-   "key": "mercadolivre:MLB54488375",
-   "title": "Antena Digital Sinal 4k Hd Smart Tv Interna Externa Para Tv Samsung LG Led Lcd 3d Hdtv Uhf Amplificador Cabo Longo De 5 Metros Com Base Magnética Diggicom",
-   "price": 32.9,
-   "original": 43.16,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_696734-MLA100079982613_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/antena-digital-sinal-4k-hd-smart-tv-interna-externa-para-tv-samsung-lg-led-lcd-3d-hdtv-uhf-amplificador-cabo-longo-de-5-/p/MLB54488375?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793189077
   }
  ]
 }
