@@ -1,7 +1,21 @@
 {
- "updated": 1793168888,
+ "updated": 1793169309,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 97,
+   "key": "mercadolivre:MLB58147143",
+   "title": "Mini Ventilador Portátil Basike de 3 Velocidades Recarregável com USB",
+   "price": 78.98,
+   "original": 112.57,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_888276-MLA99369518484_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-ventilador-portatil-basike-de-3-velocidades-recarregavel-com-usb/p/MLB58147143?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793169289
+  },
   {
    "n": 96,
    "key": "mercadolivre:MLB62754381",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793144450
-  },
-  {
-   "n": 37,
-   "key": "mercadolivre:MLB67989415",
-   "title": "Roteador TP-Link EX3000 Wi-Fi 6 de Banda Dupla, 3 Gbps e 4 Antenas para até 180 m²",
-   "price": 222.0,
-   "original": 269.0,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_755357-MLA109556445022_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/roteador-tp-link-ex3000-wi-fi-6-de-banda-dupla-3-gbps-e-4-antenas-para-ate-180-m2/p/MLB67989415?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793144029
   }
  ]
 }
