@@ -1,7 +1,21 @@
 {
- "updated": 1793163836,
+ "updated": 1793164257,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 85,
+   "key": "mercadolivre:MLB18610706",
+   "title": "Logitech Mk235 ABNT2 Português Teclado E Mouse Grafite Preto",
+   "price": 165.1,
+   "original": 219.0,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_735713-MLA99973706633_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/logitech-mk235-abnt2-portugues-teclado-e-mouse-grafite-preto/p/MLB18610706?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793164237
+  },
   {
    "n": 84,
    "key": "mercadolivre:MLB28332994",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793139398
-  },
-  {
-   "n": 25,
-   "key": "mercadolivre:MLB30385917",
-   "title": "Hub 5 Em 1 Ugreen Usb-c Para 3* Usb + Hdmi 4k + Tipo-c 100w",
-   "price": 113.0,
-   "original": 160.0,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_971024-MLA100041532373_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hub-5-em-1-ugreen-usb-c-para-3-usb-hdmi-4k-tipo-c-100w/p/MLB30385917?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793138977
   }
  ]
 }
