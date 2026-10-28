@@ -1,7 +1,21 @@
 {
- "updated": 1793201727,
+ "updated": 1793202148,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 175,
+   "key": "mercadolivre:MLB66703245",
+   "title": "Cabo Adaptador P3(p2 Combo)p/ Fone E Microfone Headset 20cm Pro Brindes",
+   "price": 19.49,
+   "original": 29.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_958905-MLA108819112295_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-adaptador-p3-p2-combo-p-fone-e-microfone-headset-20cm-pro-brindes/p/MLB66703245?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793202128
+  },
   {
    "n": 174,
    "key": "mercadolivre:MLB68126743",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793177288
-  },
-  {
-   "n": 115,
-   "key": "mercadolivre:MLB1055308835",
-   "title": "iPhone 17 de 256 GB - Lavanda - Distribuidor Autorizado",
-   "price": 6332.22,
-   "original": 7999.0,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_896332-MLA95400062457_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/iphone-17-de-256-gb-lavanda-distribuidor-autorizado/p/MLB1055308835?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793176867
   }
  ]
 }
