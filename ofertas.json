@@ -1,7 +1,21 @@
 {
- "updated": 1793192465,
+ "updated": 1793192886,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 153,
+   "key": "mercadolivre:MLB58601220",
+   "title": "Cabo Adaptador Hdmi Para Vga E Tv Pc Notebook Audio E Video Dr Hank",
+   "price": 9.29,
+   "original": 12.0,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_900486-MLA100085789449_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-adaptador-hdmi-para-vga-e-tv-pc-notebook-audio-e-video-dr-hank/p/MLB58601220?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793192866
+  },
   {
    "n": 152,
    "key": "mercadolivre:MLB66526649",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793168026
-  },
-  {
-   "n": 93,
-   "key": "mercadolivre:MLB79379664",
-   "title": "Kit Teclado Mouse Sem Fio Bluetooth Para Tablet Notebook Celular PC Computador Smartphone Portátil Home Office Tr",
-   "price": 44.52,
-   "original": 78.99,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_732840-MLA117712570725_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-teclado-mouse-sem-fio-bluetooth-para-tablet-notebook-celular-pc-computador-smartphone-portatil-home-office-tr/p/MLB79379664?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793167605
   }
  ]
 }
