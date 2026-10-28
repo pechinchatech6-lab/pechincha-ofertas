@@ -1,7 +1,21 @@
 {
- "updated": 1793155838,
+ "updated": 1793156258,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 66,
+   "key": "mercadolivre:MLB25753833",
+   "title": "Limpa Contato Aerossol 300ml Mundial Prime AE06000019",
+   "price": 8.37,
+   "original": 23.9,
+   "pct": 65,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_912873-MLA112727108386_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/limpa-contato-aerossol-300ml-mundial-prime-ae06000019/p/MLB25753833?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793156238
+  },
   {
    "n": 65,
    "key": "mercadolivre:MLB66447486",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793131399
-  },
-  {
-   "n": 6,
-   "key": "mercadolivre:MLB57364763",
-   "title": "Pen Drive 32gb Mini Usb 2.0 Chaveiro Metalico Resistente Alt Prateado Liso",
-   "price": 35.89,
-   "original": 49.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_779588-MLA99843739125_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pen-drive-32gb-mini-usb-2-0-chaveiro-metalico-resistente-alt-prateado-liso/p/MLB57364763?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793130978
   }
  ]
 }
