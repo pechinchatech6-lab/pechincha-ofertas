@@ -1,7 +1,21 @@
 {
- "updated": 1793181518,
+ "updated": 1793181939,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 127,
+   "key": "mercadolivre:MLB64997788",
+   "title": "Smartwatch S10 Série 10 Relógio Digital Masculino Feminino Resistente A Agua Caixa Preta Com 2 Pulseiras Smartwatch Completo Compatível Android E Ios Monitor At",
+   "price": 78.9,
+   "original": 183.0,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_892588-MLA113463134832_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartwatch-s10-serie-10-relogio-digital-masculino-feminino-resistente-a-agua-caixa-preta-com-2-pulseiras-smartwatch-comp/p/MLB64997788?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793181919
+  },
   {
    "n": 126,
    "key": "mercadolivre:MLB62756066",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793157080
-  },
-  {
-   "n": 67,
-   "key": "mercadolivre:MLB50200257",
-   "title": "Monitor gamer Aoc Série B30 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 cor preto",
-   "price": 384.0,
-   "original": 629.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_621055-MLA91966913733_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/monitor-gamer-aoc-serie-b30-21-5-full-hd-gaming-120hz-1ms-22b30hm23-cor-preto/p/MLB50200257?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793156659
   }
  ]
 }
