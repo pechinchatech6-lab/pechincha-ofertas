@@ -1,7 +1,21 @@
 {
- "updated": 1793250162,
+ "updated": 1793250583,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 288,
+   "key": "mercadolivre:MLB43198201",
+   "title": "Case HD Externo USB 3.0 Transparente Para HD/SSD SATA 2,5\" Pholex Gaveta Adaptador Portátil Notebook e PC",
+   "price": 23.69,
+   "original": 34.9,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_796516-MLA107696438578_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/case-hd-externo-usb-3-0-transparente-para-hd-ssd-sata-2-5-pholex-gaveta-adaptador-portatil-notebook-e-pc/p/MLB43198201?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793250563
+  },
   {
    "n": 287,
    "key": "mercadolivre:MLB54009632",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793224988
-  },
-  {
-   "n": 228,
-   "key": "mercadolivre:MLB59090080",
-   "title": "Smart Tv 43 Aoc Led Roku Full Hd Wi-fi 60hz Hdmi Usb 43s5155/78g",
-   "price": 1323.0,
-   "original": 2666.39,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_600093-MLA115184611400_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-43-aoc-led-roku-full-hd-wi-fi-60hz-hdmi-usb-43s5155-78g/p/MLB59090080?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793224567
   }
  ]
 }
