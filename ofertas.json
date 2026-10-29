@@ -1,7 +1,21 @@
 {
- "updated": 1793265739,
+ "updated": 1793266160,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 325,
+   "key": "mercadolivre:MLB80140406",
+   "title": "Adaptador Wi-Fi Davely para Computador e Notebook USB 3.0 Dual Band 2.4/5 GHz com Ethernet Gigabit Com 2 Antenas",
+   "price": 26.9,
+   "original": 77.9,
+   "pct": 65,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_763340-MLA118570892493_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/adaptador-wi-fi-davely-para-computador-e-notebook-usb-3-0-dual-band-2-4-5-ghz-com-ethernet-gigabit-com-2-antenas/p/MLB80140406?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793266140
+  },
   {
    "n": 324,
    "key": "mercadolivre:MLB22256194",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793241301
-  },
-  {
-   "n": 265,
-   "key": "mercadolivre:MLB63966639",
-   "title": "Filamento Pla Plus 1kg Impressão 3d Nacional - Cores Cor Preto",
-   "price": 104.9,
-   "original": 219.3,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_903418-MLA107165042644_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/filamento-pla-plus-1kg-impressao-3d-nacional-cores-cor-preto/p/MLB63966639?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793240880
   }
  ]
 }
