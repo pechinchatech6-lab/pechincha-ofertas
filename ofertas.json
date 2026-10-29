@@ -1,7 +1,21 @@
 {
- "updated": 1793253951,
+ "updated": 1793254372,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 297,
+   "key": "mercadolivre:MLB67713674",
+   "title": "Hub Usb 3.0 7 Portas Entradas Alta Velocidade 5gbps Com Led E Botões Individuais Plug And Play Compatível Com Notebook Pc Tv Console Impressora Mouse E Teclado ",
+   "price": 26.99,
+   "original": 42.99,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_721593-MLA109322214918_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hub-usb-3-0-7-portas-entradas-alta-velocidade-5gbps-com-led-e-botoes-individuais-plug-and-play-compativel-com-notebook-p/p/MLB67713674?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793254352
+  },
   {
    "n": 296,
    "key": "mercadolivre:MLB62080137",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793228777
-  },
-  {
-   "n": 237,
-   "key": "mercadolivre:MLB36555516",
-   "title": "Controle Gamesir T4 Nova Lite sem Fio para Pc Switch Android Ios Steam Celular Hall Effect Cor Preto",
-   "price": 160.0,
-   "original": 299.0,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_810644-MLA99552783268_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-t4-nova-lite-sem-fio-para-pc-switch-android-ios-steam-celular-hall-effect-cor-preto/p/MLB36555516?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793228356
   }
  ]
 }
