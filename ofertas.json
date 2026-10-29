@@ -1,7 +1,21 @@
 {
- "updated": 1793288754,
+ "updated": 1793289175,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 374,
+   "key": "mercadolivre:MLB21693452",
+   "title": "Relógio Casio Masculino Digital Preto de Resina W-59-1VQ",
+   "price": 95.0,
+   "original": 299.9,
+   "pct": 68,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_684326-MLA115755090874_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-casio-masculino-digital-preto-de-resina-w-59-1vq/p/MLB21693452?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793289155
+  },
   {
    "n": 373,
    "key": "mercadolivre:MLB24028629",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793261930
-  },
-  {
-   "n": 314,
-   "key": "mercadolivre:MLB65084012",
-   "title": "Fonte Cooler Master Mwe 750 V3 750w Atx 3.1 Preto",
-   "price": 391.0,
-   "original": 819.0,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_663942-MLA116503586141_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fonte-cooler-master-mwe-750-v3-750w-atx-3-1-preto/p/MLB65084012?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793261509
   }
  ]
 }
