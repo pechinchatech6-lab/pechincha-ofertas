@@ -1,7 +1,21 @@
 {
- "updated": 1793298859,
+ "updated": 1793299280,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 398,
+   "key": "mercadolivre:MLB50567982",
+   "title": "Controle Gamepad GameSir X5 Lite USB-C Android iPhone 15/16 Mobile Hall Effect Turbo Leve Preto",
+   "price": 154.9,
+   "original": 249.0,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_877627-MLA99998011217_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamepad-gamesir-x5-lite-usb-c-android-iphone-15-16-mobile-hall-effect-turbo-leve-preto/p/MLB50567982?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793299260
+  },
   {
    "n": 397,
    "key": "mercadolivre:MLB28894895",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793272034
-  },
-  {
-   "n": 338,
-   "key": "mercadolivre:MLB46114625",
-   "title": "Controle Joystick Sem Fio Gamesir Cyclone 2 Bundle Preto Preto",
-   "price": 244.69,
-   "original": 624.0,
-   "pct": 61,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_635260-MLA99969935527_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-joystick-sem-fio-gamesir-cyclone-2-bundle-preto-preto/p/MLB46114625?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793271613
   }
  ]
 }
