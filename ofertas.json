@@ -1,7 +1,21 @@
 {
- "updated": 1793263634,
+ "updated": 1793264055,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 320,
+   "key": "mercadolivre:MLB70039747",
+   "title": "Repetidor De Sinal Wifi Roteador Wireless Amplificador Potente Sem Fio Turbo Cor Branco 1800mbps Longo Alcance Internet Porta Ethernet Casa Escritório Configura",
+   "price": 39.9,
+   "original": 79.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_734061-MLA114864434888_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/repetidor-de-sinal-wifi-roteador-wireless-amplificador-potente-sem-fio-turbo-cor-branco-1800mbps-longo-alcance-internet-/p/MLB70039747?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793264035
+  },
   {
    "n": 319,
    "key": "mercadolivre:MLB73572959",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793239196
-  },
-  {
-   "n": 260,
-   "key": "mercadolivre:MLB54961556",
-   "title": "Smartphone Samsung Galaxy A07 4G 256GB 8GB Preto 6,7\"",
-   "price": 1099.0,
-   "original": 1499.0,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_895724-MLA91526198522_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a07-4g-256gb-8gb-preto-6-7/p/MLB54961556?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793238775
   }
  ]
 }
