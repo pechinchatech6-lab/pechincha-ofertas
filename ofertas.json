@@ -1,7 +1,21 @@
 {
- "updated": 1793295070,
+ "updated": 1793295491,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 389,
+   "key": "mercadolivre:MLB60126432",
+   "title": "Relógio Chroma Masculino Preto Saint Germain Clássico Caixa Preta Detalhes Prata 42mm",
+   "price": 135.0,
+   "original": 259.9,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_682402-MLA99403901858_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-chroma-masculino-preto-saint-germain-classico-caixa-preta-detalhes-prata-42mm/p/MLB60126432?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793295471
+  },
   {
    "n": 388,
    "key": "mercadolivre:MLB61381053",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793268245
-  },
-  {
-   "n": 329,
-   "key": "mercadolivre:MLB21938011",
-   "title": "Nobreak 1200va E S 220v Camera Cftv Tv Pc Seguranca Xbox Pc",
-   "price": 479.0,
-   "original": 899.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_760873-MLA99937963467_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nobreak-1200va-e-s-220v-camera-cftv-tv-pc-seguranca-xbox-pc/p/MLB21938011?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793267824
   }
  ]
 }
