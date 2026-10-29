@@ -1,7 +1,21 @@
 {
- "updated": 1793304726,
+ "updated": 1793306197,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 408,
+   "key": "mercadolivre:MLB21360271",
+   "title": "Club 6 Voyage Desodorante Colônia 95ml",
+   "price": 95.47,
+   "original": 299.0,
+   "pct": 68,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_888890-MLA109484188480_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/club-6-voyage-desodorante-colonia-95ml/p/MLB21360271?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793306177
+  },
   {
    "n": 407,
    "key": "mercadolivre:MLB39291772",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793276244
-  },
-  {
-   "n": 348,
-   "key": "mercadolivre:MLB51225129",
-   "title": "Leitor Código De Barras Sem Fio Usb De Mão Bar Code Scanner 1d Laser Linear Cor Preto",
-   "price": 134.89,
-   "original": 184.89,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_749820-MLA99396168640_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/leitor-codigo-de-barras-sem-fio-usb-de-mao-bar-code-scanner-1d-laser-linear-cor-preto/p/MLB51225129?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793275823
   }
  ]
 }
