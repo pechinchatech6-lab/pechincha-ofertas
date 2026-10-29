@@ -1,7 +1,21 @@
 {
- "updated": 1793271212,
+ "updated": 1793271633,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 338,
+   "key": "mercadolivre:MLB46114625",
+   "title": "Controle Joystick Sem Fio Gamesir Cyclone 2 Bundle Preto Preto",
+   "price": 244.69,
+   "original": 624.0,
+   "pct": 61,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_635260-MLA99969935527_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-joystick-sem-fio-gamesir-cyclone-2-bundle-preto-preto/p/MLB46114625?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793271613
+  },
   {
    "n": 337,
    "key": "mercadolivre:MLB18010993",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793246774
-  },
-  {
-   "n": 278,
-   "key": "mercadolivre:MLB24075966",
-   "title": "Processador de Áudio Digital Taramps Pro 2.4S para Som Automotivo com Crossover e Equalizador 15 Bandas",
-   "price": 159.08,
-   "original": 230.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_830482-MLA108910560858_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/processador-de-audio-digital-taramps-pro-2-4s-para-som-automotivo-com-crossover-e-equalizador-15-bandas/p/MLB24075966?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793246353
   }
  ]
 }
