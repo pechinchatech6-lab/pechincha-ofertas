@@ -1,7 +1,21 @@
 {
- "updated": 1793259424,
+ "updated": 1793259845,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 310,
+   "key": "mercadolivre:MLB55762063",
+   "title": "Smartphone Motorola Moto G06 - 256gb 4gb Ram + 8gb Ram Boost, e Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9 - Bege",
+   "price": 889.0,
+   "original": 1099.0,
+   "pct": 19,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_793349-MLA91806774304_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g06-256gb-4gb-ram-8gb-ram-boost-e-camera-50mp-com-ai-bateria-de-5200-mah-tela-6-9-bege/p/MLB55762063?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793259825
+  },
   {
    "n": 309,
    "key": "mercadolivre:MLB54068377",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793234725
-  },
-  {
-   "n": 250,
-   "key": "mercadolivre:MLB22921642",
-   "title": "HD Externo Portátil Toshiba Canvio HDTB520XK3AA 2TB preto",
-   "price": 742.0,
-   "original": 2000.0,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_854006-MLA99509377842_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hd-externo-portatil-toshiba-canvio-hdtb520xk3aa-2tb-preto/p/MLB22921642?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793233908
   }
  ]
 }
