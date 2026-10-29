@@ -1,7 +1,21 @@
 {
- "updated": 1793235166,
+ "updated": 1793235587,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 253,
+   "key": "mercadolivre:MLB78620279",
+   "title": "Nintendo Switch Sports Resort - NS2",
+   "price": 379.96,
+   "original": 480.97,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_842013-MLA116813640343_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nintendo-switch-sports-resort-ns2/p/MLB78620279?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793235567
+  },
   {
    "n": 252,
    "key": "mercadolivre:MLB63980306",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793210253
-  },
-  {
-   "n": 193,
-   "key": "mercadolivre:MLB79421341",
-   "title": "Kit 2 Controles Remoto Para Tv Samsung Smart Hub 4k Lcd Led Plasma",
-   "price": 23.89,
-   "original": 59.9,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_680580-MLA116549265190_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-2-controles-remoto-para-tv-samsung-smart-hub-4k-lcd-led-plasma/p/MLB79421341?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793209706
   }
  ]
 }
