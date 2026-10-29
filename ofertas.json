@@ -1,7 +1,21 @@
 {
- "updated": 1793280851,
+ "updated": 1793281272,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 359,
+   "key": "mercadolivre:MLB56129679",
+   "title": "Boné Ny New York Masculino Feminino Unissex Fitão Blogueira Cor Branco E Preto Tamanho Un",
+   "price": 31.91,
+   "original": 44.99,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_918468-MLA92439464901_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bone-ny-new-york-masculino-feminino-unissex-fitao-blogueira-cor-branco-e-preto-tamanho-un/p/MLB56129679?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793281252
+  },
   {
    "n": 358,
    "key": "mercadolivre:MLB59019868",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793255615
-  },
-  {
-   "n": 299,
-   "key": "mercadolivre:MLB70121902",
-   "title": "Hub USB-C 6 em 1 PDO com HDMI 4K e 3 Portas USB para Notebook, MacBook e iPad",
-   "price": 37.9,
-   "original": 49.9,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_781312-MLA111560926494_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hub-usb-c-6-em-1-pdo-com-hdmi-4k-e-3-portas-usb-para-notebook-macbook-e-ipad/p/MLB70121902?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793255194
   }
  ]
 }
