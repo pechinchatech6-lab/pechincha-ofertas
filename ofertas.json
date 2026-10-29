@@ -1,7 +1,21 @@
 {
- "updated": 1793252688,
+ "updated": 1793253109,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 294,
+   "key": "mercadolivre:MLB47609067",
+   "title": "Hub Usb 4 Portas Usb 3.0 5 Gbps Extensor Adaptador Usb 3.0 Computador Pc Notebook Chrome Technology",
+   "price": 19.99,
+   "original": 24.99,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_679252-MLA115896968127_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hub-usb-4-portas-usb-3-0-5-gbps-extensor-adaptador-usb-3-0-computador-pc-notebook-chrome-technology/p/MLB47609067?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793253089
+  },
   {
    "n": 293,
    "key": "mercadolivre:MLB77562776",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793227514
-  },
-  {
-   "n": 234,
-   "key": "mercadolivre:MLB19955269",
-   "title": "Smart TV AIWA 32” Android HD Borda Ultrafina HDR10 Dolby Áudio AWS-TV-32-BL-02-A",
-   "price": 949.0,
-   "original": 1399.9,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_690159-MLA99542831560_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-aiwa-32-android-hd-borda-ultrafina-hdr10-dolby-audio-aws-tv-32-bl-02-a/p/MLB19955269?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793227093
   }
  ]
 }
