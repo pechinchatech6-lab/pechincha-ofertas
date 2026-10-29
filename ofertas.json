@@ -1,7 +1,21 @@
 {
- "updated": 1793282535,
+ "updated": 1793282956,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 363,
+   "key": "mercadolivre:MLB61522379",
+   "title": "Máquina De Lavar Bwf14ab 14kg Smart Sensor Ciclo Brastemp - Branco",
+   "price": 1686.0,
+   "original": 2618.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_689270-MLA99993124957_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-bwf14ab-14kg-smart-sensor-ciclo-brastemp-branco/p/MLB61522379?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793282936
+  },
   {
    "n": 362,
    "key": "mercadolivre:MLB63980306",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793257299
-  },
-  {
-   "n": 303,
-   "key": "mercadolivre:MLB76584148",
-   "title": "Adaptador Hub Usb Com 8 Portas Rj45 Hdmi Usb 3.0 E 2.0 Tipo C Micro Sd Cartão Ethernet Cabo Thunderbolt Dock Station Dex Macbook Air M1 M2 iPad Type C Tablet Co",
-   "price": 38.9,
-   "original": 69.9,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_988283-MLA115185101792_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/adaptador-hub-usb-com-8-portas-rj45-hdmi-usb-3-0-e-2-0-tipo-c-micro-sd-cartao-ethernet-cabo-thunderbolt-dock-station-dex/p/MLB76584148?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793256878
   }
  ]
 }
