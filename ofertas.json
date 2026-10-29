@@ -1,7 +1,21 @@
 {
- "updated": 1793255635,
+ "updated": 1793256056,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 301,
+   "key": "mercadolivre:MLB26059079",
+   "title": "Cabo Turbo Baseus P/ iPhone Usb-c P/ Lightning 20w 2m",
+   "price": 41.0,
+   "original": 79.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_834692-MLA99568255010_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-turbo-baseus-p-iphone-usb-c-p-lightning-20w-2m/p/MLB26059079?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793256036
+  },
   {
    "n": 300,
    "key": "mercadolivre:MLB42553350",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793230540
-  },
-  {
-   "n": 241,
-   "key": "mercadolivre:MLB16056056",
-   "title": "Headset Gamer Redragon Ares Pto Preto",
-   "price": 79.06,
-   "original": 115.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_849034-MLU77358479773_062024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/headset-gamer-redragon-ares-pto-preto/p/MLB16056056?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793230119
   }
  ]
 }
