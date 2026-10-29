@@ -1,7 +1,21 @@
 {
- "updated": 1793243426,
+ "updated": 1793243847,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 272,
+   "key": "mercadolivre:MLB56422538",
+   "title": "Controle Para Xbox 360 Com Fio Joystick Manete Gamepass Steam Tv Pc Android - Crowley",
+   "price": 42.1,
+   "original": 78.9,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_962495-MLA116220464242_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-para-xbox-360-com-fio-joystick-manete-gamepass-steam-tv-pc-android-crowley/p/MLB56422538?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793243827
+  },
   {
    "n": 271,
    "key": "mercadolivre:MLB22778772",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793218252
-  },
-  {
-   "n": 212,
-   "key": "mercadolivre:MLB43518035",
-   "title": "Pilha Zinco Aaa Philips Bateria Carvão Palito Tubo Kit 40 Un",
-   "price": 43.5,
-   "original": 51.06,
-   "pct": 15,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_722755-MLA99450207836_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pilha-zinco-aaa-philips-bateria-carvao-palito-tubo-kit-40-un/p/MLB43518035?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793217831
   }
  ]
 }
