@@ -1,7 +1,21 @@
 {
- "updated": 1793244689,
+ "updated": 1793245110,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 275,
+   "key": "mercadolivre:MLB70514530",
+   "title": "Carregador Portátil Power Bank 20.000mah Turbo Celular Carga Rápida 22.5w Premium Display Visor Grande Universal Usb-c Viagens Festa Para los E Android iPhone S",
+   "price": 72.9,
+   "original": 129.9,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_918189-MLA113906382815_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/carregador-portatil-power-bank-20-000mah-turbo-celular-carga-rapida-22-5w-premium-display-visor-grande-universal-usb-c-v/p/MLB70514530?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793245090
+  },
   {
    "n": 274,
    "key": "mercadolivre:MLB25980994",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793219515
-  },
-  {
-   "n": 215,
-   "key": "mercadolivre:MLB27577458",
-   "title": "Ventilador de Coluna 40cm Super Power VSP40C 6 Pás 3 Velocidades Mondial 127v",
-   "price": 219.9,
-   "original": 289.9,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_867266-MLA114707041229_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-40cm-super-power-vsp40c-6-pas-3-velocidades-mondial-127v/p/MLB27577458?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793219094
   }
  ]
 }
