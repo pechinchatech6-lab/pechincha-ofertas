@@ -1,7 +1,21 @@
 {
- "updated": 1793236429,
+ "updated": 1793236850,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 256,
+   "key": "mercadolivre:MLB64970548",
+   "title": "Leitor De Cartão Usb 3.0 Adaptador Micro Sd / Sdxc 5gbps",
+   "price": 21.9,
+   "original": 36.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_973989-MLA105677039100_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/leitor-de-cartao-usb-3-0-adaptador-micro-sd-sdxc-5gbps/p/MLB64970548?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793236830
+  },
   {
    "n": 255,
    "key": "mercadolivre:MLB16033454",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793211516
-  },
-  {
-   "n": 196,
-   "key": "mercadolivre:MLB68833589",
-   "title": "Controle Remotos Para Tv Philips Smart Lcd E Led Com Tecla Netflix E Pilhas",
-   "price": 19.89,
-   "original": 29.89,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_902623-MLA110122301570_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-remotos-para-tv-philips-smart-lcd-e-led-com-tecla-netflix-e-pilhas/p/MLB68833589?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793211095
   }
  ]
 }
