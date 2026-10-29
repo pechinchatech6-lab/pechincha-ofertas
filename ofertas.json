@@ -1,7 +1,21 @@
 {
- "updated": 1793295491,
+ "updated": 1793295912,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 390,
+   "key": "mercadolivre:MLB19104021",
+   "title": "Micro-ondas MO-01-21-W 1200W Mondial",
+   "price": 459.0,
+   "original": 636.9,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_971379-MLA99957853113_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-mo-01-21-w-1200w-mondial/p/MLB19104021?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793295892
+  },
   {
    "n": 389,
    "key": "mercadolivre:MLB60126432",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793268666
-  },
-  {
-   "n": 330,
-   "key": "mercadolivre:MLB34263305",
-   "title": "Mini UPS 35W ( Nobreak) USB Type-C Poe Bivolt KP-588 Kanup Branco",
-   "price": 126.79,
-   "original": 209.59,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_912185-MLA99460162062_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-ups-35w-nobreak-usb-type-c-poe-bivolt-kp-588-kanup-branco/p/MLB34263305?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793268245
   }
  ]
 }
