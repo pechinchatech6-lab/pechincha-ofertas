@@ -1,7 +1,21 @@
 {
- "updated": 1793231823,
+ "updated": 1793232244,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 246,
+   "key": "mercadolivre:MLB62057953",
+   "title": "Cadeira Gamer Escritorio Giratória Reclinável Preta Vermelha Cinza",
+   "price": 620.17,
+   "original": 998.99,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_780501-MLA97566081734_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cadeira-gamer-escritorio-giratoria-reclinavel-preta-vermelha-cinza/p/MLB62057953?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793232224
+  },
   {
    "n": 245,
    "key": "mercadolivre:MLB66024483",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793207180
-  },
-  {
-   "n": 186,
-   "key": "mercadolivre:MLB66422734",
-   "title": "Controle Remoto Para Tv Samsung Smart Hub + 2 Pilhas Audiogeek",
-   "price": 19.9,
-   "original": 38.0,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_704827-MLA115917728237_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-remoto-para-tv-samsung-smart-hub-2-pilhas-audiogeek/p/MLB66422734?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793206759
   }
  ]
 }
