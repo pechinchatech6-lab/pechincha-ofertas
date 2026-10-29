@@ -1,7 +1,21 @@
 {
- "updated": 1793248478,
+ "updated": 1793248899,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 284,
+   "key": "mercadolivre:MLB47519001",
+   "title": "Fone de Ouvido Eardbud AIWA AWS-EB-05-B Bluetooth IPX4 24 Horas de bateria",
+   "price": 109.0,
+   "original": 164.9,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_980288-MLA99966340125_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-eardbud-aiwa-aws-eb-05-b-bluetooth-ipx4-24-horas-de-bateria/p/MLB47519001?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793248879
+  },
   {
    "n": 283,
    "key": "mercadolivre:MLB79730182",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793223304
-  },
-  {
-   "n": 224,
-   "key": "mercadolivre:MLB48955624",
-   "title": "Mini Projetor Davely HY300 4K Android com Wi-Fi e Bluetooth Portátil Cinema Em Casa Imagem Nítida Controle Remoto Tela Grande Para Filmes Jogos Aulas Apresentaç",
-   "price": 209.9,
-   "original": 299.0,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_909577-MLA119937439949_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-projetor-davely-hy300-4k-android-com-wi-fi-e-bluetooth-portatil-cinema-em-casa-imagem-nitida-controle-remoto-tela-g/p/MLB48955624?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793222883
   }
  ]
 }
