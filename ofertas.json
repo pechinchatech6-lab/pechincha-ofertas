@@ -1,7 +1,21 @@
 {
- "updated": 1793256898,
+ "updated": 1793257319,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 304,
+   "key": "mercadolivre:MLB30385917",
+   "title": "Hub 5 Em 1 Ugreen Usb-c Para 3* Usb + Hdmi 4k + Tipo-c 100w",
+   "price": 113.0,
+   "original": 160.0,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_971024-MLA100041532373_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hub-5-em-1-ugreen-usb-c-para-3-usb-hdmi-4k-tipo-c-100w/p/MLB30385917?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793257299
+  },
   {
    "n": 303,
    "key": "mercadolivre:MLB76584148",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793231803
-  },
-  {
-   "n": 244,
-   "key": "mercadolivre:MLB76929413",
-   "title": "GameSir G7 Pro 8K PC Edición Royal2: controle oficial com sincronização de 8 kHz, joysticks TMR Gen-2, gatillos duplos, 4 macros e giroscópio — para conquistar ",
-   "price": 423.61,
-   "original": 641.89,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_990279-MLA114627468914_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/gamesir-g7-pro-8k-pc-edicion-royal2-controle-oficial-com-sincronizacao-de-8-khz-joysticks-tmr-gen-2-gatillos-duplos-4-ma/p/MLB76929413?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793231382
   }
  ]
 }
