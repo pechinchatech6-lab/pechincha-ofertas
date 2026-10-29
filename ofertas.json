@@ -1,7 +1,21 @@
 {
- "updated": 1793262792,
+ "updated": 1793263213,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 318,
+   "key": "mercadolivre:MLB67822123",
+   "title": "Adaptador Usb Wifi 6 Bluetooth 5.4 Alta Velocidade Placa Wi-fi Blueetoth Adaptador Wi-fi Pc Placa Wifi Pc notebook etc Adaptado Wireless Sem Fio Receptor Intern",
+   "price": 39.9,
+   "original": 66.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_985488-MLA116281228525_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/adaptador-usb-wifi-6-bluetooth-5-4-alta-velocidade-placa-wi-fi-blueetoth-adaptador-wi-fi-pc-placa-wifi-pc-notebook-etc-a/p/MLB67822123?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793263193
+  },
   {
    "n": 317,
    "key": "mercadolivre:MLB77437165",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793238354
-  },
-  {
-   "n": 258,
-   "key": "mercadolivre:MLB45937885",
-   "title": "PC BestPc Intel Core i5 8GB 256GB HDD Windows 10 Corporativo",
-   "price": 940.0,
-   "original": 1198.0,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_899545-MLA99938962645_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pc-bestpc-intel-core-i5-8gb-256gb-hdd-windows-10-corporativo/p/MLB45937885?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793237933
   }
  ]
 }
