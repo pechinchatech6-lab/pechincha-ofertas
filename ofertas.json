@@ -1,7 +1,21 @@
 {
- "updated": 1793249320,
+ "updated": 1793249741,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 286,
+   "key": "mercadolivre:MLB57365099",
+   "title": "Pen Drive 128gb Mini Usb 2.0 Chaveiro Metalico Resistente Al Prateado",
+   "price": 77.99,
+   "original": 129.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_872182-MLA99478483130_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pen-drive-128gb-mini-usb-2-0-chaveiro-metalico-resistente-al-prateado/p/MLB57365099?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793249721
+  },
   {
    "n": 285,
    "key": "mercadolivre:MLB57364763",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793224146
-  },
-  {
-   "n": 226,
-   "key": "mercadolivre:MLB67333761",
-   "title": "Projetor Hy320 Mini Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth Alto Falante Com Controle Remoto Bivolt Portátil Kateluo",
-   "price": 243.51,
-   "original": 289.9,
-   "pct": 16,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_656772-MLA116865483177_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-hy320-mini-smart-tv-android-wifi-6-390-ansi-lumens-full-hd-suporte-4k-hdmi-bluetooth-alto-falante-com-controle-/p/MLB67333761?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793223725
   }
  ]
 }
