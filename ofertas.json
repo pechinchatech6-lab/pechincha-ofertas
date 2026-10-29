@@ -1,7 +1,21 @@
 {
- "updated": 1793299280,
+ "updated": 1793299701,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 399,
+   "key": "mercadolivre:MLB62230579",
+   "title": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
+   "price": 329.0,
+   "original": 473.1,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_866410-MLA106357490185_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/air-fryer-oven-britania-11l-8-funcoes-1800w-painel-digital-baf11a/p/MLB62230579?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793299681
+  },
   {
    "n": 398,
    "key": "mercadolivre:MLB50567982",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793272455
-  },
-  {
-   "n": 339,
-   "key": "mercadolivre:MLB76258213",
-   "title": "Onimusha: Way of the Sword - NS2",
-   "price": 339.97,
-   "original": 448.06,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_778410-MLA115532305719_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/onimusha-way-of-the-sword-ns2/p/MLB76258213?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793272034
   }
  ]
 }
