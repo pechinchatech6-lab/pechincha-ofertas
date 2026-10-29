@@ -1,7 +1,21 @@
 {
- "updated": 1793297596,
+ "updated": 1793298017,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 395,
+   "key": "mercadolivre:MLB50374755",
+   "title": "Máquina De Lavar Electrolux 14,5kg Cesto Inox Lep15 Preto",
+   "price": 2033.39,
+   "original": 2679.0,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_899028-MLA85766474233_062025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-electrolux-14-5kg-cesto-inox-lep15-preto/p/MLB50374755?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793297997
+  },
   {
    "n": 394,
    "key": "mercadolivre:MLB56511596",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793270771
-  },
-  {
-   "n": 335,
-   "key": "mercadolivre:MLB35587178",
-   "title": "Smart TV Box Aquário STV-3000 Plus Sistema Android TV 4K 16GB Cor Preto",
-   "price": 226.0,
-   "original": 390.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646607-MLA117112608354_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-box-aquario-stv-3000-plus-sistema-android-tv-4k-16gb-cor-preto/p/MLB35587178?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793270350
   }
  ]
 }
