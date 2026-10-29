@@ -1,7 +1,21 @@
 {
- "updated": 1793269107,
+ "updated": 1793269528,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 333,
+   "key": "mercadolivre:MLB46220824",
+   "title": "Webcam Camera Full Hd Zoom 1080p 360 Graus Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone- GoodVision",
+   "price": 36.98,
+   "original": 78.0,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_807092-MLA100966388363_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-360-graus-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-goodvision/p/MLB46220824?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793269508
+  },
   {
    "n": 332,
    "key": "mercadolivre:MLB38125677",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793244669
-  },
-  {
-   "n": 273,
-   "key": "mercadolivre:MLB44361342",
-   "title": "Cabo De Rede Internet 30m 30 Metros Cat6 Azul Crimpado Giga Lan Ethernet Boyu Cell",
-   "price": 41.18,
-   "original": 64.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_795187-MLA107571017470_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-de-rede-internet-30m-30-metros-cat6-azul-crimpado-giga-lan-ethernet-boyu-cell/p/MLB44361342?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793244248
   }
  ]
 }
