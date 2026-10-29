@@ -1,7 +1,21 @@
 {
- "updated": 1793245110,
+ "updated": 1793245531,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 276,
+   "key": "mercadolivre:MLB40656539",
+   "title": "Starlink Mini Kit Antena Satélite com Roteador Wi-Fi",
+   "price": 499.0,
+   "original": 999.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_799612-MLA95359719699_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/starlink-mini-kit-antena-satelite-com-roteador-wi-fi/p/MLB40656539?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793245511
+  },
   {
    "n": 275,
    "key": "mercadolivre:MLB70514530",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793219936
-  },
-  {
-   "n": 216,
-   "key": "mercadolivre:MLB18308946",
-   "title": "Campari Aperitivo Bitter 998ml",
-   "price": 52.46,
-   "original": 69.9,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_788917-MLA114431483662_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/campari-aperitivo-bitter-998ml/p/MLB18308946?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793219515
   }
  ]
 }
