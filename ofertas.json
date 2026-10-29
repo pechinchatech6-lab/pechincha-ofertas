@@ -1,7 +1,21 @@
 {
- "updated": 1793306618,
+ "updated": 1793307039,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 410,
+   "key": "mercadolivre:MLB76002662",
+   "title": "Samsung Smart TV 55\" Mini LED 4K M75H 26/2027",
+   "price": 2789.9,
+   "original": 3492.0,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_615876-MLA116061870194_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/samsung-smart-tv-55-mini-led-4k-m75h-26-2027/p/MLB76002662?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793307019
+  },
   {
    "n": 409,
    "key": "mercadolivre:MLB43534649",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793277086
-  },
-  {
-   "n": 350,
-   "key": "mercadolivre:MLB77501880",
-   "title": "Leitor de Código de Barras Laser USB com Fio para Boletos FEBRABAN",
-   "price": 89.9,
-   "original": 184.9,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_618630-MLA114910488940_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/leitor-de-codigo-de-barras-laser-usb-com-fio-para-boletos-febraban/p/MLB77501880?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793276665
   }
  ]
 }
