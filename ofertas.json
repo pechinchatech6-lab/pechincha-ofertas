@@ -1,7 +1,21 @@
 {
- "updated": 1793289175,
+ "updated": 1793289596,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 375,
+   "key": "mercadolivre:MLB76151285",
+   "title": "Frigideira Cerâmica Antiaderente 24cm Compatível Com Indução Cooktop Fogão a Gás Não Gruda Sem Óleo Cabo Ergonomico Em Baquelite Cor Creme",
+   "price": 55.5,
+   "original": 149.9,
+   "pct": 63,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_851612-MLA115902375529_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/frigideira-ceramica-antiaderente-24cm-compativel-com-inducao-cooktop-fogao-a-gas-nao-gruda-sem-oleo-cabo-ergonomico-em-b/p/MLB76151285?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793289576
+  },
   {
    "n": 374,
    "key": "mercadolivre:MLB21693452",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793262351
-  },
-  {
-   "n": 315,
-   "key": "mercadolivre:MLB50389060",
-   "title": "Adaptador Wifi Usb 3.0 Placa De Rede Para Computador Pc Notebook Dual Band 1300Mbps Gigabit 2 Antenas - Gurumania",
-   "price": 35.71,
-   "original": 46.99,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_838450-MLA110087635771_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/adaptador-wifi-usb-3-0-placa-de-rede-para-computador-pc-notebook-dual-band-1300mbps-gigabit-2-antenas-gurumania/p/MLB50389060?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793261930
   }
  ]
 }
