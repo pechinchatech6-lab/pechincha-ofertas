@@ -1,7 +1,21 @@
 {
- "updated": 1793290438,
+ "updated": 1793290859,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 378,
+   "key": "mercadolivre:MLB24117280",
+   "title": "Fone De Ouvido Headphone Dapon H02D Bluetooth 5.1 Over-ear 22h Preto",
+   "price": 76.53,
+   "original": 149.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_673950-MLA99394598783_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-headphone-dapon-h02d-bluetooth-5-1-over-ear-22h-preto/p/MLB24117280?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793290839
+  },
   {
    "n": 377,
    "key": "mercadolivre:MLB16139512",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793263614
-  },
-  {
-   "n": 318,
-   "key": "mercadolivre:MLB67822123",
-   "title": "Adaptador Usb Wifi 6 Bluetooth 5.4 Alta Velocidade Placa Wi-fi Blueetoth Adaptador Wi-fi Pc Placa Wifi Pc notebook etc Adaptado Wireless Sem Fio Receptor Intern",
-   "price": 39.9,
-   "original": 66.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_985488-MLA116281228525_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/adaptador-usb-wifi-6-bluetooth-5-4-alta-velocidade-placa-wi-fi-blueetoth-adaptador-wi-fi-pc-placa-wifi-pc-notebook-etc-a/p/MLB67822123?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793263193
   }
  ]
 }
