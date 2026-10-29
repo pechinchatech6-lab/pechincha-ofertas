@@ -1,7 +1,21 @@
 {
- "updated": 1793270791,
+ "updated": 1793271212,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 337,
+   "key": "mercadolivre:MLB18010993",
+   "title": "Controle Joystick Sem Fio Sony PlayStation 5 CFI-ZCT1W Midnight Black",
+   "price": 416.0,
+   "original": 712.37,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-joystick-sem-fio-sony-playstation-5-cfi-zct1w-midnight-black/p/MLB18010993?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793271192
+  },
   {
    "n": 336,
    "key": "mercadolivre:MLB63467528",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793246353
-  },
-  {
-   "n": 277,
-   "key": "mercadolivre:MLB53911392",
-   "title": "Fone De Ouvido Bluetooth 5.1 Sem Fio Tws Wireless Bateria Longa Duração E Conexão Rápida Coolmusic",
-   "price": 24.0,
-   "original": 49.9,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_960127-MLA109738568733_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-5-1-sem-fio-tws-wireless-bateria-longa-duracao-e-conexao-rapida-coolmusic/p/MLB53911392?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793245932
   }
  ]
 }
