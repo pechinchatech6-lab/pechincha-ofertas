@@ -1,7 +1,21 @@
 {
- "updated": 1793271633,
+ "updated": 1793272054,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 339,
+   "key": "mercadolivre:MLB76258213",
+   "title": "Onimusha: Way of the Sword - NS2",
+   "price": 339.97,
+   "original": 448.06,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_778410-MLA115532305719_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/onimusha-way-of-the-sword-ns2/p/MLB76258213?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793272034
+  },
   {
    "n": 338,
    "key": "mercadolivre:MLB46114625",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793247195
-  },
-  {
-   "n": 279,
-   "key": "mercadolivre:MLB54075534",
-   "title": "Smart Tv Semp 43 Polegadas Led Hva 4k S62 Wifi Bluetooth Google Tv 3 Hdmi Hdr10+ Dolby Audio 43s62",
-   "price": 1376.55,
-   "original": 1999.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_897466-MLA114005600181_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-semp-43-polegadas-led-hva-4k-s62-wifi-bluetooth-google-tv-3-hdmi-hdr10-dolby-audio-43s62/p/MLB54075534?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793246774
   }
  ]
 }
