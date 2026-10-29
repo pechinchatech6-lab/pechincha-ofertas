@@ -1,7 +1,21 @@
 {
- "updated": 1793267844,
+ "updated": 1793268265,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 330,
+   "key": "mercadolivre:MLB34263305",
+   "title": "Mini UPS 35W ( Nobreak) USB Type-C Poe Bivolt KP-588 Kanup Branco",
+   "price": 126.79,
+   "original": 209.59,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_912185-MLA99460162062_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-ups-35w-nobreak-usb-type-c-poe-bivolt-kp-588-kanup-branco/p/MLB34263305?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793268245
+  },
   {
    "n": 329,
    "key": "mercadolivre:MLB21938011",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793243406
-  },
-  {
-   "n": 270,
-   "key": "mercadolivre:MLB65541449",
-   "title": "Fone de Ouvido JBL Tune 530BT Bluetooth Sem Fio Preto Headphone com Microfone Wireless Estéreo Graves Potentes Confortável",
-   "price": 190.0,
-   "original": 409.0,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_608030-MLA106478715282_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-jbl-tune-530bt-bluetooth-sem-fio-preto-headphone-com-microfone-wireless-estereo-graves-potentes-confortav/p/MLB65541449?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793242985
   }
  ]
 }
