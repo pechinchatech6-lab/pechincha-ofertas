@@ -1,7 +1,21 @@
 {
- "updated": 1793251004,
+ "updated": 1793251425,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 290,
+   "key": "mercadolivre:MLB21450143",
+   "title": "SSD Interno Macrovip Premium 240 GB Mv240gb",
+   "price": 229.89,
+   "original": 287.79,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_914305-MLA99982194493_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ssd-interno-macrovip-premium-240-gb-mv240gb/p/MLB21450143?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793251405
+  },
   {
    "n": 289,
    "key": "mercadolivre:MLB57365312",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793225830
-  },
-  {
-   "n": 230,
-   "key": "mercadolivre:MLB75681377",
-   "title": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
-   "price": 2599.0,
-   "original": 3599.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-pro-lg-55-4k-ultra-hd-ai-55un85c/p/MLB75681377?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793225409
   }
  ]
 }
