@@ -1,7 +1,21 @@
 {
- "updated": 1793293807,
+ "updated": 1793294228,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 386,
+   "key": "mercadolivre:MLB59660744",
+   "title": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portá",
+   "price": 226.61,
+   "original": 359.99,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_784663-MLA117801956087_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-hy320-hardline-smart-tv-android-wifi-6-390-ansi-lumens-full-hd-suporte-4k-hdmi-bluetooth-85-200-polegadas-alto-/p/MLB59660744?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793294208
+  },
   {
    "n": 385,
    "key": "mercadolivre:MLB47519001",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793266982
-  },
-  {
-   "n": 326,
-   "key": "mercadolivre:MLB57817318",
-   "title": "Cabo Ethernet Cat8 Cabo de Rede SSTP Blindado 20m Preto RJ45 Alta Performance 40Gbps 2000Mhz Alta Velocidade para Roteador PC Gamer",
-   "price": 138.0,
-   "original": 208.99,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_849231-MLA116549331432_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-ethernet-cat8-cabo-de-rede-sstp-blindado-20m-preto-rj45-alta-performance-40gbps-2000mhz-alta-velocidade-para-rotead/p/MLB57817318?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793266561
   }
  ]
 }
