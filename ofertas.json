@@ -1,7 +1,21 @@
 {
- "updated": 1793235587,
+ "updated": 1793236008,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 254,
+   "key": "mercadolivre:MLB62535762",
+   "title": "Fonte Msi Mag 650w 80 Plus Bronze Pfc Ativo A650bnl Preto",
+   "price": 339.0,
+   "original": 440.0,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_620355-MLA99033065284_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fonte-msi-mag-650w-80-plus-bronze-pfc-ativo-a650bnl-preto/p/MLB62535762?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793235988
+  },
   {
    "n": 253,
    "key": "mercadolivre:MLB78620279",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793210674
-  },
-  {
-   "n": 194,
-   "key": "mercadolivre:MLB69230650",
-   "title": "Controle Remoto Enveloz para TV LG ThinQ AI Magic com Comando de Voz e Pilhas",
-   "price": 56.0,
-   "original": 85.57,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_878011-MLA110396639092_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-remoto-enveloz-para-tv-lg-thinq-ai-magic-com-comando-de-voz-e-pilhas/p/MLB69230650?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793210253
   }
  ]
 }
