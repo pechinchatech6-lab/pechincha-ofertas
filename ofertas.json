@@ -1,7 +1,21 @@
 {
- "updated": 1793282114,
+ "updated": 1793282535,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 362,
+   "key": "mercadolivre:MLB63980306",
+   "title": "Pokémon Pokopia - Nintendo Switch 2",
+   "price": 439.89,
+   "original": 556.83,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_877218-MLA104113006671_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pokemon-pokopia-nintendo-switch-2/p/MLB63980306?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793282515
+  },
   {
    "n": 361,
    "key": "mercadolivre:MLB1046215784",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793256878
-  },
-  {
-   "n": 302,
-   "key": "mercadolivre:MLB78298533",
-   "title": "Bolsa Organizadora De Cabos Eletrônicos Extra Grande Estojo Case Bag Viagem Porta Carregador Fios ECOMMIND Azul Escuro",
-   "price": 30.02,
-   "original": 58.36,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_739035-MLA116713460547_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bolsa-organizadora-de-cabos-eletronicos-extra-grande-estojo-case-bag-viagem-porta-carregador-fios-ecommind-azul-escuro/p/MLB78298533?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793256457
   }
  ]
 }
