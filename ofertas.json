@@ -1,7 +1,21 @@
 {
- "updated": 1793313761,
+ "updated": 1793314181,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 420,
+   "key": "mercadolivre:MLB64211779",
+   "title": "Controle Com Fio Usb Para Pc Tv Manete Joystick - Crowley",
+   "price": 28.0,
+   "original": 44.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_660259-MLA110461450931_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-com-fio-usb-para-pc-tv-manete-joystick-crowley/p/MLB64211779?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793314161
+  },
   {
    "n": 419,
    "key": "mercadolivre:MLB34016199",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793282094
-  },
-  {
-   "n": 360,
-   "key": "mercadolivre:MLB65764004",
-   "title": "Fones De Ouvido Usb-c Tipo C Com Microfone Integrado Som Estéreo Alta Qualidade Controle Chamadas Compatível Com iPhone 15 16 17 18 Android Samsung Xiaomi Motor",
-   "price": 22.3,
-   "original": 59.99,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_693659-MLA113618776783_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fones-de-ouvido-usb-c-tipo-c-com-microfone-integrado-som-estereo-alta-qualidade-controle-chamadas-compativel-com-iphone-/p/MLB65764004?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793281673
   }
  ]
 }
