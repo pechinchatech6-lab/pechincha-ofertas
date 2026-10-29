@@ -1,7 +1,21 @@
 {
- "updated": 1793265318,
+ "updated": 1793265739,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 324,
+   "key": "mercadolivre:MLB22256194",
+   "title": "Switch TP-Link LS1005G LiteWave 5 Portas Gigabit 10/100/1000mbps",
+   "price": 75.0,
+   "original": 199.0,
+   "pct": 62,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_619725-MLA99992410021_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/switch-tp-link-ls1005g-litewave-5-portas-gigabit-10-100-1000mbps/p/MLB22256194?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793265719
+  },
   {
    "n": 323,
    "key": "mercadolivre:MLB18382231",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793240880
-  },
-  {
-   "n": 264,
-   "key": "mercadolivre:MLB54151069",
-   "title": "SSD Interno Macrovip Premium 240 GB Mv240gb",
-   "price": 236.11,
-   "original": 323.45,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_990305-MLA119577283129_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ssd-interno-macrovip-premium-240-gb-mv240gb/p/MLB54151069?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793240459
   }
  ]
 }
