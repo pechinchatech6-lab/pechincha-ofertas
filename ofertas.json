@@ -1,7 +1,21 @@
 {
- "updated": 1793262371,
+ "updated": 1793262792,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 317,
+   "key": "mercadolivre:MLB77437165",
+   "title": "Repetidor De Sinal Wifi Roteador Wireless Amplificador Potente Sem Fio Turbo Cor Branco 1800mbps Longo Alcance Internet Porta Ethernet - RHEAD RED HIGH END STUD",
+   "price": 39.9,
+   "original": 79.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_920873-MLA115042741274_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/repetidor-de-sinal-wifi-roteador-wireless-amplificador-potente-sem-fio-turbo-cor-branco-1800mbps-longo-alcance-internet-/p/MLB77437165?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793262772
+  },
   {
    "n": 316,
    "key": "mercadolivre:MLB60717499",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793237933
-  },
-  {
-   "n": 257,
-   "key": "mercadolivre:MLB42364363",
-   "title": "Computador Completo Flash, Intel Core i5 3470, RAM 8GB, SSD 256GB, Bivolt, Preto, Monitor 20\" LED HDMI, Windows 10 Pro - BluePC DOE-0140FL",
-   "price": 1085.78,
-   "original": 1365.56,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_719762-MLA110751089165_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/computador-completo-flash-intel-core-i5-3470-ram-8gb-ssd-256gb-bivolt-preto-monitor-20-led-hdmi-windows-10-pro-bluepc-do/p/MLB42364363?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793237512
   }
  ]
 }
