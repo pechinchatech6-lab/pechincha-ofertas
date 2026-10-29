@@ -1,7 +1,21 @@
 {
- "updated": 1793307039,
+ "updated": 1793307460,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 411,
+   "key": "mercadolivre:MLB47223313",
+   "title": "Controle 8bitdo ultimate 2 preto",
+   "price": 314.58,
+   "original": 499.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_762111-MLA99948372193_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-8bitdo-ultimate-2-preto/p/MLB47223313?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793307440
+  },
   {
    "n": 410,
    "key": "mercadolivre:MLB76002662",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793277507
-  },
-  {
-   "n": 351,
-   "key": "mercadolivre:MLB65008451",
-   "title": "Limpador De Tela Quimivida Isopropilico Formato Líquido",
-   "price": 39.9,
-   "original": 49.9,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_861827-MLA113101689202_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/limpador-de-tela-quimivida-isopropilico-formato-liquido/p/MLB65008451?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793277086
   }
  ]
 }
