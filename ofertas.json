@@ -1,7 +1,21 @@
 {
- "updated": 1793264055,
+ "updated": 1793264476,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 321,
+   "key": "mercadolivre:MLB61672306",
+   "title": "Repetidor WiFi Titanis 2.4GHz 6 Antenas Alta Estabilidade e Alcance",
+   "price": 72.0,
+   "original": 99.9,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_909985-MLA97523771014_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/repetidor-wifi-titanis-2-4ghz-6-antenas-alta-estabilidade-e-alcance/p/MLB61672306?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793264456
+  },
   {
    "n": 320,
    "key": "mercadolivre:MLB70039747",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793239617
-  },
-  {
-   "n": 261,
-   "key": "mercadolivre:MLB75784205",
-   "title": "Relógio Smartwatch Forestory R1 Smart Watch Inteligente Redondo Bluetooth Ip68 À Prova D'água Notificações Chamadas Relogio Corrida com Android e iOS Com 2 Puls",
-   "price": 145.49,
-   "original": 419.0,
-   "pct": 65,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_948540-MLA115196075517_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-smartwatch-forestory-r1-smart-watch-inteligente-redondo-bluetooth-ip68-a-prova-d-agua-notificacoes-chamadas-relo/p/MLB75784205?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793239196
   }
  ]
 }
