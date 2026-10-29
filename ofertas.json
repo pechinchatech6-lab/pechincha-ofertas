@@ -1,7 +1,21 @@
 {
- "updated": 1793241742,
+ "updated": 1793242163,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 268,
+   "key": "mercadolivre:MLB24117280",
+   "title": "Fone De Ouvido Headphone Dapon H02D Bluetooth 5.1 Over-ear 22h Preto",
+   "price": 76.53,
+   "original": 149.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_673950-MLA99394598783_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-headphone-dapon-h02d-bluetooth-5-1-over-ear-22h-preto/p/MLB24117280?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793242143
+  },
   {
    "n": 267,
    "key": "mercadolivre:MLB47889235",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793216568
-  },
-  {
-   "n": 208,
-   "key": "mercadolivre:MLB27241001",
-   "title": "Kit Barra Led Tv LG 49lj5550 Compatível 8 Barras De Leds King Note",
-   "price": 60.39,
-   "original": 118.69,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_817342-MLU78680565077_082024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-barra-led-tv-lg-49lj5550-compativel-8-barras-de-leds-king-note/p/MLB27241001?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793216147
   }
  ]
 }
