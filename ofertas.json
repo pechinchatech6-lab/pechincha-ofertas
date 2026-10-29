@@ -1,7 +1,21 @@
 {
- "updated": 1793298017,
+ "updated": 1793298438,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 396,
+   "key": "mercadolivre:MLB64368352",
+   "title": "Controle sem fio PlayStation DualSense – Remix Green",
+   "price": 409.0,
+   "original": 599.9,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_745279-MLA105010226029_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-sem-fio-playstation-dualsense-remix-green/p/MLB64368352?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793298418
+  },
   {
    "n": 395,
    "key": "mercadolivre:MLB50374755",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793271192
-  },
-  {
-   "n": 336,
-   "key": "mercadolivre:MLB63467528",
-   "title": "Samsung Smart Tv 43 Qled Full Hd Q5f 2025, Xbox Cloud Gaming, Canais Gratuitos, Hdr, Som Em Movimento Virtual",
-   "price": 1687.87,
-   "original": 2799.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_612999-MLA102412809695_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/samsung-smart-tv-43-qled-full-hd-q5f-2025-xbox-cloud-gaming-canais-gratuitos-hdr-som-em-movimento-virtual/p/MLB63467528?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793270771
   }
  ]
 }
