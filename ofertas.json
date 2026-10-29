@@ -1,7 +1,21 @@
 {
- "updated": 1793309980,
+ "updated": 1793310401,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 416,
+   "key": "mercadolivre:MLB69345065",
+   "title": "Micro-ondas Consul 23 Litros Função Marmita - CMS23A",
+   "price": 643.9,
+   "original": 790.0,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_894054-MLA110468601326_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-consul-23-litros-funcao-marmita-cms23a/p/MLB69345065?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793310381
+  },
   {
    "n": 415,
    "key": "mercadolivre:MLB80077601",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793280410
-  },
-  {
-   "n": 356,
-   "key": "mercadolivre:MLB50200257",
-   "title": "Monitor gamer Aoc Série B30 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 cor preto",
-   "price": 384.0,
-   "original": 629.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_621055-MLA91966913733_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/monitor-gamer-aoc-serie-b30-21-5-full-hd-gaming-120hz-1ms-22b30hm23-cor-preto/p/MLB50200257?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793279433
   }
  ]
 }
