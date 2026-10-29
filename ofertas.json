@@ -1,7 +1,21 @@
 {
- "updated": 1793308723,
+ "updated": 1793309980,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 415,
+   "key": "mercadolivre:MLB80077601",
+   "title": "Mochila À Prova D'água Reforçada Expansível Para Viagens Diá Preto",
+   "price": 87.29,
+   "original": 297.0,
+   "pct": 71,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_900105-MLA118468195377_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-a-prova-d-agua-reforcada-expansivel-para-viagens-dia-preto/p/MLB80077601?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793309960
+  },
   {
    "n": 414,
    "key": "mercadolivre:MLB18580665",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793279433
-  },
-  {
-   "n": 355,
-   "key": "mercadolivre:MLB25753833",
-   "title": "Limpa Contato Aerossol 300ml Mundial Prime AE06000019",
-   "price": 8.37,
-   "original": 23.9,
-   "pct": 65,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_656005-MLA112727194218_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/limpa-contato-aerossol-300ml-mundial-prime-ae06000019/p/MLB25753833?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793278770
   }
  ]
 }
