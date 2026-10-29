@@ -1,7 +1,21 @@
 {
- "updated": 1793239216,
+ "updated": 1793239637,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 262,
+   "key": "mercadolivre:MLB8019654",
+   "title": "Telefone Gôndola Com Fio Intelbras Tc 20 Cinza",
+   "price": 49.9,
+   "original": 76.7,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_957796-MLA97091440491_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/telefone-gondola-com-fio-intelbras-tc-20-cinza/p/MLB8019654?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793239617
+  },
   {
    "n": 261,
    "key": "mercadolivre:MLB75784205",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793214042
-  },
-  {
-   "n": 202,
-   "key": "mercadolivre:MLB21670779",
-   "title": "Drone E88 Com Câmera Wifi Com Case 1 Baterias + Controle Remoto Drone Preto Profssional",
-   "price": 89.9,
-   "original": 119.88,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_948164-MLA94813348002_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/drone-e88-com-camera-wifi-com-case-1-baterias-controle-remoto-drone-preto-profssional/p/MLB21670779?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793213621
   }
  ]
 }
