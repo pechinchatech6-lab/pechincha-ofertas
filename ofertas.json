@@ -1,7 +1,21 @@
 {
- "updated": 1793264476,
+ "updated": 1793264897,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 322,
+   "key": "mercadolivre:MLB22541162",
+   "title": "Adaptador Wifi Computador Pc Notebook Jogos Usb 3.0 Dual Band 5ghz Wifi 6 - Placa De Rede Wifi Gigabit Alta Velocidade Mu-mimo - Adaptador Ethernet Usb Rj45 Rtl",
+   "price": 26.98,
+   "original": 74.9,
+   "pct": 64,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_734360-MLA114038049266_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/adaptador-wifi-computador-pc-notebook-jogos-usb-3-0-dual-band-5ghz-wifi-6-placa-de-rede-wifi-gigabit-alta-velocidade-mu-/p/MLB22541162?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793264877
+  },
   {
    "n": 321,
    "key": "mercadolivre:MLB61672306",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793240038
-  },
-  {
-   "n": 262,
-   "key": "mercadolivre:MLB8019654",
-   "title": "Telefone Gôndola Com Fio Intelbras Tc 20 Cinza",
-   "price": 49.9,
-   "original": 76.7,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_957796-MLA97091440491_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/telefone-gondola-com-fio-intelbras-tc-20-cinza/p/MLB8019654?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793239617
   }
  ]
 }
