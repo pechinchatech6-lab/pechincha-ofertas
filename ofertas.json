@@ -1,7 +1,21 @@
 {
- "updated": 1793236850,
+ "updated": 1793237532,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 257,
+   "key": "mercadolivre:MLB42364363",
+   "title": "Computador Completo Flash, Intel Core i5 3470, RAM 8GB, SSD 256GB, Bivolt, Preto, Monitor 20\" LED HDMI, Windows 10 Pro - BluePC DOE-0140FL",
+   "price": 1085.78,
+   "original": 1365.56,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_719762-MLA110751089165_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/computador-completo-flash-intel-core-i5-3470-ram-8gb-ssd-256gb-bivolt-preto-monitor-20-led-hdmi-windows-10-pro-bluepc-do/p/MLB42364363?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793237512
+  },
   {
    "n": 256,
    "key": "mercadolivre:MLB64970548",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793211937
-  },
-  {
-   "n": 197,
-   "key": "mercadolivre:MLB43263276",
-   "title": "Drone E99 4k Wifi 2 Dupla Hdcâmeras Profissional Cor Preto",
-   "price": 124.04,
-   "original": 288.12,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_724125-MLA99523584644_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/drone-e99-4k-wifi-2-dupla-hdcameras-profissional-cor-preto/p/MLB43263276?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793211516
   }
  ]
 }
