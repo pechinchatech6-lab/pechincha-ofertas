@@ -1,7 +1,21 @@
 {
- "updated": 1793293386,
+ "updated": 1793293807,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 385,
+   "key": "mercadolivre:MLB47519001",
+   "title": "Fone de Ouvido Eardbud AIWA AWS-EB-05-B Bluetooth IPX4 24 Horas de bateria",
+   "price": 109.0,
+   "original": 164.9,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_980288-MLA99966340125_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-eardbud-aiwa-aws-eb-05-b-bluetooth-ipx4-24-horas-de-bateria/p/MLB47519001?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793293787
+  },
   {
    "n": 384,
    "key": "mercadolivre:MLB75755258",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793266561
-  },
-  {
-   "n": 325,
-   "key": "mercadolivre:MLB80140406",
-   "title": "Adaptador Wi-Fi Davely para Computador e Notebook USB 3.0 Dual Band 2.4/5 GHz com Ethernet Gigabit Com 2 Antenas",
-   "price": 26.9,
-   "original": 77.9,
-   "pct": 65,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_763340-MLA118570892493_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/adaptador-wi-fi-davely-para-computador-e-notebook-usb-3-0-dual-band-2-4-5-ghz-com-ethernet-gigabit-com-2-antenas/p/MLB80140406?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793266140
   }
  ]
 }
