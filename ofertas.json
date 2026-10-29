@@ -1,7 +1,21 @@
 {
- "updated": 1793242163,
+ "updated": 1793242584,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 269,
+   "key": "mercadolivre:MLB24028629",
+   "title": "Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Chamadas Claras Personal",
+   "price": 146.0,
+   "original": 299.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_730568-MLA99983575997_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-soundcore-by-anker-p20i-graves-poderosos-e-impactantes-bluetooth-5-3-30h-de-reproducao-resistencia-a-agua/p/MLB24028629?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793242564
+  },
   {
    "n": 268,
    "key": "mercadolivre:MLB24117280",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793216989
-  },
-  {
-   "n": 209,
-   "key": "mercadolivre:MLB19743893",
-   "title": "40 Pilha Alcalina AA LR6 1,5v Blister 82153 Elgin Energy",
-   "price": 64.94,
-   "original": 99.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_820223-MLA99925306977_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/40-pilha-alcalina-aa-lr6-1-5v-blister-82153-elgin-energy/p/MLB19743893?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793216568
   }
  ]
 }
