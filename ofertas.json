@@ -1,7 +1,21 @@
 {
- "updated": 1793274159,
+ "updated": 1793274580,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 345,
+   "key": "mercadolivre:MLB36837979",
+   "title": "Pack 3 tintas Epson T544 cian amarela magenta 65ml",
+   "price": 248.32,
+   "original": 350.0,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_987493-MLU76140753672_052024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pack-3-tintas-epson-t544-cian-amarela-magenta-65ml/p/MLB36837979?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793274560
+  },
   {
    "n": 344,
    "key": "mercadolivre:MLB51870940",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793249721
-  },
-  {
-   "n": 285,
-   "key": "mercadolivre:MLB57364763",
-   "title": "Pen Drive 32gb Mini Usb 2.0 Chaveiro Metalico Resistente Alt Prateado Liso",
-   "price": 35.89,
-   "original": 49.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_779588-MLA99843739125_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pen-drive-32gb-mini-usb-2-0-chaveiro-metalico-resistente-alt-prateado-liso/p/MLB57364763?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793249300
   }
  ]
 }
