@@ -1,7 +1,21 @@
 {
- "updated": 1793240058,
+ "updated": 1793240479,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 264,
+   "key": "mercadolivre:MLB54151069",
+   "title": "SSD Interno Macrovip Premium 240 GB Mv240gb",
+   "price": 236.11,
+   "original": 323.45,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_990305-MLA119577283129_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ssd-interno-macrovip-premium-240-gb-mv240gb/p/MLB54151069?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793240459
+  },
   {
    "n": 263,
    "key": "mercadolivre:MLB49197748",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793214884
-  },
-  {
-   "n": 204,
-   "key": "mercadolivre:MLB77671691",
-   "title": "Tv Stick Android 4k Com Wi-fi Dual Band, 8gb E 128gb Para Smart Tv Preto Padrão iDeel",
-   "price": 180.89,
-   "original": 286.77,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_887407-MLA116395254541_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/tv-stick-android-4k-com-wi-fi-dual-band-8gb-e-128gb-para-smart-tv-preto-padrao-ideel/p/MLB77671691?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793214463
   }
  ]
 }
