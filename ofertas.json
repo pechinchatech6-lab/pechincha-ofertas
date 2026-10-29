@@ -1,7 +1,21 @@
 {
- "updated": 1793287070,
+ "updated": 1793287491,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 370,
+   "key": "mercadolivre:MLB51958382",
+   "title": "Mochila Tática Masculina Militar 50L Impermeável Reforçada Grande Molle Viagem Camping Trilha Airsoft Pesca Caça Forpak",
+   "price": 121.93,
+   "original": 199.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_979881-MLA118394313839_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-tatica-masculina-militar-50l-impermeavel-reforcada-grande-molle-viagem-camping-trilha-airsoft-pesca-caca-forpak/p/MLB51958382?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793287471
+  },
   {
    "n": 369,
    "key": "mercadolivre:MLB18610706",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793260246
-  },
-  {
-   "n": 310,
-   "key": "mercadolivre:MLB55762063",
-   "title": "Smartphone Motorola Moto G06 - 256gb 4gb Ram + 8gb Ram Boost, e Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9 - Bege",
-   "price": 889.0,
-   "original": 1099.0,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_793349-MLA91806774304_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g06-256gb-4gb-ram-8gb-ram-boost-e-camera-50mp-com-ai-bateria-de-5200-mah-tela-6-9-bege/p/MLB55762063?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793259825
   }
  ]
 }
