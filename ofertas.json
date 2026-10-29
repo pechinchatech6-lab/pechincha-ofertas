@@ -1,7 +1,21 @@
 {
- "updated": 1793238795,
+ "updated": 1793239216,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 261,
+   "key": "mercadolivre:MLB75784205",
+   "title": "Relógio Smartwatch Forestory R1 Smart Watch Inteligente Redondo Bluetooth Ip68 À Prova D'água Notificações Chamadas Relogio Corrida com Android e iOS Com 2 Puls",
+   "price": 145.49,
+   "original": 419.0,
+   "pct": 65,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_948540-MLA115196075517_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-smartwatch-forestory-r1-smart-watch-inteligente-redondo-bluetooth-ip68-a-prova-d-agua-notificacoes-chamadas-relo/p/MLB75784205?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793239196
+  },
   {
    "n": 260,
    "key": "mercadolivre:MLB54961556",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793213621
-  },
-  {
-   "n": 201,
-   "key": "mercadolivre:MLB44811728",
-   "title": "Bag Bolsa Drone Dji Mavic Mini 4k Se 1 2 3 Air 2s Mochila Preto",
-   "price": 136.49,
-   "original": 194.99,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_749079-MLA99494829008_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bag-bolsa-drone-dji-mavic-mini-4k-se-1-2-3-air-2s-mochila-preto/p/MLB44811728?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793213200
   }
  ]
 }
