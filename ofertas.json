@@ -1,7 +1,21 @@
 {
- "updated": 1793300964,
+ "updated": 1793302402,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 403,
+   "key": "mercadolivre:MLB45474714",
+   "title": "Chinelo Feminino Slim Havaianas",
+   "price": 42.9,
+   "original": 54.0,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_671885-MLA81672743644_012025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chinelo-feminino-slim-havaianas/p/MLB45474714?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793302382
+  },
   {
    "n": 402,
    "key": "mercadolivre:MLB75681377",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793274139
-  },
-  {
-   "n": 343,
-   "key": "mercadolivre:MLB16033352",
-   "title": "Nobreak Interativo Monovolt Intelbras Xnb 720va 220v",
-   "price": 407.0,
-   "original": 556.68,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_604658-MLA109780735339_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nobreak-interativo-monovolt-intelbras-xnb-720va-220v/p/MLB16033352?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793273718
   }
  ]
 }
