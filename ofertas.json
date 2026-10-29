@@ -1,7 +1,21 @@
 {
- "updated": 1793292544,
+ "updated": 1793292965,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 383,
+   "key": "mercadolivre:MLB66128181",
+   "title": "Ventilador de Teto 60W Silencioso Lâmpada Forte com LED, Controle e 6 Pás Soquete E27 Para Residencial Comercial Interno Externo Quarto Sala Cozinha Escritório ",
+   "price": 55.9,
+   "original": 99.0,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_695332-MLA118292636431_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-teto-60w-silencioso-lampada-forte-com-led-controle-e-6-pas-soquete-e27-para-residencial-comercial-interno-/p/MLB66128181?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793292945
+  },
   {
    "n": 382,
    "key": "mercadolivre:MLB49840881",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793265719
-  },
-  {
-   "n": 323,
-   "key": "mercadolivre:MLB18382231",
-   "title": "Repetidor de Sinal Wi-Fi TP-Link TL-WA850RE Extensor de Alcance N300 V7",
-   "price": 110.57,
-   "original": 199.0,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_662555-MLA118244021625_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/repetidor-de-sinal-wi-fi-tp-link-tl-wa850re-extensor-de-alcance-n300-v7/p/MLB18382231?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793265298
   }
  ]
 }
