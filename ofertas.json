@@ -1,7 +1,21 @@
 {
- "updated": 1793314181,
+ "updated": 1793314602,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 421,
+   "key": "mercadolivre:MLB46220824",
+   "title": "Webcam Camera Full Hd Zoom 1080p 360 Graus Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone- GoodVision",
+   "price": 36.98,
+   "original": 78.0,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_807092-MLA100966388363_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-360-graus-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-goodvision/p/MLB46220824?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793314582
+  },
   {
    "n": 420,
    "key": "mercadolivre:MLB64211779",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793282515
-  },
-  {
-   "n": 361,
-   "key": "mercadolivre:MLB1046215784",
-   "title": "iPhone 16e (128 GB) - Preto - Distribuidor Autorizado",
-   "price": 3544.44,
-   "original": 5799.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793282094
   }
  ]
 }
