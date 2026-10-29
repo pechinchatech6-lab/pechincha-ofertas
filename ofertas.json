@@ -1,7 +1,21 @@
 {
- "updated": 1793246794,
+ "updated": 1793247215,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 280,
+   "key": "mercadolivre:MLB48468943",
+   "title": "Headset Gamer Redragon Zeus Lite Preto Drivers 53mm com Microfone Removível",
+   "price": 125.0,
+   "original": 214.31,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_743438-MLA105468591979_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/headset-gamer-redragon-zeus-lite-preto-drivers-53mm-com-microfone-removivel/p/MLB48468943?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793247195
+  },
   {
    "n": 279,
    "key": "mercadolivre:MLB54075534",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793221620
-  },
-  {
-   "n": 220,
-   "key": "mercadolivre:MLB64305534",
-   "title": "Projetor Smart Portátil Full Hd 4k Android 11 Wi-fi Bluetooth Mini Projetor Home Theater Cinema Em Casa Imagem Nítida Som Potente Compatível Com Diversos Dispos",
-   "price": 191.0,
-   "original": 419.9,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_985823-MLA113683572316_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-smart-portatil-full-hd-4k-android-11-wi-fi-bluetooth-mini-projetor-home-theater-cinema-em-casa-imagem-nitida-so/p/MLB64305534?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793221199
   }
  ]
 }
