@@ -1,7 +1,21 @@
 {
- "updated": 1793300543,
+ "updated": 1793300964,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 402,
+   "key": "mercadolivre:MLB75681377",
+   "title": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
+   "price": 2599.0,
+   "original": 3599.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-pro-lg-55-4k-ultra-hd-ai-55un85c/p/MLB75681377?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793300944
+  },
   {
    "n": 401,
    "key": "mercadolivre:MLB45861096",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793273718
-  },
-  {
-   "n": 342,
-   "key": "mercadolivre:MLB19723156",
-   "title": "Nobreak Xnb 1440va Interativo Bivolt Intelbras",
-   "price": 599.9,
-   "original": 935.58,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_724938-MLA115886826153_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nobreak-xnb-1440va-interativo-bivolt-intelbras/p/MLB19723156?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793273297
   }
  ]
 }
