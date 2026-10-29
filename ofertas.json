@@ -1,7 +1,21 @@
 {
- "updated": 1793240479,
+ "updated": 1793240900,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 265,
+   "key": "mercadolivre:MLB63966639",
+   "title": "Filamento Pla Plus 1kg Impressão 3d Nacional - Cores Cor Preto",
+   "price": 104.9,
+   "original": 219.3,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_903418-MLA107165042644_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/filamento-pla-plus-1kg-impressao-3d-nacional-cores-cor-preto/p/MLB63966639?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793240880
+  },
   {
    "n": 264,
    "key": "mercadolivre:MLB54151069",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793215305
-  },
-  {
-   "n": 205,
-   "key": "mercadolivre:MLB53432844",
-   "title": "Tv Stick 4k Hdmi Wi-fi 16gb Android Tv Full Hd Smart Televisão Controle Filmes Pro Familar",
-   "price": 176.69,
-   "original": 309.9,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_657953-MLA111080648459_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/tv-stick-4k-hdmi-wi-fi-16gb-android-tv-full-hd-smart-televisao-controle-filmes-pro-familar/p/MLB53432844?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793214884
   }
  ]
 }
