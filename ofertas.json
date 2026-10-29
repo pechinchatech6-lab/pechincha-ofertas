@@ -1,7 +1,21 @@
 {
- "updated": 1793254793,
+ "updated": 1793255214,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 299,
+   "key": "mercadolivre:MLB70121902",
+   "title": "Hub USB-C 6 em 1 PDO com HDMI 4K e 3 Portas USB para Notebook, MacBook e iPad",
+   "price": 37.9,
+   "original": 49.9,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_781312-MLA111560926494_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hub-usb-c-6-em-1-pdo-com-hdmi-4k-e-3-portas-usb-para-notebook-macbook-e-ipad/p/MLB70121902?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793255194
+  },
   {
    "n": 298,
    "key": "mercadolivre:MLB65598839",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793229699
-  },
-  {
-   "n": 239,
-   "key": "mercadolivre:MLB36591502",
-   "title": "Fone De Ouvido Retorno Kz Edx Pro X Sem Microfone Cor Transparente",
-   "price": 62.9,
-   "original": 99.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_665883-MLA111590217429_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-retorno-kz-edx-pro-x-sem-microfone-cor-transparente/p/MLB36591502?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793229198
   }
  ]
 }
