@@ -1,7 +1,21 @@
 {
- "updated": 1793292965,
+ "updated": 1793293386,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 384,
+   "key": "mercadolivre:MLB75755258",
+   "title": "Mochila Para Notebook Impermeável com Porta USB e Senha Para Homem",
+   "price": 98.98,
+   "original": 369.0,
+   "pct": 73,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_760171-MLA113815933188_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-para-notebook-impermeavel-com-porta-usb-e-senha-para-homem/p/MLB75755258?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793293366
+  },
   {
    "n": 383,
    "key": "mercadolivre:MLB66128181",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793266140
-  },
-  {
-   "n": 324,
-   "key": "mercadolivre:MLB22256194",
-   "title": "Switch TP-Link LS1005G LiteWave 5 Portas Gigabit 10/100/1000mbps",
-   "price": 75.0,
-   "original": 199.0,
-   "pct": 62,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_619725-MLA99992410021_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/switch-tp-link-ls1005g-litewave-5-portas-gigabit-10-100-1000mbps/p/MLB22256194?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793265719
   }
  ]
 }
