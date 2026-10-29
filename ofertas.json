@@ -1,7 +1,21 @@
 {
- "updated": 1793238374,
+ "updated": 1793238795,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 260,
+   "key": "mercadolivre:MLB54961556",
+   "title": "Smartphone Samsung Galaxy A07 4G 256GB 8GB Preto 6,7\"",
+   "price": 1099.0,
+   "original": 1499.0,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_895724-MLA91526198522_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a07-4g-256gb-8gb-preto-6-7/p/MLB54961556?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793238775
+  },
   {
    "n": 259,
    "key": "mercadolivre:MLB35833951",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793213200
-  },
-  {
-   "n": 200,
-   "key": "mercadolivre:MLB61825281",
-   "title": "Mini Drone Iigenai E88 Dobrável Com Câmera Dual e 2 Baterias",
-   "price": 136.16,
-   "original": 249.99,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_703573-MLA97101684350_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-drone-iigenai-e88-dobravel-com-camera-dual-e-2-baterias/p/MLB61825281?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793212779
   }
  ]
 }
