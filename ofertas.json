@@ -1,7 +1,21 @@
 {
- "updated": 1793244268,
+ "updated": 1793244689,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 274,
+   "key": "mercadolivre:MLB25980994",
+   "title": "Mochila Masculina Grande Notebook Impermeável Reforçada Woosh",
+   "price": 38.99,
+   "original": 120.0,
+   "pct": 68,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_793055-MLA115825214508_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-masculina-grande-notebook-impermeavel-reforcada-woosh/p/MLB25980994?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793244669
+  },
   {
    "n": 273,
    "key": "mercadolivre:MLB44361342",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793219094
-  },
-  {
-   "n": 214,
-   "key": "mercadolivre:MLB43520931",
-   "title": "40 Pilhas Zinco Aa Philips Bateria Caixa C/40 Unidades",
-   "price": 44.9,
-   "original": 57.72,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_688097-MLA99930560739_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/40-pilhas-zinco-aa-philips-bateria-caixa-c-40-unidades/p/MLB43520931?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793218673
   }
  ]
 }
