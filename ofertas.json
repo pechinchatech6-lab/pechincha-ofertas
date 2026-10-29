@@ -1,7 +1,21 @@
 {
- "updated": 1793237532,
+ "updated": 1793237953,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 258,
+   "key": "mercadolivre:MLB45937885",
+   "title": "PC BestPc Intel Core i5 8GB 256GB HDD Windows 10 Corporativo",
+   "price": 940.0,
+   "original": 1198.0,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_899545-MLA99938962645_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pc-bestpc-intel-core-i5-8gb-256gb-hdd-windows-10-corporativo/p/MLB45937885?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793237933
+  },
   {
    "n": 257,
    "key": "mercadolivre:MLB42364363",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793212358
-  },
-  {
-   "n": 198,
-   "key": "mercadolivre:MLB76468113",
-   "title": "Mini Drone Pro 4K Dobrável Wi-Fi FPV Câmera 2 Baterias Presente Dia das Crianças",
-   "price": 187.48,
-   "original": 299.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_976409-MLA115719428023_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-drone-pro-4k-dobravel-wi-fi-fpv-camera-2-baterias-presente-dia-das-criancas/p/MLB76468113?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793211937
   }
  ]
 }
