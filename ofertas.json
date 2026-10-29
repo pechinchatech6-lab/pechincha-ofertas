@@ -1,7 +1,21 @@
 {
- "updated": 1793264897,
+ "updated": 1793265318,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 323,
+   "key": "mercadolivre:MLB18382231",
+   "title": "Repetidor de Sinal Wi-Fi TP-Link TL-WA850RE Extensor de Alcance N300 V7",
+   "price": 110.57,
+   "original": 199.0,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_662555-MLA118244021625_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/repetidor-de-sinal-wi-fi-tp-link-tl-wa850re-extensor-de-alcance-n300-v7/p/MLB18382231?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793265298
+  },
   {
    "n": 322,
    "key": "mercadolivre:MLB22541162",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793240459
-  },
-  {
-   "n": 263,
-   "key": "mercadolivre:MLB49197748",
-   "title": "Smart Tv Tcl 43 Polegadas Qled Full Hd S5k Wifi Bluetooth Google Tv 2 Hdmi Hdr10 Dolby Audio 43s5k",
-   "price": 2199.9,
-   "original": 3142.71,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_957852-MLA114585921650_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-tcl-43-polegadas-qled-full-hd-s5k-wifi-bluetooth-google-tv-2-hdmi-hdr10-dolby-audio-43s5k/p/MLB49197748?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793240038
   }
  ]
 }
