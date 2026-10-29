@@ -1,7 +1,21 @@
 {
- "updated": 1793279453,
+ "updated": 1793280430,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 357,
+   "key": "mercadolivre:MLB41221309",
+   "title": "Kit 3 Perfumes Cebolinha Jequiti 25ml Infantil Turma da Mônica Colônia Masculina Kit Presente Original",
+   "price": 56.7,
+   "original": 129.99,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_735112-MLA115743494554_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-3-perfumes-cebolinha-jequiti-25ml-infantil-turma-da-monica-colonia-masculina-kit-presente-original/p/MLB41221309?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793280410
+  },
   {
    "n": 356,
    "key": "mercadolivre:MLB50200257",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793254773
-  },
-  {
-   "n": 297,
-   "key": "mercadolivre:MLB67713674",
-   "title": "Hub Usb 3.0 7 Portas Entradas Alta Velocidade 5gbps Com Led E Botões Individuais Plug And Play Compatível Com Notebook Pc Tv Console Impressora Mouse E Teclado ",
-   "price": 26.99,
-   "original": 42.99,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_721593-MLA109322214918_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hub-usb-3-0-7-portas-entradas-alta-velocidade-5gbps-com-led-e-botoes-individuais-plug-and-play-compativel-com-notebook-p/p/MLB67713674?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793254352
   }
  ]
 }
