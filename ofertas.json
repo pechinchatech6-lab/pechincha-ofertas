@@ -1,7 +1,21 @@
 {
- "updated": 1793286228,
+ "updated": 1793286649,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 368,
+   "key": "mercadolivre:MLB40923284",
+   "title": "Century Smart Stick Android TV Wi-Fi 8GB Comando de Voz Chromecast HDMI",
+   "price": 255.0,
+   "original": 299.9,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_867583-MLA113622598537_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/century-smart-stick-android-tv-wi-fi-8gb-comando-de-voz-chromecast-hdmi/p/MLB40923284?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793286629
+  },
   {
    "n": 367,
    "key": "mercadolivre:MLB72674962",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793259404
-  },
-  {
-   "n": 308,
-   "key": "mercadolivre:MLB47820696",
-   "title": "Placa De Captura Hdmi 4k Usb 1080p Full Hd Live Streaming Conversor Video Gamer Plug Play Chrome Technology",
-   "price": 29.09,
-   "original": 39.99,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_892725-MLA118860099177_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/placa-de-captura-hdmi-4k-usb-1080p-full-hd-live-streaming-conversor-video-gamer-plug-play-chrome-technology/p/MLB47820696?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793258983
   }
  ]
 }
