@@ -1,7 +1,21 @@
 {
- "updated": 1793272475,
+ "updated": 1793272896,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 341,
+   "key": "mercadolivre:MLB19907986",
+   "title": "Fonte Gamer ATX Fortrek Crusader 500W Bivolt Cooler 120mm",
+   "price": 121.8,
+   "original": 167.79,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_652216-MLA119567769937_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fonte-gamer-atx-fortrek-crusader-500w-bivolt-cooler-120mm/p/MLB19907986?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793272876
+  },
   {
    "n": 340,
    "key": "mercadolivre:MLB17978326",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793248037
-  },
-  {
-   "n": 281,
-   "key": "mercadolivre:MLB23263416",
-   "title": "Cabo Turbo Usb-c P/ Usb-c Baseus Superior Series 100w 1m Cor Preto",
-   "price": 33.85,
-   "original": 66.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_605238-MLA99601874566_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabo-turbo-usb-c-p-usb-c-baseus-superior-series-100w-1m-cor-preto/p/MLB23263416?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793247616
   }
  ]
 }
