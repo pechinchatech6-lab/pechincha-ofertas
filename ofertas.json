@@ -1,7 +1,21 @@
 {
- "updated": 1793273738,
+ "updated": 1793274159,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 344,
+   "key": "mercadolivre:MLB51870940",
+   "title": "Filamento De Impressão 3d Básico Esun Pla 1 Kg, Cor Preto",
+   "price": 113.75,
+   "original": 139.9,
+   "pct": 19,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_710415-MLA112052404829_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/filamento-de-impressao-3d-basico-esun-pla-1-kg-cor-preto/p/MLB51870940?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793274139
+  },
   {
    "n": 343,
    "key": "mercadolivre:MLB16033352",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793249300
-  },
-  {
-   "n": 284,
-   "key": "mercadolivre:MLB47519001",
-   "title": "Fone de Ouvido Eardbud AIWA AWS-EB-05-B Bluetooth IPX4 24 Horas de bateria",
-   "price": 109.0,
-   "original": 164.9,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_980288-MLA99966340125_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-eardbud-aiwa-aws-eb-05-b-bluetooth-ipx4-24-horas-de-bateria/p/MLB47519001?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793248879
   }
  ]
 }
