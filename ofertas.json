@@ -1,7 +1,21 @@
 {
- "updated": 1793266581,
+ "updated": 1793267002,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 327,
+   "key": "mercadolivre:MLB19723153",
+   "title": "Nobreak Intelbras Attiv 1200va Entrada Bivolt E Saida 127v Cor Preto",
+   "price": 721.84,
+   "original": 1185.0,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_722731-MLA109746264411_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nobreak-intelbras-attiv-1200va-entrada-bivolt-e-saida-127v-cor-preto/p/MLB19723153?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793266982
+  },
   {
    "n": 326,
    "key": "mercadolivre:MLB57817318",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793242143
-  },
-  {
-   "n": 267,
-   "key": "mercadolivre:MLB47889235",
-   "title": "Carregador Super Rápido 25w Para Samsung Galaxy S24 S23 S22 S21 S20 Fe Ultra Motorola M22 M31 M32 M62 M63 M64 G15 Xiaomi Redmi Note 12 13 14 15 LG - Super Fast ",
-   "price": 32.9,
-   "original": 78.9,
-   "pct": 58,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_923598-MLA113044313715_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/carregador-super-rapido-25w-para-samsung-galaxy-s24-s23-s22-s21-s20-fe-ultra-motorola-m22-m31-m32-m62-m63-m64-g15-xiaomi/p/MLB47889235?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793241722
   }
  ]
 }
