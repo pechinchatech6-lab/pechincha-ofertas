@@ -1,7 +1,21 @@
 {
- "updated": 1793246373,
+ "updated": 1793246794,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 279,
+   "key": "mercadolivre:MLB54075534",
+   "title": "Smart Tv Semp 43 Polegadas Led Hva 4k S62 Wifi Bluetooth Google Tv 3 Hdmi Hdr10+ Dolby Audio 43s62",
+   "price": 1376.55,
+   "original": 1999.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_897466-MLA114005600181_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-semp-43-polegadas-led-hva-4k-s62-wifi-bluetooth-google-tv-3-hdmi-hdr10-dolby-audio-43s62/p/MLB54075534?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793246774
+  },
   {
    "n": 278,
    "key": "mercadolivre:MLB24075966",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793221199
-  },
-  {
-   "n": 219,
-   "key": "mercadolivre:MLB48959123",
-   "title": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portáti",
-   "price": 247.06,
-   "original": 365.9,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_898231-MLA112356757992_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-hy320-davely-smart-tv-android-wifi-6-390-ansi-lumens-full-hd-suporte-4k-hdmi-bluetooth-85-200-polegadas-alto-fa/p/MLB48959123?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793220778
   }
  ]
 }
