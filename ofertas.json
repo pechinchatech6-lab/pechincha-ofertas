@@ -1,7 +1,21 @@
 {
- "updated": 1793258582,
+ "updated": 1793259003,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 308,
+   "key": "mercadolivre:MLB47820696",
+   "title": "Placa De Captura Hdmi 4k Usb 1080p Full Hd Live Streaming Conversor Video Gamer Plug Play Chrome Technology",
+   "price": 29.09,
+   "original": 39.99,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_892725-MLA118860099177_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/placa-de-captura-hdmi-4k-usb-1080p-full-hd-live-streaming-conversor-video-gamer-plug-play-chrome-technology/p/MLB47820696?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793258983
+  },
   {
    "n": 307,
    "key": "mercadolivre:MLB51066267",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793233487
-  },
-  {
-   "n": 248,
-   "key": "mercadolivre:MLB29039064",
-   "title": "Kit Placa Usb Controle Ps4 Jds-040 + Cabo Flat 12 Vias",
-   "price": 18.4,
-   "original": 21.9,
-   "pct": 16,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_722576-MLA100056995813_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-placa-usb-controle-ps4-jds-040-cabo-flat-12-vias/p/MLB29039064?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793233066
   }
  ]
 }
