@@ -1,7 +1,21 @@
 {
- "updated": 1793310822,
+ "updated": 1793311871,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 418,
+   "key": "mercadolivre:MLB63036814",
+   "title": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
+   "price": 1085.87,
+   "original": 1499.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_904550-MLA100972962937_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-32-philco-p32vik-roku-led-dolby-audio-hdr-wi-fi-110-220v/p/MLB63036814?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793311851
+  },
   {
    "n": 417,
    "key": "mercadolivre:MLB60709649",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793281252
-  },
-  {
-   "n": 358,
-   "key": "mercadolivre:MLB59019868",
-   "title": "Mouse Vertical Ergonômico Sem Fio Recarregável Bluetooth e USB 2.4G – RGB, Silencioso, DPI Ajustável, Reduz Tensão no Pulso, Portátil e Confortável – Compatível",
-   "price": 44.1,
-   "original": 69.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_869466-MLA100026509347_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-vertical-ergonomico-sem-fio-recarregavel-bluetooth-e-usb-2-4g-rgb-silencioso-dpi-ajustavel-reduz-tensao-no-pulso-p/p/MLB59019868?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793280831
   }
  ]
 }
