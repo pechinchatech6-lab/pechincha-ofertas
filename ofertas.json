@@ -1,7 +1,21 @@
 {
- "updated": 1793259845,
+ "updated": 1793260266,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 311,
+   "key": "mercadolivre:MLB20704214",
+   "title": "Roteador HUAWEI WiFi AX2S 5 GHz Wi-Fi 6 HarmonyOS Mesh+ EasyMeshVisualização de Diagnósticos do Wi-Fi Controle Parental Branco",
+   "price": 159.0,
+   "original": 499.0,
+   "pct": 68,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_740344-MLA113061165432_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/roteador-huawei-wifi-ax2s-5-ghz-wi-fi-6-harmonyos-mesh-easymeshvisualizacao-de-diagnosticos-do-wi-fi-controle-parental-b/p/MLB20704214?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793260246
+  },
   {
    "n": 310,
    "key": "mercadolivre:MLB55762063",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793235146
-  },
-  {
-   "n": 251,
-   "key": "mercadolivre:MLB21710812",
-   "title": "Hd Externo 2tb Seagate Expansion Portátil Usb 3.0 Preto",
-   "price": 840.0,
-   "original": 3986.35,
-   "pct": 79,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_975342-MLA120275249455_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hd-externo-2tb-seagate-expansion-portatil-usb-3-0-preto/p/MLB21710812?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793234725
   }
  ]
 }
