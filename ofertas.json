@@ -1,7 +1,21 @@
 {
- "updated": 1793297175,
+ "updated": 1793297596,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 394,
+   "key": "mercadolivre:MLB56511596",
+   "title": "Kit 2 Controles Para Ps2 e PS1 Com Fio Analógico Joystick Manete - Crowley",
+   "price": 51.77,
+   "original": 84.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_920574-MLA110375106425_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-2-controles-para-ps2-e-ps1-com-fio-analogico-joystick-manete-crowley/p/MLB56511596?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793297576
+  },
   {
    "n": 393,
    "key": "mercadolivre:MLB19104024",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793270350
-  },
-  {
-   "n": 334,
-   "key": "mercadolivre:MLB48594449",
-   "title": "Antena Digital 4k Hd Interna Externa Para Tv Samsung LG Smart Led Lcd 3d Uhf Cabo Longo Com Base Magnética",
-   "price": 29.89,
-   "original": 39.9,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_871216-MLA120306690651_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/antena-digital-4k-hd-interna-externa-para-tv-samsung-lg-smart-led-lcd-3d-uhf-cabo-longo-com-base-magnetica/p/MLB48594449?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793269929
   }
  ]
 }
