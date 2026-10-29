@@ -1,7 +1,21 @@
 {
- "updated": 1793261108,
+ "updated": 1793261529,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 314,
+   "key": "mercadolivre:MLB65084012",
+   "title": "Fonte Cooler Master Mwe 750 V3 750w Atx 3.1 Preto",
+   "price": 391.0,
+   "original": 819.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_663942-MLA116503586141_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fonte-cooler-master-mwe-750-v3-750w-atx-3-1-preto/p/MLB65084012?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793261509
+  },
   {
    "n": 313,
    "key": "mercadolivre:MLB49197371",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793236409
-  },
-  {
-   "n": 254,
-   "key": "mercadolivre:MLB62535762",
-   "title": "Fonte Msi Mag 650w 80 Plus Bronze Pfc Ativo A650bnl Preto",
-   "price": 339.0,
-   "original": 440.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_620355-MLA99033065284_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fonte-msi-mag-650w-80-plus-bronze-pfc-ativo-a650bnl-preto/p/MLB62535762?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793235988
   }
  ]
 }
