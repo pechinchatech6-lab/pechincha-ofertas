@@ -1,7 +1,21 @@
 {
- "updated": 1793298438,
+ "updated": 1793298859,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 397,
+   "key": "mercadolivre:MLB28894895",
+   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Preto Micgeek",
+   "price": 24.94,
+   "original": 40.0,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_767519-MLA108974232726_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-preto-micgeek/p/MLB28894895?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793298839
+  },
   {
    "n": 396,
    "key": "mercadolivre:MLB64368352",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793271613
-  },
-  {
-   "n": 337,
-   "key": "mercadolivre:MLB18010993",
-   "title": "Controle Joystick Sem Fio Sony PlayStation 5 CFI-ZCT1W Midnight Black",
-   "price": 416.0,
-   "original": 712.37,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-joystick-sem-fio-sony-playstation-5-cfi-zct1w-midnight-black/p/MLB18010993?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793271192
   }
  ]
 }
