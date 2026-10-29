@@ -1,7 +1,21 @@
 {
- "updated": 1793272054,
+ "updated": 1793272475,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 340,
+   "key": "mercadolivre:MLB17978326",
+   "title": "SSD Kingston A400 480GB SATA III 2.5\" 500MB/s SA400S37/480G",
+   "price": 464.0,
+   "original": 668.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_890700-MLA99502433930_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ssd-kingston-a400-480gb-sata-iii-2-5-500mb-s-sa400s37-480g/p/MLB17978326?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793272455
+  },
   {
    "n": 339,
    "key": "mercadolivre:MLB76258213",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793247616
-  },
-  {
-   "n": 280,
-   "key": "mercadolivre:MLB48468943",
-   "title": "Headset Gamer Redragon Zeus Lite Preto Drivers 53mm com Microfone Removível",
-   "price": 125.0,
-   "original": 214.31,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_743438-MLA105468591979_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/headset-gamer-redragon-zeus-lite-preto-drivers-53mm-com-microfone-removivel/p/MLB48468943?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793247195
   }
  ]
 }
