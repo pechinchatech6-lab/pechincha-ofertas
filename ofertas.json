@@ -1,7 +1,21 @@
 {
- "updated": 1793257740,
+ "updated": 1793258161,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 306,
+   "key": "mercadolivre:MLB65526617",
+   "title": "Cabo De Força Tipo 8 IEC C7 Bivolt Bipolar 1,5M Plug 2 Pinos Desktop Notebook Monitor Videogame Smart TV Fonte Energia Universal Conexão Segura PS4 PS5 Eletric ",
+   "price": 19.49,
+   "original": 39.99,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_893195-MLA117749477275_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-de-forca-tipo-8-iec-c7-bivolt-bipolar-1-5m-plug-2-pinos-desktop-notebook-monitor-videogame-smart-tv-fonte-energia-u/p/MLB65526617?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793258141
+  },
   {
    "n": 305,
    "key": "mercadolivre:MLB63238506",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793232645
-  },
-  {
-   "n": 246,
-   "key": "mercadolivre:MLB62057953",
-   "title": "Cadeira Gamer Escritorio Giratória Reclinável Preta Vermelha Cinza",
-   "price": 620.17,
-   "original": 998.99,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_780501-MLA97566081734_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cadeira-gamer-escritorio-giratoria-reclinavel-preta-vermelha-cinza/p/MLB62057953?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793232224
   }
  ]
 }
