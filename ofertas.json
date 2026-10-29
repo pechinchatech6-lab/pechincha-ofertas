@@ -1,7 +1,21 @@
 {
- "updated": 1793277948,
+ "updated": 1793278369,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 354,
+   "key": "mercadolivre:MLB66447486",
+   "title": "Pasta Térmica Gd900 30g Alta Performance Para Ps4 Ps5 Ps3 Xbox Pc Notebook Marca Bahrein",
+   "price": 22.0,
+   "original": 29.9,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_768652-MLA115069179755_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pasta-termica-gd900-30g-alta-performance-para-ps4-ps5-ps3-xbox-pc-notebook-marca-bahrein/p/MLB66447486?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793278349
+  },
   {
    "n": 353,
    "key": "mercadolivre:MLB53793582",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793253510
-  },
-  {
-   "n": 294,
-   "key": "mercadolivre:MLB47609067",
-   "title": "Hub Usb 4 Portas Usb 3.0 5 Gbps Extensor Adaptador Usb 3.0 Computador Pc Notebook Chrome Technology",
-   "price": 19.99,
-   "original": 24.99,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_679252-MLA115896968127_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hub-usb-4-portas-usb-3-0-5-gbps-extensor-adaptador-usb-3-0-computador-pc-notebook-chrome-technology/p/MLB47609067?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793253089
   }
  ]
 }
