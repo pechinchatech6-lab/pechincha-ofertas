@@ -1,7 +1,21 @@
 {
- "updated": 1793270370,
+ "updated": 1793270791,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 336,
+   "key": "mercadolivre:MLB63467528",
+   "title": "Samsung Smart Tv 43 Qled Full Hd Q5f 2025, Xbox Cloud Gaming, Canais Gratuitos, Hdr, Som Em Movimento Virtual",
+   "price": 1687.87,
+   "original": 2799.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612999-MLA102412809695_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/samsung-smart-tv-43-qled-full-hd-q5f-2025-xbox-cloud-gaming-canais-gratuitos-hdr-som-em-movimento-virtual/p/MLB63467528?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793270771
+  },
   {
    "n": 335,
    "key": "mercadolivre:MLB35587178",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793245932
-  },
-  {
-   "n": 276,
-   "key": "mercadolivre:MLB40656539",
-   "title": "Starlink Mini Kit Antena Satélite com Roteador Wi-Fi",
-   "price": 499.0,
-   "original": 999.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_799612-MLA95359719699_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/starlink-mini-kit-antena-satelite-com-roteador-wi-fi/p/MLB40656539?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793245511
   }
  ]
 }
