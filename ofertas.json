@@ -1,7 +1,21 @@
 {
- "updated": 1793240900,
+ "updated": 1793241321,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 266,
+   "key": "mercadolivre:MLB72674962",
+   "title": "Mouse Recarregável Bluetooth Wireless Ergonômico Óptico Informática Gamer Led Rgb Notebook Pc Tablet Smartphone Blackbom",
+   "price": 19.97,
+   "original": 49.99,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_698387-MLA112152526650_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mouse-recarregavel-bluetooth-wireless-ergonomico-optico-informatica-gamer-led-rgb-notebook-pc-tablet-smartphone-blackbom/p/MLB72674962?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793241301
+  },
   {
    "n": 265,
    "key": "mercadolivre:MLB63966639",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793215726
-  },
-  {
-   "n": 206,
-   "key": "mercadolivre:MLB28640151",
-   "title": "Barra De Led Un50nu7100 Un50ru7100 Un50nu7100g Un50ru7100g",
-   "price": 48.0,
-   "original": 78.5,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_787722-MLA100107719919_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/barra-de-led-un50nu7100-un50ru7100-un50nu7100g-un50ru7100g/p/MLB28640151?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793215305
   }
  ]
 }
