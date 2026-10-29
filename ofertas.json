@@ -1,7 +1,21 @@
 {
- "updated": 1793277527,
+ "updated": 1793277948,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 353,
+   "key": "mercadolivre:MLB53793582",
+   "title": "Kit Limpa Telas Notebook Celulares Homefy + Pano Microfibra",
+   "price": 20.07,
+   "original": 24.99,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_604638-MLA99594117354_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-limpa-telas-notebook-celulares-homefy-pano-microfibra/p/MLB53793582?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793277928
+  },
   {
    "n": 352,
    "key": "mercadolivre:MLB68292290",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793253089
-  },
-  {
-   "n": 293,
-   "key": "mercadolivre:MLB77562776",
-   "title": "Pen Drive 32gb Mini Chaveiro Resistente Rápido Usb Metal Cor Prata Alta Velocidade Compatível Desktop Pc Notebook Som Automotivo Kateluo",
-   "price": 37.98,
-   "original": 49.33,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_944962-MLA116961351126_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pen-drive-32gb-mini-chaveiro-resistente-rapido-usb-metal-cor-prata-alta-velocidade-compativel-desktop-pc-notebook-som-au/p/MLB77562776?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793252668
   }
  ]
 }
