@@ -1,7 +1,21 @@
 {
- "updated": 1793268265,
+ "updated": 1793268686,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 331,
+   "key": "mercadolivre:MLB38769725",
+   "title": "Nobreak Apc 600va Entrada bIVOLT e Saída 115v Bvx600bi-br",
+   "price": 349.0,
+   "original": 443.9,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_854533-MLA111080796680_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nobreak-apc-600va-entrada-bivolt-e-saida-115v-bvx600bi-br/p/MLB38769725?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793268666
+  },
   {
    "n": 330,
    "key": "mercadolivre:MLB34263305",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793243827
-  },
-  {
-   "n": 271,
-   "key": "mercadolivre:MLB22778772",
-   "title": "Controle Para Xbox 360 Com Fio USB Joystick Manete Gamepad Controle PC Gamer Para Computador Windows Steam Game Pass Android Gamepass TV Vibração Analógico Ergo",
-   "price": 45.0,
-   "original": 89.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_905623-MLA118558569418_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-para-xbox-360-com-fio-usb-joystick-manete-gamepad-controle-pc-gamer-para-computador-windows-steam-game-pass-and/p/MLB22778772?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793243406
   }
  ]
 }
