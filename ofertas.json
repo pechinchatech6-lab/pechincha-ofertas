@@ -1,7 +1,21 @@
 {
- "updated": 1793273317,
+ "updated": 1793273738,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 343,
+   "key": "mercadolivre:MLB16033352",
+   "title": "Nobreak Interativo Monovolt Intelbras Xnb 720va 220v",
+   "price": 407.0,
+   "original": 556.68,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_604658-MLA109780735339_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nobreak-interativo-monovolt-intelbras-xnb-720va-220v/p/MLB16033352?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793273718
+  },
   {
    "n": 342,
    "key": "mercadolivre:MLB19723156",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793248879
-  },
-  {
-   "n": 283,
-   "key": "mercadolivre:MLB79730182",
-   "title": "Kit De Pinças Eletrônicas Naisieka NZTZ Antiestáticas Em Aço Inoxidável Com 10 Peças Para Reparo De Celular E Montagem",
-   "price": 31.52,
-   "original": 125.0,
-   "pct": 75,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_839816-MLA116546332490_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-de-pincas-eletronicas-naisieka-nztz-antiestaticas-em-aco-inoxidavel-com-10-pecas-para-reparo-de-celular-e-montagem/p/MLB79730182?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793248458
   }
  ]
 }
