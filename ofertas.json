@@ -1,7 +1,21 @@
 {
- "updated": 1793287491,
+ "updated": 1793287912,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 371,
+   "key": "mercadolivre:MLB64305534",
+   "title": "Projetor Smart Portátil Full Hd 4k Android 11 Wi-fi Bluetooth Mini Projetor Home Theater Cinema Em Casa Imagem Nítida Som Potente Compatível Com Diversos Dispos",
+   "price": 191.0,
+   "original": 419.9,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_985823-MLA113683572316_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-smart-portatil-full-hd-4k-android-11-wi-fi-bluetooth-mini-projetor-home-theater-cinema-em-casa-imagem-nitida-so/p/MLB64305534?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793287892
+  },
   {
    "n": 370,
    "key": "mercadolivre:MLB51958382",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793260667
-  },
-  {
-   "n": 311,
-   "key": "mercadolivre:MLB20704214",
-   "title": "Roteador HUAWEI WiFi AX2S 5 GHz Wi-Fi 6 HarmonyOS Mesh+ EasyMeshVisualização de Diagnósticos do Wi-Fi Controle Parental Branco",
-   "price": 159.0,
-   "original": 499.0,
-   "pct": 68,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_740344-MLA113061165432_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/roteador-huawei-wifi-ax2s-5-ghz-wi-fi-6-harmonyos-mesh-easymeshvisualizacao-de-diagnosticos-do-wi-fi-controle-parental-b/p/MLB20704214?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793260246
   }
  ]
 }
