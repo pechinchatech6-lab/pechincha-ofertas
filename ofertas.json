@@ -1,7 +1,21 @@
 {
- "updated": 1793296754,
+ "updated": 1793297175,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 393,
+   "key": "mercadolivre:MLB19104024",
+   "title": "Micro-ondas Mondial 1400W MO-02-34-E Espelhado 110V",
+   "price": 528.84,
+   "original": 796.9,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_732239-MLA99464198884_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-mondial-1400w-mo-02-34-e-espelhado-110v/p/MLB19104024?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793297155
+  },
   {
    "n": 392,
    "key": "mercadolivre:MLB54422844",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793269929
-  },
-  {
-   "n": 333,
-   "key": "mercadolivre:MLB46220824",
-   "title": "Webcam Camera Full Hd Zoom 1080p 360 Graus Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone- GoodVision",
-   "price": 36.98,
-   "original": 78.0,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_807092-MLA100966388363_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-360-graus-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-goodvision/p/MLB46220824?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793269508
   }
  ]
 }
