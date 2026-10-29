@@ -1,7 +1,21 @@
 {
- "updated": 1793291702,
+ "updated": 1793292123,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 381,
+   "key": "mercadolivre:MLB54552549",
+   "title": "Kit Relógio Colar e Brincos Ponto De Luz Dourado e Prateado Feminino Luxo Saint Germain 28mm",
+   "price": 143.94,
+   "original": 317.98,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_910204-MLA99968149213_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-relogio-colar-e-brincos-ponto-de-luz-dourado-e-prateado-feminino-luxo-saint-germain-28mm/p/MLB54552549?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793292103
+  },
   {
    "n": 380,
    "key": "mercadolivre:MLB80245753",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793264877
-  },
-  {
-   "n": 321,
-   "key": "mercadolivre:MLB61672306",
-   "title": "Repetidor WiFi Titanis 2.4GHz 6 Antenas Alta Estabilidade e Alcance",
-   "price": 72.0,
-   "original": 99.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_909985-MLA97523771014_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/repetidor-wifi-titanis-2-4ghz-6-antenas-alta-estabilidade-e-alcance/p/MLB61672306?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793264456
   }
  ]
 }
