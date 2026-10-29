@@ -1,7 +1,21 @@
 {
- "updated": 1793307460,
+ "updated": 1793307881,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 412,
+   "key": "mercadolivre:MLB18623660",
+   "title": "Ventilador de Mesa Mondial Super Power 40cm 6 Pás VSP-40-B 127V Preto/Cinza",
+   "price": 142.79,
+   "original": 223.12,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_843498-MLA113779468044_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-mesa-mondial-super-power-40cm-6-pas-vsp-40-b-127v-preto-cinza/p/MLB18623660?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793307861
+  },
   {
    "n": 411,
    "key": "mercadolivre:MLB47223313",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793277928
-  },
-  {
-   "n": 352,
-   "key": "mercadolivre:MLB68292290",
-   "title": "Álcool Isoprop 99,8% Limpador De Tela 1l Pincel Raro Limpeza Profunda Solvente Seca Rápido",
-   "price": 23.9,
-   "original": 33.9,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_759724-MLA109706662054_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alcool-isoprop-99-8-limpador-de-tela-1l-pincel-raro-limpeza-profunda-solvente-seca-rapido/p/MLB68292290?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793277507
   }
  ]
 }
