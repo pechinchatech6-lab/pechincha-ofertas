@@ -1,7 +1,21 @@
 {
- "updated": 1793287912,
+ "updated": 1793288333,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 372,
+   "key": "mercadolivre:MLB78620279",
+   "title": "Nintendo Switch Sports Resort - NS2",
+   "price": 379.96,
+   "original": 480.97,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_842013-MLA116813640343_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nintendo-switch-sports-resort-ns2/p/MLB78620279?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793288313
+  },
   {
    "n": 371,
    "key": "mercadolivre:MLB64305534",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793261088
-  },
-  {
-   "n": 312,
-   "key": "mercadolivre:MLB23071975",
-   "title": "Receptor de TV via Satélite para Parabólicas Banda KU SatBox DTH-9000",
-   "price": 78.75,
-   "original": 105.0,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_873464-MLA99529992604_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/receptor-de-tv-via-satelite-para-parabolicas-banda-ku-satbox-dth-9000/p/MLB23071975?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793260667
   }
  ]
 }
