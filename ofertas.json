@@ -1,7 +1,21 @@
 {
- "updated": 1793302823,
+ "updated": 1793303244,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 405,
+   "key": "mercadolivre:MLB70228023",
+   "title": "Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente Prateado",
+   "price": 34.9,
+   "original": 49.9,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_907811-MLA112159861189_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-relogio-feminino-colar-brinco-pulseira-folheado-presente-prateado/p/MLB70228023?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793303224
+  },
   {
    "n": 404,
    "key": "mercadolivre:MLB67146264",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793274981
-  },
-  {
-   "n": 345,
-   "key": "mercadolivre:MLB36837979",
-   "title": "Pack 3 tintas Epson T544 cian amarela magenta 65ml",
-   "price": 248.32,
-   "original": 350.0,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_987493-MLU76140753672_052024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pack-3-tintas-epson-t544-cian-amarela-magenta-65ml/p/MLB36837979?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793274560
   }
  ]
 }
