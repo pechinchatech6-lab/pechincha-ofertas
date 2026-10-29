@@ -1,7 +1,21 @@
 {
- "updated": 1793252267,
+ "updated": 1793252688,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 293,
+   "key": "mercadolivre:MLB77562776",
+   "title": "Pen Drive 32gb Mini Chaveiro Resistente Rápido Usb Metal Cor Prata Alta Velocidade Compatível Desktop Pc Notebook Som Automotivo Kateluo",
+   "price": 37.98,
+   "original": 49.33,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_944962-MLA116961351126_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pen-drive-32gb-mini-chaveiro-resistente-rapido-usb-metal-cor-prata-alta-velocidade-compativel-desktop-pc-notebook-som-au/p/MLB77562776?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793252668
+  },
   {
    "n": 292,
    "key": "mercadolivre:MLB57380648",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793227093
-  },
-  {
-   "n": 233,
-   "key": "mercadolivre:MLB57723340",
-   "title": "Smart Tv Philips 50 4k 50pug7300 Comando De Voz Bluetooth",
-   "price": 1899.0,
-   "original": 2680.01,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_603690-MLA93305557455_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-philips-50-4k-50pug7300-comando-de-voz-bluetooth/p/MLB57723340?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793226672
   }
  ]
 }
