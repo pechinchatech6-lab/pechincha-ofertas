@@ -1,7 +1,21 @@
 {
- "updated": 1793261950,
+ "updated": 1793262371,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 316,
+   "key": "mercadolivre:MLB60717499",
+   "title": "Adaptador Rec Bluetooth 5.4 P/ Computador Até 7 Dispositivos",
+   "price": 35.59,
+   "original": 59.99,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_807067-MLA95808203787_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/adaptador-rec-bluetooth-5-4-p-computador-ate-7-dispositivos/p/MLB60717499?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793262351
+  },
   {
    "n": 315,
    "key": "mercadolivre:MLB50389060",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793237512
-  },
-  {
-   "n": 256,
-   "key": "mercadolivre:MLB64970548",
-   "title": "Leitor De Cartão Usb 3.0 Adaptador Micro Sd / Sdxc 5gbps",
-   "price": 21.9,
-   "original": 36.9,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_973989-MLA105677039100_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/leitor-de-cartao-usb-3-0-adaptador-micro-sd-sdxc-5gbps/p/MLB64970548?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793236830
   }
  ]
 }
