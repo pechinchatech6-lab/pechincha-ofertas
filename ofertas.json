@@ -1,7 +1,21 @@
 {
- "updated": 1793251846,
+ "updated": 1793252267,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 292,
+   "key": "mercadolivre:MLB57380648",
+   "title": "Pen Drive 64gb Mini Usb 2.0 Chaveiro Metalico Resistente Alt Prateado Pen Drive",
+   "price": 50.61,
+   "original": 79.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_644392-MLA99555856914_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pen-drive-64gb-mini-usb-2-0-chaveiro-metalico-resistente-alt-prateado-pen-drive/p/MLB57380648?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793252247
+  },
   {
    "n": 291,
    "key": "mercadolivre:MLB76579694",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793226672
-  },
-  {
-   "n": 232,
-   "key": "mercadolivre:MLB67267597",
-   "title": "Smart Tv Philco 50 P50vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
-   "price": 2209.47,
-   "original": 3499.0,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_750412-MLA108743699852_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-philco-50-p50vik-4k-uhd-led-roku-dolby-audio-wi-fi-hdr10-110-220v/p/MLB67267597?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793226251
   }
  ]
 }
