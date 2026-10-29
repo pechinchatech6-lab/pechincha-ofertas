@@ -1,7 +1,21 @@
 {
- "updated": 1793243847,
+ "updated": 1793244268,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 273,
+   "key": "mercadolivre:MLB44361342",
+   "title": "Cabo De Rede Internet 30m 30 Metros Cat6 Azul Crimpado Giga Lan Ethernet Boyu Cell",
+   "price": 41.18,
+   "original": 64.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_795187-MLA107571017470_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-de-rede-internet-30m-30-metros-cat6-azul-crimpado-giga-lan-ethernet-boyu-cell/p/MLB44361342?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793244248
+  },
   {
    "n": 272,
    "key": "mercadolivre:MLB56422538",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793218673
-  },
-  {
-   "n": 213,
-   "key": "mercadolivre:MLB38481041",
-   "title": "Kit Duracell Com 16 Pilhas Aa E 16 Pilhas Aaa",
-   "price": 134.9,
-   "original": 206.8,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_721036-MLA99439702098_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-duracell-com-16-pilhas-aa-e-16-pilhas-aaa/p/MLB38481041?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793218252
   }
  ]
 }
