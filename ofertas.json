@@ -1,7 +1,21 @@
 {
- "updated": 1793269528,
+ "updated": 1793269949,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 334,
+   "key": "mercadolivre:MLB48594449",
+   "title": "Antena Digital 4k Hd Interna Externa Para Tv Samsung LG Smart Led Lcd 3d Uhf Cabo Longo Com Base Magnética",
+   "price": 29.89,
+   "original": 39.9,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_871216-MLA120306690651_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/antena-digital-4k-hd-interna-externa-para-tv-samsung-lg-smart-led-lcd-3d-uhf-cabo-longo-com-base-magnetica/p/MLB48594449?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793269929
+  },
   {
    "n": 333,
    "key": "mercadolivre:MLB46220824",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793245090
-  },
-  {
-   "n": 274,
-   "key": "mercadolivre:MLB25980994",
-   "title": "Mochila Masculina Grande Notebook Impermeável Reforçada Woosh",
-   "price": 38.99,
-   "original": 120.0,
-   "pct": 68,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_793055-MLA115825214508_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-masculina-grande-notebook-impermeavel-reforcada-woosh/p/MLB25980994?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793244669
   }
  ]
 }
