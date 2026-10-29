@@ -1,7 +1,21 @@
 {
- "updated": 1793234745,
+ "updated": 1793235166,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 252,
+   "key": "mercadolivre:MLB63980306",
+   "title": "Pokémon Pokopia - Nintendo Switch 2",
+   "price": 439.89,
+   "original": 556.83,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_877218-MLA104113006671_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pokemon-pokopia-nintendo-switch-2/p/MLB63980306?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793235146
+  },
   {
    "n": 251,
    "key": "mercadolivre:MLB21710812",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793209706
-  },
-  {
-   "n": 192,
-   "key": "mercadolivre:MLB66153868",
-   "title": "Controle Universal LG Smart TV Rezzet Compatível Com Todos os Modelos Pronto Para Uso Netlix e Prime Video",
-   "price": 19.0,
-   "original": 22.9,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_758226-MLA114720239581_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-universal-lg-smart-tv-rezzet-compativel-com-todos-os-modelos-pronto-para-uso-netlix-e-prime-video/p/MLB66153868?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793209285
   }
  ]
 }
