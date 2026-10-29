@@ -1,7 +1,21 @@
 {
- "updated": 1793276264,
+ "updated": 1793276685,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 350,
+   "key": "mercadolivre:MLB77501880",
+   "title": "Leitor de Código de Barras Laser USB com Fio para Boletos FEBRABAN",
+   "price": 89.9,
+   "original": 184.9,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_618630-MLA114910488940_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/leitor-de-codigo-de-barras-laser-usb-com-fio-para-boletos-febraban/p/MLB77501880?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793276665
+  },
   {
    "n": 349,
    "key": "mercadolivre:MLB67655033",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793251826
-  },
-  {
-   "n": 290,
-   "key": "mercadolivre:MLB21450143",
-   "title": "SSD Interno Macrovip Premium 240 GB Mv240gb",
-   "price": 229.89,
-   "original": 287.79,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_914305-MLA99982194493_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ssd-interno-macrovip-premium-240-gb-mv240gb/p/MLB21450143?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793251405
   }
  ]
 }
