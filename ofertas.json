@@ -1,7 +1,21 @@
 {
- "updated": 1793302402,
+ "updated": 1793302823,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 404,
+   "key": "mercadolivre:MLB67146264",
+   "title": "Mini Mixer Misturador De Bebidas Elétrico 2 Em 1 Portátil Recarregável Mexedor De Ovos Leite Whey Café Espuma Shake Drinks Capuccino Suco Blackbom",
+   "price": 19.99,
+   "original": 49.99,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_993099-MLA118374430742_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-mixer-misturador-de-bebidas-eletrico-2-em-1-portatil-recarregavel-mexedor-de-ovos-leite-whey-cafe-espuma-shake-drin/p/MLB67146264?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793302803
+  },
   {
    "n": 403,
    "key": "mercadolivre:MLB45474714",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793274560
-  },
-  {
-   "n": 344,
-   "key": "mercadolivre:MLB51870940",
-   "title": "Filamento De Impressão 3d Básico Esun Pla 1 Kg, Cor Preto",
-   "price": 113.75,
-   "original": 139.9,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_710415-MLA112052404829_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/filamento-de-impressao-3d-basico-esun-pla-1-kg-cor-preto/p/MLB51870940?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793274139
   }
  ]
 }
