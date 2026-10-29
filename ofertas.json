@@ -1,7 +1,21 @@
 {
- "updated": 1793247215,
+ "updated": 1793247636,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 281,
+   "key": "mercadolivre:MLB23263416",
+   "title": "Cabo Turbo Usb-c P/ Usb-c Baseus Superior Series 100w 1m Cor Preto",
+   "price": 33.85,
+   "original": 66.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_605238-MLA99601874566_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabo-turbo-usb-c-p-usb-c-baseus-superior-series-100w-1m-cor-preto/p/MLB23263416?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793247616
+  },
   {
    "n": 280,
    "key": "mercadolivre:MLB48468943",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793222041
-  },
-  {
-   "n": 221,
-   "key": "mercadolivre:MLB63950169",
-   "title": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos S",
-   "price": 219.9,
-   "original": 329.9,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_611561-MLA118558817253_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-hy320-390-ansi-full-hd-wifi-6-4k-android-bluetooth-150-polegadas-hdmi-usb-controle-remoto-bivolt-portatil-smart/p/MLB63950169?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793221620
   }
  ]
 }
