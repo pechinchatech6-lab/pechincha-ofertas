@@ -1,7 +1,21 @@
 {
- "updated": 1793245952,
+ "updated": 1793246373,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 278,
+   "key": "mercadolivre:MLB24075966",
+   "title": "Processador de Áudio Digital Taramps Pro 2.4S para Som Automotivo com Crossover e Equalizador 15 Bandas",
+   "price": 159.08,
+   "original": 230.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_830482-MLA108910560858_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/processador-de-audio-digital-taramps-pro-2-4s-para-som-automotivo-com-crossover-e-equalizador-15-bandas/p/MLB24075966?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793246353
+  },
   {
    "n": 277,
    "key": "mercadolivre:MLB53911392",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793220778
-  },
-  {
-   "n": 218,
-   "key": "mercadolivre:MLB59660744",
-   "title": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte 4K HDMI Bluetooth 85-200 Polegadas Alto Falante Com Controle Remoto Bivolt Portá",
-   "price": 226.61,
-   "original": 359.99,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_784663-MLA117801956087_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-hy320-hardline-smart-tv-android-wifi-6-390-ansi-lumens-full-hd-suporte-4k-hdmi-bluetooth-85-200-polegadas-alto-/p/MLB59660744?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793220357
   }
  ]
 }
