@@ -1,7 +1,21 @@
 {
- "updated": 1793281272,
+ "updated": 1793281693,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 360,
+   "key": "mercadolivre:MLB65764004",
+   "title": "Fones De Ouvido Usb-c Tipo C Com Microfone Integrado Som Estéreo Alta Qualidade Controle Chamadas Compatível Com iPhone 15 16 17 18 Android Samsung Xiaomi Motor",
+   "price": 22.3,
+   "original": 59.99,
+   "pct": 63,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_693659-MLA113618776783_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fones-de-ouvido-usb-c-tipo-c-com-microfone-integrado-som-estereo-alta-qualidade-controle-chamadas-compativel-com-iphone-/p/MLB65764004?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793281673
+  },
   {
    "n": 359,
    "key": "mercadolivre:MLB56129679",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793256036
-  },
-  {
-   "n": 300,
-   "key": "mercadolivre:MLB42553350",
-   "title": "Hub Usb Com 7 Portas Ultra Rápido Para Pen Drive E Hd 3.0 5Gbps Alta Velocidade De Dados Turbo Usb Marca Ex Decor",
-   "price": 28.8,
-   "original": 40.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_821476-MLA96974887462_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hub-usb-com-7-portas-ultra-rapido-para-pen-drive-e-hd-3-0-5gbps-alta-velocidade-de-dados-turbo-usb-marca-ex-decor/p/MLB42553350?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793255615
   }
  ]
 }
