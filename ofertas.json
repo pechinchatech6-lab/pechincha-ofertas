@@ -1,7 +1,21 @@
 {
- "updated": 1793249741,
+ "updated": 1793250162,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 287,
+   "key": "mercadolivre:MLB54009632",
+   "title": "Pen Drive 32gb Mini Chaveiro Resistente Rápido Usb Metal Cor Prata Alta Velocidade Compatível Desktop Pc Notebook Som Automotivo Wmix Eletrônicos",
+   "price": 36.76,
+   "original": 49.9,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_875439-MLA100082847915_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pen-drive-32gb-mini-chaveiro-resistente-rapido-usb-metal-cor-prata-alta-velocidade-compativel-desktop-pc-notebook-som-au/p/MLB54009632?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793250142
+  },
   {
    "n": 286,
    "key": "mercadolivre:MLB57365099",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793224567
-  },
-  {
-   "n": 227,
-   "key": "mercadolivre:MLB61381053",
-   "title": "Mini projetor portátil Magcubic 8k Hy300pro+ Led 260ansi Android Smart TV Dual Wifi6 Bluetooth 5.4 com HDMI USB e som Hifi",
-   "price": 277.82,
-   "original": 479.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_853181-MLA106925397890_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-projetor-portatil-magcubic-8k-hy300pro-led-260ansi-android-smart-tv-dual-wifi6-bluetooth-5-4-com-hdmi-usb-e-som-hif/p/MLB61381053?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793224146
   }
  ]
 }
