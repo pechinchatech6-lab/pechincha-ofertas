@@ -1,7 +1,21 @@
 {
- "updated": 1793248057,
+ "updated": 1793248478,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 283,
+   "key": "mercadolivre:MLB79730182",
+   "title": "Kit De Pinças Eletrônicas Naisieka NZTZ Antiestáticas Em Aço Inoxidável Com 10 Peças Para Reparo De Celular E Montagem",
+   "price": 31.52,
+   "original": 125.0,
+   "pct": 75,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_839816-MLA116546332490_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-de-pincas-eletronicas-naisieka-nztz-antiestaticas-em-aco-inoxidavel-com-10-pecas-para-reparo-de-celular-e-montagem/p/MLB79730182?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793248458
+  },
   {
    "n": 282,
    "key": "mercadolivre:MLB76023864",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793222883
-  },
-  {
-   "n": 223,
-   "key": "mercadolivre:MLB47069513",
-   "title": "Projetor Smart Portátil Full Hd 4k Android 11 Wi-fi Bluetooth tv Mini Projetor hy300 Home Theater Cinema Em Casa Imagem Nítida Som Potente Compatível Com Divers",
-   "price": 178.67,
-   "original": 223.6,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_756997-MLA120250068965_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-smart-portatil-full-hd-4k-android-11-wi-fi-bluetooth-tv-mini-projetor-hy300-home-theater-cinema-em-casa-imagem-/p/MLB47069513?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793222462
   }
  ]
 }
