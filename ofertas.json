@@ -1,7 +1,21 @@
 {
- "updated": 1793242584,
+ "updated": 1793243005,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 270,
+   "key": "mercadolivre:MLB65541449",
+   "title": "Fone de Ouvido JBL Tune 530BT Bluetooth Sem Fio Preto Headphone com Microfone Wireless Estéreo Graves Potentes Confortável",
+   "price": 190.0,
+   "original": 409.0,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_608030-MLA106478715282_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-jbl-tune-530bt-bluetooth-sem-fio-preto-headphone-com-microfone-wireless-estereo-graves-potentes-confortav/p/MLB65541449?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793242985
+  },
   {
    "n": 269,
    "key": "mercadolivre:MLB24028629",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793217410
-  },
-  {
-   "n": 210,
-   "key": "mercadolivre:MLB16279762",
-   "title": "5 Baterias Elgin CR2032 Lítio 3V Pilha Botão",
-   "price": 8.0,
-   "original": 13.14,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_673558-MLA114159244509_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/5-baterias-elgin-cr2032-litio-3v-pilha-botao/p/MLB16279762?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793216989
   }
  ]
 }
