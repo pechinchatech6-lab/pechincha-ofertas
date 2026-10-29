@@ -1,7 +1,21 @@
 {
- "updated": 1793276685,
+ "updated": 1793277106,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 351,
+   "key": "mercadolivre:MLB65008451",
+   "title": "Limpador De Tela Quimivida Isopropilico Formato Líquido",
+   "price": 39.9,
+   "original": 49.9,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_861827-MLA113101689202_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/limpador-de-tela-quimivida-isopropilico-formato-liquido/p/MLB65008451?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793277086
+  },
   {
    "n": 350,
    "key": "mercadolivre:MLB77501880",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793252247
-  },
-  {
-   "n": 291,
-   "key": "mercadolivre:MLB76579694",
-   "title": "Pen Drive 16GB Bahrein Mini Chaveiro USB Metal Prata para Notebook e Som Automotivo",
-   "price": 33.85,
-   "original": 78.9,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674275-MLA114536473496_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pen-drive-16gb-bahrein-mini-chaveiro-usb-metal-prata-para-notebook-e-som-automotivo/p/MLB76579694?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793251826
   }
  ]
 }
