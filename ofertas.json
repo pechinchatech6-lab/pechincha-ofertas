@@ -1,7 +1,21 @@
 {
- "updated": 1793296333,
+ "updated": 1793296754,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 392,
+   "key": "mercadolivre:MLB54422844",
+   "title": "Relógio Masculino Clássico Pulseira Prata Correia Prateada Bisel Prateado Fundo Azul Marinho Saint Germain 42mm Elegante Detalhes Bronze",
+   "price": 139.9,
+   "original": 249.9,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_758835-MLA100010183395_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-masculino-classico-pulseira-prata-correia-prateada-bisel-prateado-fundo-azul-marinho-saint-germain-42mm-elegante/p/MLB54422844?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793296734
+  },
   {
    "n": 391,
    "key": "mercadolivre:MLB60728265",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793269508
-  },
-  {
-   "n": 332,
-   "key": "mercadolivre:MLB38125677",
-   "title": "Nobreak TS Shara XPro Senoidal 1400VA Universal Bivolt - 4551",
-   "price": 931.8,
-   "original": 1399.0,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_607113-MLA99513079738_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nobreak-ts-shara-xpro-senoidal-1400va-universal-bivolt-4551/p/MLB38125677?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793269087
   }
  ]
 }
