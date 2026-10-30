@@ -1,7 +1,21 @@
 {
- "updated": 1793404354,
+ "updated": 1793404775,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 491,
+   "key": "mercadolivre:MLB64211779",
+   "title": "Controle Com Fio Usb Para Pc Tv Manete Joystick - Crowley",
+   "price": 28.0,
+   "original": 44.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_660259-MLA110461450931_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-com-fio-usb-para-pc-tv-manete-joystick-crowley/p/MLB64211779?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793404755
+  },
   {
    "n": 490,
    "key": "mercadolivre:MLB75755258",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793362864
-  },
-  {
-   "n": 431,
-   "key": "mercadolivre:MLB15238956",
-   "title": "Chapinha De Cabelo Mq Professional Titanium Pro 480 Cor Chumbo",
-   "price": 399.8,
-   "original": 577.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_614724-MLA99489875538_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-mq-professional-titanium-pro-480-cor-chumbo/p/MLB15238956?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793353381
   }
  ]
 }
