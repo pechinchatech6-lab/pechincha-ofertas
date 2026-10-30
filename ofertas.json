@@ -1,7 +1,21 @@
 {
- "updated": 1793398707,
+ "updated": 1793399128,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 486,
+   "key": "mercadolivre:MLB62148588",
+   "title": "Celular Smartphone Realme C73 128gb 4gb Ram Dual Sim 120hz 6000mAh Verde",
+   "price": 949.0,
+   "original": 1599.0,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_929245-MLA102616317533_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/celular-smartphone-realme-c73-128gb-4gb-ram-dual-sim-120hz-6000mah-verde/p/MLB62148588?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793399108
+  },
   {
    "n": 485,
    "key": "mercadolivre:MLB18580665",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793336392
-  },
-  {
-   "n": 426,
-   "key": "mercadolivre:MLB66104745",
-   "title": "Fone Bluetooth 5.4 Sem Fio Tws Kaidi Kd780 Graves Potentes Preto",
-   "price": 22.27,
-   "original": 65.77,
-   "pct": 66,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_622513-MLA108606644996_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-bluetooth-5-4-sem-fio-tws-kaidi-kd780-graves-potentes-preto/p/MLB66104745?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793331146
   }
  ]
 }
