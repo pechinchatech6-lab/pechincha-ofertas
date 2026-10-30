@@ -1,7 +1,21 @@
 {
- "updated": 1793376535,
+ "updated": 1793376956,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 452,
+   "key": "mercadolivre:MLB16139512",
+   "title": "Mouse sem fio Logitech M190 com Pilha Inclusa - Vermelho",
+   "price": 59.26,
+   "original": 74.9,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_970012-MLA99472260158_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mouse-sem-fio-logitech-m190-com-pilha-inclusa-vermelho/p/MLB16139512?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793376936
+  },
   {
    "n": 451,
    "key": "mercadolivre:MLB35587178",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793297155
-  },
-  {
-   "n": 392,
-   "key": "mercadolivre:MLB54422844",
-   "title": "Relógio Masculino Clássico Pulseira Prata Correia Prateada Bisel Prateado Fundo Azul Marinho Saint Germain 42mm Elegante Detalhes Bronze",
-   "price": 139.9,
-   "original": 249.9,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_758835-MLA100010183395_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-masculino-classico-pulseira-prata-correia-prateada-bisel-prateado-fundo-azul-marinho-saint-germain-42mm-elegante/p/MLB54422844?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793296734
   }
  ]
 }
