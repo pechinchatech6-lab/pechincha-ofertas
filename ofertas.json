@@ -1,7 +1,21 @@
 {
- "updated": 1793378848,
+ "updated": 1793379269,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 457,
+   "key": "mercadolivre:MLB25834979",
+   "title": "Cor de fundo do relógio masculino Opk 6010 Quartz original: preto",
+   "price": 78.99,
+   "original": 94.5,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_684260-MLU70909697639_082023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cor-de-fundo-do-relogio-masculino-opk-6010-quartz-original-preto/p/MLB25834979?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793379249
+  },
   {
    "n": 456,
    "key": "mercadolivre:MLB64305534",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793299260
-  },
-  {
-   "n": 397,
-   "key": "mercadolivre:MLB28894895",
-   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Preto Micgeek",
-   "price": 24.94,
-   "original": 40.0,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_767519-MLA108974232726_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-preto-micgeek/p/MLB28894895?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793298839
   }
  ]
 }
