@@ -1,7 +1,21 @@
 {
- "updated": 1793402466,
+ "updated": 1793402886,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 489,
+   "key": "mercadolivre:MLB49197748",
+   "title": "Smart Tv Tcl 43 Polegadas Qled Full Hd S5k Wifi Bluetooth Google Tv 2 Hdmi Hdr10 Dolby Audio 43s5k",
+   "price": 2199.9,
+   "original": 3142.71,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_957852-MLA114585921650_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-tcl-43-polegadas-qled-full-hd-s5k-wifi-bluetooth-google-tv-2-hdmi-hdr10-dolby-audio-43s5k/p/MLB49197748?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793402866
+  },
   {
    "n": 488,
    "key": "mercadolivre:MLB21360271",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793351492
-  },
-  {
-   "n": 429,
-   "key": "mercadolivre:MLB66484708",
-   "title": "Máquina de Lavar Consul 14Kg Branca com Modo Eco - CWN14AB",
-   "price": 1689.0,
-   "original": 2213.44,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_799132-MLA108582680591_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-consul-14kg-branca-com-modo-eco-cwn14ab/p/MLB66484708?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793342057
   }
  ]
 }
