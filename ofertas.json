@@ -1,7 +1,21 @@
 {
- "updated": 1793368974,
+ "updated": 1793369395,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 435,
+   "key": "mercadolivre:MLB65764004",
+   "title": "Fones De Ouvido Usb-c Tipo C Com Microfone Integrado Som Estéreo Alta Qualidade Controle Chamadas Compatível Com iPhone 15 16 17 18 Android Samsung Xiaomi Motor",
+   "price": 22.3,
+   "original": 59.99,
+   "pct": 63,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_693659-MLA113618776783_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fones-de-ouvido-usb-c-tipo-c-com-microfone-integrado-som-estereo-alta-qualidade-controle-chamadas-compativel-com-iphone-/p/MLB65764004?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793369375
+  },
   {
    "n": 434,
    "key": "mercadolivre:MLB56129679",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793289997
-  },
-  {
-   "n": 375,
-   "key": "mercadolivre:MLB76151285",
-   "title": "Frigideira Cerâmica Antiaderente 24cm Compatível Com Indução Cooktop Fogão a Gás Não Gruda Sem Óleo Cabo Ergonomico Em Baquelite Cor Creme",
-   "price": 55.5,
-   "original": 149.9,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_851612-MLA115902375529_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/frigideira-ceramica-antiaderente-24cm-compativel-com-inducao-cooktop-fogao-a-gas-nao-gruda-sem-oleo-cabo-ergonomico-em-b/p/MLB76151285?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793289576
   }
  ]
 }
