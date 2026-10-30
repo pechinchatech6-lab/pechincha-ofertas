@@ -1,7 +1,21 @@
 {
- "updated": 1793382193,
+ "updated": 1793382614,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 461,
+   "key": "mercadolivre:MLB40923284",
+   "title": "Century Smart Stick Android TV Wi-Fi 8GB Comando de Voz Chromecast HDMI",
+   "price": 255.0,
+   "original": 299.9,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_867583-MLA113622598537_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/century-smart-stick-android-tv-wi-fi-8gb-comando-de-voz-chromecast-hdmi/p/MLB40923284?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793382594
+  },
   {
    "n": 460,
    "key": "mercadolivre:MLB51958382",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793300944
-  },
-  {
-   "n": 401,
-   "key": "mercadolivre:MLB45861096",
-   "title": "Controle Gamesir Cyclone 2 Bundle Edition Dock Carregamento para Pc Switch Ios Android Steam Celular Hall Effect Branco",
-   "price": 268.87,
-   "original": 431.95,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_940298-MLA99468016538_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-cyclone-2-bundle-edition-dock-carregamento-para-pc-switch-ios-android-steam-celular-hall-effect-branco/p/MLB45861096?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793300523
   }
  ]
 }
