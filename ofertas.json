@@ -1,7 +1,21 @@
 {
- "updated": 1793383456,
+ "updated": 1793383877,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 464,
+   "key": "mercadolivre:MLB54982411",
+   "title": "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Azul",
+   "price": 1119.9,
+   "original": 1339.9,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_889169-MLA96868779849_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-com-ia-256gb-8gb-ram-cam-de-50mp-tela-de-6-7-nfc-ip54-azul/p/MLB54982411?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793383857
+  },
   {
    "n": 463,
    "key": "mercadolivre:MLB60126432",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793303224
-  },
-  {
-   "n": 404,
-   "key": "mercadolivre:MLB67146264",
-   "title": "Mini Mixer Misturador De Bebidas Elétrico 2 Em 1 Portátil Recarregável Mexedor De Ovos Leite Whey Café Espuma Shake Drinks Capuccino Suco Blackbom",
-   "price": 19.99,
-   "original": 49.99,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_993099-MLA118374430742_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-mixer-misturador-de-bebidas-eletrico-2-em-1-portatil-recarregavel-mexedor-de-ovos-leite-whey-cafe-espuma-shake-drin/p/MLB67146264?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793302803
   }
  ]
 }
