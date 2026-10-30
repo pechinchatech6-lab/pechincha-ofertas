@@ -1,7 +1,21 @@
 {
- "updated": 1793323199,
+ "updated": 1793330745,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 425,
+   "key": "mercadolivre:MLB66980166",
+   "title": "Smart Tv Box 4k Aquário Stv-2000 Plus Android Wifi Preto Padrão",
+   "price": 186.94,
+   "original": 239.9,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_796317-MLA117425968789_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-box-4k-aquario-stv-2000-plus-android-wifi-preto-padrao/p/MLB66980166?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793330725
+  },
   {
    "n": 424,
    "key": "mercadolivre:MLB68818837",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793285787
-  },
-  {
-   "n": 365,
-   "key": "mercadolivre:MLB53432844",
-   "title": "Tv Stick 4k Hdmi Wi-fi 16gb Android Tv Full Hd Smart Televisão Controle Filmes Pro Familar",
-   "price": 176.69,
-   "original": 309.9,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_657953-MLA111080648459_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/tv-stick-4k-hdmi-wi-fi-16gb-android-tv-full-hd-smart-televisao-controle-filmes-pro-familar/p/MLB53432844?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793285366
   }
  ]
 }
