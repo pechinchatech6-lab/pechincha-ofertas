@@ -1,7 +1,21 @@
 {
- "updated": 1793391414,
+ "updated": 1793391835,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 479,
+   "key": "mercadolivre:MLB75681377",
+   "title": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
+   "price": 2599.0,
+   "original": 3599.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-pro-lg-55-4k-ultra-hd-ai-55un85c/p/MLB75681377?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793391815
+  },
   {
    "n": 478,
    "key": "mercadolivre:MLB70228023",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793314161
-  },
-  {
-   "n": 419,
-   "key": "mercadolivre:MLB34016199",
-   "title": "Microfone de Lapela Sem Fio Hollyland Lark M2 Combo (USB-C, Lightning e Câmera)",
-   "price": 598.5,
-   "original": 949.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_644387-MLA119786973369_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-de-lapela-sem-fio-hollyland-lark-m2-combo-usb-c-lightning-e-camera/p/MLB34016199?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793313741
   }
  ]
 }
