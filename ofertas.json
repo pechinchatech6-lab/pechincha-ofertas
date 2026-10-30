@@ -1,7 +1,21 @@
 {
- "updated": 1793330745,
+ "updated": 1793331166,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 426,
+   "key": "mercadolivre:MLB66104745",
+   "title": "Fone Bluetooth 5.4 Sem Fio Tws Kaidi Kd780 Graves Potentes Preto",
+   "price": 22.27,
+   "original": 65.77,
+   "pct": 66,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_622513-MLA108606644996_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-bluetooth-5-4-sem-fio-tws-kaidi-kd780-graves-potentes-preto/p/MLB66104745?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793331146
+  },
   {
    "n": 425,
    "key": "mercadolivre:MLB66980166",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793286208
-  },
-  {
-   "n": 366,
-   "key": "mercadolivre:MLB72888947",
-   "title": "PEST. COURVIN P/ RELOGIO 12 LUGARES - PRETO/CINZA",
-   "price": 71.0,
-   "original": 149.99,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_717612-MLA111794443852_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pest-courvin-p-relogio-12-lugares-preto-cinza/p/MLB72888947?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793285787
   }
  ]
 }
