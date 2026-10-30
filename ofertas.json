@@ -1,7 +1,21 @@
 {
- "updated": 1793374026,
+ "updated": 1793374447,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 447,
+   "key": "mercadolivre:MLB72888947",
+   "title": "PEST. COURVIN P/ RELOGIO 12 LUGARES - PRETO/CINZA",
+   "price": 71.0,
+   "original": 149.99,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_717612-MLA111794443852_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pest-courvin-p-relogio-12-lugares-preto-cinza/p/MLB72888947?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793374427
+  },
   {
    "n": 446,
    "key": "mercadolivre:MLB1055308835",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793295050
-  },
-  {
-   "n": 387,
-   "key": "mercadolivre:MLB25808151",
-   "title": "Secador de Cabelo Gama Italy Eleganza Plus 2100W Ceramic Ion Preto Profissional",
-   "price": 129.0,
-   "original": 239.9,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_951997-MLA99453005780_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-gama-italy-eleganza-plus-2100w-ceramic-ion-preto-profissional/p/MLB25808151?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793294629
   }
  ]
 }
