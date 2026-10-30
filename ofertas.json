@@ -1,7 +1,21 @@
 {
- "updated": 1793338301,
+ "updated": 1793342077,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 429,
+   "key": "mercadolivre:MLB66484708",
+   "title": "Máquina de Lavar Consul 14Kg Branca com Modo Eco - CWN14AB",
+   "price": 1689.0,
+   "original": 2213.44,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_799132-MLA108582680591_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-consul-14kg-branca-com-modo-eco-cwn14ab/p/MLB66484708?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793342057
+  },
   {
    "n": 428,
    "key": "mercadolivre:MLB27692006",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793287471
-  },
-  {
-   "n": 369,
-   "key": "mercadolivre:MLB18610706",
-   "title": "Logitech Mk235 ABNT2 Português Teclado E Mouse Grafite Preto",
-   "price": 165.1,
-   "original": 219.0,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_735713-MLA99973706633_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/logitech-mk235-abnt2-portugues-teclado-e-mouse-grafite-preto/p/MLB18610706?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793287050
   }
  ]
 }
