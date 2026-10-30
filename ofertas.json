@@ -1,7 +1,21 @@
 {
- "updated": 1793351512,
+ "updated": 1793353401,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 431,
+   "key": "mercadolivre:MLB15238956",
+   "title": "Chapinha De Cabelo Mq Professional Titanium Pro 480 Cor Chumbo",
+   "price": 399.8,
+   "original": 577.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_614724-MLA99489875538_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-mq-professional-titanium-pro-480-cor-chumbo/p/MLB15238956?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793353381
+  },
   {
    "n": 430,
    "key": "mercadolivre:MLB66607590",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793288313
-  },
-  {
-   "n": 371,
-   "key": "mercadolivre:MLB64305534",
-   "title": "Projetor Smart Portátil Full Hd 4k Android 11 Wi-fi Bluetooth Mini Projetor Home Theater Cinema Em Casa Imagem Nítida Som Potente Compatível Com Diversos Dispos",
-   "price": 191.0,
-   "original": 419.9,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_985823-MLA113683572316_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-smart-portatil-full-hd-4k-android-11-wi-fi-bluetooth-mini-projetor-home-theater-cinema-em-casa-imagem-nitida-so/p/MLB64305534?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793287892
   }
  ]
 }
