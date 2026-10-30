@@ -1,7 +1,21 @@
 {
- "updated": 1793374447,
+ "updated": 1793374868,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 448,
+   "key": "mercadolivre:MLB50382362",
+   "title": "Fone de Ouvido Pares F-9 Bluetooth, In-ear Sem Fio com Powerbank e Som Imersivo",
+   "price": 23.17,
+   "original": 29.9,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_962707-MLA89992907158_082025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-pares-f-9-bluetooth-in-ear-sem-fio-com-powerbank-e-som-imersivo/p/MLB50382362?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793374848
+  },
   {
    "n": 447,
    "key": "mercadolivre:MLB72888947",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793295471
-  },
-  {
-   "n": 388,
-   "key": "mercadolivre:MLB61381053",
-   "title": "Mini projetor portátil Magcubic 8k Hy300pro+ Led 260ansi Android Smart TV Dual Wifi6 Bluetooth 5.4 com HDMI USB e som Hifi",
-   "price": 277.82,
-   "original": 479.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_853181-MLA106925397890_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-projetor-portatil-magcubic-8k-hy300pro-led-260ansi-android-smart-tv-dual-wifi6-bluetooth-5-4-com-hdmi-usb-e-som-hif/p/MLB61381053?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793295050
   }
  ]
 }
