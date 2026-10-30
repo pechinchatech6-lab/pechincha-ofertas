@@ -1,7 +1,21 @@
 {
- "updated": 1793402886,
+ "updated": 1793404354,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 490,
+   "key": "mercadolivre:MLB75755258",
+   "title": "Mochila Para Notebook Impermeável com Porta USB e Senha Para Homem",
+   "price": 97.02,
+   "original": 369.0,
+   "pct": 74,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_760171-MLA113815933188_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-para-notebook-impermeavel-com-porta-usb-e-senha-para-homem/p/MLB75755258?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793404334
+  },
   {
    "n": 489,
    "key": "mercadolivre:MLB49197748",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793353381
-  },
-  {
-   "n": 430,
-   "key": "mercadolivre:MLB66607590",
-   "title": "Ventilador de Coluna Britânia 6 Pás 160W Maxx Force BVT44A",
-   "price": 299.9,
-   "original": 374.75,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_833225-MLA107903839444_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-britania-6-pas-160w-maxx-force-bvt44a/p/MLB66607590?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793351492
   }
  ]
 }
