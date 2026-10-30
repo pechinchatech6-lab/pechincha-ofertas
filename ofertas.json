@@ -1,7 +1,21 @@
 {
- "updated": 1793385550,
+ "updated": 1793385971,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 468,
+   "key": "mercadolivre:MLB80245753",
+   "title": "Mochila Reforçada E Impermeável Para Viagem Mochila Preto Liso",
+   "price": 79.1,
+   "original": 269.0,
+   "pct": 71,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680341-MLA118784298481_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-reforcada-e-impermeavel-para-viagem-mochila-preto-liso/p/MLB80245753?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793385951
+  },
   {
    "n": 467,
    "key": "mercadolivre:MLB19617676",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793306598
-  },
-  {
-   "n": 408,
-   "key": "mercadolivre:MLB21360271",
-   "title": "Club 6 Voyage Desodorante Colônia 95ml",
-   "price": 95.47,
-   "original": 299.0,
-   "pct": 68,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_888890-MLA109484188480_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/club-6-voyage-desodorante-colonia-95ml/p/MLB21360271?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793306177
   }
  ]
 }
