@@ -1,7 +1,21 @@
 {
- "updated": 1793389309,
+ "updated": 1793389730,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 474,
+   "key": "mercadolivre:MLB62230579",
+   "title": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
+   "price": 329.0,
+   "original": 473.1,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_866410-MLA106357490185_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/air-fryer-oven-britania-11l-8-funcoes-1800w-painel-digital-baf11a/p/MLB62230579?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793389710
+  },
   {
    "n": 473,
    "key": "mercadolivre:MLB50567982",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793309960
-  },
-  {
-   "n": 414,
-   "key": "mercadolivre:MLB18580665",
-   "title": "Taiff Black Ion Secador De Cabelo Profissional 2000w Cor Preto",
-   "price": 206.71,
-   "original": 349.88,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_742671-MLU78597786812_082024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/taiff-black-ion-secador-de-cabelo-profissional-2000w-cor-preto/p/MLB18580665?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793308703
   }
  ]
 }
