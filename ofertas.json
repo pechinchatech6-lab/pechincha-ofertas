@@ -1,7 +1,21 @@
 {
- "updated": 1793393072,
+ "updated": 1793394945,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 482,
+   "key": "mercadolivre:MLB39291772",
+   "title": "Armário Guarda Roupa Organizador Dobrável Desmontável Cor Azul",
+   "price": 99.9,
+   "original": 159.0,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_962167-MLA109769679834_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/armario-guarda-roupa-organizador-dobravel-desmontavel-cor-azul/p/MLB39291772?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793394925
+  },
   {
    "n": 481,
    "key": "mercadolivre:MLB67146264",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793321290
-  },
-  {
-   "n": 422,
-   "key": "mercadolivre:MLB63777677",
-   "title": "Smart Tv Samsung 43 Ls43f6000fgxzd Full Hd Led 110v/220v",
-   "price": 1749.9,
-   "original": 3200.0,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_851786-MLA119786701155_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-samsung-43-ls43f6000fgxzd-full-hd-led-110v-220v/p/MLB63777677?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793317518
   }
  ]
 }
