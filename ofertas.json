@@ -1,7 +1,21 @@
 {
- "updated": 1793378006,
+ "updated": 1793378427,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 455,
+   "key": "mercadolivre:MLB62511822",
+   "title": "Tênis Carina Street Bdp Puma",
+   "price": 230.99,
+   "original": 349.99,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_735782-MLA99431268555_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/tenis-carina-street-bdp-puma/p/MLB62511822?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793378407
+  },
   {
    "n": 454,
    "key": "mercadolivre:MLB76151285",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793298418
-  },
-  {
-   "n": 395,
-   "key": "mercadolivre:MLB50374755",
-   "title": "Máquina De Lavar Electrolux 14,5kg Cesto Inox Lep15 Preto",
-   "price": 2033.39,
-   "original": 2679.0,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_899028-MLA85766474233_062025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-electrolux-14-5kg-cesto-inox-lep15-preto/p/MLB50374755?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793297997
   }
  ]
 }
