@@ -1,7 +1,21 @@
 {
- "updated": 1793386392,
+ "updated": 1793386813,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 470,
+   "key": "mercadolivre:MLB57714599",
+   "title": "Celular Samsung Galaxy S25 Fe 5g, 256gb, 8gb Ram, Câmera Tripla De 50+12+8, Tela Grande De 6.7 Azul Marinho",
+   "price": 3848.0,
+   "original": 5799.0,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_759416-MLA95390813276_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s25-fe-5g-256gb-8gb-ram-camera-tripla-de-50-12-8-tela-grande-de-6-7-azul-marinho/p/MLB57714599?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793386793
+  },
   {
    "n": 469,
    "key": "mercadolivre:MLB19380821",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793307440
-  },
-  {
-   "n": 410,
-   "key": "mercadolivre:MLB76002662",
-   "title": "Samsung Smart TV 55\" Mini LED 4K M75H 26/2027",
-   "price": 2789.9,
-   "original": 3492.0,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_615876-MLA116061870194_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/samsung-smart-tv-55-mini-led-4k-m75h-26-2027/p/MLB76002662?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793307019
   }
  ]
 }
