@@ -1,7 +1,21 @@
 {
- "updated": 1793353401,
+ "updated": 1793362884,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 432,
+   "key": "mercadolivre:MLB66764100",
+   "title": "Jogo Marvel's Wolverine Para Playstation 5 (físico)",
+   "price": 301.0,
+   "original": 399.9,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_716384-MLA120253883773_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/jogo-marvel-s-wolverine-para-playstation-5-fisico/p/MLB66764100?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793362864
+  },
   {
    "n": 431,
    "key": "mercadolivre:MLB15238956",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793288734
-  },
-  {
-   "n": 372,
-   "key": "mercadolivre:MLB78620279",
-   "title": "Nintendo Switch Sports Resort - NS2",
-   "price": 379.96,
-   "original": 480.97,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_842013-MLA116813640343_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nintendo-switch-sports-resort-ns2/p/MLB78620279?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793288313
   }
  ]
 }
