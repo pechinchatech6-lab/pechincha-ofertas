@@ -1,7 +1,21 @@
 {
- "updated": 1793370658,
+ "updated": 1793371079,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 439,
+   "key": "mercadolivre:MLB48947564",
+   "title": "Teclado Gamer Gurumania Semi Mecanico Rgb Led Anti-Ghosting Usb Pc Xbox PS4 PS5",
+   "price": 46.99,
+   "original": 65.99,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_664235-MLA112022117474_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/teclado-gamer-gurumania-semi-mecanico-rgb-led-anti-ghosting-usb-pc-xbox-ps4-ps5/p/MLB48947564?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793371059
+  },
   {
    "n": 438,
    "key": "mercadolivre:MLB54961556",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793291682
-  },
-  {
-   "n": 379,
-   "key": "mercadolivre:MLB67267597",
-   "title": "Smart Tv Philco 50 P50vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
-   "price": 2209.47,
-   "original": 3499.0,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_750412-MLA108743699852_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-philco-50-p50vik-4k-uhd-led-roku-dolby-audio-wi-fi-hdr10-110-220v/p/MLB67267597?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793291261
   }
  ]
 }
