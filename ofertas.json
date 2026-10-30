@@ -1,7 +1,21 @@
 {
- "updated": 1793394945,
+ "updated": 1793396826,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 483,
+   "key": "mercadolivre:MLB45474714",
+   "title": "Chinelo Feminino Slim Havaianas",
+   "price": 42.9,
+   "original": 54.0,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_671885-MLA81672743644_012025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chinelo-feminino-slim-havaianas/p/MLB45474714?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793396806
+  },
   {
    "n": 482,
    "key": "mercadolivre:MLB39291772",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793323179
-  },
-  {
-   "n": 423,
-   "key": "mercadolivre:MLB14896780",
-   "title": "Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto",
-   "price": 211.25,
-   "original": 307.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_740337-MLA80358584554_112024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-oscilante-de-parede-ventisol-steel-6-pas-50cm-preto/p/MLB14896780?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793321290
   }
  ]
 }
