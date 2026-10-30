@@ -1,7 +1,21 @@
 {
- "updated": 1793342077,
+ "updated": 1793351512,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 430,
+   "key": "mercadolivre:MLB66607590",
+   "title": "Ventilador de Coluna Britânia 6 Pás 160W Maxx Force BVT44A",
+   "price": 299.9,
+   "original": 374.75,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_833225-MLA107903839444_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-britania-6-pas-160w-maxx-force-bvt44a/p/MLB66607590?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793351492
+  },
   {
    "n": 429,
    "key": "mercadolivre:MLB66484708",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793287892
-  },
-  {
-   "n": 370,
-   "key": "mercadolivre:MLB51958382",
-   "title": "Mochila Tática Masculina Militar 50L Impermeável Reforçada Grande Molle Viagem Camping Trilha Airsoft Pesca Caça Forpak",
-   "price": 121.93,
-   "original": 199.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_979881-MLA118394313839_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-tatica-masculina-militar-50l-impermeavel-reforcada-grande-molle-viagem-camping-trilha-airsoft-pesca-caca-forpak/p/MLB51958382?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793287471
   }
  ]
 }
