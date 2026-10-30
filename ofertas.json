@@ -1,7 +1,21 @@
 {
- "updated": 1793383035,
+ "updated": 1793383456,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 463,
+   "key": "mercadolivre:MLB60126432",
+   "title": "Relógio Chroma Masculino Preto Saint Germain Clássico Caixa Preta Detalhes Prata 42mm",
+   "price": 135.0,
+   "original": 259.9,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_682402-MLA99403901858_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-chroma-masculino-preto-saint-germain-classico-caixa-preta-detalhes-prata-42mm/p/MLB60126432?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793383436
+  },
   {
    "n": 462,
    "key": "mercadolivre:MLB49840881",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793302803
-  },
-  {
-   "n": 403,
-   "key": "mercadolivre:MLB45474714",
-   "title": "Chinelo Feminino Slim Havaianas",
-   "price": 42.9,
-   "original": 54.0,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_671885-MLA81672743644_012025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chinelo-feminino-slim-havaianas/p/MLB45474714?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793302382
   }
  ]
 }
