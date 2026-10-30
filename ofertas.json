@@ -1,7 +1,21 @@
 {
- "updated": 1793390151,
+ "updated": 1793390572,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 476,
+   "key": "mercadolivre:MLB17822924",
+   "title": "Relógio de pulso Casio GA-2100 com corria de resina cor vermelho - fondo bordô",
+   "price": 424.0,
+   "original": 708.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_884312-MLA99489775726_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-ga-2100-com-corria-de-resina-cor-vermelho-fondo-bordo/p/MLB17822924?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793390552
+  },
   {
    "n": 475,
    "key": "mercadolivre:MLB59660744",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793310802
-  },
-  {
-   "n": 416,
-   "key": "mercadolivre:MLB69345065",
-   "title": "Micro-ondas Consul 23 Litros Função Marmita - CMS23A",
-   "price": 643.9,
-   "original": 790.0,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_894054-MLA110468601326_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-consul-23-litros-funcao-marmita-cms23a/p/MLB69345065?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793310381
   }
  ]
 }
