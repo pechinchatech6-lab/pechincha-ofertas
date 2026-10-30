@@ -1,7 +1,21 @@
 {
- "updated": 1793377377,
+ "updated": 1793378006,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 454,
+   "key": "mercadolivre:MLB76151285",
+   "title": "Frigideira Cerâmica Antiaderente 24cm Compatível Com Indução Cooktop Fogão a Gás Não Gruda Sem Óleo Cabo Ergonomico Em Baquelite Cor Creme",
+   "price": 55.5,
+   "original": 149.9,
+   "pct": 63,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_851612-MLA115902375529_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/frigideira-ceramica-antiaderente-24cm-compativel-com-inducao-cooktop-fogao-a-gas-nao-gruda-sem-oleo-cabo-ergonomico-em-b/p/MLB76151285?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793377986
+  },
   {
    "n": 453,
    "key": "mercadolivre:MLB53432844",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793297997
-  },
-  {
-   "n": 394,
-   "key": "mercadolivre:MLB56511596",
-   "title": "Kit 2 Controles Para Ps2 e PS1 Com Fio Analógico Joystick Manete - Crowley",
-   "price": 51.77,
-   "original": 84.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_920574-MLA110375106425_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-2-controles-para-ps2-e-ps1-com-fio-analogico-joystick-manete-crowley/p/MLB56511596?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793297576
   }
  ]
 }
