@@ -1,7 +1,21 @@
 {
- "updated": 1793376114,
+ "updated": 1793376535,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 451,
+   "key": "mercadolivre:MLB35587178",
+   "title": "Smart TV Box Aquário STV-3000 Plus Sistema Android TV 4K 16GB Cor Preto",
+   "price": 211.0,
+   "original": 399.9,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646607-MLA117112608354_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-box-aquario-stv-3000-plus-sistema-android-tv-4k-16gb-cor-preto/p/MLB35587178?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793376515
+  },
   {
    "n": 450,
    "key": "mercadolivre:MLB24117280",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793296734
-  },
-  {
-   "n": 391,
-   "key": "mercadolivre:MLB60728265",
-   "title": "Smart Tv Aoc Dled 32 Wi-fi Roku Tv Quad Core 32s5155/78g",
-   "price": 919.99,
-   "original": 2054.99,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_802027-MLA120306983603_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-aoc-dled-32-wi-fi-roku-tv-quad-core-32s5155-78g/p/MLB60728265?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793296313
   }
  ]
 }
