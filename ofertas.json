@@ -1,7 +1,21 @@
 {
- "updated": 1793392256,
+ "updated": 1793393072,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 481,
+   "key": "mercadolivre:MLB67146264",
+   "title": "Mini Mixer Misturador De Bebidas Elétrico 2 Em 1 Portátil Recarregável Mexedor De Ovos Leite Whey Café Espuma Shake Drinks Capuccino Suco Blackbom",
+   "price": 19.99,
+   "original": 49.99,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_993099-MLA118374430742_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-mixer-misturador-de-bebidas-eletrico-2-em-1-portatil-recarregavel-mexedor-de-ovos-leite-whey-cafe-espuma-shake-drin/p/MLB67146264?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793393051
+  },
   {
    "n": 480,
    "key": "mercadolivre:MLB63996396",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793317518
-  },
-  {
-   "n": 421,
-   "key": "mercadolivre:MLB46220824",
-   "title": "Webcam Camera Full Hd Zoom 1080p 360 Graus Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone- GoodVision",
-   "price": 36.98,
-   "original": 78.0,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_807092-MLA100966388363_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-360-graus-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-goodvision/p/MLB46220824?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793314582
   }
  ]
 }
