@@ -1,7 +1,21 @@
 {
- "updated": 1793336412,
+ "updated": 1793338301,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 428,
+   "key": "mercadolivre:MLB27692006",
+   "title": "Chapinha De Cabelo Prancha Gama Italy Professional Cor Preto",
+   "price": 108.9,
+   "original": 169.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_824647-MLA100031564281_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-prancha-gama-italy-professional-cor-preto/p/MLB27692006?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793338281
+  },
   {
    "n": 427,
    "key": "mercadolivre:MLB27413688",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793287050
-  },
-  {
-   "n": 368,
-   "key": "mercadolivre:MLB40923284",
-   "title": "Century Smart Stick Android TV Wi-Fi 8GB Comando de Voz Chromecast HDMI",
-   "price": 255.0,
-   "original": 299.9,
-   "pct": 15,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_867583-MLA113622598537_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/century-smart-stick-android-tv-wi-fi-8gb-comando-de-voz-chromecast-hdmi/p/MLB40923284?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793286629
   }
  ]
 }
