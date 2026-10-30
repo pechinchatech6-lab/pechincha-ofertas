@@ -1,7 +1,21 @@
 {
- "updated": 1793374868,
+ "updated": 1793375289,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 449,
+   "key": "mercadolivre:MLB37700507",
+   "title": "Liquidificador Pratic Turbo, Mondial, 550W - L-98-B",
+   "price": 94.9,
+   "original": 154.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_929681-MLA99450771766_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/liquidificador-pratic-turbo-mondial-550w-l-98-b/p/MLB37700507?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793375269
+  },
   {
    "n": 448,
    "key": "mercadolivre:MLB50382362",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793295892
-  },
-  {
-   "n": 389,
-   "key": "mercadolivre:MLB60126432",
-   "title": "Relógio Chroma Masculino Preto Saint Germain Clássico Caixa Preta Detalhes Prata 42mm",
-   "price": 135.0,
-   "original": 259.9,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_682402-MLA99403901858_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-chroma-masculino-preto-saint-germain-classico-caixa-preta-detalhes-prata-42mm/p/MLB60126432?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793295471
   }
  ]
 }
