@@ -1,7 +1,21 @@
 {
- "updated": 1793379883,
+ "updated": 1793381772,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 459,
+   "key": "mercadolivre:MLB66128181",
+   "title": "Ventilador de Teto 60W Silencioso Lâmpada Forte com LED, Controle e 6 Pás Soquete E27 Para Residencial Comercial Interno Externo Quarto Sala Cozinha Escritório ",
+   "price": 55.9,
+   "original": 99.0,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_695332-MLA118292636431_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-teto-60w-silencioso-lampada-forte-com-led-controle-e-6-pas-soquete-e27-para-residencial-comercial-interno-/p/MLB66128181?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793381752
+  },
   {
    "n": 458,
    "key": "mercadolivre:MLB22778772",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793300102
-  },
-  {
-   "n": 399,
-   "key": "mercadolivre:MLB62230579",
-   "title": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
-   "price": 329.0,
-   "original": 473.1,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_866410-MLA106357490185_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/air-fryer-oven-britania-11l-8-funcoes-1800w-painel-digital-baf11a/p/MLB62230579?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793299681
   }
  ]
 }
