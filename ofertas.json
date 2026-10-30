@@ -1,7 +1,21 @@
 {
- "updated": 1793390572,
+ "updated": 1793390993,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 477,
+   "key": "mercadolivre:MLB45861096",
+   "title": "Controle Gamesir Cyclone 2 Bundle Edition Dock Carregamento para Pc Switch Ios Android Steam Celular Hall Effect Branco",
+   "price": 271.36,
+   "original": 435.95,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_940298-MLA99468016538_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamesir-cyclone-2-bundle-edition-dock-carregamento-para-pc-switch-ios-android-steam-celular-hall-effect-branco/p/MLB45861096?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793390973
+  },
   {
    "n": 476,
    "key": "mercadolivre:MLB17822924",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793311851
-  },
-  {
-   "n": 417,
-   "key": "mercadolivre:MLB60709649",
-   "title": "Mochila Masculina Faculdade Impermeável Resistente Grande Trabalho Escola Cor Preto Desenho Do Tecido Liso",
-   "price": 59.99,
-   "original": 78.99,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_666313-MLA99570168096_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-masculina-faculdade-impermeavel-resistente-grande-trabalho-escola-cor-preto-desenho-do-tecido-liso/p/MLB60709649?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793310802
   }
  ]
 }
