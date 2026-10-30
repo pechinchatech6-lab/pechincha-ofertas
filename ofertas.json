@@ -1,7 +1,21 @@
 {
- "updated": 1793368553,
+ "updated": 1793368974,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 434,
+   "key": "mercadolivre:MLB56129679",
+   "title": "Boné Ny New York Masculino Feminino Unissex Fitão Blogueira Cor Branco E Preto Tamanho Un",
+   "price": 31.91,
+   "original": 44.99,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_918468-MLA92439464901_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bone-ny-new-york-masculino-feminino-unissex-fitao-blogueira-cor-branco-e-preto-tamanho-un/p/MLB56129679?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793368954
+  },
   {
    "n": 433,
    "key": "mercadolivre:MLB1046215784",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793289576
-  },
-  {
-   "n": 374,
-   "key": "mercadolivre:MLB21693452",
-   "title": "Relógio Casio Masculino Digital Preto de Resina W-59-1VQ",
-   "price": 95.0,
-   "original": 299.9,
-   "pct": 68,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_684326-MLA115755090874_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-casio-masculino-digital-preto-de-resina-w-59-1vq/p/MLB21693452?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793289155
   }
  ]
 }
