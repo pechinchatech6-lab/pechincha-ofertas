@@ -1,7 +1,21 @@
 {
- "updated": 1793369395,
+ "updated": 1793369816,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 436,
+   "key": "mercadolivre:MLB44463715",
+   "title": "Lizze Extreme 480 Chapinha Profissional",
+   "price": 387.0,
+   "original": 459.0,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_912494-MLA99992658679_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lizze-extreme-480-chapinha-profissional/p/MLB44463715?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793369796
+  },
   {
    "n": 435,
    "key": "mercadolivre:MLB65764004",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793290418
-  },
-  {
-   "n": 376,
-   "key": "mercadolivre:MLB22778772",
-   "title": "Controle Para Xbox 360 Com Fio USB Joystick Manete Gamepad Controle PC Gamer Para Computador Windows Steam Game Pass Android Gamepass TV Vibração Analógico Ergo",
-   "price": 45.0,
-   "original": 89.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_905623-MLA118558569418_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-para-xbox-360-com-fio-usb-joystick-manete-gamepad-controle-pc-gamer-para-computador-windows-steam-game-pass-and/p/MLB22778772?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793289997
   }
  ]
 }
