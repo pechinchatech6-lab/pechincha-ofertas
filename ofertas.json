@@ -1,7 +1,21 @@
 {
- "updated": 1793383877,
+ "updated": 1793384298,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 465,
+   "key": "mercadolivre:MLB25808151",
+   "title": "Secador de Cabelo Gama Italy Eleganza Plus 2100W Ceramic Ion Preto Profissional",
+   "price": 129.0,
+   "original": 239.9,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_951997-MLA99453005780_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-gama-italy-eleganza-plus-2100w-ceramic-ion-preto-profissional/p/MLB25808151?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793384278
+  },
   {
    "n": 464,
    "key": "mercadolivre:MLB54982411",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793304285
-  },
-  {
-   "n": 405,
-   "key": "mercadolivre:MLB70228023",
-   "title": "Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente Prateado",
-   "price": 34.9,
-   "original": 49.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_907811-MLA112159861189_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-relogio-feminino-colar-brinco-pulseira-folheado-presente-prateado/p/MLB70228023?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793303224
   }
  ]
 }
