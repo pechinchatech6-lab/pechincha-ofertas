@@ -1,7 +1,21 @@
 {
- "updated": 1793468719,
+ "updated": 1793470177,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 521,
+   "key": "mercadolivre:MLB56422538",
+   "title": "Controle Para Xbox 360 Com Fio Joystick Manete Gamepass Steam Tv Pc Android - Crowley",
+   "price": 42.1,
+   "original": 78.9,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_962495-MLA116220464242_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-para-xbox-360-com-fio-joystick-manete-gamepass-steam-tv-pc-android-crowley/p/MLB56422538?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793470157
+  },
   {
    "n": 520,
    "key": "mercadolivre:MLB76151285",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793383015
-  },
-  {
-   "n": 461,
-   "key": "mercadolivre:MLB40923284",
-   "title": "Century Smart Stick Android TV Wi-Fi 8GB Comando de Voz Chromecast HDMI",
-   "price": 255.0,
-   "original": 299.9,
-   "pct": 15,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_867583-MLA113622598537_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/century-smart-stick-android-tv-wi-fi-8gb-comando-de-voz-chromecast-hdmi/p/MLB40923284?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793382594
   }
  ]
 }
