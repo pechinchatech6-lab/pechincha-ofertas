@@ -1,7 +1,21 @@
 {
- "updated": 1793417505,
+ "updated": 1793426905,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 498,
+   "key": "mercadolivre:MLB27413688",
+   "title": "Ventilador BVT301 Tecnologia Maxx Force 60W Cor da Estrutura Preto Britânia",
+   "price": 139.42,
+   "original": 164.34,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646973-MLA99492872166_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-bvt301-tecnologia-maxx-force-60w-cor-da-estrutura-preto-britania/p/MLB27413688?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793426885
+  },
   {
    "n": 497,
    "key": "mercadolivre:MLB50374755",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793371059
-  },
-  {
-   "n": 438,
-   "key": "mercadolivre:MLB54961556",
-   "title": "Smartphone Samsung Galaxy A07 4G 256GB 8GB Preto 6,7\"",
-   "price": 1099.0,
-   "original": 1499.0,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_895724-MLA91526198522_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a07-4g-256gb-8gb-preto-6-7/p/MLB54961556?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793370638
   }
  ]
 }
