@@ -1,7 +1,21 @@
 {
- "updated": 1793404775,
+ "updated": 1793405196,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 492,
+   "key": "mercadolivre:MLB60709649",
+   "title": "Mochila Masculina Faculdade Impermeável Resistente Grande Trabalho Escola Cor Preto Desenho Do Tecido Liso",
+   "price": 59.99,
+   "original": 78.99,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_666313-MLA99570168096_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-masculina-faculdade-impermeavel-resistente-grande-trabalho-escola-cor-preto-desenho-do-tecido-liso/p/MLB60709649?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793405176
+  },
   {
    "n": 491,
    "key": "mercadolivre:MLB64211779",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793368533
-  },
-  {
-   "n": 432,
-   "key": "mercadolivre:MLB66764100",
-   "title": "Jogo Marvel's Wolverine Para Playstation 5 (físico)",
-   "price": 301.0,
-   "original": 399.9,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_716384-MLA120253883773_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/jogo-marvel-s-wolverine-para-playstation-5-fisico/p/MLB66764100?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793362864
   }
  ]
 }
