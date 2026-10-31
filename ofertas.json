@@ -1,7 +1,21 @@
 {
- "updated": 1793458887,
+ "updated": 1793459308,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 509,
+   "key": "mercadolivre:MLB1055308835",
+   "title": "iPhone 17 de 256 GB - Lavanda - Distribuidor Autorizado",
+   "price": 6332.22,
+   "original": 7999.0,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_896332-MLA95400062457_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/iphone-17-de-256-gb-lavanda-distribuidor-autorizado/p/MLB1055308835?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793459288
+  },
   {
    "n": 508,
    "key": "mercadolivre:MLB18610706",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793376094
-  },
-  {
-   "n": 449,
-   "key": "mercadolivre:MLB37700507",
-   "title": "Liquidificador Pratic Turbo, Mondial, 550W - L-98-B",
-   "price": 94.9,
-   "original": 154.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_929681-MLA99450771766_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/liquidificador-pratic-turbo-mondial-550w-l-98-b/p/MLB37700507?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793375269
   }
  ]
 }
