@@ -1,7 +1,21 @@
 {
- "updated": 1793472053,
+ "updated": 1793472474,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 523,
+   "key": "mercadolivre:MLB66128181",
+   "title": "Ventilador de Teto 60W Silencioso Lâmpada Forte com LED, Controle e 6 Pás Soquete E27 Para Residencial Comercial Interno Externo Quarto Sala Cozinha Escritório ",
+   "price": 55.9,
+   "original": 99.0,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_695332-MLA118292636431_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-teto-60w-silencioso-lampada-forte-com-led-controle-e-6-pas-soquete-e27-para-residencial-comercial-interno-/p/MLB66128181?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793472454
+  },
   {
    "n": 522,
    "key": "mercadolivre:MLB28894895",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793383436
-  },
-  {
-   "n": 462,
-   "key": "mercadolivre:MLB49840881",
-   "title": "Controle Gamesir Tegenaria T3 Lite Com Fio Para Pc Switch Android Ios Steam Celular Hall Effect Usb Design Ergonômico Cinza",
-   "price": 92.0,
-   "original": 159.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_753810-MLA99991088207_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-tegenaria-t3-lite-com-fio-para-pc-switch-android-ios-steam-celular-hall-effect-usb-design-ergonomico-ci/p/MLB49840881?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793383015
   }
  ]
 }
