@@ -1,7 +1,21 @@
 {
- "updated": 1793473316,
+ "updated": 1793473936,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 526,
+   "key": "mercadolivre:MLB50301060",
+   "title": "Smartphone Motorola Moto G56 5g - 256gb 8gb Ram+8gb Ram Boost, Camera 50mp Sony Lytia 600 Ultrarresistencia Militar e Ip68 + Ip69 - Cinza",
+   "price": 1540.15,
+   "original": 2369.0,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_748002-MLA104773303805_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g56-5g-256gb-8gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-ultrarresistencia-militar-e-ip68-/p/MLB50301060?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793473916
+  },
   {
    "n": 525,
    "key": "mercadolivre:MLB40923284",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793384699
-  },
-  {
-   "n": 465,
-   "key": "mercadolivre:MLB25808151",
-   "title": "Secador de Cabelo Gama Italy Eleganza Plus 2100W Ceramic Ion Preto Profissional",
-   "price": 129.0,
-   "original": 239.9,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_951997-MLA99453005780_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-gama-italy-eleganza-plus-2100w-ceramic-ion-preto-profissional/p/MLB25808151?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793384278
   }
  ]
 }
