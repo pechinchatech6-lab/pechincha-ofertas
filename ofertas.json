@@ -1,7 +1,21 @@
 {
- "updated": 1793413749,
+ "updated": 1793417505,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 497,
+   "key": "mercadolivre:MLB50374755",
+   "title": "Máquina De Lavar Electrolux 14,5kg Cesto Inox Lep15 Preto",
+   "price": 1979.0,
+   "original": 2679.0,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_899028-MLA85766474233_062025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-electrolux-14-5kg-cesto-inox-lep15-preto/p/MLB50374755?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793417485
+  },
   {
    "n": 496,
    "key": "mercadolivre:MLB68818837",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793370638
-  },
-  {
-   "n": 437,
-   "key": "mercadolivre:MLB59019868",
-   "title": "Mouse Vertical Ergonômico Sem Fio Recarregável Bluetooth e USB 2.4G – RGB, Silencioso, DPI Ajustável, Reduz Tensão no Pulso, Portátil e Confortável – Compatível",
-   "price": 44.1,
-   "original": 69.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_869466-MLA100026509347_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-vertical-ergonomico-sem-fio-recarregavel-bluetooth-e-usb-2-4g-rgb-silencioso-dpi-ajustavel-reduz-tensao-no-pulso-p/p/MLB59019868?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793370217
   }
  ]
 }
