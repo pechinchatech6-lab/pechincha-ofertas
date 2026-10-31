@@ -1,7 +1,21 @@
 {
- "updated": 1793479998,
+ "updated": 1793480419,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 535,
+   "key": "mercadolivre:MLB80245753",
+   "title": "Mochila Reforçada E Impermeável Para Viagem Mochila Preto Liso",
+   "price": 79.1,
+   "original": 269.0,
+   "pct": 71,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680341-MLA118784298481_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-reforcada-e-impermeavel-para-viagem-mochila-preto-liso/p/MLB80245753?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793480399
+  },
   {
    "n": 534,
    "key": "mercadolivre:MLB50567982",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793387214
-  },
-  {
-   "n": 470,
-   "key": "mercadolivre:MLB57714599",
-   "title": "Celular Samsung Galaxy S25 Fe 5g, 256gb, 8gb Ram, Câmera Tripla De 50+12+8, Tela Grande De 6.7 Azul Marinho",
-   "price": 3848.0,
-   "original": 5799.0,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_759416-MLA95390813276_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s25-fe-5g-256gb-8gb-ram-camera-tripla-de-50-12-8-tela-grande-de-6-7-azul-marinho/p/MLB57714599?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793386793
   }
  ]
 }
