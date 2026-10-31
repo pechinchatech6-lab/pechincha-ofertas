@@ -1,7 +1,21 @@
 {
- "updated": 1793474357,
+ "updated": 1793474778,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 528,
+   "key": "mercadolivre:MLB25808151",
+   "title": "Secador de Cabelo Gama Italy Eleganza Plus 2100W Ceramic Ion Preto Profissional",
+   "price": 129.0,
+   "original": 239.9,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_951997-MLA99453005780_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-gama-italy-eleganza-plus-2100w-ceramic-ion-preto-profissional/p/MLB25808151?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793474758
+  },
   {
    "n": 527,
    "key": "mercadolivre:MLB47069513",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793385951
-  },
-  {
-   "n": 467,
-   "key": "mercadolivre:MLB19617676",
-   "title": "Micro-ondas ME23S 23L Efficient Com Descongelamento Assistido Cor Inox Electrolux",
-   "price": 553.58,
-   "original": 699.0,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_940680-MLA99700976956_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-me23s-23l-efficient-com-descongelamento-assistido-cor-inox-electrolux/p/MLB19617676?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793385530
   }
  ]
 }
