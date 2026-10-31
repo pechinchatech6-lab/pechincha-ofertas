@@ -1,7 +1,21 @@
 {
- "updated": 1793457425,
+ "updated": 1793457846,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 507,
+   "key": "mercadolivre:MLB74085271",
+   "title": "Kit 3 Body Splash Masculino Vibration + Blunn + Infalível Fero By Primacial Body Man",
+   "price": 102.72,
+   "original": 210.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_891665-MLA117257985142_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-3-body-splash-masculino-vibration-blunn-infalivel-fero-by-primacial-body-man/p/MLB74085271?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793457826
+  },
   {
    "n": 506,
    "key": "mercadolivre:MLB1040287790",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793374848
-  },
-  {
-   "n": 447,
-   "key": "mercadolivre:MLB72888947",
-   "title": "PEST. COURVIN P/ RELOGIO 12 LUGARES - PRETO/CINZA",
-   "price": 71.0,
-   "original": 149.99,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_717612-MLA111794443852_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pest-courvin-p-relogio-12-lugares-preto-cinza/p/MLB72888947?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793374427
   }
  ]
 }
