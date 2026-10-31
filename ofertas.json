@@ -1,7 +1,21 @@
 {
- "updated": 1793408112,
+ "updated": 1793411871,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 495,
+   "key": "mercadolivre:MLB14896780",
+   "title": "Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto",
+   "price": 211.25,
+   "original": 307.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_740337-MLA80358584554_112024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-oscilante-de-parede-ventisol-steel-6-pas-50cm-preto/p/MLB14896780?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793411851
+  },
   {
    "n": 494,
    "key": "mercadolivre:MLB63036814",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793369796
-  },
-  {
-   "n": 435,
-   "key": "mercadolivre:MLB65764004",
-   "title": "Fones De Ouvido Usb-c Tipo C Com Microfone Integrado Som Estéreo Alta Qualidade Controle Chamadas Compatível Com iPhone 15 16 17 18 Android Samsung Xiaomi Motor",
-   "price": 22.3,
-   "original": 59.99,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_693659-MLA113618776783_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fones-de-ouvido-usb-c-tipo-c-com-microfone-integrado-som-estereo-alta-qualidade-controle-chamadas-compativel-com-iphone-/p/MLB65764004?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793369375
   }
  ]
 }
