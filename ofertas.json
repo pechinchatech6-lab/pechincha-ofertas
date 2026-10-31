@@ -1,7 +1,21 @@
 {
- "updated": 1793461195,
+ "updated": 1793461616,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 513,
+   "key": "mercadolivre:MLB19310683",
+   "title": "Micro-ondas Consul 32L Prata com Menu Fácil - CMS46AR 220v",
+   "price": 659.0,
+   "original": 855.44,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_984550-MLA99477052664_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-consul-32l-prata-com-menu-facil-cms46ar-220v/p/MLB19310683?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793461596
+  },
   {
    "n": 512,
    "key": "mercadolivre:MLB75625924",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793377986
-  },
-  {
-   "n": 453,
-   "key": "mercadolivre:MLB53432844",
-   "title": "Tv Stick 4k Hdmi Wi-fi 16gb Android Tv Full Hd Smart Televisão Controle Filmes Pro Familar",
-   "price": 164.0,
-   "original": 319.25,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_657953-MLA111080648459_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/tv-stick-4k-hdmi-wi-fi-16gb-android-tv-full-hd-smart-televisao-controle-filmes-pro-familar/p/MLB53432844?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793377357
   }
  ]
 }
