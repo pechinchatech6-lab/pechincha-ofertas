@@ -1,7 +1,21 @@
 {
- "updated": 1793463500,
+ "updated": 1793464539,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 518,
+   "key": "mercadolivre:MLB37700507",
+   "title": "Liquidificador Pratic Turbo, Mondial, 550W - L-98-B",
+   "price": 94.9,
+   "original": 154.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_929681-MLA99450771766_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/liquidificador-pratic-turbo-mondial-550w-l-98-b/p/MLB37700507?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793464519
+  },
   {
    "n": 517,
    "key": "mercadolivre:MLB24117280",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793381752
-  },
-  {
-   "n": 458,
-   "key": "mercadolivre:MLB22778772",
-   "title": "Controle Para Xbox 360 Com Fio USB Joystick Manete Gamepad Controle PC Gamer Para Computador Windows Steam Game Pass Android Gamepass TV Vibração Analógico Ergo",
-   "price": 45.0,
-   "original": 89.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_905623-MLA118558569418_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-para-xbox-360-com-fio-usb-joystick-manete-gamepad-controle-pc-gamer-para-computador-windows-steam-game-pass-and/p/MLB22778772?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793379863
   }
  ]
 }
