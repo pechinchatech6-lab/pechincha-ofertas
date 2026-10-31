@@ -1,7 +1,21 @@
 {
- "updated": 1793461616,
+ "updated": 1793462037,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 514,
+   "key": "mercadolivre:MLB50382362",
+   "title": "Fone de Ouvido Pares F-9 Bluetooth, In-ear Sem Fio com Powerbank e Som Imersivo",
+   "price": 21.9,
+   "original": 29.9,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_962707-MLA89992907158_082025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-pares-f-9-bluetooth-in-ear-sem-fio-com-powerbank-e-som-imersivo/p/MLB50382362?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793462017
+  },
   {
    "n": 513,
    "key": "mercadolivre:MLB19310683",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793378407
-  },
-  {
-   "n": 454,
-   "key": "mercadolivre:MLB76151285",
-   "title": "Frigideira Cerâmica Antiaderente 24cm Compatível Com Indução Cooktop Fogão a Gás Não Gruda Sem Óleo Cabo Ergonomico Em Baquelite Cor Creme",
-   "price": 55.5,
-   "original": 149.9,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_851612-MLA115902375529_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/frigideira-ceramica-antiaderente-24cm-compativel-com-inducao-cooktop-fogao-a-gas-nao-gruda-sem-oleo-cabo-ergonomico-em-b/p/MLB76151285?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793377986
   }
  ]
 }
