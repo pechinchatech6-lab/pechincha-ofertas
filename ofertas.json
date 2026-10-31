@@ -1,7 +1,21 @@
 {
- "updated": 1793459308,
+ "updated": 1793459729,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 510,
+   "key": "mercadolivre:MLB15238956",
+   "title": "Chapinha De Cabelo Mq Professional Titanium Pro 480 Cor Chumbo",
+   "price": 399.8,
+   "original": 577.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_614724-MLA99489875538_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-mq-professional-titanium-pro-480-cor-chumbo/p/MLB15238956?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793459709
+  },
   {
    "n": 509,
    "key": "mercadolivre:MLB1055308835",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793376515
-  },
-  {
-   "n": 450,
-   "key": "mercadolivre:MLB24117280",
-   "title": "Fone De Ouvido Headphone Dapon H02D Bluetooth 5.1 Over-ear 22h Preto",
-   "price": 76.53,
-   "original": 149.0,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_673950-MLA99394598783_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-headphone-dapon-h02d-bluetooth-5-1-over-ear-22h-preto/p/MLB24117280?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793376094
   }
  ]
 }
