@@ -1,7 +1,21 @@
 {
- "updated": 1793405196,
+ "updated": 1793406232,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 493,
+   "key": "mercadolivre:MLB58623212",
+   "title": "Nintendo Switch Console OLED 64gb",
+   "price": 1889.24,
+   "original": 2361.55,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nintendo-switch-console-oled-64gb/p/MLB58623212?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793406212
+  },
   {
    "n": 492,
    "key": "mercadolivre:MLB60709649",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793368954
-  },
-  {
-   "n": 433,
-   "key": "mercadolivre:MLB1046215784",
-   "title": "iPhone 16e (128 GB) - Preto - Distribuidor Autorizado",
-   "price": 3499.0,
-   "original": 5799.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793368533
   }
  ]
 }
