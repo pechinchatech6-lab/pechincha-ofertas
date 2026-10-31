@@ -1,7 +1,21 @@
 {
- "updated": 1793472895,
+ "updated": 1793473316,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 525,
+   "key": "mercadolivre:MLB40923284",
+   "title": "Century Smart Stick Android TV Wi-Fi 8GB Comando de Voz Chromecast HDMI",
+   "price": 255.0,
+   "original": 299.9,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_867583-MLA113622598537_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/century-smart-stick-android-tv-wi-fi-8gb-comando-de-voz-chromecast-hdmi/p/MLB40923284?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793473296
+  },
   {
    "n": 524,
    "key": "mercadolivre:MLB49840881",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793384278
-  },
-  {
-   "n": 464,
-   "key": "mercadolivre:MLB54982411",
-   "title": "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Azul",
-   "price": 1119.9,
-   "original": 1339.9,
-   "pct": 16,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_889169-MLA96868779849_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-com-ia-256gb-8gb-ram-cam-de-50mp-tela-de-6-7-nfc-ip54-azul/p/MLB54982411?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793383857
   }
  ]
 }
