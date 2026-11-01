@@ -1,7 +1,21 @@
 {
- "updated": 1793547669,
+ "updated": 1793548090,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 567,
+   "key": "mercadolivre:MLB25554105",
+   "title": "Ventilador Mallory Coluna Éolo 40cm Cor Da Estrutura Preto Cor Das Pás grafite Diâmetro 40 Cm 6 pás",
+   "price": 219.0,
+   "original": 311.96,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_738001-MLU77320034749_062024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-mallory-coluna-eolo-40cm-cor-da-estrutura-preto-cor-das-pas-grafite-diametro-40-cm-6-pas/p/MLB25554105?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793548070
+  },
   {
    "n": 566,
    "key": "mercadolivre:MLB50382362",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793455942
-  },
-  {
-   "n": 501,
-   "key": "mercadolivre:MLB44923446",
-   "title": "Chinelo Top Havaianas Liso Branco",
-   "price": 20.74,
-   "original": 27.3,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_740930-MLA100107121067_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chinelo-top-havaianas-liso-branco/p/MLB44923446?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793453224
   }
  ]
 }
