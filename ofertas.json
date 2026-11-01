@@ -1,7 +1,21 @@
 {
- "updated": 1793563580,
+ "updated": 1793564001,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 582,
+   "key": "mercadolivre:MLB66607590",
+   "title": "Ventilador de Coluna Britânia 6 Pás 160W Maxx Force BVT44A",
+   "price": 299.9,
+   "original": 374.75,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_833225-MLA107903839444_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-britania-6-pas-160w-maxx-force-bvt44a/p/MLB66607590?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793563981
+  },
   {
    "n": 581,
    "key": "mercadolivre:MLB17822924",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793461175
-  },
-  {
-   "n": 510,
-   "key": "mercadolivre:MLB15238956",
-   "title": "Chapinha De Cabelo Mq Professional Titanium Pro 480 Cor Chumbo",
-   "price": 399.8,
-   "original": 577.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_614724-MLA99489875538_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-mq-professional-titanium-pro-480-cor-chumbo/p/MLB15238956?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793459709
   }
  ]
 }
