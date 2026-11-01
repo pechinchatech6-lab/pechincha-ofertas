@@ -1,7 +1,21 @@
 {
- "updated": 1793545369,
+ "updated": 1793547248,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 565,
+   "key": "mercadolivre:MLB79921161",
+   "title": "Relógio Digital De Mesa Despertador Termômetro Higrômetro Temperatura Umidade Calendário Alarme Snooze Display Grande 12/24h °C/°F Para Quarto Cabeceira Escritó",
+   "price": 29.31,
+   "original": 46.5,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_786914-MLA118567638912_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-digital-de-mesa-despertador-termometro-higrometro-temperatura-umidade-calendario-alarme-snooze-display-grande-12/p/MLB79921161?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793547228
+  },
   {
    "n": 564,
    "key": "mercadolivre:MLB1055308835",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793453224
-  },
-  {
-   "n": 500,
-   "key": "mercadolivre:MLB65038132",
-   "title": "Secador De Cabelos Bsd15a Rosa Com Rosê",
-   "price": 397.0,
-   "original": 799.86,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_839229-MLA111085616947_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-bsd15a-rosa-com-rose/p/MLB65038132?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793443819
   }
  ]
 }
