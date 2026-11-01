@@ -1,7 +1,21 @@
 {
- "updated": 1793551438,
+ "updated": 1793552893,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 572,
+   "key": "mercadolivre:MLB56343340",
+   "title": "Calça Shapewear Feminino 54593 Capri Sépia Liz",
+   "price": 96.19,
+   "original": 149.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_649746-MLA112155289503_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/calca-shapewear-feminino-54593-capri-sepia-liz/p/MLB56343340?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793552873
+  },
   {
    "n": 571,
    "key": "mercadolivre:MLB18363110",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793459709
-  },
-  {
-   "n": 508,
-   "key": "mercadolivre:MLB18610706",
-   "title": "Logitech Mk235 ABNT2 Português Teclado E Mouse Grafite Preto",
-   "price": 165.1,
-   "original": 219.0,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_735713-MLA99973706633_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/logitech-mk235-abnt2-portugues-teclado-e-mouse-grafite-preto/p/MLB18610706?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793458867
   }
  ]
 }
