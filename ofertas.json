@@ -1,7 +1,21 @@
 {
- "updated": 1793504012,
+ "updated": 1793504433,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 554,
+   "key": "mercadolivre:MLB76436759",
+   "title": "Smart TV HD 32\" LG LB650 AI 2026 Processador α5 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini Canais Grátis webOS 26 - 32LB650BPSA",
+   "price": 1029.9,
+   "original": 2667.99,
+   "pct": 61,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_626506-MLA116657908871_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-hd-32-lg-lb650-ai-2026-processador-5-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-canais-gratis-webo/p/MLB76436759?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793504413
+  },
   {
    "n": 553,
    "key": "mercadolivre:MLB31059498",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793411851
-  },
-  {
-   "n": 493,
-   "key": "mercadolivre:MLB58623212",
-   "title": "Nintendo Switch Console OLED 64gb",
-   "price": 1889.24,
-   "original": 2361.55,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nintendo-switch-console-oled-64gb/p/MLB58623212?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793406212
   }
  ]
 }
