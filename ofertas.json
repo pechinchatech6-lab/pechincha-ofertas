@@ -1,7 +1,21 @@
 {
- "updated": 1793541603,
+ "updated": 1793542024,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 560,
+   "key": "mercadolivre:MLB21360271",
+   "title": "Club 6 Voyage Desodorante Colônia 95ml",
+   "price": 94.02,
+   "original": 299.0,
+   "pct": 69,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_888890-MLA109484188480_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/club-6-voyage-desodorante-colonia-95ml/p/MLB21360271?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793542004
+  },
   {
    "n": 559,
    "key": "mercadolivre:MLB65764004",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793443819
-  },
-  {
-   "n": 499,
-   "key": "mercadolivre:MLB66607590",
-   "title": "Ventilador de Coluna Britânia 6 Pás 160W Maxx Force BVT44A",
-   "price": 299.9,
-   "original": 374.75,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_833225-MLA107903839444_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-britania-6-pas-160w-maxx-force-bvt44a/p/MLB66607590?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793441939
   }
  ]
 }
