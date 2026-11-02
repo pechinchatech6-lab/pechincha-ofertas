@@ -1,7 +1,21 @@
 {
- "updated": 1793649415,
+ "updated": 1793650873,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 633,
+   "key": "mercadolivre:MLB25263382",
+   "title": "Fone De Ouvido Bluetooth Bateria de Longa Duração Pro 4 Branco Conecta Rápido Com Case Carregador E Microfone Fast Plug",
+   "price": 24.99,
+   "original": 78.99,
+   "pct": 68,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_791435-MLA118754152028_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-bateria-de-longa-duracao-pro-4-branco-conecta-rapido-com-case-carregador-e-microfone-fast-plug/p/MLB25263382?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793650853
+  },
   {
    "n": 632,
    "key": "mercadolivre:MLB17822924",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793549112
-  },
-  {
-   "n": 567,
-   "key": "mercadolivre:MLB25554105",
-   "title": "Ventilador Mallory Coluna Éolo 40cm Cor Da Estrutura Preto Cor Das Pás grafite Diâmetro 40 Cm 6 pás",
-   "price": 219.0,
-   "original": 311.96,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_738001-MLU77320034749_062024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-mallory-coluna-eolo-40cm-cor-da-estrutura-preto-cor-das-pas-grafite-diametro-40-cm-6-pas/p/MLB25554105?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793548070
   }
  ]
 }
