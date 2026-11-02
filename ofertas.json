@@ -1,7 +1,21 @@
 {
- "updated": 1793628233,
+ "updated": 1793628654,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 614,
+   "key": "mercadolivre:MLB1046215784",
+   "title": "iPhone 16e (128 GB) - Preto - Distribuidor Autorizado",
+   "price": 3499.0,
+   "original": 5799.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793628634
+  },
   {
    "n": 613,
    "key": "mercadolivre:MLB65764004",
@@ -729,20 +743,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793543470
-  },
-  {
-   "n": 561,
-   "key": "mercadolivre:MLB1046215784",
-   "title": "iPhone 16e (128 GB) - Preto - Distribuidor Autorizado",
-   "price": 3499.0,
-   "original": 5799.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793542425
   },
   {
    "n": 560,
