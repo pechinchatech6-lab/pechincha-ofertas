@@ -1,7 +1,21 @@
 {
- "updated": 1793653599,
+ "updated": 1793654020,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 638,
+   "key": "mercadolivre:MLB66128181",
+   "title": "Ventilador de Teto 60W Silencioso Lâmpada Forte com LED, Controle e 6 Pás Soquete E27 Para Residencial Comercial Interno Externo Quarto Sala Cozinha Escritório ",
+   "price": 55.9,
+   "original": 99.0,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_695332-MLA118292636431_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-teto-60w-silencioso-lampada-forte-com-led-controle-e-6-pas-soquete-e27-para-residencial-comercial-interno-/p/MLB66128181?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793654000
+  },
   {
    "n": 637,
    "key": "mercadolivre:MLB70228023",
@@ -771,20 +785,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793563981
-  },
-  {
-   "n": 580,
-   "key": "mercadolivre:MLB66128181",
-   "title": "Ventilador de Teto 60W Silencioso Lâmpada Forte com LED, Controle e 6 Pás Soquete E27 Para Residencial Comercial Interno Externo Quarto Sala Cozinha Escritório ",
-   "price": 55.9,
-   "original": 99.0,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_695332-MLA118292636431_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-teto-60w-silencioso-lampada-forte-com-led-controle-e-6-pas-soquete-e27-para-residencial-comercial-interno-/p/MLB66128181?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793563139
   },
   {
    "n": 575,
