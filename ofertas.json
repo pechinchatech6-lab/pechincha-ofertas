@@ -1,7 +1,21 @@
 {
- "updated": 1793622933,
+ "updated": 1793623354,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 611,
+   "key": "mercadolivre:MLB27413688",
+   "title": "Ventilador BVT301 Tecnologia Maxx Force 60W Cor da Estrutura Preto Britânia",
+   "price": 135.46,
+   "original": 164.34,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646973-MLA99492872166_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-bvt301-tecnologia-maxx-force-60w-cor-da-estrutura-preto-britania/p/MLB27413688?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793623334
+  },
   {
    "n": 610,
    "key": "mercadolivre:MLB50301060",
@@ -729,20 +743,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793541583
-  },
-  {
-   "n": 558,
-   "key": "mercadolivre:MLB27413688",
-   "title": "Ventilador BVT301 Tecnologia Maxx Force 60W Cor da Estrutura Preto Britânia",
-   "price": 137.39,
-   "original": 164.34,
-   "pct": 16,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646973-MLA99492872166_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-bvt301-tecnologia-maxx-force-60w-cor-da-estrutura-preto-britania/p/MLB27413688?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793532185
   },
   {
    "n": 553,
