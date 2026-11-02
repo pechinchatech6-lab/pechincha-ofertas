@@ -1,7 +1,21 @@
 {
- "updated": 1793630964,
+ "updated": 1793631385,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 620,
+   "key": "mercadolivre:MLB54422844",
+   "title": "Relógio Masculino Clássico Pulseira Prata Correia Prateada Bisel Prateado Fundo Azul Marinho Saint Germain 42mm Elegante Detalhes Bronze",
+   "price": 129.99,
+   "original": 249.9,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_758835-MLA100010183395_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-masculino-classico-pulseira-prata-correia-prateada-bisel-prateado-fundo-azul-marinho-saint-germain-42mm-elegante/p/MLB54422844?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793631365
+  },
   {
    "n": 619,
    "key": "mercadolivre:MLB1040287790",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793502112
-  },
-  {
-   "n": 544,
-   "key": "mercadolivre:MLB24473062",
-   "title": "Controle GameSir G7 SE com Fio para Xbox One Series S X PC Hall Effect Botões Mecânicos Cor Branco",
-   "price": 212.32,
-   "original": 319.19,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_876806-MLA99469873464_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-se-com-fio-para-xbox-one-series-s-x-pc-hall-effect-botoes-mecanicos-cor-branco/p/MLB24473062?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793493126
   }
  ]
 }
