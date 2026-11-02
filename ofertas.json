@@ -1,7 +1,21 @@
 {
- "updated": 1793661542,
+ "updated": 1793662159,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 647,
+   "key": "mercadolivre:MLB75681377",
+   "title": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
+   "price": 2599.0,
+   "original": 3599.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-pro-lg-55-4k-ultra-hd-ai-55un85c/p/MLB75681377?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793662139
+  },
   {
    "n": 646,
    "key": "mercadolivre:MLB50567982",
@@ -757,20 +771,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793573589
-  },
-  {
-   "n": 591,
-   "key": "mercadolivre:MLB75681377",
-   "title": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
-   "price": 2599.0,
-   "original": 3599.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-pro-lg-55-4k-ultra-hd-ai-55un85c/p/MLB75681377?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793572125
   },
   {
    "n": 590,
