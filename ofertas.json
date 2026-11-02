@@ -1,7 +1,21 @@
 {
- "updated": 1793648994,
+ "updated": 1793649415,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 632,
+   "key": "mercadolivre:MLB17822924",
+   "title": "Relógio de pulso Casio GA-2100 com corria de resina cor vermelho - fondo bordô",
+   "price": 419.99,
+   "original": 998.0,
+   "pct": 58,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_884312-MLA99489775726_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-ga-2100-com-corria-de-resina-cor-vermelho-fondo-bordo/p/MLB17822924?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793649395
+  },
   {
    "n": 631,
    "key": "mercadolivre:MLB76151285",
@@ -701,20 +715,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793563981
-  },
-  {
-   "n": 581,
-   "key": "mercadolivre:MLB17822924",
-   "title": "Relógio de pulso Casio GA-2100 com corria de resina cor vermelho - fondo bordô",
-   "price": 419.99,
-   "original": 998.0,
-   "pct": 58,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_884312-MLA99489775726_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-ga-2100-com-corria-de-resina-cor-vermelho-fondo-bordo/p/MLB17822924?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793563560
   },
   {
    "n": 580,
