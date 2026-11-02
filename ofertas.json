@@ -1,7 +1,21 @@
 {
- "updated": 1793618751,
+ "updated": 1793622512,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 609,
+   "key": "mercadolivre:MLB18610706",
+   "title": "Logitech Mk235 ABNT2 Português Teclado E Mouse Grafite Preto",
+   "price": 162.06,
+   "original": 219.0,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_735713-MLA99973706633_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/logitech-mk235-abnt2-portugues-teclado-e-mouse-grafite-preto/p/MLB18610706?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793622492
+  },
   {
    "n": 608,
    "key": "mercadolivre:MLB39962085",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793481438
-  },
-  {
-   "n": 535,
-   "key": "mercadolivre:MLB80245753",
-   "title": "Mochila Reforçada E Impermeável Para Viagem Mochila Preto Liso",
-   "price": 79.1,
-   "original": 269.0,
-   "pct": 71,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_680341-MLA118784298481_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-reforcada-e-impermeavel-para-viagem-mochila-preto-liso/p/MLB80245753?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793480399
   }
  ]
 }
