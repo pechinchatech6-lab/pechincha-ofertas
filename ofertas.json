@@ -1,7 +1,21 @@
 {
- "updated": 1793629496,
+ "updated": 1793630122,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 617,
+   "key": "mercadolivre:MLB58382190",
+   "title": "Mochila Notebook 17 Impermeável Reforçada Grande Masculina USB Escolar Trabalho Rincostar Preta Preto Liso",
+   "price": 39.74,
+   "original": 52.99,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_937893-MLA114680295948_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-notebook-17-impermeavel-reforcada-grande-masculina-usb-escolar-trabalho-rincostar-preta-preto-liso/p/MLB58382190?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793630102
+  },
   {
    "n": 616,
    "key": "mercadolivre:MLB61522379",
@@ -813,20 +827,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793502112
-  },
-  {
-   "n": 550,
-   "key": "mercadolivre:MLB58382190",
-   "title": "Mochila Notebook 17 Impermeável Reforçada Grande Masculina USB Escolar Trabalho Rincostar Preta Preto Liso",
-   "price": 39.74,
-   "original": 52.99,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_937893-MLA114680295948_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-notebook-17-impermeavel-reforcada-grande-masculina-usb-escolar-trabalho-rincostar-preta-preto-liso/p/MLB58382190?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793499615
   },
   {
    "n": 544,
