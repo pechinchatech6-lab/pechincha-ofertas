@@ -1,7 +1,21 @@
 {
- "updated": 1793611226,
+ "updated": 1793618751,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 608,
+   "key": "mercadolivre:MLB39962085",
+   "title": "Fone De Ouvido Sem Fio Xiaomi Redmi Buds 6 Play Preto",
+   "price": 62.99,
+   "original": 179.9,
+   "pct": 65,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_706355-MLA120273169961_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-xiaomi-redmi-buds-6-play-preto/p/MLB39962085?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793618731
+  },
   {
    "n": 607,
    "key": "mercadolivre:MLB60709649",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793480399
-  },
-  {
-   "n": 526,
-   "key": "mercadolivre:MLB50301060",
-   "title": "Smartphone Motorola Moto G56 5g - 256gb 8gb Ram+8gb Ram Boost, Camera 50mp Sony Lytia 600 Ultrarresistencia Militar e Ip68 + Ip69 - Cinza",
-   "price": 1540.15,
-   "original": 2369.0,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_748002-MLA104773303805_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g56-5g-256gb-8gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-ultrarresistencia-militar-e-ip68-/p/MLB50301060?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793473916
   }
  ]
 }
