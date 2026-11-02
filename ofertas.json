@@ -1,7 +1,21 @@
 {
- "updated": 1793585309,
+ "updated": 1793585730,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 599,
+   "key": "mercadolivre:MLB49822923",
+   "title": "Batedeira Planetária Philco 900W 5L Preta 12 Velocidades Turbo PBP90A",
+   "price": 299.0,
+   "original": 379.9,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_728713-MLA99416610212_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/batedeira-planetaria-philco-900w-5l-preta-12-velocidades-turbo-pbp90a/p/MLB49822923?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793585710
+  },
   {
    "n": 598,
    "key": "mercadolivre:MLB64211779",
@@ -715,20 +729,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793498773
-  },
-  {
-   "n": 545,
-   "key": "mercadolivre:MLB49822923",
-   "title": "Batedeira Planetária Philco 900W 5L Preta 12 Velocidades Turbo PBP90A",
-   "price": 319.9,
-   "original": 470.0,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_728713-MLA99416610212_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/batedeira-planetaria-philco-900w-5l-preta-12-velocidades-turbo-pbp90a/p/MLB49822923?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793494592
   },
   {
    "n": 544,
