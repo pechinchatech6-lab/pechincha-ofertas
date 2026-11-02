@@ -1,7 +1,21 @@
 {
- "updated": 1793654640,
+ "updated": 1793655061,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 640,
+   "key": "mercadolivre:MLB25808151",
+   "title": "Secador de Cabelo Gama Italy Eleganza Plus 2100W Ceramic Ion Preto Profissional",
+   "price": 129.0,
+   "original": 239.9,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_951997-MLA99453005780_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-gama-italy-eleganza-plus-2100w-ceramic-ion-preto-profissional/p/MLB25808151?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793655041
+  },
   {
    "n": 639,
    "key": "mercadolivre:MLB79854330",
@@ -771,20 +785,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793565244
-  },
-  {
-   "n": 584,
-   "key": "mercadolivre:MLB25808151",
-   "title": "Secador de Cabelo Gama Italy Eleganza Plus 2100W Ceramic Ion Preto Profissional",
-   "price": 129.0,
-   "original": 239.9,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_951997-MLA99453005780_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-gama-italy-eleganza-plus-2100w-ceramic-ion-preto-profissional/p/MLB25808151?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793564823
   },
   {
    "n": 582,
