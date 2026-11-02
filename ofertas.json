@@ -1,7 +1,21 @@
 {
- "updated": 1793637672,
+ "updated": 1793639555,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 627,
+   "key": "mercadolivre:MLB66055148",
+   "title": "Smart Tv 32 Philco Roku Tv Dolby Áudio Hdr10 P32crb",
+   "price": 929.8,
+   "original": 1199.0,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_875689-MLA107805437119_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-32-philco-roku-tv-dolby-audio-hdr10-p32crb/p/MLB66055148?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793639535
+  },
   {
    "n": 626,
    "key": "mercadolivre:MLB36695087",
@@ -799,20 +813,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793550997
-  },
-  {
-   "n": 569,
-   "key": "mercadolivre:MLB66055148",
-   "title": "Smart Tv 32 Philco Roku Tv Dolby Áudio Hdr10 P32crb",
-   "price": 959.99,
-   "original": 1199.0,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_875689-MLA107805437119_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-32-philco-roku-tv-dolby-audio-hdr10-p32crb/p/MLB66055148?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793549533
   },
   {
    "n": 568,
