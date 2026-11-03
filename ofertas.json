@@ -1,7 +1,21 @@
 {
- "updated": 1793684734,
+ "updated": 1793685156,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 661,
+   "key": "mercadolivre:MLB18580665",
+   "title": "Taiff Black Ion Secador De Cabelo Profissional 2000w Cor Preto",
+   "price": 206.71,
+   "original": 349.88,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_742671-MLU78597786812_082024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/taiff-black-ion-secador-de-cabelo-profissional-2000w-cor-preto/p/MLB18580665?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793685136
+  },
   {
    "n": 660,
    "key": "mercadolivre:MLB76436759",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793592383
-  },
-  {
-   "n": 596,
-   "key": "mercadolivre:MLB18580665",
-   "title": "Taiff Black Ion Secador De Cabelo Profissional 2000w Cor Preto",
-   "price": 206.71,
-   "original": 349.88,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_742671-MLU78597786812_082024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/taiff-black-ion-secador-de-cabelo-profissional-2000w-cor-preto/p/MLB18580665?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793579223
   }
  ]
 }
