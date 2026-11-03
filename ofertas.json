@@ -1,7 +1,21 @@
 {
- "updated": 1793739721,
+ "updated": 1793740142,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 699,
+   "key": "mercadolivre:MLB39962085",
+   "title": "Fone De Ouvido Sem Fio Xiaomi Redmi Buds 6 Play Preto",
+   "price": 62.94,
+   "original": 180.0,
+   "pct": 65,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_715678-MLU78765136521_082024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-xiaomi-redmi-buds-6-play-preto/p/MLB39962085?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793740122
+  },
   {
    "n": 698,
    "key": "mercadolivre:MLB70228023",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793655041
-  },
-  {
-   "n": 639,
-   "key": "mercadolivre:MLB79854330",
-   "title": "Projetor Portátil Nixzen HY300 Com Android 11 e Wi-Fi Bluetooth",
-   "price": 179.42,
-   "original": 349.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_753311-MLA116710028684_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-portatil-nixzen-hy300-com-android-11-e-wi-fi-bluetooth/p/MLB79854330?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793654620
   }
  ]
 }
