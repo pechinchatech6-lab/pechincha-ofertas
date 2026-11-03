@@ -1,7 +1,21 @@
 {
- "updated": 1793722360,
+ "updated": 1793722780,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 686,
+   "key": "mercadolivre:MLB65568637",
+   "title": "Geladeira Brastemp Inteligente 512L Bivolt - BRM62A",
+   "price": 3199.0,
+   "original": 3879.0,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_940707-MLA118254331193_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-brastemp-inteligente-512l-bivolt-brm62a/p/MLB65568637?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793722760
+  },
   {
    "n": 685,
    "key": "mercadolivre:MLB69598092",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793639535
-  },
-  {
-   "n": 626,
-   "key": "mercadolivre:MLB36695087",
-   "title": "Controle Gamesir T4 Nova Lite Sem Fio Para Pc Switch Android Ios Steam Celular Hall Effect Cor Branco",
-   "price": 170.74,
-   "original": 218.9,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_899533-MLA99452523474_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-t4-nova-lite-sem-fio-para-pc-switch-android-ios-steam-celular-hall-effect-cor-branco/p/MLB36695087?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793637652
   }
  ]
 }
