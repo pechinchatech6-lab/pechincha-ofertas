@@ -1,7 +1,21 @@
 {
- "updated": 1793720898,
+ "updated": 1793721319,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 684,
+   "key": "mercadolivre:MLB50382362",
+   "title": "Fone de Ouvido Pares F-9 Bluetooth, In-ear Sem Fio com Powerbank e Som Imersivo",
+   "price": 21.9,
+   "original": 29.9,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_962707-MLA89992907158_082025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-pares-f-9-bluetooth-in-ear-sem-fio-com-powerbank-e-som-imersivo/p/MLB50382362?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793721299
+  },
   {
    "n": 683,
    "key": "mercadolivre:MLB19380821",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793634717
-  },
-  {
-   "n": 624,
-   "key": "mercadolivre:MLB50382362",
-   "title": "Fone de Ouvido Pares F-9 Bluetooth, In-ear Sem Fio com Powerbank e Som Imersivo",
-   "price": 21.9,
-   "original": 29.9,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_962707-MLA89992907158_082025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-pares-f-9-bluetooth-in-ear-sem-fio-com-powerbank-e-som-imersivo/p/MLB50382362?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793634296
   }
  ]
 }
