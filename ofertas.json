@@ -1,7 +1,21 @@
 {
- "updated": 1793688498,
+ "updated": 1793690378,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 663,
+   "key": "mercadolivre:MLB44117615",
+   "title": "Fritadeira Elétrica AFON-12L-BG Forno Oven 12 Litros Preto Mondial",
+   "price": 466.87,
+   "original": 899.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_654188-MLA110122213881_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fritadeira-eletrica-afon-12l-bg-forno-oven-12-litros-preto-mondial/p/MLB44117615?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793690358
+  },
   {
    "n": 662,
    "key": "mercadolivre:MLB50374755",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793594265
-  },
-  {
-   "n": 601,
-   "key": "mercadolivre:MLB75625924",
-   "title": "Mochila sem gênero, impermeável, reforçada, com capacidade ampliada de 30-42L, adequada para portátil, viagens diárias, cor preta",
-   "price": 64.93,
-   "original": 216.0,
-   "pct": 70,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_718229-MLA113595305320_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-sem-genero-impermeavel-reforcada-com-capacidade-ampliada-de-30-42l-adequada-para-portatil-viagens-diarias-cor-pr/p/MLB75625924?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793592383
   }
  ]
 }
