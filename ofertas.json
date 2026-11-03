@@ -1,7 +1,21 @@
 {
- "updated": 1793709609,
+ "updated": 1793712947,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 670,
+   "key": "mercadolivre:MLB54102936",
+   "title": "Xiaomi Redmi 15 12gb Ram 128gb Dual Sim 50mp Fm Impressão digital Dimm cinza",
+   "price": 1212.0,
+   "original": 2101.29,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_652088-MLA99478650034_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/xiaomi-redmi-15-12gb-ram-128gb-dual-sim-50mp-fm-impressao-digital-dimm-cinza/p/MLB54102936?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793712927
+  },
   {
    "n": 669,
    "key": "mercadolivre:MLB53432844",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793623334
-  },
-  {
-   "n": 610,
-   "key": "mercadolivre:MLB50301060",
-   "title": "Smartphone Motorola Moto G56 5g - 256gb 8gb Ram+8gb Ram Boost, Camera 50mp Sony Lytia 600 Ultrarresistencia Militar e Ip68 + Ip69 - Cinza",
-   "price": 1540.15,
-   "original": 2369.0,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_748002-MLA104773303805_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g56-5g-256gb-8gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-ultrarresistencia-militar-e-ip68-/p/MLB50301060?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793622913
   }
  ]
 }
