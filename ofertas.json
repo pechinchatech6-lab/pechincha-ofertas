@@ -1,7 +1,21 @@
 {
- "updated": 1793719014,
+ "updated": 1793719435,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 681,
+   "key": "mercadolivre:MLB74143355",
+   "title": "Smart TV 4K 55\" LG QNED Mini LED AI QNED70 2026 Processador α7 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini webOS 26 - 55QNED70BSA",
+   "price": 2559.9,
+   "original": 3599.0,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_648434-MLA115300888751_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-4k-55-lg-qned-mini-led-ai-qned70-2026-processador-7-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-web/p/MLB74143355?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793719415
+  },
   {
    "n": 680,
    "key": "mercadolivre:MLB61522379",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793631994
-  },
-  {
-   "n": 620,
-   "key": "mercadolivre:MLB54422844",
-   "title": "Relógio Masculino Clássico Pulseira Prata Correia Prateada Bisel Prateado Fundo Azul Marinho Saint Germain 42mm Elegante Detalhes Bronze",
-   "price": 129.99,
-   "original": 249.9,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_758835-MLA100010183395_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-masculino-classico-pulseira-prata-correia-prateada-bisel-prateado-fundo-azul-marinho-saint-germain-42mm-elegante/p/MLB54422844?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793631365
   }
  ]
 }
