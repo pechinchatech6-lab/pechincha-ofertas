@@ -1,7 +1,21 @@
 {
- "updated": 1793699778,
+ "updated": 1793705428,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 666,
+   "key": "mercadolivre:MLB60709649",
+   "title": "Mochila Masculina Faculdade Impermeável Resistente Grande Trabalho Escola Cor Preto Desenho Do Tecido Liso",
+   "price": 57.99,
+   "original": 78.99,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_666313-MLA99570168096_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-masculina-faculdade-impermeavel-resistente-grande-trabalho-escola-cor-preto-desenho-do-tecido-liso/p/MLB60709649?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793705408
+  },
   {
    "n": 665,
    "key": "mercadolivre:MLB68818837",
@@ -813,20 +827,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793618731
-  },
-  {
-   "n": 607,
-   "key": "mercadolivre:MLB60709649",
-   "title": "Mochila Masculina Faculdade Impermeável Resistente Grande Trabalho Escola Cor Preto Desenho Do Tecido Liso",
-   "price": 57.99,
-   "original": 78.99,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_666313-MLA99570168096_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-masculina-faculdade-impermeavel-resistente-grande-trabalho-escola-cor-preto-desenho-do-tecido-liso/p/MLB60709649?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793611206
   },
   {
    "n": 606,
