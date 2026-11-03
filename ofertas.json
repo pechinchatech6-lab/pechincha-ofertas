@@ -1,7 +1,21 @@
 {
- "updated": 1793705428,
+ "updated": 1793705849,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 667,
+   "key": "mercadolivre:MLB40340936",
+   "title": "Aspirador de Pó Turbo Cycle, Mondial, 1500W - AP-40-B",
+   "price": 168.63,
+   "original": 299.9,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_806239-MLA99489875584_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aspirador-de-po-turbo-cycle-mondial-1500w-ap-40-b/p/MLB40340936?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793705829
+  },
   {
    "n": 666,
    "key": "mercadolivre:MLB60709649",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793618731
-  },
-  {
-   "n": 606,
-   "key": "mercadolivre:MLB14896780",
-   "title": "Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto",
-   "price": 211.25,
-   "original": 307.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_740337-MLA80358584554_112024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-oscilante-de-parede-ventisol-steel-6-pas-50cm-preto/p/MLB14896780?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793607437
   }
  ]
 }
