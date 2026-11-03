@@ -1,7 +1,21 @@
 {
- "updated": 1793724247,
+ "updated": 1793724668,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 688,
+   "key": "mercadolivre:MLB79921161",
+   "title": "Relógio Digital De Mesa Despertador Termômetro Higrômetro Temperatura Umidade Calendário Alarme Snooze Display Grande 12/24h °C/°F Para Quarto Cabeceira Escritó",
+   "price": 29.31,
+   "original": 46.5,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_786914-MLA118567638912_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-digital-de-mesa-despertador-termometro-higrometro-temperatura-umidade-calendario-alarme-snooze-display-grande-12/p/MLB79921161?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793724648
+  },
   {
    "n": 687,
    "key": "mercadolivre:MLB58382190",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793645196
-  },
-  {
-   "n": 628,
-   "key": "mercadolivre:MLB63980306",
-   "title": "Pokémon Pokopia - Nintendo Switch 2",
-   "price": 439.89,
-   "original": 556.83,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_877218-MLA104113006671_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pokemon-pokopia-nintendo-switch-2/p/MLB63980306?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793641420
   }
  ]
 }
