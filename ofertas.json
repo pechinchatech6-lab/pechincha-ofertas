@@ -1,7 +1,21 @@
 {
- "updated": 1793679089,
+ "updated": 1793682849,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 659,
+   "key": "mercadolivre:MLB66607590",
+   "title": "Ventilador de Coluna Britânia 6 Pás 160W Maxx Force BVT44A",
+   "price": 299.9,
+   "original": 374.75,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_833225-MLA107903839444_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-britania-6-pas-160w-maxx-force-bvt44a/p/MLB66607590?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793682828
+  },
   {
    "n": 658,
    "key": "mercadolivre:MLB63036814",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793579223
-  },
-  {
-   "n": 595,
-   "key": "mercadolivre:MLB74143355",
-   "title": "Smart TV 4K 55\" LG QNED Mini LED AI QNED70 2026 Processador α7 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini webOS 26 - 55QNED70BSA",
-   "price": 2754.05,
-   "original": 3599.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_648434-MLA115300888751_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-4k-55-lg-qned-mini-led-ai-qned70-2026-processador-7-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-web/p/MLB74143355?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793577348
   }
  ]
 }
