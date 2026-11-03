@@ -1,7 +1,21 @@
 {
- "updated": 1793705849,
+ "updated": 1793709188,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 668,
+   "key": "mercadolivre:MLB18610706",
+   "title": "Logitech Mk235 ABNT2 Português Teclado E Mouse Grafite Preto",
+   "price": 162.06,
+   "original": 219.0,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_735713-MLA99973706633_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/logitech-mk235-abnt2-portugues-teclado-e-mouse-grafite-preto/p/MLB18610706?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793709168
+  },
   {
    "n": 667,
    "key": "mercadolivre:MLB40340936",
@@ -813,20 +827,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793622913
-  },
-  {
-   "n": 609,
-   "key": "mercadolivre:MLB18610706",
-   "title": "Logitech Mk235 ABNT2 Português Teclado E Mouse Grafite Preto",
-   "price": 162.06,
-   "original": 219.0,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_735713-MLA99973706633_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/logitech-mk235-abnt2-portugues-teclado-e-mouse-grafite-preto/p/MLB18610706?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793622492
   },
   {
    "n": 608,
