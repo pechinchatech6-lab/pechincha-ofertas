@@ -1,7 +1,21 @@
 {
- "updated": 1793732193,
+ "updated": 1793735533,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 693,
+   "key": "mercadolivre:MLB37700507",
+   "title": "Liquidificador Pratic Turbo, Mondial, 550W - L-98-B",
+   "price": 94.9,
+   "original": 154.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_929681-MLA99450771766_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/liquidificador-pratic-turbo-mondial-550w-l-98-b/p/MLB37700507?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793735513
+  },
   {
    "n": 692,
    "key": "mercadolivre:MLB28894895",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793651274
-  },
-  {
-   "n": 633,
-   "key": "mercadolivre:MLB25263382",
-   "title": "Fone De Ouvido Bluetooth Bateria de Longa Duração Pro 4 Branco Conecta Rápido Com Case Carregador E Microfone Fast Plug",
-   "price": 24.99,
-   "original": 78.99,
-   "pct": 68,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_791435-MLA118754152028_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-bateria-de-longa-duracao-pro-4-branco-conecta-rapido-com-case-carregador-e-microfone-fast-plug/p/MLB25263382?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793650853
   }
  ]
 }
