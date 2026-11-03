@@ -1,7 +1,21 @@
 {
- "updated": 1793675326,
+ "updated": 1793675746,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 655,
+   "key": "mercadolivre:MLB24028629",
+   "title": "Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Chamadas Claras Personal",
+   "price": 138.0,
+   "original": 299.0,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_730568-MLA99983575997_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-soundcore-by-anker-p20i-graves-poderosos-e-impactantes-bluetooth-5-3-30h-de-reproducao-resistencia-a-agua/p/MLB24028629?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793675726
+  },
   {
    "n": 654,
    "key": "mercadolivre:MLB64211779",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793573589
-  },
-  {
-   "n": 590,
-   "key": "mercadolivre:MLB35000103",
-   "title": "Geladeira Electrolux Dc35 260l Com Freezer Cycle Defrost Bra",
-   "price": 721.6,
-   "original": 1804.0,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_749474-MLU77105247405_062024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-dc35-260l-com-freezer-cycle-defrost-bra/p/MLB35000103?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793571704
   }
  ]
 }
