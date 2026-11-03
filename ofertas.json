@@ -1,7 +1,21 @@
 {
- "updated": 1793741181,
+ "updated": 1793744907,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 701,
+   "key": "mercadolivre:MLB80167828",
+   "title": "Bundle Nintendo Switch 2 + Mario Kart World + 3 Meses NSO",
+   "price": 4354.89,
+   "original": 7999.99,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_642168-MLA118780566083_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bundle-nintendo-switch-2-mario-kart-world-3-meses-nso/p/MLB80167828?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793744886
+  },
   {
    "n": 700,
    "key": "mercadolivre:MLB22778772",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793658379
-  },
-  {
-   "n": 641,
-   "key": "mercadolivre:MLB19617676",
-   "title": "Micro-ondas ME23S 23L Efficient Com Descongelamento Assistido Cor Inox Electrolux",
-   "price": 553.24,
-   "original": 699.0,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_940680-MLA99700976956_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-me23s-23l-efficient-com-descongelamento-assistido-cor-inox-electrolux/p/MLB19617676?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793656505
   }
  ]
 }
