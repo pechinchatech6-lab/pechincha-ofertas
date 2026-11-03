@@ -1,7 +1,21 @@
 {
- "updated": 1793716092,
+ "updated": 1793716712,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 676,
+   "key": "mercadolivre:MLB1040287790",
+   "title": "Apple iPhone 16 (256 GB) - Rosa - Distribuidor Autorizado",
+   "price": 5596.67,
+   "original": 8599.0,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_719634-MLA97473882481_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/apple-iphone-16-256-gb-rosa-distribuidor-autorizado/p/MLB1040287790?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793716692
+  },
   {
    "n": 675,
    "key": "mercadolivre:MLB44463715",
@@ -785,20 +799,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793631365
-  },
-  {
-   "n": 619,
-   "key": "mercadolivre:MLB1040287790",
-   "title": "Apple iPhone 16 (256 GB) - Rosa - Distribuidor Autorizado",
-   "price": 5596.67,
-   "original": 8599.0,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_719634-MLA97473882481_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/apple-iphone-16-256-gb-rosa-distribuidor-autorizado/p/MLB1040287790?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793630944
   },
   {
    "n": 618,
