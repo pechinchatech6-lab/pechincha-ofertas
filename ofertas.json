@@ -1,7 +1,21 @@
 {
- "updated": 1793676588,
+ "updated": 1793679089,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 658,
+   "key": "mercadolivre:MLB63036814",
+   "title": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
+   "price": 1085.87,
+   "original": 1499.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_904550-MLA100972962937_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-32-philco-p32vik-roku-led-dolby-audio-hdr-wi-fi-110-220v/p/MLB63036814?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793679068
+  },
   {
    "n": 657,
    "key": "mercadolivre:MLB38176139",
@@ -799,20 +813,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793592383
-  },
-  {
-   "n": 600,
-   "key": "mercadolivre:MLB63036814",
-   "title": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
-   "price": 1085.87,
-   "original": 1499.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_904550-MLA100972962937_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-32-philco-p32vik-roku-led-dolby-audio-hdr-wi-fi-110-220v/p/MLB63036814?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793588623
   },
   {
    "n": 596,
