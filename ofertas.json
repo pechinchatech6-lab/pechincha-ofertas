@@ -1,7 +1,21 @@
 {
- "updated": 1793728005,
+ "updated": 1793729889,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 690,
+   "key": "mercadolivre:MLB67136040",
+   "title": "Smart Tv Tcl 50 Polegadas Qled 4k P7l Wifi Bluetooth Google Tv Hdr10+ 60 Hz Aipq 50p7l",
+   "price": 2189.0,
+   "original": 2699.0,
+   "pct": 19,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_978669-MLA114751005026_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-tcl-50-polegadas-qled-4k-p7l-wifi-bluetooth-google-tv-hdr10-60-hz-aipq-50p7l/p/MLB67136040?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793729869
+  },
   {
    "n": 689,
    "key": "mercadolivre:MLB27413688",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793648974
-  },
-  {
-   "n": 630,
-   "key": "mercadolivre:MLB37700507",
-   "title": "Liquidificador Pratic Turbo, Mondial, 550W - L-98-B",
-   "price": 94.9,
-   "original": 154.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_929681-MLA99450771766_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/liquidificador-pratic-turbo-mondial-550w-l-98-b/p/MLB37700507?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793645617
   }
  ]
 }
