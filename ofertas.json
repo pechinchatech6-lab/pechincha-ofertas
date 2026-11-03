@@ -1,7 +1,21 @@
 {
- "updated": 1793665918,
+ "updated": 1793666339,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 650,
+   "key": "mercadolivre:MLB56343340",
+   "title": "Calça Shapewear Feminino 54593 Capri Sépia Liz",
+   "price": 96.19,
+   "original": 149.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_649746-MLA112155289503_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/calca-shapewear-feminino-54593-capri-sepia-liz/p/MLB56343340?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793666319
+  },
   {
    "n": 649,
    "key": "mercadolivre:MLB39291772",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793563981
-  },
-  {
-   "n": 575,
-   "key": "mercadolivre:MLB64305534",
-   "title": "Projetor Smart Portátil Full Hd 4k Android 11 Wi-fi Bluetooth Mini Projetor Home Theater Cinema Em Casa Imagem Nítida Som Potente Compatível Com Diversos Dispos",
-   "price": 185.0,
-   "original": 419.9,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_985823-MLA113683572316_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-smart-portatil-full-hd-4k-android-11-wi-fi-bluetooth-mini-projetor-home-theater-cinema-em-casa-imagem-nitida-so/p/MLB64305534?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793558536
   }
  ]
 }
