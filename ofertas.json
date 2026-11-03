@@ -1,7 +1,21 @@
 {
- "updated": 1793709188,
+ "updated": 1793709609,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 669,
+   "key": "mercadolivre:MLB53432844",
+   "title": "Tv Stick 4k Hdmi Wi-fi 16gb Android Tv Full Hd Smart Televisão Controle Filmes Pro Familar",
+   "price": 164.0,
+   "original": 319.25,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_657953-MLA111080648459_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/tv-stick-4k-hdmi-wi-fi-16gb-android-tv-full-hd-smart-televisao-controle-filmes-pro-familar/p/MLB53432844?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793709589
+  },
   {
    "n": 668,
    "key": "mercadolivre:MLB18610706",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793622913
-  },
-  {
-   "n": 608,
-   "key": "mercadolivre:MLB39962085",
-   "title": "Fone De Ouvido Sem Fio Xiaomi Redmi Buds 6 Play Preto",
-   "price": 62.99,
-   "original": 179.9,
-   "pct": 65,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_706355-MLA120273169961_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-xiaomi-redmi-buds-6-play-preto/p/MLB39962085?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793618731
   }
  ]
 }
