@@ -1,7 +1,21 @@
 {
- "updated": 1793735533,
+ "updated": 1793735954,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 694,
+   "key": "mercadolivre:MLB17822924",
+   "title": "Relógio de pulso Casio GA-2100 com corria de resina cor vermelho - fondo bordô",
+   "price": 419.99,
+   "original": 998.0,
+   "pct": 58,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_884312-MLA99489775726_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-ga-2100-com-corria-de-resina-cor-vermelho-fondo-bordo/p/MLB17822924?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793735934
+  },
   {
    "n": 693,
    "key": "mercadolivre:MLB37700507",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793652738
-  },
-  {
-   "n": 634,
-   "key": "mercadolivre:MLB56129679",
-   "title": "Boné Ny New York Masculino Feminino Unissex Fitão Blogueira Cor Branco E Preto Tamanho Un",
-   "price": 31.91,
-   "original": 44.99,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_918468-MLA92439464901_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-ny-new-york-masculino-feminino-unissex-fitao-blogueira-cor-branco-e-preto-tamanho-un/p/MLB56129679?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793651274
   }
  ]
 }
