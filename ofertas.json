@@ -1,7 +1,21 @@
 {
- "updated": 1793676167,
+ "updated": 1793676588,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 657,
+   "key": "mercadolivre:MLB38176139",
+   "title": "Fone de Ouvido Bluetooth 5.4 soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celu",
+   "price": 196.0,
+   "original": 389.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_760745-MLA95700724020_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-5-4-soundcore-p30i-da-anker-cancelamento-de-ruido-adaptativo-graves-poderosos-45h-de-reproducao/p/MLB38176139?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793676568
+  },
   {
    "n": 656,
    "key": "mercadolivre:MLB49822923",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793577348
-  },
-  {
-   "n": 592,
-   "key": "mercadolivre:MLB67146264",
-   "title": "Mini Mixer Misturador De Bebidas Elétrico 2 Em 1 Portátil Recarregável Mexedor De Ovos Leite Whey Café Espuma Shake Drinks Capuccino Suco Blackbom",
-   "price": 19.99,
-   "original": 49.99,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_993099-MLA118374430742_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-mixer-misturador-de-bebidas-eletrico-2-em-1-portatil-recarregavel-mexedor-de-ovos-leite-whey-cafe-espuma-shake-drin/p/MLB67146264?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793573589
   }
  ]
 }
