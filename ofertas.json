@@ -1,7 +1,21 @@
 {
- "updated": 1793685156,
+ "updated": 1793688498,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 662,
+   "key": "mercadolivre:MLB50374755",
+   "title": "Máquina De Lavar Electrolux 14,5kg Cesto Inox Lep15 Preto",
+   "price": 1979.0,
+   "original": 2679.0,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_899028-MLA85766474233_062025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-electrolux-14-5kg-cesto-inox-lep15-preto/p/MLB50374755?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793688478
+  },
   {
    "n": 661,
    "key": "mercadolivre:MLB18580665",
@@ -785,20 +799,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793607437
-  },
-  {
-   "n": 605,
-   "key": "mercadolivre:MLB50374755",
-   "title": "Máquina De Lavar Electrolux 14,5kg Cesto Inox Lep15 Preto",
-   "price": 1979.0,
-   "original": 2679.0,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_899028-MLA85766474233_062025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-electrolux-14-5kg-cesto-inox-lep15-preto/p/MLB50374755?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793598020
   },
   {
    "n": 604,
