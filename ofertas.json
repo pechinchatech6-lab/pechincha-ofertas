@@ -1,7 +1,21 @@
 {
- "updated": 1793810748,
+ "updated": 1793811169,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 715,
+   "key": "mercadolivre:MLB75536994",
+   "title": "Controle GameSir G7 Pro Sem Fio para Xbox Series X|S, PC e Android com Gatilhos Hall Effect",
+   "price": 476.01,
+   "original": 661.2,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_797885-MLA113442770934_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-pro-sem-fio-para-xbox-series-x-s-pc-e-android-com-gatilhos-hall-effect/p/MLB75536994?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793811149
+  },
   {
    "n": 714,
    "key": "mercadolivre:MLB50246468",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793676147
-  },
-  {
-   "n": 655,
-   "key": "mercadolivre:MLB24028629",
-   "title": "Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Chamadas Claras Personal",
-   "price": 138.0,
-   "original": 299.0,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_730568-MLA99983575997_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-soundcore-by-anker-p20i-graves-poderosos-e-impactantes-bluetooth-5-3-30h-de-reproducao-resistencia-a-agua/p/MLB24028629?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793675726
   }
  ]
 }
