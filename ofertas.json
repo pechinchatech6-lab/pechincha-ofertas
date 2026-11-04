@@ -1,7 +1,21 @@
 {
- "updated": 1793818032,
+ "updated": 1793819912,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 718,
+   "key": "mercadolivre:MLB65041642",
+   "title": "Smartphone Motorola Moto G17 4g - 128gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia 600, Tela Fhd+ 60hz, Bateria 5200 Mah - Azul",
+   "price": 899.0,
+   "original": 1599.0,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_773592-MLA105493148200_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g17-4g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-fhd-60hz-bateria-5200-mah-az/p/MLB65041642?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793819892
+  },
   {
    "n": 717,
    "key": "mercadolivre:MLB62661747",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793682828
-  },
-  {
-   "n": 658,
-   "key": "mercadolivre:MLB63036814",
-   "title": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
-   "price": 1085.87,
-   "original": 1499.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_904550-MLA100972962937_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-32-philco-p32vik-roku-led-dolby-audio-hdr-wi-fi-110-220v/p/MLB63036814?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793679068
   }
  ]
 }
