@@ -1,7 +1,21 @@
 {
- "updated": 1793819912,
+ "updated": 1793831198,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 719,
+   "key": "mercadolivre:MLB63467528",
+   "title": "Samsung Smart Tv 43 Qled Full Hd Q5f 2025, Xbox Cloud Gaming, Canais Gratuitos, Hdr, Som Em Movimento Virtual",
+   "price": 1665.0,
+   "original": 2299.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612999-MLA102412809695_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/samsung-smart-tv-43-qled-full-hd-q5f-2025-xbox-cloud-gaming-canais-gratuitos-hdr-som-em-movimento-virtual/p/MLB63467528?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793831178
+  },
   {
    "n": 718,
    "key": "mercadolivre:MLB65041642",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793684714
-  },
-  {
-   "n": 659,
-   "key": "mercadolivre:MLB66607590",
-   "title": "Ventilador de Coluna Britânia 6 Pás 160W Maxx Force BVT44A",
-   "price": 299.9,
-   "original": 374.75,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_833225-MLA107903839444_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-britania-6-pas-160w-maxx-force-bvt44a/p/MLB66607590?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793682828
   }
  ]
 }
