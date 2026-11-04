@@ -1,7 +1,21 @@
 {
- "updated": 1793814514,
+ "updated": 1793818032,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 717,
+   "key": "mercadolivre:MLB62661747",
+   "title": "Ventilador De Parede Ventisol New Azul 3 Velocidades Estrutura Preto Diâmetro 50 Cm Material Das Pás Plástico",
+   "price": 198.99,
+   "original": 499.0,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_623474-MLA99869153411_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-parede-ventisol-new-azul-3-velocidades-estrutura-preto-diametro-50-cm-material-das-pas-plastico/p/MLB62661747?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793818012
+  },
   {
    "n": 716,
    "key": "mercadolivre:MLB15345937",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793679068
-  },
-  {
-   "n": 657,
-   "key": "mercadolivre:MLB38176139",
-   "title": "Fone de Ouvido Bluetooth 5.4 soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celu",
-   "price": 196.0,
-   "original": 389.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_760745-MLA95700724020_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-5-4-soundcore-p30i-da-anker-cancelamento-de-ruido-adaptativo-graves-poderosos-45h-de-reproducao/p/MLB38176139?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793676568
   }
  ]
 }
