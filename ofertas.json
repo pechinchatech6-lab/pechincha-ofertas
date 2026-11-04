@@ -1,7 +1,21 @@
 {
- "updated": 1793811169,
+ "updated": 1793814514,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 716,
+   "key": "mercadolivre:MLB15345937",
+   "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
+   "price": 136.8,
+   "original": 169.9,
+   "pct": 19,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_759854-MLA99487952684_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-headset-gamer-havit-h2002d-p3-para-ps3-ps4-ps5-xbox-pc-cor-preto/p/MLB15345937?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793814494
+  },
   {
    "n": 715,
    "key": "mercadolivre:MLB75536994",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793676568
-  },
-  {
-   "n": 656,
-   "key": "mercadolivre:MLB49822923",
-   "title": "Batedeira Planetária Philco 900W 5L Preta 12 Velocidades Turbo PBP90A",
-   "price": 299.0,
-   "original": 379.9,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_728713-MLA99416610212_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/batedeira-planetaria-philco-900w-5l-preta-12-velocidades-turbo-pbp90a/p/MLB49822923?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793676147
   }
  ]
 }
