@@ -1,7 +1,21 @@
 {
- "updated": 1793831619,
+ "updated": 1793834977,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 721,
+   "key": "mercadolivre:MLB80376121",
+   "title": "Chapinha Kive KV-864 Profissional 3 Em 1 Alisa e Faz Cachos Vapor Infravermelho Íons Negativos Anti Frizz Bivolt,Cabelos Grossos e Volumosos",
+   "price": 198.99,
+   "original": 342.72,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_949600-MLA117461477450_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-kive-kv-864-profissional-3-em-1-alisa-e-faz-cachos-vapor-infravermelho-ions-negativos-anti-frizz-bivolt-cabelos/p/MLB80376121?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793834956
+  },
   {
    "n": 720,
    "key": "mercadolivre:MLB78889321",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793688478
-  },
-  {
-   "n": 661,
-   "key": "mercadolivre:MLB18580665",
-   "title": "Taiff Black Ion Secador De Cabelo Profissional 2000w Cor Preto",
-   "price": 206.71,
-   "original": 349.88,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_742671-MLU78597786812_082024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/taiff-black-ion-secador-de-cabelo-profissional-2000w-cor-preto/p/MLB18580665?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793685136
   }
  ]
 }
