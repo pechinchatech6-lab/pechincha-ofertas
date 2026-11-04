@@ -1,7 +1,21 @@
 {
- "updated": 1793752427,
+ "updated": 1793763714,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 704,
+   "key": "mercadolivre:MLB72888947",
+   "title": "PEST. COURVIN P/ RELOGIO 12 LUGARES - PRETO/CINZA",
+   "price": 71.0,
+   "original": 149.99,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_717612-MLA111794443852_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pest-courvin-p-relogio-12-lugares-preto-cinza/p/MLB72888947?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793763694
+  },
   {
    "n": 703,
    "key": "mercadolivre:MLB49197371",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793661101
-  },
-  {
-   "n": 644,
-   "key": "mercadolivre:MLB46220824",
-   "title": "Webcam Camera Full Hd Zoom 1080p 360 Graus Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone- GoodVision",
-   "price": 36.98,
-   "original": 78.0,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_807092-MLA100966388363_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-360-graus-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-goodvision/p/MLB46220824?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793660680
   }
  ]
 }
