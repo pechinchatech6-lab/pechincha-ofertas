@@ -1,7 +1,21 @@
 {
- "updated": 1793786284,
+ "updated": 1793793814,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 707,
+   "key": "mercadolivre:MLB51340616",
+   "title": "Smartphone Motorola Moto G86 5G Tela 6.7 pOLED 256GB 8GB RAM Câmera 50MP 4K IP69 Desbloqueado",
+   "price": 1899.05,
+   "original": 2999.0,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_814913-MLA99969880153_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g86-5g-tela-6-7-poled-256gb-8gb-ram-camera-50mp-4k-ip69-desbloqueado/p/MLB51340616?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793793794
+  },
   {
    "n": 706,
    "key": "mercadolivre:MLB81448580",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793664021
-  },
-  {
-   "n": 647,
-   "key": "mercadolivre:MLB75681377",
-   "title": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
-   "price": 2599.0,
-   "original": 3599.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-pro-lg-55-4k-ultra-hd-ai-55un85c/p/MLB75681377?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793662139
   }
  ]
 }
