@@ -1,7 +1,21 @@
 {
- "updated": 1793807406,
+ "updated": 1793807827,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 711,
+   "key": "mercadolivre:MLB28529446",
+   "title": "Forno Elétrico Philco 50L Dupla Resistência PFE52P",
+   "price": 429.0,
+   "original": 529.0,
+   "pct": 19,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_992228-MLA99495565436_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/forno-eletrico-philco-50l-dupla-resistencia-pfe52p/p/MLB28529446?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793807807
+  },
   {
    "n": 710,
    "key": "mercadolivre:MLB53924359",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793669666
-  },
-  {
-   "n": 651,
-   "key": "mercadolivre:MLB18607536",
-   "title": "Ventilador Parede 50cm 6Pás Monta Fácil Preto Ventisol",
-   "price": 249.9,
-   "original": 332.94,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_719817-MLA113216396562_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-parede-50cm-6pas-monta-facil-preto-ventisol/p/MLB18607536?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793667786
   }
  ]
 }
