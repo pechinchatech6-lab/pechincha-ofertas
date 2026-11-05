@@ -1,7 +1,21 @@
 {
- "updated": 1793848980,
+ "updated": 1793849401,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 743,
+   "key": "mercadolivre:MLB6087971",
+   "title": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg",
+   "price": 78.9,
+   "original": 179.84,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_608162-MLA112813208483_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/proteina-max-titanium-whey-pro-concetrado-em-po-sabor-morango-x-1kg/p/MLB6087971?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793849381
+  },
   {
    "n": 742,
    "key": "mercadolivre:MLB44334357",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793721299
-  },
-  {
-   "n": 683,
-   "key": "mercadolivre:MLB19380821",
-   "title": "Deo Colônia Natura Hoje Masculino 100ml",
-   "price": 87.2,
-   "original": 168.9,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_809219-MLU72675777427_112023-F.jpg",
-   "link": "https://www.mercadolivre.com.br/deo-colonia-natura-hoje-masculino-100ml/p/MLB19380821?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793720878
   }
  ]
 }
