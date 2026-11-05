@@ -1,7 +1,21 @@
 {
- "updated": 1793894929,
+ "updated": 1793895349,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 774,
+   "key": "mercadolivre:MLB80498644",
+   "title": "Alaxe Caixa De Som Inteligente Comando Voz Portátil Bluetooth LED RGB Compatível Com Aplicativo Alexa No Celular Som Sem Fio Compacta Para Casa Quarto Escritóri",
+   "price": 58.1,
+   "original": 175.0,
+   "pct": 67,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822646-MLA119209021623_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alaxe-caixa-de-som-inteligente-comando-voz-portatil-bluetooth-led-rgb-compativel-com-aplicativo-alexa-no-celular-som-sem/p/MLB80498644?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793895329
+  },
   {
    "n": 773,
    "key": "mercadolivre:MLB61072496",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793811149
-  },
-  {
-   "n": 714,
-   "key": "mercadolivre:MLB50246468",
-   "title": "Liquidificador Easy Power Mondial 550w L-550-b Preto 127V",
-   "price": 68.99,
-   "original": 132.9,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_889663-MLA99526755784_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/liquidificador-easy-power-mondial-550w-l-550-b-preto-127v/p/MLB50246468?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793810728
   }
  ]
 }
