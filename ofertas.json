@@ -1,7 +1,21 @@
 {
- "updated": 1793850243,
+ "updated": 1793850664,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 746,
+   "key": "mercadolivre:MLB32419427",
+   "title": "Creme De Barbear Natura Essencial Masculino 75g",
+   "price": 33.76,
+   "original": 68.9,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_705845-MLA99361907550_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-de-barbear-natura-essencial-masculino-75g/p/MLB32419427?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793850644
+  },
   {
    "n": 745,
    "key": "mercadolivre:MLB43534649",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793724227
-  },
-  {
-   "n": 686,
-   "key": "mercadolivre:MLB65568637",
-   "title": "Geladeira Brastemp Inteligente 512L Bivolt - BRM62A",
-   "price": 3199.0,
-   "original": 3879.0,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_940707-MLA118254331193_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-brastemp-inteligente-512l-bivolt-brm62a/p/MLB65568637?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793722760
   }
  ]
 }
