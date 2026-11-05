@@ -1,7 +1,21 @@
 {
- "updated": 1793843506,
+ "updated": 1793843927,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 730,
+   "key": "mercadolivre:MLB66100700",
+   "title": "Depilador Elétrico Feminino 4 Em 1 Pelos Íntimos Axila Nariz Branco",
+   "price": 34.09,
+   "original": 59.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_824287-MLA107901081417_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-4-em-1-pelos-intimos-axila-nariz-branco/p/MLB66100700?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793843907
+  },
   {
    "n": 729,
    "key": "mercadolivre:MLB69649128",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793713348
-  },
-  {
-   "n": 670,
-   "key": "mercadolivre:MLB54102936",
-   "title": "Xiaomi Redmi 15 12gb Ram 128gb Dual Sim 50mp Fm Impressão digital Dimm cinza",
-   "price": 1212.0,
-   "original": 2101.29,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_652088-MLA99478650034_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/xiaomi-redmi-15-12gb-ram-128gb-dual-sim-50mp-fm-impressao-digital-dimm-cinza/p/MLB54102936?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793712927
   }
  ]
 }
