@@ -1,7 +1,21 @@
 {
- "updated": 1793905033,
+ "updated": 1793905454,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 798,
+   "key": "mercadolivre:MLB32101995",
+   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Branco MICGEEK",
+   "price": 23.95,
+   "original": 40.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_785462-MLA110586324994_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-branco-micgeek/p/MLB32101995?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793905434
+  },
   {
    "n": 797,
    "key": "mercadolivre:MLB19152893",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793847697
-  },
-  {
-   "n": 738,
-   "key": "mercadolivre:MLB53816191",
-   "title": "Webcam Intelbras WCI-720p HD com Microfone e Tampa de Lente USB",
-   "price": 105.29,
-   "original": 139.0,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_864804-MLA100169344723_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-intelbras-wci-720p-hd-com-microfone-e-tampa-de-lente-usb/p/MLB53816191?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793847276
   }
  ]
 }
