@@ -1,7 +1,21 @@
 {
- "updated": 1793895770,
+ "updated": 1793896191,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 776,
+   "key": "mercadolivre:MLB44932986",
+   "title": "Chinelo Kenner Kivah Line Sem Desenho",
+   "price": 95.95,
+   "original": 199.9,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_634703-MLA96103845603_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chinelo-kenner-kivah-line-sem-desenho/p/MLB44932986?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793896171
+  },
   {
    "n": 775,
    "key": "mercadolivre:MLB19506691",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793818012
-  },
-  {
-   "n": 716,
-   "key": "mercadolivre:MLB15345937",
-   "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
-   "price": 136.8,
-   "original": 169.9,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_759854-MLA99487952684_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-headset-gamer-havit-h2002d-p3-para-ps3-ps4-ps5-xbox-pc-cor-preto/p/MLB15345937?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793814494
   }
  ]
 }
