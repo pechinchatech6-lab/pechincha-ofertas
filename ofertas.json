@@ -1,7 +1,21 @@
 {
- "updated": 1793913033,
+ "updated": 1793913454,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 817,
+   "key": "mercadolivre:MLB53878745",
+   "title": "Caixa de som Boombox Philco Extreme Bluetooth V.5.4 300W PBX01",
+   "price": 911.0,
+   "original": 1600.0,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_628373-MLA99520261698_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-boombox-philco-extreme-bluetooth-v-5-4-300w-pbx01/p/MLB53878745?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793913434
+  },
   {
    "n": 816,
    "key": "mercadolivre:MLB29760022",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793888520
-  },
-  {
-   "n": 757,
-   "key": "mercadolivre:MLB69143469",
-   "title": "Boné Lula 2026 Presidente",
-   "price": 26.9,
-   "original": 39.9,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_835225-MLA119565381435_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-lula-2026-presidente/p/MLB69143469?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793888099
   }
  ]
 }
