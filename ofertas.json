@@ -1,7 +1,21 @@
 {
- "updated": 1793903349,
+ "updated": 1793903770,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 794,
+   "key": "mercadolivre:MLB60085379",
+   "title": "Caixa de som inteligente Amazon Echo Dot Max",
+   "price": 639.99,
+   "original": 759.0,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_954177-MLA112214181672_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-inteligente-amazon-echo-dot-max/p/MLB60085379?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793903750
+  },
   {
    "n": 793,
    "key": "mercadolivre:MLB65411803",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793846013
-  },
-  {
-   "n": 734,
-   "key": "mercadolivre:MLB79663696",
-   "title": "1 Par Meia Polaina Aeróbica Academia Esporte Fitness Premium Cor Roxo Desenho do tecido Lisa Tamanho Único",
-   "price": 20.29,
-   "original": 27.8,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_987354-MLA118009293495_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/1-par-meia-polaina-aerobica-academia-esporte-fitness-premium-cor-roxo-desenho-do-tecido-lisa-tamanho-unico/p/MLB79663696?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793845592
   }
  ]
 }
