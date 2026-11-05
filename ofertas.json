@@ -1,7 +1,21 @@
 {
- "updated": 1793890297,
+ "updated": 1793890718,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 763,
+   "key": "mercadolivre:MLB78762198",
+   "title": "Cinto Elástico Sem Fivela Velcro Gancho Ajustável Conforto 2 Un unissex",
+   "price": 34.38,
+   "original": 52.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_766325-MLA119060130353_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cinto-elastico-sem-fivela-velcro-gancho-ajustavel-conforto-2-un-unissex/p/MLB78762198?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793890698
+  },
   {
    "n": 762,
    "key": "mercadolivre:MLB49652036",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793763694
-  },
-  {
-   "n": 703,
-   "key": "mercadolivre:MLB49197371",
-   "title": "Smart Tv Tcl 32 Polegadas Qled Full Hd S5k Wifi Bluetooth Google Tv 2 Hdmi Hdr10 Dolby Audio 32s5k",
-   "price": 1029.0,
-   "original": 1372.81,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_895373-MLA115962251521_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-tcl-32-polegadas-qled-full-hd-s5k-wifi-bluetooth-google-tv-2-hdmi-hdr10-dolby-audio-32s5k/p/MLB49197371?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793752407
   }
  ]
 }
