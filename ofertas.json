@@ -1,7 +1,21 @@
 {
- "updated": 1793904612,
+ "updated": 1793905033,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 797,
+   "key": "mercadolivre:MLB19152893",
+   "title": "Hidratante Corporal Neutrogena Hidrata & Repara 400ml",
+   "price": 27.71,
+   "original": 47.99,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_611157-MLA117806828603_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hidratante-corporal-neutrogena-hidrata-repara-400ml/p/MLB19152893?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793905013
+  },
   {
    "n": 796,
    "key": "mercadolivre:MLB68347781",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793847276
-  },
-  {
-   "n": 737,
-   "key": "mercadolivre:MLB36823493",
-   "title": "Induzido Rotor Esmerilhadeira Makita M9510 515548-4",
-   "price": 89.0,
-   "original": 132.0,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_614259-MLA106975292850_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/induzido-rotor-esmerilhadeira-makita-m9510-515548-4/p/MLB36823493?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793846855
   }
  ]
 }
