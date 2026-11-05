@@ -1,7 +1,21 @@
 {
- "updated": 1793885171,
+ "updated": 1793885592,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 751,
+   "key": "mercadolivre:MLB60709649",
+   "title": "Mochila Masculina Faculdade Impermeável Resistente Grande Trabalho Escola Cor Preto Desenho Do Tecido Liso",
+   "price": 57.99,
+   "original": 78.99,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_666313-MLA99570168096_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-masculina-faculdade-impermeavel-resistente-grande-trabalho-escola-cor-preto-desenho-do-tecido-liso/p/MLB60709649?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793885572
+  },
   {
    "n": 750,
    "key": "mercadolivre:MLB63356070",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793732173
-  },
-  {
-   "n": 691,
-   "key": "mercadolivre:MLB63980306",
-   "title": "Pokémon Pokopia - Nintendo Switch 2",
-   "price": 439.89,
-   "original": 556.83,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_877218-MLA104113006671_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pokemon-pokopia-nintendo-switch-2/p/MLB63980306?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793731752
   }
  ]
 }
