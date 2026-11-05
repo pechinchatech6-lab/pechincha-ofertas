@@ -1,7 +1,21 @@
 {
- "updated": 1793921876,
+ "updated": 1793922297,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 838,
+   "key": "mercadolivre:MLB63980306",
+   "title": "Pokémon Pokopia - Nintendo Switch 2",
+   "price": 439.89,
+   "original": 556.83,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_877218-MLA104113006671_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pokemon-pokopia-nintendo-switch-2/p/MLB63980306?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793922277
+  },
   {
    "n": 837,
    "key": "mercadolivre:MLB66128181",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793897434
-  },
-  {
-   "n": 778,
-   "key": "mercadolivre:MLB78314045",
-   "title": "REBITADOR MANUAL REBITADEIRA DE ALICATE 4 BICOS REBITE ALICATE DE REPUXO ALUMÍNIO KIT 100 REBITES UNIVERSAL PROFISSIONAL STRONEX",
-   "price": 29.99,
-   "original": 59.0,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_777659-MLA115309884424_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/rebitador-manual-rebitadeira-de-alicate-4-bicos-rebite-alicate-de-repuxo-aluminio-kit-100-rebites-universal-profissional/p/MLB78314045?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793897013
   }
  ]
 }
