@@ -1,7 +1,21 @@
 {
- "updated": 1793897454,
+ "updated": 1793897875,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 780,
+   "key": "mercadolivre:MLB51528458",
+   "title": "Aparador De Pelos Saco Homem P D'agua Barberpro Ultra íntimos",
+   "price": 155.0,
+   "original": 450.0,
+   "pct": 66,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_608043-MLA99960994505_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-saco-homem-p-d-agua-barberpro-ultra-intimos/p/MLB51528458?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793897855
+  },
   {
    "n": 779,
    "key": "mercadolivre:MLB46051297",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793834956
-  },
-  {
-   "n": 720,
-   "key": "mercadolivre:MLB78889321",
-   "title": "Smartphone Motorola Moto G37 5G - 128GB 4GB RAM + 8GB RAM Boost, Camera 50MP com editor magico, Bateria de 5200 mAh e tela 6.7\" 120Hz, NFC - Azul Nautico",
-   "price": 1099.0,
-   "original": 2099.0,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_701453-MLA115696737028_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g37-5g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-com-editor-magico-bateria-de-5200-mah-e-tela-6-7/p/MLB78889321?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793831599
   }
  ]
 }
