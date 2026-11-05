@@ -1,7 +1,21 @@
 {
- "updated": 1793889382,
+ "updated": 1793889876,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 761,
+   "key": "mercadolivre:MLB21360271",
+   "title": "Club 6 Voyage Desodorante Colônia 95ml",
+   "price": 94.02,
+   "original": 299.0,
+   "pct": 69,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_888890-MLA109484188480_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/club-6-voyage-desodorante-colonia-95ml/p/MLB21360271?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793889856
+  },
   {
    "n": 760,
    "key": "mercadolivre:MLB23122766",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793746767
-  },
-  {
-   "n": 701,
-   "key": "mercadolivre:MLB80167828",
-   "title": "Bundle Nintendo Switch 2 + Mario Kart World + 3 Meses NSO",
-   "price": 4354.89,
-   "original": 7999.99,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_642168-MLA118780566083_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bundle-nintendo-switch-2-mario-kart-world-3-meses-nso/p/MLB80167828?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793744886
   }
  ]
 }
