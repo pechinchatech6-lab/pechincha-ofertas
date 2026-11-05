@@ -1,7 +1,21 @@
 {
- "updated": 1793843083,
+ "updated": 1793843506,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 729,
+   "key": "mercadolivre:MLB69649128",
+   "title": "Mini Ventilador Soprador Ar Potente Turbo 130000rpm Assoprador Elétrico Sem Fio Recarregável USB-C 3 Níveis Jato Forte Portátil Multiuso Limpeza Teclado Carro A",
+   "price": 46.9,
+   "original": 96.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_628256-MLA117944026004_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-ventilador-soprador-ar-potente-turbo-130000rpm-assoprador-eletrico-sem-fio-recarregavel-usb-c-3-niveis-jato-forte-p/p/MLB69649128?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793843486
+  },
   {
    "n": 728,
    "key": "mercadolivre:MLB24208936",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793712927
-  },
-  {
-   "n": 669,
-   "key": "mercadolivre:MLB53432844",
-   "title": "Tv Stick 4k Hdmi Wi-fi 16gb Android Tv Full Hd Smart Televisão Controle Filmes Pro Familar",
-   "price": 164.0,
-   "original": 319.25,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_657953-MLA111080648459_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/tv-stick-4k-hdmi-wi-fi-16gb-android-tv-full-hd-smart-televisao-controle-filmes-pro-familar/p/MLB53432844?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793709589
   }
  ]
 }
