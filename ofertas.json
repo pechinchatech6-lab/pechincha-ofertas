@@ -1,7 +1,21 @@
 {
- "updated": 1793915980,
+ "updated": 1793916401,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 824,
+   "key": "mercadolivre:MLB79898986",
+   "title": "Trena Profissional 10 Metros 25mm Reforçada Emborrachada Com Trava Manual Fita Métrica 10M Retrátil Medição Fita De Aço Laranja Vellon",
+   "price": 22.99,
+   "original": 49.9,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_662894-MLA118256784565_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/trena-profissional-10-metros-25mm-reforcada-emborrachada-com-trava-manual-fita-metrica-10m-retratil-medicao-fita-de-aco-/p/MLB79898986?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793916381
+  },
   {
    "n": 823,
    "key": "mercadolivre:MLB51233234",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793891540
-  },
-  {
-   "n": 764,
-   "key": "mercadolivre:MLB57714599",
-   "title": "Celular Samsung Galaxy S25 Fe 5g, 256gb, 8gb Ram, Câmera Tripla De 50+12+8, Tela Grande De 6.7 Azul Marinho",
-   "price": 3794.71,
-   "original": 5799.0,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_759416-MLA95390813276_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s25-fe-5g-256gb-8gb-ram-camera-tripla-de-50-12-8-tela-grande-de-6-7-azul-marinho/p/MLB57714599?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793891119
   }
  ]
 }
