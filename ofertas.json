@@ -1,7 +1,21 @@
 {
- "updated": 1793916822,
+ "updated": 1793917244,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 826,
+   "key": "mercadolivre:MLB29360695",
+   "title": "Kit Multímetro Digital Minipa ET-1002 10A CAT I 600V Com 2 Conectores De Emenda Wago 221-2411",
+   "price": 86.23,
+   "original": 178.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_930275-MLA120072660313_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-multimetro-digital-minipa-et-1002-10a-cat-i-600v-com-2-conectores-de-emenda-wago-221-2411/p/MLB29360695?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793917224
+  },
   {
    "n": 825,
    "key": "mercadolivre:MLB47100887",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793892382
-  },
-  {
-   "n": 766,
-   "key": "mercadolivre:MLB1040287790",
-   "title": "Apple iPhone 16 (256 GB) - Rosa - Distribuidor Autorizado",
-   "price": 5596.67,
-   "original": 8599.0,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_719634-MLA97473882481_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/apple-iphone-16-256-gb-rosa-distribuidor-autorizado/p/MLB1040287790?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793891961
   }
  ]
 }
