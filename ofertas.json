@@ -1,7 +1,21 @@
 {
- "updated": 1793840978,
+ "updated": 1793841399,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 724,
+   "key": "mercadolivre:MLB53218854",
+   "title": "Webcam Full HD 1080p com Microfone USB Plug & Play Foco Automático Para PC Notebook Zoom Teams Meet Skype YouTube Discord e Mais – Ideal para Home Office Reuniõ",
+   "price": 29.9,
+   "original": 69.9,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_783413-MLA99501263398_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-full-hd-1080p-com-microfone-usb-plug-play-foco-automatico-para-pc-notebook-zoom-teams-meet-skype-youtube-discord-/p/MLB53218854?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793841379
+  },
   {
    "n": 723,
    "key": "mercadolivre:MLB56094914",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793699758
-  },
-  {
-   "n": 664,
-   "key": "mercadolivre:MLB68104527",
-   "title": "Kit Body Splash Masculino Barbarius + Enigma + Midtown 200ml",
-   "price": 114.9,
-   "original": 140.0,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_918307-MLA118847501699_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-body-splash-masculino-barbarius-enigma-midtown-200ml/p/MLB68104527?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793697878
   }
  ]
 }
