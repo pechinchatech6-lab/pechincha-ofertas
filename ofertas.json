@@ -1,7 +1,21 @@
 {
- "updated": 1793892823,
+ "updated": 1793893244,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 769,
+   "key": "mercadolivre:MLB80322864",
+   "title": "Perfume Árabe Sabah Al ward Sugar Feminino 100ML",
+   "price": 130.85,
+   "original": 259.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_668593-MLA119018590799_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/perfume-arabe-sabah-al-ward-sugar-feminino-100ml/p/MLB80322864?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793893224
+  },
   {
    "n": 768,
    "key": "mercadolivre:MLB1055308835",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793807386
-  },
-  {
-   "n": 709,
-   "key": "mercadolivre:MLB75879865",
-   "title": "Micro-ondas Philco 20L 1100W Limpa Fácil Tira Odor PMO24E",
-   "price": 499.0,
-   "original": 649.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_930150-MLA113958624794_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-philco-20l-1100w-limpa-facil-tira-odor-pmo24e/p/MLB75879865?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793806965
   }
  ]
 }
