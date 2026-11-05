@@ -1,7 +1,21 @@
 {
- "updated": 1793907980,
+ "updated": 1793908401,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 805,
+   "key": "mercadolivre:MLB27911502",
+   "title": "Anasol Protetor Solar Facial Clareador Toque Seco - Fps 70",
+   "price": 39.9,
+   "original": 74.44,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_828936-MLA99851316099_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/anasol-protetor-solar-facial-clareador-toque-seco-fps-70/p/MLB27911502?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793908381
+  },
   {
    "n": 804,
    "key": "mercadolivre:MLB80240441",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793850644
-  },
-  {
-   "n": 745,
-   "key": "mercadolivre:MLB43534649",
-   "title": "Fone De Ouvido Bluetooth JBL Wave Buds 2 Fit Preto",
-   "price": 235.0,
-   "original": 369.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_705864-MLA99523953334_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-jbl-wave-buds-2-fit-preto/p/MLB43534649?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793850223
   }
  ]
 }
