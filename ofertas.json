@@ -1,7 +1,21 @@
 {
- "updated": 1793922297,
+ "updated": 1793922718,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 839,
+   "key": "mercadolivre:MLB57723515",
+   "title": "VENTILADOR COLUNA NVT-40C-BL 60Hz MONDIAL",
+   "price": 259.9,
+   "original": 362.4,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_665930-MLA93305577989_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-coluna-nvt-40c-bl-60hz-mondial/p/MLB57723515?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793922698
+  },
   {
    "n": 838,
    "key": "mercadolivre:MLB63980306",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793897855
-  },
-  {
-   "n": 779,
-   "key": "mercadolivre:MLB46051297",
-   "title": "Fone de ouvido Tws Philips Tat1109bk/00 preto Ipx4",
-   "price": 94.02,
-   "original": 199.0,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_638013-MLA99988533713_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-tws-philips-tat1109bk-00-preto-ipx4/p/MLB46051297?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793897434
   }
  ]
 }
