@@ -1,7 +1,21 @@
 {
- "updated": 1793842662,
+ "updated": 1793843083,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 728,
+   "key": "mercadolivre:MLB24208936",
+   "title": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+   "price": 32.97,
+   "original": 62.99,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-johnson-s-baby-glicerina-hipoalergenico-750ml/p/MLB24208936?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793843063
+  },
   {
    "n": 727,
    "key": "mercadolivre:MLB56064567",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793709589
-  },
-  {
-   "n": 668,
-   "key": "mercadolivre:MLB18610706",
-   "title": "Logitech Mk235 ABNT2 Português Teclado E Mouse Grafite Preto",
-   "price": 162.06,
-   "original": 219.0,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_735713-MLA99973706633_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/logitech-mk235-abnt2-portugues-teclado-e-mouse-grafite-preto/p/MLB18610706?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793709168
   }
  ]
 }
