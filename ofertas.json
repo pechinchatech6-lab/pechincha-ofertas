@@ -1,7 +1,21 @@
 {
- "updated": 1793888540,
+ "updated": 1793888961,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 759,
+   "key": "mercadolivre:MLB10481238",
+   "title": "Máscara de Cílios Maybelline Lash Sensational à Prova d'Água para Volume e Definição",
+   "price": 26.25,
+   "original": 59.17,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_645424-MLU72821012247_112023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mascara-de-cilios-maybelline-lash-sensational-a-prova-d-agua-para-volume-e-definicao/p/MLB10481238?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793888941
+  },
   {
    "n": 758,
    "key": "mercadolivre:MLB62549311",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793741161
-  },
-  {
-   "n": 699,
-   "key": "mercadolivre:MLB39962085",
-   "title": "Fone De Ouvido Sem Fio Xiaomi Redmi Buds 6 Play Preto",
-   "price": 62.94,
-   "original": 180.0,
-   "pct": 65,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_715678-MLU78765136521_082024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-xiaomi-redmi-buds-6-play-preto/p/MLB39962085?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793740122
   }
  ]
 }
