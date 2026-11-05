@@ -1,7 +1,21 @@
 {
- "updated": 1793904191,
+ "updated": 1793904612,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 796,
+   "key": "mercadolivre:MLB68347781",
+   "title": "Cinto Duplo Masculino Couro Dupla Face 2 Em 1 Preto Marrom Social 120CM",
+   "price": 26.09,
+   "original": 29.9,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_943212-MLA112119025356_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cinto-duplo-masculino-couro-dupla-face-2-em-1-preto-marrom-social-120cm/p/MLB68347781?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793904592
+  },
   {
    "n": 795,
    "key": "mercadolivre:MLB65526763",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793846855
-  },
-  {
-   "n": 736,
-   "key": "mercadolivre:MLB70308697",
-   "title": "Rádio Caixa De Som Bluetooth Recarregável Led Beexcellent Azul",
-   "price": 75.99,
-   "original": 99.9,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_840105-MLA111245741562_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/radio-caixa-de-som-bluetooth-recarregavel-led-beexcellent-azul/p/MLB70308697?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793846434
   }
  ]
 }
