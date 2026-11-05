@@ -1,7 +1,21 @@
 {
- "updated": 1793844769,
+ "updated": 1793845190,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 733,
+   "key": "mercadolivre:MLB42037727",
+   "title": "Webcam Emeet C60e 4k 30Fps Uhd 8mp Foco Automático 1080P 60fps Camera Para PC 2 microfon VideoConferencia Preto",
+   "price": 195.99,
+   "original": 259.0,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612329-MLA105513922053_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-emeet-c60e-4k-30fps-uhd-8mp-foco-automatico-1080p-60fps-camera-para-pc-2-microfon-videoconferencia-preto/p/MLB42037727?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793845170
+  },
   {
    "n": 732,
    "key": "mercadolivre:MLB68089060",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793715651
-  },
-  {
-   "n": 673,
-   "key": "mercadolivre:MLB21360271",
-   "title": "Club 6 Voyage Desodorante Colônia 95ml",
-   "price": 94.02,
-   "original": 299.0,
-   "pct": 69,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_888890-MLA109484188480_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/club-6-voyage-desodorante-colonia-95ml/p/MLB21360271?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793715230
   }
  ]
 }
