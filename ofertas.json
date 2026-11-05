@@ -1,7 +1,21 @@
 {
- "updated": 1793906717,
+ "updated": 1793907138,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 802,
+   "key": "mercadolivre:MLB19592776",
+   "title": "Proteína Adaptogen Science Tasty Whey Gourmet em pó sabor Doce de leite x 900g",
+   "price": 218.0,
+   "original": 399.99,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_738007-MLA97316893807_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/proteina-adaptogen-science-tasty-whey-gourmet-em-po-sabor-doce-de-leite-x-900g/p/MLB19592776?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793907118
+  },
   {
    "n": 801,
    "key": "mercadolivre:MLB67292186",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793849381
-  },
-  {
-   "n": 742,
-   "key": "mercadolivre:MLB44334357",
-   "title": "EMEET C960 4K Webcam 1080P 60Fps Camera Para PC Streaming Com Microfone Automático Kit Videoconferencia",
-   "price": 284.13,
-   "original": 369.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631614-MLA105564532053_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/emeet-c960-4k-webcam-1080p-60fps-camera-para-pc-streaming-com-microfone-automatico-kit-videoconferencia/p/MLB44334357?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793848960
   }
  ]
 }
