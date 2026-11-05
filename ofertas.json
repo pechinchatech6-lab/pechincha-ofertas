@@ -1,7 +1,21 @@
 {
- "updated": 1793844348,
+ "updated": 1793844769,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 732,
+   "key": "mercadolivre:MLB68089060",
+   "title": "Coqueteleira Academia Shaker Compartimentos Whey Suplementos Cor Branco",
+   "price": 34.47,
+   "original": 45.0,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_990003-MLA109631018622_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/coqueteleira-academia-shaker-compartimentos-whey-suplementos-cor-branco/p/MLB68089060?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793844749
+  },
   {
    "n": 731,
    "key": "mercadolivre:MLB23743709",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793715230
-  },
-  {
-   "n": 672,
-   "key": "mercadolivre:MLB1046215784",
-   "title": "iPhone 16e (128 GB) - Preto - Distribuidor Autorizado",
-   "price": 3499.0,
-   "original": 5799.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793714809
   }
  ]
 }
