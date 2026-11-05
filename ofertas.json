@@ -1,7 +1,21 @@
 {
- "updated": 1793909243,
+ "updated": 1793909664,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 808,
+   "key": "mercadolivre:MLB61642416",
+   "title": "Caixa De Som Portatil Inova Caixinha Com Rgb Tws Recarregável Subwoofer, Potente Caixas Bluetooth Ideal Festas Ao Ar Livre E Uso Diário, Preto",
+   "price": 74.0,
+   "original": 143.62,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_720363-MLA99931033474_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-inova-caixinha-com-rgb-tws-recarregavel-subwoofer-potente-caixas-bluetooth-ideal-festas-ao-ar-livr/p/MLB61642416?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793909644
+  },
   {
    "n": 807,
    "key": "mercadolivre:MLB20288453",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793884729
-  },
-  {
-   "n": 748,
-   "key": "mercadolivre:MLB79307969",
-   "title": "Webcam Câmera Full Hd 1080p Microfone Embutido Zoom 360° Usb 2.0 Videoconferência Reunião Streaming para PC Notebook",
-   "price": 32.95,
-   "original": 69.78,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_924901-MLA116572440300_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-1080p-microfone-embutido-zoom-360-usb-2-0-videoconferencia-reuniao-streaming-para-pc-notebook/p/MLB79307969?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793884308
   }
  ]
 }
