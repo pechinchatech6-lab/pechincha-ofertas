@@ -1,7 +1,21 @@
 {
- "updated": 1793842241,
+ "updated": 1793842662,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 727,
+   "key": "mercadolivre:MLB56064567",
+   "title": "Short Cinta Modeladora Cós Alto Compressão Redutora Selene Cor Pó De Arroz Tamanho G",
+   "price": 21.83,
+   "original": 73.98,
+   "pct": 70,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_965925-MLA92022613418_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/short-cinta-modeladora-cos-alto-compressao-redutora-selene-cor-po-de-arroz-tamanho-g/p/MLB56064567?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793842642
+  },
   {
    "n": 726,
    "key": "mercadolivre:MLB54482689",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793709168
-  },
-  {
-   "n": 667,
-   "key": "mercadolivre:MLB40340936",
-   "title": "Aspirador de Pó Turbo Cycle, Mondial, 1500W - AP-40-B",
-   "price": 168.63,
-   "original": 299.9,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_806239-MLA99489875584_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aspirador-de-po-turbo-cycle-mondial-1500w-ap-40-b/p/MLB40340936?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793705829
   }
  ]
 }
