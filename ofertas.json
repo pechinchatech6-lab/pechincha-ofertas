@@ -1,7 +1,21 @@
 {
- "updated": 1793886435,
+ "updated": 1793886856,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 754,
+   "key": "mercadolivre:MLB80136311",
+   "title": "Body Splash Arabe C/4un 200ml Perfume Feminino de Luxo Alta Concentração",
+   "price": 75.59,
+   "original": 125.99,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_800232-MLA118786204179_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/body-splash-arabe-c-4un-200ml-perfume-feminino-de-luxo-alta-concentracao/p/MLB80136311?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793886836
+  },
   {
    "n": 753,
    "key": "mercadolivre:MLB75465650",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793736355
-  },
-  {
-   "n": 694,
-   "key": "mercadolivre:MLB17822924",
-   "title": "Relógio de pulso Casio GA-2100 com corria de resina cor vermelho - fondo bordô",
-   "price": 419.99,
-   "original": 998.0,
-   "pct": 58,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_884312-MLA99489775726_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-ga-2100-com-corria-de-resina-cor-vermelho-fondo-bordo/p/MLB17822924?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793735934
   }
  ]
 }
