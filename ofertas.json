@@ -1,7 +1,21 @@
 {
- "updated": 1793889876,
+ "updated": 1793890297,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 762,
+   "key": "mercadolivre:MLB49652036",
+   "title": "Secador De Cabelos Philco psc3500 4 Em 1 dobrável motor bldc Prateado",
+   "price": 376.0,
+   "original": 829.99,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_875331-MLA117081876247_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-philco-psc3500-4-em-1-dobravel-motor-bldc-prateado/p/MLB49652036?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793890277
+  },
   {
    "n": 761,
    "key": "mercadolivre:MLB21360271",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793752407
-  },
-  {
-   "n": 702,
-   "key": "mercadolivre:MLB34016199",
-   "title": "Microfone de Lapela Sem Fio Hollyland Lark M2 Combo (USB-C, Lightning e Câmera)",
-   "price": 598.5,
-   "original": 999.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_644387-MLA119786973369_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-de-lapela-sem-fio-hollyland-lark-m2-combo-usb-c-lightning-e-camera/p/MLB34016199?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793746767
   }
  ]
 }
