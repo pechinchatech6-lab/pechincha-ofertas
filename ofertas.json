@@ -1,7 +1,21 @@
 {
- "updated": 1793896191,
+ "updated": 1793896612,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 777,
+   "key": "mercadolivre:MLB44555600",
+   "title": "Secador de Cabelos Britânia 3 Temperaturas 2100W BSC2250 Bivolt",
+   "price": 93.91,
+   "original": 194.9,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631035-MLA99508094414_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-britania-3-temperaturas-2100w-bsc2250-bivolt/p/MLB44555600?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793896592
+  },
   {
    "n": 776,
    "key": "mercadolivre:MLB44932986",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793819892
-  },
-  {
-   "n": 717,
-   "key": "mercadolivre:MLB62661747",
-   "title": "Ventilador De Parede Ventisol New Azul 3 Velocidades Estrutura Preto Diâmetro 50 Cm Material Das Pás Plástico",
-   "price": 198.99,
-   "original": 499.0,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_623474-MLA99869153411_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-parede-ventisol-new-azul-3-velocidades-estrutura-preto-diametro-50-cm-material-das-pas-plastico/p/MLB62661747?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793818012
   }
  ]
 }
