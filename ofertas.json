@@ -1,7 +1,21 @@
 {
- "updated": 1793850664,
+ "updated": 1793883907,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 747,
+   "key": "mercadolivre:MLB70449712",
+   "title": "Body Splash Masculino Vibration 200ml - Primacial Perfume Bergamota Fresco",
+   "price": 41.61,
+   "original": 69.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_617155-MLA118231595864_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/body-splash-masculino-vibration-200ml-primacial-perfume-bergamota-fresco/p/MLB70449712?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793883887
+  },
   {
    "n": 746,
    "key": "mercadolivre:MLB32419427",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793724648
-  },
-  {
-   "n": 687,
-   "key": "mercadolivre:MLB58382190",
-   "title": "Mochila Notebook 17 Impermeável Reforçada Grande Masculina USB Escolar Trabalho Rincostar Preta Preto Liso",
-   "price": 39.74,
-   "original": 52.99,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_937893-MLA114680295948_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-notebook-17-impermeavel-reforcada-grande-masculina-usb-escolar-trabalho-rincostar-preta-preto-liso/p/MLB58382190?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793724227
   }
  ]
 }
