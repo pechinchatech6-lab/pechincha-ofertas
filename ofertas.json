@@ -1,7 +1,21 @@
 {
- "updated": 1793848559,
+ "updated": 1793848980,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 742,
+   "key": "mercadolivre:MLB44334357",
+   "title": "EMEET C960 4K Webcam 1080P 60Fps Camera Para PC Streaming Com Microfone Automático Kit Videoconferencia",
+   "price": 284.13,
+   "original": 369.0,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631614-MLA105564532053_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/emeet-c960-4k-webcam-1080p-60fps-camera-para-pc-streaming-com-microfone-automatico-kit-videoconferencia/p/MLB44334357?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793848960
+  },
   {
    "n": 741,
    "key": "mercadolivre:MLB45474714",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793720878
-  },
-  {
-   "n": 682,
-   "key": "mercadolivre:MLB29525405",
-   "title": "Amazon Fire Tv Stick 4k Max 16gb Wi-fi 6 e Alexa Controle Por Voz Preto",
-   "price": 311.93,
-   "original": 479.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_625659-MLA113111634652_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/amazon-fire-tv-stick-4k-max-16gb-wi-fi-6-e-alexa-controle-por-voz-preto/p/MLB29525405?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793720457
   }
  ]
 }
