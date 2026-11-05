@@ -1,7 +1,21 @@
 {
- "updated": 1793901243,
+ "updated": 1793901664,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 789,
+   "key": "mercadolivre:MLB18630341",
+   "title": "Creatina Monohidratada Max Titanium Sem Sabor 100g",
+   "price": 21.69,
+   "original": 30.13,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_697835-MLA117269994412_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-monohidratada-max-titanium-sem-sabor-100g/p/MLB18630341?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793901644
+  },
   {
    "n": 788,
    "key": "mercadolivre:MLB25685239",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793843907
-  },
-  {
-   "n": 729,
-   "key": "mercadolivre:MLB69649128",
-   "title": "Mini Ventilador Soprador Ar Potente Turbo 130000rpm Assoprador Elétrico Sem Fio Recarregável USB-C 3 Níveis Jato Forte Portátil Multiuso Limpeza Teclado Carro A",
-   "price": 46.9,
-   "original": 96.0,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628256-MLA117944026004_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-ventilador-soprador-ar-potente-turbo-130000rpm-assoprador-eletrico-sem-fio-recarregavel-usb-c-3-niveis-jato-forte-p/p/MLB69649128?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793843486
   }
  ]
 }
