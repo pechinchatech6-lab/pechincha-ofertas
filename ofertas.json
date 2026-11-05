@@ -1,7 +1,21 @@
 {
- "updated": 1793897033,
+ "updated": 1793897454,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 779,
+   "key": "mercadolivre:MLB46051297",
+   "title": "Fone de ouvido Tws Philips Tat1109bk/00 preto Ipx4",
+   "price": 94.02,
+   "original": 199.0,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_638013-MLA99988533713_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-tws-philips-tat1109bk-00-preto-ipx4/p/MLB46051297?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793897434
+  },
   {
    "n": 778,
    "key": "mercadolivre:MLB78314045",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793831599
-  },
-  {
-   "n": 719,
-   "key": "mercadolivre:MLB63467528",
-   "title": "Samsung Smart Tv 43 Qled Full Hd Q5f 2025, Xbox Cloud Gaming, Canais Gratuitos, Hdr, Som Em Movimento Virtual",
-   "price": 1665.0,
-   "original": 2299.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_612999-MLA102412809695_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/samsung-smart-tv-43-qled-full-hd-q5f-2025-xbox-cloud-gaming-canais-gratuitos-hdr-som-em-movimento-virtual/p/MLB63467528?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793831178
   }
  ]
 }
