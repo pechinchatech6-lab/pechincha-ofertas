@@ -1,7 +1,21 @@
 {
- "updated": 1793891139,
+ "updated": 1793891560,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 765,
+   "key": "mercadolivre:MLB78894494",
+   "title": "Relógio Smartwatch Xiaomi Redmi Watch 6 Lite Amoled 1,96” Gps 5atm Preto",
+   "price": 404.0,
+   "original": 808.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_875045-MLA117800788327_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-smartwatch-xiaomi-redmi-watch-6-lite-amoled-1-96-gps-5atm-preto/p/MLB78894494?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793891540
+  },
   {
    "n": 764,
    "key": "mercadolivre:MLB57714599",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793786264
-  },
-  {
-   "n": 705,
-   "key": "mercadolivre:MLB56511596",
-   "title": "Kit 2 Controles Para Ps2 e PS1 Com Fio Analógico Joystick Manete - Crowley",
-   "price": 48.0,
-   "original": 84.9,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_920574-MLA110375106425_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-2-controles-para-ps2-e-ps1-com-fio-analogico-joystick-manete-crowley/p/MLB56511596?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793764115
   }
  ]
 }
