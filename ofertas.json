@@ -1,7 +1,21 @@
 {
- "updated": 1793903770,
+ "updated": 1793904191,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 795,
+   "key": "mercadolivre:MLB65526763",
+   "title": "Relógio de Parede Digital Armstrong Quadrado, com Data, Temperatura e Alarme",
+   "price": 109.0,
+   "original": 216.5,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_712820-MLA114927673134_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-digital-armstrong-quadrado-com-data-temperatura-e-alarme/p/MLB65526763?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793904171
+  },
   {
    "n": 794,
    "key": "mercadolivre:MLB60085379",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793846434
-  },
-  {
-   "n": 735,
-   "key": "mercadolivre:MLB22357681",
-   "title": "Aparador de Pelos Kemei KM-6511 Nariz Orelhas Sem Fio Preto",
-   "price": 30.99,
-   "original": 78.9,
-   "pct": 61,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_819029-MLA115520151303_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-kemei-km-6511-nariz-orelhas-sem-fio-preto/p/MLB22357681?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793846013
   }
  ]
 }
