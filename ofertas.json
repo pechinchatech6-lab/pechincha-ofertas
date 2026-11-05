@@ -1,7 +1,21 @@
 {
- "updated": 1793899980,
+ "updated": 1793900401,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 786,
+   "key": "mercadolivre:MLB58382190",
+   "title": "Mochila Notebook 17 Impermeável Reforçada Grande Masculina USB Escolar Trabalho Rincostar Preta Preto Liso",
+   "price": 39.74,
+   "original": 52.99,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_937893-MLA114680295948_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-notebook-17-impermeavel-reforcada-grande-masculina-usb-escolar-trabalho-rincostar-preta-preto-liso/p/MLB58382190?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793900381
+  },
   {
    "n": 785,
    "key": "mercadolivre:MLB49840881",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793842642
-  },
-  {
-   "n": 726,
-   "key": "mercadolivre:MLB54482689",
-   "title": "Webcam Hd Full 1080p Com Microfone Usb Plug Play Para Pc Notebook",
-   "price": 36.9,
-   "original": 80.0,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_678031-MLA118747452756_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-hd-full-1080p-com-microfone-usb-plug-play-para-pc-notebook/p/MLB54482689?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793842221
   }
  ]
 }
