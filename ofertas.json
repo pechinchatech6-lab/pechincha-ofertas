@@ -1,7 +1,21 @@
 {
- "updated": 1793888961,
+ "updated": 1793889382,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 760,
+   "key": "mercadolivre:MLB23122766",
+   "title": "EMEET S600 4K Webcam 1080P 60Fps Camera Para Pc Streaming Con Microfone Automático Full HD Videoconferencia",
+   "price": 355.11,
+   "original": 399.0,
+   "pct": 11,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_639218-MLA112743784625_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/emeet-s600-4k-webcam-1080p-60fps-camera-para-pc-streaming-con-microfone-automatico-full-hd-videoconferencia/p/MLB23122766?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793889362
+  },
   {
    "n": 759,
    "key": "mercadolivre:MLB10481238",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793744886
-  },
-  {
-   "n": 700,
-   "key": "mercadolivre:MLB22778772",
-   "title": "Controle Para Xbox 360 Com Fio USB Joystick Manete Gamepad Controle PC Gamer Para Computador Windows Steam Game Pass Android Gamepass TV Vibração Analógico Ergo",
-   "price": 38.08,
-   "original": 89.9,
-   "pct": 58,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_905623-MLA118558569418_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-para-xbox-360-com-fio-usb-joystick-manete-gamepad-controle-pc-gamer-para-computador-windows-steam-game-pass-and/p/MLB22778772?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793741161
   }
  ]
 }
