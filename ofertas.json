@@ -1,7 +1,35 @@
 {
- "updated": 1793920613,
+ "updated": 1793921455,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 836,
+   "key": "mercadolivre:MLB57082682",
+   "title": "Caixa de Som JBL Boombox 4 Bluetooth Portátil 210W Bivolt Azul",
+   "price": 2399.0,
+   "original": 3412.78,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_674627-MLA100016786223_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-jbl-boombox-4-bluetooth-portatil-210w-bivolt-azul/p/MLB57082682?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793921435
+  },
+  {
+   "n": 835,
+   "key": "mercadolivre:MLB76002662",
+   "title": "Samsung Smart TV 55\" Mini LED 4K M75H 26/2027",
+   "price": 2720.43,
+   "original": 4299.0,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_615876-MLA116061870194_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/samsung-smart-tv-55-mini-led-4k-m75h-26-2027/p/MLB76002662?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793921014
+  },
   {
    "n": 834,
    "key": "mercadolivre:MLB54160969",
@@ -813,34 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793896592
-  },
-  {
-   "n": 776,
-   "key": "mercadolivre:MLB44932986",
-   "title": "Chinelo Kenner Kivah Line Sem Desenho",
-   "price": 95.95,
-   "original": 199.9,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_634703-MLA96103845603_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chinelo-kenner-kivah-line-sem-desenho/p/MLB44932986?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793896171
-  },
-  {
-   "n": 775,
-   "key": "mercadolivre:MLB19506691",
-   "title": "Creatina Dark Lab Premium Pure em pó Sem sabor x 300g",
-   "price": 39.92,
-   "original": 78.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_830138-MLA116668021755_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-dark-lab-premium-pure-em-po-sem-sabor-x-300g/p/MLB19506691?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793895750
   }
  ]
 }
