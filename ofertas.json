@@ -1,7 +1,21 @@
 {
- "updated": 1793843927,
+ "updated": 1793844348,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 731,
+   "key": "mercadolivre:MLB23743709",
+   "title": "Mouse sem fio Logitech Pebble 2 M350s - Branco",
+   "price": 79.9,
+   "original": 119.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_965045-MLA99481399148_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mouse-sem-fio-logitech-pebble-2-m350s-branco/p/MLB23743709?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793844328
+  },
   {
    "n": 730,
    "key": "mercadolivre:MLB66100700",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793714809
-  },
-  {
-   "n": 671,
-   "key": "mercadolivre:MLB14896780",
-   "title": "Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto",
-   "price": 211.25,
-   "original": 307.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_740337-MLA80358584554_112024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-oscilante-de-parede-ventisol-steel-6-pas-50cm-preto/p/MLB14896780?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793713348
   }
  ]
 }
