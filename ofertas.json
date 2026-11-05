@@ -1,7 +1,21 @@
 {
- "updated": 1793908822,
+ "updated": 1793909243,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 807,
+   "key": "mercadolivre:MLB20288453",
+   "title": "Shampoo Tonalizante Color Change Castanho Escuro Kissnewyork",
+   "price": 26.94,
+   "original": 43.23,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_909365-MLA112260486831_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-color-change-castanho-escuro-kissnewyork/p/MLB20288453?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793909223
+  },
   {
    "n": 806,
    "key": "mercadolivre:MLB40923284",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793884308
-  },
-  {
-   "n": 747,
-   "key": "mercadolivre:MLB70449712",
-   "title": "Body Splash Masculino Vibration 200ml - Primacial Perfume Bergamota Fresco",
-   "price": 41.61,
-   "original": 69.9,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_617155-MLA118231595864_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/body-splash-masculino-vibration-200ml-primacial-perfume-bergamota-fresco/p/MLB70449712?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793883887
   }
  ]
 }
