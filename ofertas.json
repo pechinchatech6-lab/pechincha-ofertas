@@ -1,7 +1,21 @@
 {
- "updated": 1793846875,
+ "updated": 1793847296,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 738,
+   "key": "mercadolivre:MLB53816191",
+   "title": "Webcam Intelbras WCI-720p HD com Microfone e Tampa de Lente USB",
+   "price": 105.29,
+   "original": 139.0,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_864804-MLA100169344723_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-intelbras-wci-720p-hd-com-microfone-e-tampa-de-lente-usb/p/MLB53816191?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793847276
+  },
   {
    "n": 737,
    "key": "mercadolivre:MLB36823493",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793718573
-  },
-  {
-   "n": 678,
-   "key": "mercadolivre:MLB65319818",
-   "title": "Smartphone Motorola Moto G67 5g - 128gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia 600, Tela 1.5k Extreme Amoled 120hz, Ultrarresistente - Chumbo",
-   "price": 1499.0,
-   "original": 1899.0,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_635893-MLA106048486992_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g67-5g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-1-5k-extreme-amoled-120hz-ul/p/MLB65319818?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793717534
   }
  ]
 }
