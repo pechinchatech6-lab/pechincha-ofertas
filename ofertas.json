@@ -1,7 +1,21 @@
 {
- "updated": 1793847717,
+ "updated": 1793848138,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 740,
+   "key": "mercadolivre:MLB65731930",
+   "title": "Kit Barlink de Serra Circular para Micro Retífica e Furadeira, 9 Peças",
+   "price": 23.27,
+   "original": 39.99,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_609138-MLA106712304122_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-barlink-de-serra-circular-para-micro-retifica-e-furadeira-9-pecas/p/MLB65731930?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793848118
+  },
   {
    "n": 739,
    "key": "mercadolivre:MLB40182325",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793719415
-  },
-  {
-   "n": 680,
-   "key": "mercadolivre:MLB61522379",
-   "title": "Máquina De Lavar Bwf14ab 14kg Smart Sensor Ciclo Brastemp - Branco",
-   "price": 1686.0,
-   "original": 2618.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_689270-MLA99993124957_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-bwf14ab-14kg-smart-sensor-ciclo-brastemp-branco/p/MLB61522379?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793718994
   }
  ]
 }
