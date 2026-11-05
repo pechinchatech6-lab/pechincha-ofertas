@@ -1,7 +1,21 @@
 {
- "updated": 1793900822,
+ "updated": 1793901243,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 788,
+   "key": "mercadolivre:MLB25685239",
+   "title": "Kit Completo Aerografia Mini Compressor Ar + Aerógrafo 0,3mm",
+   "price": 289.99,
+   "original": 397.48,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_670452-MLA99483709052_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-completo-aerografia-mini-compressor-ar-aerografo-0-3mm/p/MLB25685239?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793901223
+  },
   {
    "n": 787,
    "key": "mercadolivre:MLB66055148",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793843486
-  },
-  {
-   "n": 728,
-   "key": "mercadolivre:MLB24208936",
-   "title": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
-   "price": 32.97,
-   "original": 62.99,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-johnson-s-baby-glicerina-hipoalergenico-750ml/p/MLB24208936?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793843063
   }
  ]
 }
