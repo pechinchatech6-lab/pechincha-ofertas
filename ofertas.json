@@ -1,7 +1,21 @@
 {
- "updated": 1793910927,
+ "updated": 1793911348,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 812,
+   "key": "mercadolivre:MLB19160770",
+   "title": "Shampoo Para Bebê Johnson's Baby De Glicerina, 400ml",
+   "price": 19.99,
+   "original": 34.99,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631466-MLA109737821200_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-para-bebe-johnson-s-baby-de-glicerina-400ml/p/MLB19160770?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793911328
+  },
   {
    "n": 811,
    "key": "mercadolivre:MLB65184709",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793886415
-  },
-  {
-   "n": 752,
-   "key": "mercadolivre:MLB29149224",
-   "title": "Pré-treino Evolution 300G Termogênico Melancia - Soldiers Nutrition",
-   "price": 47.13,
-   "original": 99.9,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_874204-MLA99607101834_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pre-treino-evolution-300g-termogenico-melancia-soldiers-nutrition/p/MLB29149224?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793885993
   }
  ]
 }
