@@ -1,7 +1,21 @@
 {
- "updated": 1793917244,
+ "updated": 1793917666,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 827,
+   "key": "mercadolivre:MLB58338157",
+   "title": "Cinta Modelador Short Cirurgia Plástica Biobela Cor Marrom Tamanho Egg-50",
+   "price": 159.0,
+   "original": 230.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_926715-MLA93303764654_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cinta-modelador-short-cirurgia-plastica-biobela-cor-marrom-tamanho-egg-50/p/MLB58338157?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793917646
+  },
   {
    "n": 826,
    "key": "mercadolivre:MLB29360695",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793892803
-  },
-  {
-   "n": 767,
-   "key": "mercadolivre:MLB26080271",
-   "title": "L'Oréal Paris Elseve Óleo Extraordinário 100ml - Leave In Anti Frizz Protetor Térmico Tratamento Reconstrutor Para Todos Os Tipos De Cabelo",
-   "price": 36.14,
-   "original": 64.19,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_605503-MLA114497234356_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/l-oreal-paris-elseve-oleo-extraordinario-100ml-leave-in-anti-frizz-protetor-termico-tratamento-reconstrutor-para-todos-o/p/MLB26080271?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793892382
   }
  ]
 }
