@@ -1,7 +1,21 @@
 {
- "updated": 1793900401,
+ "updated": 1793900822,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 787,
+   "key": "mercadolivre:MLB66055148",
+   "title": "Smart Tv 32 Philco Roku Tv Dolby Áudio Hdr10 P32crb",
+   "price": 929.8,
+   "original": 1199.0,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_875689-MLA107805437119_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-32-philco-roku-tv-dolby-audio-hdr10-p32crb/p/MLB66055148?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793900802
+  },
   {
    "n": 786,
    "key": "mercadolivre:MLB58382190",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793843063
-  },
-  {
-   "n": 727,
-   "key": "mercadolivre:MLB56064567",
-   "title": "Short Cinta Modeladora Cós Alto Compressão Redutora Selene Cor Pó De Arroz Tamanho G",
-   "price": 21.83,
-   "original": 73.98,
-   "pct": 70,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_965925-MLA92022613418_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/short-cinta-modeladora-cos-alto-compressao-redutora-selene-cor-po-de-arroz-tamanho-g/p/MLB56064567?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793842642
   }
  ]
 }
