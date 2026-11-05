@@ -1,7 +1,21 @@
 {
- "updated": 1793907559,
+ "updated": 1793907980,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 804,
+   "key": "mercadolivre:MLB80240441",
+   "title": "Novo Smartwatch Microwear W12 Pro Prateado Séries 12 Amoled 47mm 2027 SMARTWATCH ADVANCED PRO",
+   "price": 208.0,
+   "original": 349.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_642329-MLA118773721445_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/novo-smartwatch-microwear-w12-pro-prateado-series-12-amoled-47mm-2027-smartwatch-advanced-pro/p/MLB80240441?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793907960
+  },
   {
    "n": 803,
    "key": "mercadolivre:MLB80089317",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793850223
-  },
-  {
-   "n": 744,
-   "key": "mercadolivre:MLB56129679",
-   "title": "Boné Ny New York Masculino Feminino Unissex Fitão Blogueira Cor Branco E Preto Tamanho Un",
-   "price": 31.91,
-   "original": 44.99,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_918468-MLA92439464901_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-ny-new-york-masculino-feminino-unissex-fitao-blogueira-cor-branco-e-preto-tamanho-un/p/MLB56129679?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793849802
   }
  ]
 }
