@@ -1,7 +1,21 @@
 {
- "updated": 1793907138,
+ "updated": 1793907559,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 803,
+   "key": "mercadolivre:MLB80089317",
+   "title": "Moto Serra Bateria 16 Polegada Profissional Brushless 2 Bateria 4000mAh",
+   "price": 328.53,
+   "original": 699.0,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_821023-MLA116926341532_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/moto-serra-bateria-16-polegada-profissional-brushless-2-bateria-4000mah/p/MLB80089317?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793907539
+  },
   {
    "n": 802,
    "key": "mercadolivre:MLB19592776",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793849802
-  },
-  {
-   "n": 743,
-   "key": "mercadolivre:MLB6087971",
-   "title": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg",
-   "price": 78.9,
-   "original": 179.84,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_608162-MLA112813208483_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/proteina-max-titanium-whey-pro-concetrado-em-po-sabor-morango-x-1kg/p/MLB6087971?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793849381
   }
  ]
 }
