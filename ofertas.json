@@ -1,7 +1,21 @@
 {
- "updated": 1793893665,
+ "updated": 1793894086,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 771,
+   "key": "mercadolivre:MLB77754884",
+   "title": "Mouse Gamer RGB USB Com Fio 3200 DPI Ajustável 7 Botões Fire Button LED 7 Cores Para PC Ergonômico",
+   "price": 30.99,
+   "original": 79.0,
+   "pct": 61,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_977554-MLA118323419098_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mouse-gamer-rgb-usb-com-fio-3200-dpi-ajustavel-7-botoes-fire-button-led-7-cores-para-pc-ergonomico/p/MLB77754884?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793894066
+  },
   {
    "n": 770,
    "key": "mercadolivre:MLB65764004",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793808849
-  },
-  {
-   "n": 711,
-   "key": "mercadolivre:MLB28529446",
-   "title": "Forno Elétrico Philco 50L Dupla Resistência PFE52P",
-   "price": 429.0,
-   "original": 529.0,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_992228-MLA99495565436_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/forno-eletrico-philco-50l-dupla-resistencia-pfe52p/p/MLB28529446?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793807807
   }
  ]
 }
