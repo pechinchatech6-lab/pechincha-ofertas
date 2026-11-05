@@ -1,7 +1,21 @@
 {
- "updated": 1793920192,
+ "updated": 1793920613,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 834,
+   "key": "mercadolivre:MLB54160969",
+   "title": "Relógio De Parede Silencioso Sala De Estar Moderno E Simples Estrutura Dourado-escuro Fundo Branco",
+   "price": 29.99,
+   "original": 46.8,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_864557-MLA91287927765_082025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-silencioso-sala-de-estar-moderno-e-simples-estrutura-dourado-escuro-fundo-branco/p/MLB54160969?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793920593
+  },
   {
    "n": 833,
    "key": "mercadolivre:MLB50567982",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793895750
-  },
-  {
-   "n": 774,
-   "key": "mercadolivre:MLB80498644",
-   "title": "Alaxe Caixa De Som Inteligente Comando Voz Portátil Bluetooth LED RGB Compatível Com Aplicativo Alexa No Celular Som Sem Fio Compacta Para Casa Quarto Escritóri",
-   "price": 58.1,
-   "original": 175.0,
-   "pct": 67,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_822646-MLA119209021623_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alaxe-caixa-de-som-inteligente-comando-voz-portatil-bluetooth-led-rgb-compativel-com-aplicativo-alexa-no-celular-som-sem/p/MLB80498644?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793895329
   }
  ]
 }
