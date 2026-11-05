@@ -1,7 +1,21 @@
 {
- "updated": 1793901664,
+ "updated": 1793902086,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 790,
+   "key": "mercadolivre:MLB25640671",
+   "title": "Relógio De Bolso Steampunk Corrente Antigo Relíquia Preto",
+   "price": 37.0,
+   "original": 41.5,
+   "pct": 11,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_698007-MLA99603224136_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-bolso-steampunk-corrente-antigo-reliquia-preto/p/MLB25640671?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793902066
+  },
   {
    "n": 789,
    "key": "mercadolivre:MLB18630341",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793844328
-  },
-  {
-   "n": 730,
-   "key": "mercadolivre:MLB66100700",
-   "title": "Depilador Elétrico Feminino 4 Em 1 Pelos Íntimos Axila Nariz Branco",
-   "price": 34.09,
-   "original": 59.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_824287-MLA107901081417_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-4-em-1-pelos-intimos-axila-nariz-branco/p/MLB66100700?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793843907
   }
  ]
 }
