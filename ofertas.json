@@ -1,7 +1,21 @@
 {
- "updated": 1793895349,
+ "updated": 1793895770,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 775,
+   "key": "mercadolivre:MLB19506691",
+   "title": "Creatina Dark Lab Premium Pure em pó Sem sabor x 300g",
+   "price": 39.92,
+   "original": 78.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_830138-MLA116668021755_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-dark-lab-premium-pure-em-po-sem-sabor-x-300g/p/MLB19506691?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793895750
+  },
   {
    "n": 774,
    "key": "mercadolivre:MLB80498644",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793814494
-  },
-  {
-   "n": 715,
-   "key": "mercadolivre:MLB75536994",
-   "title": "Controle GameSir G7 Pro Sem Fio para Xbox Series X|S, PC e Android com Gatilhos Hall Effect",
-   "price": 476.01,
-   "original": 661.2,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_797885-MLA113442770934_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-pro-sem-fio-para-xbox-series-x-s-pc-e-android-com-gatilhos-hall-effect/p/MLB75536994?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793811149
   }
  ]
 }
