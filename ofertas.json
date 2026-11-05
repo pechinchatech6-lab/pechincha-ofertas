@@ -1,7 +1,21 @@
 {
- "updated": 1793914717,
+ "updated": 1793915138,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 821,
+   "key": "mercadolivre:MLB25263382",
+   "title": "Fone De Ouvido Bluetooth Bateria de Longa Duração Pro 4 Branco Conecta Rápido Com Case Carregador E Microfone Fast Plug",
+   "price": 24.99,
+   "original": 78.99,
+   "pct": 68,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_791435-MLA118754152028_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-bateria-de-longa-duracao-pro-4-branco-conecta-rapido-com-case-carregador-e-microfone-fast-plug/p/MLB25263382?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793915118
+  },
   {
    "n": 820,
    "key": "mercadolivre:MLB80245753",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793890277
-  },
-  {
-   "n": 761,
-   "key": "mercadolivre:MLB21360271",
-   "title": "Club 6 Voyage Desodorante Colônia 95ml",
-   "price": 94.02,
-   "original": 299.0,
-   "pct": 69,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_888890-MLA109484188480_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/club-6-voyage-desodorante-colonia-95ml/p/MLB21360271?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793889856
   }
  ]
 }
