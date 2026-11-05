@@ -1,7 +1,21 @@
 {
- "updated": 1793913875,
+ "updated": 1793914296,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 819,
+   "key": "mercadolivre:MLB79059013",
+   "title": "Projetor Basike Inteligente Telescópico com Wi-Fi e Bluetooth, Full HD 4K para Cinema e Jogos",
+   "price": 345.74,
+   "original": 600.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_744903-MLA117388510265_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-basike-inteligente-telescopico-com-wi-fi-e-bluetooth-full-hd-4k-para-cinema-e-jogos/p/MLB79059013?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793914276
+  },
   {
    "n": 818,
    "key": "mercadolivre:MLB72367910",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793889362
-  },
-  {
-   "n": 759,
-   "key": "mercadolivre:MLB10481238",
-   "title": "Máscara de Cílios Maybelline Lash Sensational à Prova d'Água para Volume e Definição",
-   "price": 26.25,
-   "original": 59.17,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_645424-MLU72821012247_112023-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mascara-de-cilios-maybelline-lash-sensational-a-prova-d-agua-para-volume-e-definicao/p/MLB10481238?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793888941
   }
  ]
 }
