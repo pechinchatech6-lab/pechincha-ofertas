@@ -1,7 +1,21 @@
 {
- "updated": 1793884328,
+ "updated": 1793884749,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 749,
+   "key": "mercadolivre:MLB25929487",
+   "title": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
+   "price": 69.99,
+   "original": 159.9,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-monohidratada-1kg-100-pura-dark-lab/p/MLB25929487?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793884729
+  },
   {
    "n": 748,
    "key": "mercadolivre:MLB79307969",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793729869
-  },
-  {
-   "n": 689,
-   "key": "mercadolivre:MLB27413688",
-   "title": "Ventilador BVT301 Tecnologia Maxx Force 60W Cor da Estrutura Preto Britânia",
-   "price": 133.1,
-   "original": 164.34,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646973-MLA99492872166_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-bvt301-tecnologia-maxx-force-60w-cor-da-estrutura-preto-britania/p/MLB27413688?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793727985
   }
  ]
 }
