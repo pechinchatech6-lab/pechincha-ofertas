@@ -1,7 +1,21 @@
 {
- "updated": 1793914296,
+ "updated": 1793914717,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 820,
+   "key": "mercadolivre:MLB80245753",
+   "title": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6\" E À Prova D'Água",
+   "price": 69.59,
+   "original": 79.99,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680341-MLA118784298481_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-reforcada-jiesipote-para-viagem-com-compartimento-para-notebook-15-6-e-a-prova-d-agua/p/MLB80245753?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793914697
+  },
   {
    "n": 819,
    "key": "mercadolivre:MLB79059013",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793889856
-  },
-  {
-   "n": 760,
-   "key": "mercadolivre:MLB23122766",
-   "title": "EMEET S600 4K Webcam 1080P 60Fps Camera Para Pc Streaming Con Microfone Automático Full HD Videoconferencia",
-   "price": 355.11,
-   "original": 399.0,
-   "pct": 11,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_639218-MLA112743784625_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/emeet-s600-4k-webcam-1080p-60fps-camera-para-pc-streaming-con-microfone-automatico-full-hd-videoconferencia/p/MLB23122766?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793889362
   }
  ]
 }
