@@ -1,7 +1,21 @@
 {
- "updated": 1794004565,
+ "updated": 1794004986,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 944,
+   "key": "mercadolivre:MLB66469973",
+   "title": "Tesoura Poda Galhos Jardinagem Alicate Profissional Aço Inox - Bondu",
+   "price": 20.12,
+   "original": 39.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_931262-MLA114541575774_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/tesoura-poda-galhos-jardinagem-alicate-profissional-aco-inox-bondu/p/MLB66469973?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794004966
+  },
   {
    "n": 943,
    "key": "mercadolivre:MLB75536994",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793978877
-  },
-  {
-   "n": 884,
-   "key": "mercadolivre:MLB45160657",
-   "title": "Mouse Gamer M711 Cobra Chroma Redragon Com fio Para Jogos 12.400 DPI Com Led RGB Preto",
-   "price": 79.9,
-   "original": 143.43,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_898286-MLA95664298408_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-gamer-m711-cobra-chroma-redragon-com-fio-para-jogos-12-400-dpi-com-led-rgb-preto/p/MLB45160657?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793978456
   }
  ]
 }
