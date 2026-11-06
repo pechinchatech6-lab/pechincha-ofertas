@@ -1,7 +1,21 @@
 {
- "updated": 1793974951,
+ "updated": 1793975372,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 877,
+   "key": "mercadolivre:MLB26607995",
+   "title": "Saia Pareô Canga Preta Marujá Beach Viscose Pompom Tamanho 42-46",
+   "price": 39.8,
+   "original": 54.9,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_918425-MLA99582022534_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/saia-pareo-canga-preta-maruja-beach-viscose-pompom-tamanho-42-46/p/MLB26607995?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793975352
+  },
   {
    "n": 876,
    "key": "mercadolivre:MLB1046215784",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793913855
-  },
-  {
-   "n": 817,
-   "key": "mercadolivre:MLB53878745",
-   "title": "Caixa de som Boombox Philco Extreme Bluetooth V.5.4 300W PBX01",
-   "price": 911.0,
-   "original": 1600.0,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628373-MLA99520261698_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-boombox-philco-extreme-bluetooth-v-5-4-300w-pbx01/p/MLB53878745?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793913434
   }
  ]
 }
