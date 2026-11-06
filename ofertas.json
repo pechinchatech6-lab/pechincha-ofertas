@@ -1,7 +1,21 @@
 {
- "updated": 1793966952,
+ "updated": 1793967373,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 858,
+   "key": "mercadolivre:MLB24028629",
+   "title": "Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Chamadas Claras Personal",
+   "price": 138.0,
+   "original": 299.0,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_730568-MLA99983575997_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-soundcore-by-anker-p20i-graves-poderosos-e-impactantes-bluetooth-5-3-30h-de-reproducao-resistencia-a-agua/p/MLB24028629?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793967353
+  },
   {
    "n": 857,
    "key": "mercadolivre:MLB18725308",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793905855
-  },
-  {
-   "n": 798,
-   "key": "mercadolivre:MLB32101995",
-   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Branco MICGEEK",
-   "price": 23.95,
-   "original": 40.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_785462-MLA110586324994_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-branco-micgeek/p/MLB32101995?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793905434
   }
  ]
 }
