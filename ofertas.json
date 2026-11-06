@@ -1,7 +1,21 @@
 {
- "updated": 1793968636,
+ "updated": 1793969057,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 862,
+   "key": "mercadolivre:MLB19698479",
+   "title": "Creatina Dux Nutrition em pó Sem sabor x 300g",
+   "price": 35.9,
+   "original": 69.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_891287-MLA114656611130_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-dux-nutrition-em-po-sem-sabor-x-300g/p/MLB19698479?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793969037
+  },
   {
    "n": 861,
    "key": "mercadolivre:MLB59019868",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793907539
-  },
-  {
-   "n": 802,
-   "key": "mercadolivre:MLB19592776",
-   "title": "Proteína Adaptogen Science Tasty Whey Gourmet em pó sabor Doce de leite x 900g",
-   "price": 218.0,
-   "original": 399.99,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_738007-MLA97316893807_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/proteina-adaptogen-science-tasty-whey-gourmet-em-po-sabor-doce-de-leite-x-900g/p/MLB19592776?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793907118
   }
  ]
 }
