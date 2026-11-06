@@ -1,7 +1,21 @@
 {
- "updated": 1793978476,
+ "updated": 1793978897,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 885,
+   "key": "mercadolivre:MLB53758251",
+   "title": "Pulseira Poolsy Para Relógio Xiaomi Amazfit T-rex 3 A2323 Cor Azul-escuro",
+   "price": 43.41,
+   "original": 49.9,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_958749-MLA100091075263_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pulseira-poolsy-para-relogio-xiaomi-amazfit-t-rex-3-a2323-cor-azul-escuro/p/MLB53758251?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793978877
+  },
   {
    "n": 884,
    "key": "mercadolivre:MLB45160657",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793917224
-  },
-  {
-   "n": 825,
-   "key": "mercadolivre:MLB47100887",
-   "title": "Kit Maquiagem Infantil Kalon Lashes Maleta 8 Peças Com Batom e Acessórios",
-   "price": 49.99,
-   "original": 78.99,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_758173-MLA112465206752_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-maquiagem-infantil-kalon-lashes-maleta-8-pecas-com-batom-e-acessorios/p/MLB47100887?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793916802
   }
  ]
 }
