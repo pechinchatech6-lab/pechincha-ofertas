@@ -1,7 +1,21 @@
 {
- "updated": 1793989843,
+ "updated": 1793990264,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 912,
+   "key": "mercadolivre:MLB63956659",
+   "title": "Jogo de Soquetes de Impacto Longos VLX, 1/2\" Pol. com 15 Peças (8 a 32 mm)",
+   "price": 69.0,
+   "original": 89.9,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_957240-MLA115480611308_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/jogo-de-soquetes-de-impacto-longos-vlx-1-2-pol-com-15-pecas-8-a-32-mm/p/MLB63956659?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793990244
+  },
   {
    "n": 911,
    "key": "mercadolivre:MLB29233112",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793928592
-  },
-  {
-   "n": 852,
-   "key": "mercadolivre:MLB79843944",
-   "title": "Webcam Camera Full Hd Zoom 1080p Plug and Play Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone Pc Notebook Kateluo",
-   "price": 28.39,
-   "original": 44.57,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_754165-MLA119925151331_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-plug-and-play-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-pc-noteb/p/MLB79843944?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793928171
   }
  ]
 }
