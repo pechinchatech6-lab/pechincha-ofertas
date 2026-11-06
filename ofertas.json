@@ -1,7 +1,21 @@
 {
- "updated": 1793972846,
+ "updated": 1793973267,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 872,
+   "key": "mercadolivre:MLB42164469",
+   "title": "Vitamina Always Fit Fit Hair para Cabelo e Unhas 30 Cápsulas",
+   "price": 48.9,
+   "original": 55.0,
+   "pct": 11,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_843897-MLA114342332614_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/vitamina-always-fit-fit-hair-para-cabelo-e-unhas-30-capsulas/p/MLB42164469?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793973247
+  },
   {
    "n": 871,
    "key": "mercadolivre:MLB28894895",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793911749
-  },
-  {
-   "n": 812,
-   "key": "mercadolivre:MLB19160770",
-   "title": "Shampoo Para Bebê Johnson's Baby De Glicerina, 400ml",
-   "price": 19.99,
-   "original": 34.99,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631466-MLA109737821200_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-para-bebe-johnson-s-baby-de-glicerina-400ml/p/MLB19160770?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793911328
   }
  ]
 }
