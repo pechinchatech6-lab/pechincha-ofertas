@@ -1,7 +1,21 @@
 {
- "updated": 1794007791,
+ "updated": 1794008212,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 950,
+   "key": "mercadolivre:MLB54470406",
+   "title": "Caixa de Som Portátil - JBL PartyBox Encore Essential 2 - JBL Pro Sound, AI Sound Boost, até 15h de Bateria, Show de Luzes, Auracast, IPX4 e Microfone - Preta",
+   "price": 1289.27,
+   "original": 1699.0,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822320-MLA117015533966_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-jbl-partybox-encore-essential-2-jbl-pro-sound-ai-sound-boost-ate-15h-de-bateria-show-de-luzes-aura/p/MLB54470406?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794008192
+  },
   {
    "n": 949,
    "key": "mercadolivre:MLB26110011",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793981403
-  },
-  {
-   "n": 890,
-   "key": "mercadolivre:MLB66922418",
-   "title": "Caixa De Som Bluetooth Rádio Relógio Despertador Espelho Fm Branco",
-   "price": 47.99,
-   "original": 89.0,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_903797-MLA109116011101_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-radio-relogio-despertador-espelho-fm-branco/p/MLB66922418?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793980982
   }
  ]
 }
