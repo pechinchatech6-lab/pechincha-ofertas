@@ -1,7 +1,21 @@
 {
- "updated": 1793993211,
+ "updated": 1793993632,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 920,
+   "key": "mercadolivre:MLB67146264",
+   "title": "Mini Mixer Misturador De Bebidas Elétrico 2 Em 1 Portátil Recarregável Mexedor De Ovos Leite Whey Café Espuma Shake Drinks Capuccino Suco Blackbom",
+   "price": 19.99,
+   "original": 49.99,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_993099-MLA118374430742_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-mixer-misturador-de-bebidas-eletrico-2-em-1-portatil-recarregavel-mexedor-de-ovos-leite-whey-cafe-espuma-shake-drin/p/MLB67146264?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793993612
+  },
   {
    "n": 919,
    "key": "mercadolivre:MLB53924359",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793968616
-  },
-  {
-   "n": 860,
-   "key": "mercadolivre:MLB18643725",
-   "title": "Hidratante Labial Nivea Med Repair FPS15 4,8g",
-   "price": 17.85,
-   "original": 30.99,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_771056-MLA104010765404_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hidratante-labial-nivea-med-repair-fps15-4-8g/p/MLB18643725?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793968195
   }
  ]
 }
