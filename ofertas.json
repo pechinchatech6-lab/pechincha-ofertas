@@ -1,7 +1,21 @@
 {
- "updated": 1793983107,
+ "updated": 1793983528,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 896,
+   "key": "mercadolivre:MLB26080271",
+   "title": "L'Oréal Paris Elseve Óleo Extraordinário 100ml - Leave In Anti Frizz Protetor Térmico Tratamento Reconstrutor Para Todos Os Tipos De Cabelo",
+   "price": 29.9,
+   "original": 64.19,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_605503-MLA114497234356_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/l-oreal-paris-elseve-oleo-extraordinario-100ml-leave-in-anti-frizz-protetor-termico-tratamento-reconstrutor-para-todos-o/p/MLB26080271?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793983508
+  },
   {
    "n": 895,
    "key": "mercadolivre:MLB50147982",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793921856
-  },
-  {
-   "n": 836,
-   "key": "mercadolivre:MLB57082682",
-   "title": "Caixa de Som JBL Boombox 4 Bluetooth Portátil 210W Bivolt Azul",
-   "price": 2399.0,
-   "original": 3412.78,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674627-MLA100016786223_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-jbl-boombox-4-bluetooth-portatil-210w-bivolt-azul/p/MLB57082682?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793921435
   }
  ]
 }
