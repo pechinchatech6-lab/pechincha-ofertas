@@ -1,7 +1,21 @@
 {
- "updated": 1793989422,
+ "updated": 1793989843,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 911,
+   "key": "mercadolivre:MLB29233112",
+   "title": "Escova Secadora Es-14-BI Black Rose Argan 1200W Mondial",
+   "price": 96.4,
+   "original": 179.0,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_636186-MLA99547386296_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-es-14-bi-black-rose-argan-1200w-mondial/p/MLB29233112?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793989823
+  },
   {
    "n": 910,
    "key": "mercadolivre:MLB70508079",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793928171
-  },
-  {
-   "n": 851,
-   "key": "mercadolivre:MLB15502349",
-   "title": "Caixa de Som Portátil Grasep D-S14 Bluetooth Azul 20W RMS Microfone LED",
-   "price": 117.99,
-   "original": 188.8,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_626970-MLA99937777309_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-grasep-d-s14-bluetooth-azul-20w-rms-microfone-led/p/MLB15502349?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793927750
   }
  ]
 }
