@@ -1,7 +1,21 @@
 {
- "updated": 1793985633,
+ "updated": 1793986054,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 902,
+   "key": "mercadolivre:MLB53658747",
+   "title": "Caixa de som bluetooth 5.4 sabala 200w 36H Portátil app eq ipx6 tws Potente DR-909 39000mAh Hifi EQ Estéreo 35hz - 20khz cor preto",
+   "price": 1276.0,
+   "original": 1995.0,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_689164-MLA110001239576_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-5-4-sabala-200w-36h-portatil-app-eq-ipx6-tws-potente-dr-909-39000mah-hifi-eq-estereo-35hz-20khz-c/p/MLB53658747?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793986034
+  },
   {
    "n": 901,
    "key": "mercadolivre:MLB66911368",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793924382
-  },
-  {
-   "n": 842,
-   "key": "mercadolivre:MLB63950169",
-   "title": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos S",
-   "price": 206.18,
-   "original": 329.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_611561-MLA118558817253_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-hy320-390-ansi-full-hd-wifi-6-4k-android-bluetooth-150-polegadas-hdmi-usb-controle-remoto-bivolt-portatil-smart/p/MLB63950169?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793923961
   }
  ]
 }
