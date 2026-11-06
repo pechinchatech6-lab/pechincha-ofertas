@@ -1,7 +1,21 @@
 {
- "updated": 1793978055,
+ "updated": 1793978476,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 884,
+   "key": "mercadolivre:MLB45160657",
+   "title": "Mouse Gamer M711 Cobra Chroma Redragon Com fio Para Jogos 12.400 DPI Com Led RGB Preto",
+   "price": 79.9,
+   "original": 143.43,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_898286-MLA95664298408_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mouse-gamer-m711-cobra-chroma-redragon-com-fio-para-jogos-12-400-dpi-com-led-rgb-preto/p/MLB45160657?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793978456
+  },
   {
    "n": 883,
    "key": "mercadolivre:MLB66816327",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793916802
-  },
-  {
-   "n": 824,
-   "key": "mercadolivre:MLB79898986",
-   "title": "Trena Profissional 10 Metros 25mm Reforçada Emborrachada Com Trava Manual Fita Métrica 10M Retrátil Medição Fita De Aço Laranja Vellon",
-   "price": 22.99,
-   "original": 49.9,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_662894-MLA118256784565_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/trena-profissional-10-metros-25mm-reforcada-emborrachada-com-trava-manual-fita-metrica-10m-retratil-medicao-fita-de-aco-/p/MLB79898986?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793916381
   }
  ]
 }
