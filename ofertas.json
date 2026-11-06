@@ -1,7 +1,21 @@
 {
- "updated": 1793995737,
+ "updated": 1793996158,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 926,
+   "key": "mercadolivre:MLB19720849",
+   "title": "Loção hidratante corporal Isdin Ureadin 10",
+   "price": 70.0,
+   "original": 115.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_997526-MLU75980921413_042024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/locao-hidratante-corporal-isdin-ureadin-10/p/MLB19720849?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793996138
+  },
   {
    "n": 925,
    "key": "mercadolivre:MLB47044981",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793971142
-  },
-  {
-   "n": 866,
-   "key": "mercadolivre:MLB37984126",
-   "title": "Porta Suplementos Fitness Prottector 4 Divisões 100ml Hermético BPA Free",
-   "price": 34.0,
-   "original": 41.9,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674514-MLA100087126261_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/porta-suplementos-fitness-prottector-4-divisoes-100ml-hermetico-bpa-free/p/MLB37984126?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793970721
   }
  ]
 }
