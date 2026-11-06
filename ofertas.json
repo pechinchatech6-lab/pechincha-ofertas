@@ -1,7 +1,21 @@
 {
- "updated": 1793982265,
+ "updated": 1793982686,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 894,
+   "key": "mercadolivre:MLB75681377",
+   "title": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
+   "price": 2599.0,
+   "original": 3599.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-pro-lg-55-4k-ultra-hd-ai-55un85c/p/MLB75681377?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793982666
+  },
   {
    "n": 893,
    "key": "mercadolivre:MLB24326256",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793921014
-  },
-  {
-   "n": 834,
-   "key": "mercadolivre:MLB54160969",
-   "title": "Relógio De Parede Silencioso Sala De Estar Moderno E Simples Estrutura Dourado-escuro Fundo Branco",
-   "price": 29.99,
-   "original": 46.8,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_864557-MLA91287927765_082025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-silencioso-sala-de-estar-moderno-e-simples-estrutura-dourado-escuro-fundo-branco/p/MLB54160969?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793920593
   }
  ]
 }
