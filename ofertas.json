@@ -1,7 +1,21 @@
 {
- "updated": 1793979318,
+ "updated": 1793979739,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 887,
+   "key": "mercadolivre:MLB51868920",
+   "title": "Controle Sem Fio Xbox Series X S Microsoft Pulse Red para PC, One e Smart TVs",
+   "price": 421.0,
+   "original": 599.9,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_698165-MLA86671767786_062025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-sem-fio-xbox-series-x-s-microsoft-pulse-red-para-pc-one-e-smart-tvs/p/MLB51868920?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793979719
+  },
   {
    "n": 886,
    "key": "mercadolivre:MLB79475250",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793918067
-  },
-  {
-   "n": 827,
-   "key": "mercadolivre:MLB58338157",
-   "title": "Cinta Modelador Short Cirurgia Plástica Biobela Cor Marrom Tamanho Egg-50",
-   "price": 159.0,
-   "original": 230.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_926715-MLA93303764654_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cinta-modelador-short-cirurgia-plastica-biobela-cor-marrom-tamanho-egg-50/p/MLB58338157?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793917646
   }
  ]
 }
