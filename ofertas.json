@@ -1,7 +1,21 @@
 {
- "updated": 1793984370,
+ "updated": 1793984791,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 899,
+   "key": "mercadolivre:MLB23347882",
+   "title": "Relógio Mondaine Masculino 32549g0mvne1 Aco Inox Prata Fundo Preto Analogico Prova Dágua 50m",
+   "price": 169.99,
+   "original": 398.51,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_863482-MLA119362122519_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-mondaine-masculino-32549g0mvne1-aco-inox-prata-fundo-preto-analogico-prova-dagua-50m/p/MLB23347882?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793984771
+  },
   {
    "n": 898,
    "key": "mercadolivre:MLB61594883",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793923119
-  },
-  {
-   "n": 839,
-   "key": "mercadolivre:MLB57723515",
-   "title": "VENTILADOR COLUNA NVT-40C-BL 60Hz MONDIAL",
-   "price": 259.9,
-   "original": 362.4,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_665930-MLA93305577989_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-coluna-nvt-40c-bl-60hz-mondial/p/MLB57723515?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793922698
   }
  ]
 }
