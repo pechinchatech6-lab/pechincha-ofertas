@@ -1,7 +1,21 @@
 {
- "updated": 1793978897,
+ "updated": 1793979318,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 886,
+   "key": "mercadolivre:MLB79475250",
+   "title": "Soundbar Com Subwoofer Desmontável 420W 5.1 Canais Home Theater Subwoofer Maizhelun Som Imersivo Conectividade Aux/HDMI (ARC)/USB/Óptico/Coaxial/Antena FM Bluet",
+   "price": 483.06,
+   "original": 998.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_831721-MLA116440066636_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-com-subwoofer-desmontavel-420w-5-1-canais-home-theater-subwoofer-maizhelun-som-imersivo-conectividade-aux-hdmi-/p/MLB79475250?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793979298
+  },
   {
    "n": 885,
    "key": "mercadolivre:MLB53758251",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793917646
-  },
-  {
-   "n": 826,
-   "key": "mercadolivre:MLB29360695",
-   "title": "Kit Multímetro Digital Minipa ET-1002 10A CAT I 600V Com 2 Conectores De Emenda Wago 221-2411",
-   "price": 86.23,
-   "original": 178.0,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_930275-MLA120072660313_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-multimetro-digital-minipa-et-1002-10a-cat-i-600v-com-2-conectores-de-emenda-wago-221-2411/p/MLB29360695?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793917224
   }
  ]
 }
