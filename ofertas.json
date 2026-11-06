@@ -1,7 +1,21 @@
 {
- "updated": 1793971583,
+ "updated": 1793972004,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 869,
+   "key": "mercadolivre:MLB76436759",
+   "title": "Smart TV HD 32\" LG LB650 AI 2026 Processador α5 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini Canais Grátis webOS 26 - 32LB650BPSA",
+   "price": 1020.99,
+   "original": 1549.0,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_626506-MLA116657908871_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-hd-32-lg-lb650-ai-2026-processador-5-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-canais-gratis-webo/p/MLB76436759?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793971984
+  },
   {
    "n": 868,
    "key": "mercadolivre:MLB18726361",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793910486
-  },
-  {
-   "n": 809,
-   "key": "mercadolivre:MLB64211779",
-   "title": "Controle Com Fio Usb Para Pc Tv Manete Joystick - Crowley",
-   "price": 28.0,
-   "original": 44.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_660259-MLA110461450931_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-com-fio-usb-para-pc-tv-manete-joystick-crowley/p/MLB64211779?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793910065
   }
  ]
 }
