@@ -1,7 +1,21 @@
 {
- "updated": 1793971162,
+ "updated": 1793971583,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 868,
+   "key": "mercadolivre:MLB18726361",
+   "title": "Creatina Em Pó 100g Creapure Growth Supplements",
+   "price": 69.9,
+   "original": 109.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_659835-MLA98760176203_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-em-po-100g-creapure-growth-supplements/p/MLB18726361?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793971563
+  },
   {
    "n": 867,
    "key": "mercadolivre:MLB69621250",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793910065
-  },
-  {
-   "n": 808,
-   "key": "mercadolivre:MLB61642416",
-   "title": "Caixa De Som Portatil Inova Caixinha Com Rgb Tws Recarregável Subwoofer, Potente Caixas Bluetooth Ideal Festas Ao Ar Livre E Uso Diário, Preto",
-   "price": 74.0,
-   "original": 143.62,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_720363-MLA99931033474_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-inova-caixinha-com-rgb-tws-recarregavel-subwoofer-potente-caixas-bluetooth-ideal-festas-ao-ar-livr/p/MLB61642416?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793909644
   }
  ]
 }
