@@ -1,7 +1,21 @@
 {
- "updated": 1793923560,
+ "updated": 1793923981,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 842,
+   "key": "mercadolivre:MLB63950169",
+   "title": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos S",
+   "price": 206.18,
+   "original": 329.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_611561-MLA118558817253_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-hy320-390-ansi-full-hd-wifi-6-4k-android-bluetooth-150-polegadas-hdmi-usb-controle-remoto-bivolt-portatil-smart/p/MLB63950169?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793923961
+  },
   {
    "n": 841,
    "key": "mercadolivre:MLB25808151",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793899118
-  },
-  {
-   "n": 782,
-   "key": "mercadolivre:MLB27157886",
-   "title": "Kit Alicate Tramontina (Bico, Corte e Universal) 43409107",
-   "price": 82.49,
-   "original": 100.53,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_861759-MLA99467985726_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-alicate-tramontina-bico-corte-e-universal-43409107/p/MLB27157886?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793898697
   }
  ]
 }
