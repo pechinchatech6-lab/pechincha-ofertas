@@ -1,7 +1,21 @@
 {
- "updated": 1793967373,
+ "updated": 1793967794,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 859,
+   "key": "mercadolivre:MLB19603205",
+   "title": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
+   "price": 39.9,
+   "original": 64.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_662415-MLA97812910758_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-growth-supplements-monohidratada-em-po-sem-sabor-x-250g/p/MLB19603205?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793967774
+  },
   {
    "n": 858,
    "key": "mercadolivre:MLB24028629",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793906276
-  },
-  {
-   "n": 799,
-   "key": "mercadolivre:MLB67291937",
-   "title": "Fone Ouvido Bluetooth Compatível Com Iphone X Xr 11 12 13 14 15 16 17 Xs Pro Max Plus Samsung S20 S23 S24 Xiaomi Motorola Android Ios Sem Fio Prova DAgua Wirele",
-   "price": 48.91,
-   "original": 78.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_793840-MLA109795835063_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-ouvido-bluetooth-compativel-com-iphone-x-xr-11-12-13-14-15-16-17-xs-pro-max-plus-samsung-s20-s23-s24-xiaomi-motorol/p/MLB67291937?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793905855
   }
  ]
 }
