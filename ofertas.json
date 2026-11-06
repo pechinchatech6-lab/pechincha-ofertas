@@ -1,7 +1,21 @@
 {
- "updated": 1794008633,
+ "updated": 1794009054,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 952,
+   "key": "mercadolivre:MLB72990342",
+   "title": "Lip Tint Boca Rosa Batom Blush 10ml Vermelho Paixão",
+   "price": 42.1,
+   "original": 62.38,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_687050-MLA111868733898_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lip-tint-boca-rosa-batom-blush-10ml-vermelho-paixao/p/MLB72990342?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794009034
+  },
   {
    "n": 951,
    "key": "mercadolivre:MLB71650391",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793982245
-  },
-  {
-   "n": 892,
-   "key": "mercadolivre:MLB63036814",
-   "title": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
-   "price": 1064.13,
-   "original": 1499.0,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_904550-MLA100972962937_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-32-philco-p32vik-roku-led-dolby-audio-hdr-wi-fi-110-220v/p/MLB63036814?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793981824
   }
  ]
 }
