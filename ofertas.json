@@ -1,7 +1,21 @@
 {
- "updated": 1793986896,
+ "updated": 1793987317,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 905,
+   "key": "mercadolivre:MLB75627272",
+   "title": "Mochila para Notebook Impermeável com Porta USB e Expansão de 25L a 40L, Ideal para Viagem e Trabalho",
+   "price": 98.1,
+   "original": 218.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_683360-MLA113618531626_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-para-notebook-impermeavel-com-porta-usb-e-expansao-de-25l-a-40l-ideal-para-viagem-e-trabalho/p/MLB75627272?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793987297
+  },
   {
    "n": 904,
    "key": "mercadolivre:MLB69565361",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793925645
-  },
-  {
-   "n": 845,
-   "key": "mercadolivre:MLB61380487",
-   "title": "Aparador de Pelos Nariz Orelha Recarregável Gurumania Azul Portátil",
-   "price": 22.34,
-   "original": 39.9,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_672805-MLA100157214448_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-nariz-orelha-recarregavel-gurumania-azul-portatil/p/MLB61380487?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793925224
   }
  ]
 }
