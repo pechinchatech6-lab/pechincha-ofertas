@@ -1,7 +1,21 @@
 {
- "updated": 1794000776,
+ "updated": 1794001197,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 935,
+   "key": "mercadolivre:MLB74797220",
+   "title": "Moto Serra Elétrica 12 Polegadas Motoserra Eletrica Portátil Brushless 2 Baterias 3 Correntes",
+   "price": 318.35,
+   "original": 600.0,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_970650-MLA118144315182_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/moto-serra-eletrica-12-polegadas-motoserra-eletrica-portatil-brushless-2-baterias-3-correntes/p/MLB74797220?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794001177
+  },
   {
    "n": 934,
    "key": "mercadolivre:MLB18115557",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793974931
-  },
-  {
-   "n": 875,
-   "key": "mercadolivre:MLB80256793",
-   "title": "Creme Depilatório Corporal SKINLISS Para Pele Normal 300g",
-   "price": 37.61,
-   "original": 78.99,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_988475-MLA120695675801_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatorio-corporal-skinliss-para-pele-normal-300g/p/MLB80256793?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793974510
   }
  ]
 }
