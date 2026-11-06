@@ -1,7 +1,21 @@
 {
- "updated": 1793992790,
+ "updated": 1793993211,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 919,
+   "key": "mercadolivre:MLB53924359",
+   "title": "Caixa de Som Bluetooth Portátil - JBL Boombox 4 - JBL Pro Sound, AI Sound Boost, 210W RMS, até 34h de Bateria, Bass Boost, IP68, Auracast e USB-C Lossless - Pre",
+   "price": 2299.0,
+   "original": 3199.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_863194-MLA118534430667_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-portatil-jbl-boombox-4-jbl-pro-sound-ai-sound-boost-210w-rms-ate-34h-de-bateria-bass-boost-ip68-a/p/MLB53924359?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793993191
+  },
   {
    "n": 918,
    "key": "mercadolivre:MLB80167828",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793968195
-  },
-  {
-   "n": 859,
-   "key": "mercadolivre:MLB19603205",
-   "title": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
-   "price": 39.9,
-   "original": 64.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_662415-MLA97812910758_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-growth-supplements-monohidratada-em-po-sem-sabor-x-250g/p/MLB19603205?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793967774
   }
  ]
 }
