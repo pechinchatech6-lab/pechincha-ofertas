@@ -1,7 +1,21 @@
 {
- "updated": 1793970741,
+ "updated": 1793971162,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 867,
+   "key": "mercadolivre:MLB69621250",
+   "title": "Soundbar Philips 2.0, bluetooth, USB e HDMI ARC TAB4000/78",
+   "price": 329.9,
+   "original": 639.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_797186-MLA111578278076_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-philips-2-0-bluetooth-usb-e-hdmi-arc-tab4000-78/p/MLB69621250?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793971142
+  },
   {
    "n": 866,
    "key": "mercadolivre:MLB37984126",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793909644
-  },
-  {
-   "n": 807,
-   "key": "mercadolivre:MLB20288453",
-   "title": "Shampoo Tonalizante Color Change Castanho Escuro Kissnewyork",
-   "price": 26.94,
-   "original": 43.23,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_909365-MLA112260486831_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-color-change-castanho-escuro-kissnewyork/p/MLB20288453?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793909223
   }
  ]
 }
