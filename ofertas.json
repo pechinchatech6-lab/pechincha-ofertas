@@ -1,7 +1,21 @@
 {
- "updated": 1793986054,
+ "updated": 1793986475,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 903,
+   "key": "mercadolivre:MLB22511808",
+   "title": "Aspirador de Pó Vertical e Portátil WAP High Speed Plus 1350W 3 em 1",
+   "price": 145.3,
+   "original": 326.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_887734-MLA99375017938_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-e-portatil-wap-high-speed-plus-1350w-3-em-1/p/MLB22511808?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793986455
+  },
   {
    "n": 902,
    "key": "mercadolivre:MLB53658747",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793924803
-  },
-  {
-   "n": 843,
-   "key": "mercadolivre:MLB19104021",
-   "title": "Micro-ondas MO-01-21-W 1200W Mondial",
-   "price": 459.0,
-   "original": 636.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_971379-MLA99957853113_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-mo-01-21-w-1200w-mondial/p/MLB19104021?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793924382
   }
  ]
 }
