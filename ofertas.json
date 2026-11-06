@@ -1,7 +1,21 @@
 {
- "updated": 1794005407,
+ "updated": 1794005828,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 946,
+   "key": "mercadolivre:MLB70228023",
+   "title": "Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente Prateado",
+   "price": 34.9,
+   "original": 49.9,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_907811-MLA112159861189_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-relogio-feminino-colar-brinco-pulseira-folheado-presente-prateado/p/MLB70228023?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794005808
+  },
   {
    "n": 945,
    "key": "mercadolivre:MLB47078704",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793979719
-  },
-  {
-   "n": 886,
-   "key": "mercadolivre:MLB79475250",
-   "title": "Soundbar Com Subwoofer Desmontável 420W 5.1 Canais Home Theater Subwoofer Maizhelun Som Imersivo Conectividade Aux/HDMI (ARC)/USB/Óptico/Coaxial/Antena FM Bluet",
-   "price": 483.06,
-   "original": 998.0,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_831721-MLA116440066636_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-com-subwoofer-desmontavel-420w-5-1-canais-home-theater-subwoofer-maizhelun-som-imersivo-conectividade-aux-hdmi-/p/MLB79475250?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793979298
   }
  ]
 }
