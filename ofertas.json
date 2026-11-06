@@ -1,7 +1,21 @@
 {
- "updated": 1793928191,
+ "updated": 1793928612,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 853,
+   "key": "mercadolivre:MLB43398945",
+   "title": "Rotor Induzido Menegotti P/ Lixadeira Mlp750 Profissional",
+   "price": 101.78,
+   "original": 158.34,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_616880-MLA95664378756_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/rotor-induzido-menegotti-p-lixadeira-mlp750-profissional/p/MLB43398945?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793928592
+  },
   {
    "n": 852,
    "key": "mercadolivre:MLB79843944",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793903750
-  },
-  {
-   "n": 793,
-   "key": "mercadolivre:MLB65411803",
-   "title": "Saida De Praia Mini Saia Plus Size Regulagem Cor Preto Desenho Do Tecido Lisa Tamanho G3 Veste 52 Ao 56",
-   "price": 31.93,
-   "original": 49.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_692735-MLA118181129729_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/saida-de-praia-mini-saia-plus-size-regulagem-cor-preto-desenho-do-tecido-lisa-tamanho-g3-veste-52-ao-56/p/MLB65411803?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793903329
   }
  ]
 }
