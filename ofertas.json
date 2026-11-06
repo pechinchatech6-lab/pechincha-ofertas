@@ -1,7 +1,21 @@
 {
- "updated": 1793987317,
+ "updated": 1793987738,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 906,
+   "key": "mercadolivre:MLB20306137",
+   "title": "Mixer Elétrico 2 em 1 Recarregável USB 3 Velocidades Espumador de Leite Profissional em Aço Inoxidável Misturador Portátil para Cappuccino, Café, Whey, Matcha, ",
+   "price": 15.8,
+   "original": 78.99,
+   "pct": 80,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_877207-MLA119236955958_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mixer-eletrico-2-em-1-recarregavel-usb-3-velocidades-espumador-de-leite-profissional-em-aco-inoxidavel-misturador-portat/p/MLB20306137?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793987718
+  },
   {
    "n": 905,
    "key": "mercadolivre:MLB75627272",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793926066
-  },
-  {
-   "n": 846,
-   "key": "mercadolivre:MLB41147255",
-   "title": "Controle Gamesir G7 Se Com Fio Para Xbox One Series S X Pc Hall Effect Botões Mecânicos Cor Azul",
-   "price": 239.0,
-   "original": 459.9,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_928331-MLA99599229698_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-se-com-fio-para-xbox-one-series-s-x-pc-hall-effect-botoes-mecanicos-cor-azul/p/MLB41147255?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793925645
   }
  ]
 }
