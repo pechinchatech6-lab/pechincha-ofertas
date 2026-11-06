@@ -1,7 +1,21 @@
 {
- "updated": 1794003723,
+ "updated": 1794004144,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 942,
+   "key": "mercadolivre:MLB19763399",
+   "title": "Mousse Creme Depilatório Racco 150ml",
+   "price": 62.9,
+   "original": 89.9,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_890679-MLA114433606636_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mousse-creme-depilatorio-racco-150ml/p/MLB19763399?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794004124
+  },
   {
    "n": 941,
    "key": "mercadolivre:MLB81507084",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793978035
-  },
-  {
-   "n": 882,
-   "key": "mercadolivre:MLB20691601",
-   "title": "Kit 2 Manete Controle Compativel Sem Fio Ps3 Cabo Carregador Sngames",
-   "price": 63.5,
-   "original": 120.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_730400-MLA99238212360_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-2-manete-controle-compativel-sem-fio-ps3-cabo-carregador-sngames/p/MLB20691601?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793977614
   }
  ]
 }
