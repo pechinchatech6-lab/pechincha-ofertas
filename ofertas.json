@@ -1,7 +1,21 @@
 {
- "updated": 1794004144,
+ "updated": 1794004565,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 943,
+   "key": "mercadolivre:MLB75536994",
+   "title": "Controle GameSir G7 Pro Sem Fio para Xbox Series X|S, PC e Android com Gatilhos Hall Effect",
+   "price": 476.87,
+   "original": 662.4,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_797885-MLA113442770934_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-pro-sem-fio-para-xbox-series-x-s-pc-e-android-com-gatilhos-hall-effect/p/MLB75536994?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794004545
+  },
   {
    "n": 942,
    "key": "mercadolivre:MLB19763399",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793978456
-  },
-  {
-   "n": 883,
-   "key": "mercadolivre:MLB66816327",
-   "title": "Batom Duo Matte E Gloss Longa Duração Double Layer Ruby Rose Dl40",
-   "price": 19.29,
-   "original": 28.12,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_618754-MLA108237761032_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/batom-duo-matte-e-gloss-longa-duracao-double-layer-ruby-rose-dl40/p/MLB66816327?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793978035
   }
  ]
 }
