@@ -1,7 +1,21 @@
 {
- "updated": 1793999092,
+ "updated": 1793999513,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 931,
+   "key": "mercadolivre:MLB80257068",
+   "title": "Relógio de Parede Analógico Silencioso Redondo 30 cm, para Sala ou Cozinha, Prata com Fundo Preto - NANY PINK",
+   "price": 53.25,
+   "original": 89.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_628653-MLA118801358299_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-analogico-silencioso-redondo-30-cm-para-sala-ou-cozinha-prata-com-fundo-preto-nany-pink/p/MLB80257068?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793999493
+  },
   {
    "n": 930,
    "key": "mercadolivre:MLB19714699",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793973247
-  },
-  {
-   "n": 871,
-   "key": "mercadolivre:MLB28894895",
-   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Preto Micgeek",
-   "price": 24.94,
-   "original": 40.0,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_767519-MLA108974232726_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-preto-micgeek/p/MLB28894895?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793972826
   }
  ]
 }
