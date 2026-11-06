@@ -1,7 +1,21 @@
 {
- "updated": 1793974110,
+ "updated": 1793974530,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 875,
+   "key": "mercadolivre:MLB80256793",
+   "title": "Creme Depilatório Corporal SKINLISS Para Pele Normal 300g",
+   "price": 37.61,
+   "original": 78.99,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_988475-MLA120695675801_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-depilatorio-corporal-skinliss-para-pele-normal-300g/p/MLB80256793?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793974510
+  },
   {
    "n": 874,
    "key": "mercadolivre:MLB75077260",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793913013
-  },
-  {
-   "n": 815,
-   "key": "mercadolivre:MLB64334861",
-   "title": "Caixa de Som Boombox Basike 80W Portátil Com Bluetooth 5.3 e RGB",
-   "price": 357.49,
-   "original": 599.98,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_836461-MLA106146443094_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-boombox-basike-80w-portatil-com-bluetooth-5-3-e-rgb/p/MLB64334861?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793912592
   }
  ]
 }
