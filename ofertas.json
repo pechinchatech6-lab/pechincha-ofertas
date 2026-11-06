@@ -1,7 +1,21 @@
 {
- "updated": 1793988159,
+ "updated": 1793988580,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 908,
+   "key": "mercadolivre:MLB34016199",
+   "title": "Microfone de Lapela Sem Fio Hollyland Lark M2 Combo (USB-C, Lightning e Câmera)",
+   "price": 598.5,
+   "original": 999.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_644387-MLA119786973369_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microfone-de-lapela-sem-fio-hollyland-lark-m2-combo-usb-c-lightning-e-camera/p/MLB34016199?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793988560
+  },
   {
    "n": 907,
    "key": "mercadolivre:MLB44784310",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793926908
-  },
-  {
-   "n": 848,
-   "key": "mercadolivre:MLB19721946",
-   "title": "Relógio Casio Unissex Vintage Prata Aq-230a-1dmq",
-   "price": 116.96,
-   "original": 299.9,
-   "pct": 61,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_633473-MLA115741902361_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-casio-unissex-vintage-prata-aq-230a-1dmq/p/MLB19721946?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793926487
   }
  ]
 }
