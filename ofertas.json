@@ -1,7 +1,21 @@
 {
- "updated": 1793924823,
+ "updated": 1793925244,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 845,
+   "key": "mercadolivre:MLB61380487",
+   "title": "Aparador de Pelos Nariz Orelha Recarregável Gurumania Azul Portátil",
+   "price": 22.34,
+   "original": 39.9,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_672805-MLA100157214448_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-nariz-orelha-recarregavel-gurumania-azul-portatil/p/MLB61380487?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793925224
+  },
   {
    "n": 844,
    "key": "mercadolivre:MLB79915624",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793900381
-  },
-  {
-   "n": 785,
-   "key": "mercadolivre:MLB49840881",
-   "title": "Controle Gamesir Tegenaria T3 Lite Com Fio Para Pc Switch Android Ios Steam Celular Hall Effect Usb Design Ergonômico Cinza",
-   "price": 92.0,
-   "original": 159.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_753810-MLA99991088207_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-tegenaria-t3-lite-com-fio-para-pc-switch-android-ios-steam-celular-hall-effect-usb-design-ergonomico-ci/p/MLB49840881?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793899960
   }
  ]
 }
