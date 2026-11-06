@@ -1,7 +1,21 @@
 {
- "updated": 1793925665,
+ "updated": 1793926086,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 847,
+   "key": "mercadolivre:MLB14180098",
+   "title": "Prancha Alisadora Mondial Golden Rose/Preto Bivolt P-20",
+   "price": 94.05,
+   "original": 199.0,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_937184-MLA100013378601_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/prancha-alisadora-mondial-golden-rose-preto-bivolt-p-20/p/MLB14180098?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793926066
+  },
   {
    "n": 846,
    "key": "mercadolivre:MLB41147255",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793901223
-  },
-  {
-   "n": 787,
-   "key": "mercadolivre:MLB66055148",
-   "title": "Smart Tv 32 Philco Roku Tv Dolby Áudio Hdr10 P32crb",
-   "price": 929.8,
-   "original": 1199.0,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_875689-MLA107805437119_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-32-philco-roku-tv-dolby-audio-hdr10-p32crb/p/MLB66055148?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793900802
   }
  ]
 }
