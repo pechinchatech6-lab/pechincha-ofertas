@@ -1,7 +1,21 @@
 {
- "updated": 1793992369,
+ "updated": 1793992790,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 918,
+   "key": "mercadolivre:MLB80167828",
+   "title": "Bundle Nintendo Switch 2 + Mario Kart World + 3 Meses NSO",
+   "price": 4349.9,
+   "original": 5999.9,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_642168-MLA118780566083_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bundle-nintendo-switch-2-mario-kart-world-3-meses-nso/p/MLB80167828?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793992770
+  },
   {
    "n": 917,
    "key": "mercadolivre:MLB20662382",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793967774
-  },
-  {
-   "n": 858,
-   "key": "mercadolivre:MLB24028629",
-   "title": "Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Chamadas Claras Personal",
-   "price": 138.0,
-   "original": 299.0,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_730568-MLA99983575997_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-soundcore-by-anker-p20i-graves-poderosos-e-impactantes-bluetooth-5-3-30h-de-reproducao-resistencia-a-agua/p/MLB24028629?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793967353
   }
  ]
 }
