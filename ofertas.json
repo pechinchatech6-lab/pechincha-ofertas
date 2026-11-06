@@ -1,7 +1,21 @@
 {
- "updated": 1793997000,
+ "updated": 1793998671,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 929,
+   "key": "mercadolivre:MLB47887434",
+   "title": "Relógio Parede LED Digital Grande 46x22cm Hall Entrada Academia Hospital Igreja Comércio Recepção Calendário Termômetro Data Hora 12/24h Temperatura Dia Mês Ano",
+   "price": 123.89,
+   "original": 214.28,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_656466-MLA112698128142_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-parede-led-digital-grande-46x22cm-hall-entrada-academia-hospital-igreja-comercio-recepcao-calendario-termometro-/p/MLB47887434?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793998651
+  },
   {
    "n": 928,
    "key": "mercadolivre:MLB19716757",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793972405
-  },
-  {
-   "n": 869,
-   "key": "mercadolivre:MLB76436759",
-   "title": "Smart TV HD 32\" LG LB650 AI 2026 Processador α5 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini Canais Grátis webOS 26 - 32LB650BPSA",
-   "price": 1020.99,
-   "original": 1549.0,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_626506-MLA116657908871_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-hd-32-lg-lb650-ai-2026-processador-5-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-canais-gratis-webo/p/MLB76436759?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793971984
   }
  ]
 }
