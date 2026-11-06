@@ -1,7 +1,21 @@
 {
- "updated": 1794001197,
+ "updated": 1794001618,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 936,
+   "key": "mercadolivre:MLB28463712",
+   "title": "Relógio Digital Mesa Despertador Inteligente Cabeceira Quarto Idoso Com Sensor De Temperatura Micgeek",
+   "price": 23.66,
+   "original": 40.0,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_642764-MLA97096422781_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-digital-mesa-despertador-inteligente-cabeceira-quarto-idoso-com-sensor-de-temperatura-micgeek/p/MLB28463712?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794001598
+  },
   {
    "n": 935,
    "key": "mercadolivre:MLB74797220",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793975352
-  },
-  {
-   "n": 876,
-   "key": "mercadolivre:MLB1046215784",
-   "title": "iPhone 16e (128 GB) - Preto - Distribuidor Autorizado",
-   "price": 3499.0,
-   "original": 5799.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793974931
   }
  ]
 }
