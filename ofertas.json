@@ -1,7 +1,21 @@
 {
- "updated": 1793994474,
+ "updated": 1793994895,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 923,
+   "key": "mercadolivre:MLB25748650",
+   "title": "Caixa de Som Philco PCX6700 Amplificada 650W Ex Bass",
+   "price": 589.9,
+   "original": 899.0,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_977921-MLA96972461760_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-philco-pcx6700-amplificada-650w-ex-bass/p/MLB25748650?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793994875
+  },
   {
    "n": 922,
    "key": "mercadolivre:MLB78863823",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793969879
-  },
-  {
-   "n": 863,
-   "key": "mercadolivre:MLB38176139",
-   "title": "Fone de Ouvido Bluetooth 5.4 soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celu",
-   "price": 196.0,
-   "original": 389.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_760745-MLA95700724020_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-5-4-soundcore-p30i-da-anker-cancelamento-de-ruido-adaptativo-graves-poderosos-45h-de-reproducao/p/MLB38176139?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793969458
   }
  ]
 }
