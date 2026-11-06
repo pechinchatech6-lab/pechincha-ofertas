@@ -1,7 +1,21 @@
 {
- "updated": 1794006949,
+ "updated": 1794007370,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 948,
+   "key": "mercadolivre:MLB68833324",
+   "title": "Caixa de Som Gamer Soundbar Redragon Neo RGB Preto, para Som Imersivo",
+   "price": 181.39,
+   "original": 399.9,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_837939-MLA111040366985_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-gamer-soundbar-redragon-neo-rgb-preto-para-som-imersivo/p/MLB68833324?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794007350
+  },
   {
    "n": 947,
    "key": "mercadolivre:MLB64921330",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793980561
-  },
-  {
-   "n": 888,
-   "key": "mercadolivre:MLB37930434",
-   "title": "Microfone Jbl Duplo S/ Fio Wireless Jbl Micbr2 Karaokê Party",
-   "price": 497.65,
-   "original": 899.0,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_883202-MLU77972528419_072024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-jbl-duplo-s-fio-wireless-jbl-micbr2-karaoke-party/p/MLB37930434?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793980140
   }
  ]
 }
