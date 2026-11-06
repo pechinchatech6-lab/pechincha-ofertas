@@ -1,7 +1,21 @@
 {
- "updated": 1794003302,
+ "updated": 1794003723,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 941,
+   "key": "mercadolivre:MLB81507084",
+   "title": "Soprador de Ar Portátil Woosh Recarregável, Para Limpeza e Acender Churrasqueira",
+   "price": 41.9,
+   "original": 78.99,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_894355-MLA120952803117_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-de-ar-portatil-woosh-recarregavel-para-limpeza-e-acender-churrasqueira/p/MLB81507084?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794003703
+  },
   {
    "n": 940,
    "key": "mercadolivre:MLB19810227",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793977614
-  },
-  {
-   "n": 881,
-   "key": "mercadolivre:MLB19465754",
-   "title": "Batom Líquido Vinyl Ink 16h Vegano 35 Cheeky SuperStay Maybelline 4,2ml",
-   "price": 68.49,
-   "original": 108.49,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_752720-MLA88033588370_072025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/batom-liquido-vinyl-ink-16h-vegano-35-cheeky-superstay-maybelline-4-2ml/p/MLB19465754?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793977193
   }
  ]
 }
