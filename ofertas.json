@@ -1,7 +1,21 @@
 {
- "updated": 1793969478,
+ "updated": 1793969899,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 864,
+   "key": "mercadolivre:MLB19772622",
+   "title": "Suplemento Alimentar Whey Fort 3W Sabor Frutas Vermelhas 900g Vitafor",
+   "price": 200.51,
+   "original": 373.0,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_900386-MLU75143558182_032024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suplemento-alimentar-whey-fort-3w-sabor-frutas-vermelhas-900g-vitafor/p/MLB19772622?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793969879
+  },
   {
    "n": 863,
    "key": "mercadolivre:MLB38176139",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793908381
-  },
-  {
-   "n": 804,
-   "key": "mercadolivre:MLB80240441",
-   "title": "Novo Smartwatch Microwear W12 Pro Prateado Séries 12 Amoled 47mm 2027 SMARTWATCH ADVANCED PRO",
-   "price": 208.0,
-   "original": 349.9,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_642329-MLA118773721445_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/novo-smartwatch-microwear-w12-pro-prateado-series-12-amoled-47mm-2027-smartwatch-advanced-pro/p/MLB80240441?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793907960
   }
  ]
 }
