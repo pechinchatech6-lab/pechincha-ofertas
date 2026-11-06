@@ -1,7 +1,21 @@
 {
- "updated": 1793977634,
+ "updated": 1793978055,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 883,
+   "key": "mercadolivre:MLB66816327",
+   "title": "Batom Duo Matte E Gloss Longa Duração Double Layer Ruby Rose Dl40",
+   "price": 19.29,
+   "original": 28.12,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_618754-MLA108237761032_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/batom-duo-matte-e-gloss-longa-duracao-double-layer-ruby-rose-dl40/p/MLB66816327?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793978035
+  },
   {
    "n": 882,
    "key": "mercadolivre:MLB20691601",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793916381
-  },
-  {
-   "n": 823,
-   "key": "mercadolivre:MLB51233234",
-   "title": "Organizador Acrílico Para Cosméticos 2 Prateleiras Multiuso",
-   "price": 52.27,
-   "original": 78.56,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_981635-MLA112391937773_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/organizador-acrilico-para-cosmeticos-2-prateleiras-multiuso/p/MLB51233234?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793915960
   }
  ]
 }
