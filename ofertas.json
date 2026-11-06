@@ -1,7 +1,21 @@
 {
- "updated": 1793986475,
+ "updated": 1793986896,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 904,
+   "key": "mercadolivre:MLB69565361",
+   "title": "Chapinha Profissional 2 em 1 Prancha de Cabelo para Progressiva Bivolt 230°C Cerâmica com Íons Negativos Display LED Aquecimento Alisadora Rápido 15S Cabo 360° ",
+   "price": 90.0,
+   "original": 199.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_654465-MLA118109198585_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-profissional-2-em-1-prancha-de-cabelo-para-progressiva-bivolt-230-c-ceramica-com-ions-negativos-display-led-aqu/p/MLB69565361?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793986876
+  },
   {
    "n": 903,
    "key": "mercadolivre:MLB22511808",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793925224
-  },
-  {
-   "n": 844,
-   "key": "mercadolivre:MLB79915624",
-   "title": "Kit Ferramentas 46 Peças Jogo Chaves Catraca Soquetes Allen Torx Fenda Phillips Quicko Maleta Completa Manual Mecânico Manutenção Casa Carro Oficina Profissiona",
-   "price": 31.9,
-   "original": 54.9,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_636676-MLA116721406480_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-ferramentas-46-pecas-jogo-chaves-catraca-soquetes-allen-torx-fenda-phillips-quicko-maleta-completa-manual-mecanico-m/p/MLB79915624?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793924803
   }
  ]
 }
