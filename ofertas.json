@@ -1,7 +1,21 @@
 {
- "updated": 1793998671,
+ "updated": 1793999092,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 930,
+   "key": "mercadolivre:MLB19714699",
+   "title": "Creme Hidratante Diabet TX Plus 250g - Goicoechea",
+   "price": 36.6,
+   "original": 48.8,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_915300-MLA107799999415_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-hidratante-diabet-tx-plus-250g-goicoechea/p/MLB19714699?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793999072
+  },
   {
    "n": 929,
    "key": "mercadolivre:MLB47887434",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793972826
-  },
-  {
-   "n": 870,
-   "key": "mercadolivre:MLB39230611",
-   "title": "Creatina Integralmédica sem sabor pacote x 2 frascos de 300g",
-   "price": 91.99,
-   "original": 119.9,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_951997-MLA99985874825_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-integralmedica-sem-sabor-pacote-x-2-frascos-de-300g/p/MLB39230611?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793972405
   }
  ]
 }
