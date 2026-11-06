@@ -1,7 +1,21 @@
 {
- "updated": 1793990264,
+ "updated": 1793990685,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 913,
+   "key": "mercadolivre:MLB19694427",
+   "title": "Escova Secadora Britânia Bivolt 1300w Soft Bec07r Original",
+   "price": 100.75,
+   "original": 142.5,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_927062-MLA118753936978_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-britania-bivolt-1300w-soft-bec07r-original/p/MLB19694427?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793990665
+  },
   {
    "n": 912,
    "key": "mercadolivre:MLB63956659",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793929013
-  },
-  {
-   "n": 853,
-   "key": "mercadolivre:MLB43398945",
-   "title": "Rotor Induzido Menegotti P/ Lixadeira Mlp750 Profissional",
-   "price": 101.78,
-   "original": 158.34,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_616880-MLA95664378756_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/rotor-induzido-menegotti-p-lixadeira-mlp750-profissional/p/MLB43398945?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793928592
   }
  ]
 }
