@@ -1,7 +1,21 @@
 {
- "updated": 1793991527,
+ "updated": 1793991948,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 916,
+   "key": "mercadolivre:MLB30917968",
+   "title": "Caixa de Som Amplificada Amvox ACA 1101 Duplo 8 Black 1100W Woofer 8\"",
+   "price": 795.4,
+   "original": 1299.0,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_664631-MLA99508571080_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-amplificada-amvox-aca-1101-duplo-8-black-1100w-woofer-8/p/MLB30917968?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793991928
+  },
   {
    "n": 915,
    "key": "mercadolivre:MLB23978905",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793966932
-  },
-  {
-   "n": 856,
-   "key": "mercadolivre:MLB43546155",
-   "title": "EMEET Nova 4K Webcam 1080P 60Fps Camera Para Pc Streaming Microfone Kit Viedeo Conferencia Foco Automático Preto",
-   "price": 208.22,
-   "original": 359.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_904018-MLA114948473263_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/emeet-nova-4k-webcam-1080p-60fps-camera-para-pc-streaming-microfone-kit-viedeo-conferencia-foco-automatico-preto/p/MLB43546155?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793966512
   }
  ]
 }
