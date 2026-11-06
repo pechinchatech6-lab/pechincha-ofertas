@@ -1,7 +1,21 @@
 {
- "updated": 1793973688,
+ "updated": 1793974110,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 874,
+   "key": "mercadolivre:MLB75077260",
+   "title": "Soprador Térmico Pistola de Ar Quente MECOLOUR 1500W 600°C 6 Bocais para Insulfilm e Envelopamento",
+   "price": 98.45,
+   "original": 179.0,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_813731-MLA116699413648_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-termico-pistola-de-ar-quente-mecolour-1500w-600-c-6-bocais-para-insulfilm-e-envelopamento/p/MLB75077260?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793974089
+  },
   {
    "n": 873,
    "key": "mercadolivre:MLB26826554",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793912592
-  },
-  {
-   "n": 814,
-   "key": "mercadolivre:MLB28525979",
-   "title": "Aquecedor Roll-on Cera Quente Depilador Elétrico Mega Bell Bivolt Automático - 110v/220v",
-   "price": 67.9,
-   "original": 89.0,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_747384-MLA85612694472_062025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aquecedor-roll-on-cera-quente-depilador-eletrico-mega-bell-bivolt-automatico-110v-220v/p/MLB28525979?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793912171
   }
  ]
 }
