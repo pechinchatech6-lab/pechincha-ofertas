@@ -1,7 +1,21 @@
 {
- "updated": 1793926086,
+ "updated": 1793926507,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 848,
+   "key": "mercadolivre:MLB19721946",
+   "title": "Relógio Casio Unissex Vintage Prata Aq-230a-1dmq",
+   "price": 116.96,
+   "original": 299.9,
+   "pct": 61,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_633473-MLA115741902361_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-casio-unissex-vintage-prata-aq-230a-1dmq/p/MLB19721946?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793926487
+  },
   {
    "n": 847,
    "key": "mercadolivre:MLB14180098",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793901644
-  },
-  {
-   "n": 788,
-   "key": "mercadolivre:MLB25685239",
-   "title": "Kit Completo Aerografia Mini Compressor Ar + Aerógrafo 0,3mm",
-   "price": 289.99,
-   "original": 397.48,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_670452-MLA99483709052_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-completo-aerografia-mini-compressor-ar-aerografo-0-3mm/p/MLB25685239?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793901223
   }
  ]
 }
