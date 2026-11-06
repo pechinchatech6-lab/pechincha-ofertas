@@ -1,7 +1,21 @@
 {
- "updated": 1793976792,
+ "updated": 1793977213,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 881,
+   "key": "mercadolivre:MLB19465754",
+   "title": "Batom Líquido Vinyl Ink 16h Vegano 35 Cheeky SuperStay Maybelline 4,2ml",
+   "price": 68.49,
+   "original": 108.49,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_752720-MLA88033588370_072025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/batom-liquido-vinyl-ink-16h-vegano-35-cheeky-superstay-maybelline-4-2ml/p/MLB19465754?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793977193
+  },
   {
    "n": 880,
    "key": "mercadolivre:MLB26085601",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793915539
-  },
-  {
-   "n": 821,
-   "key": "mercadolivre:MLB25263382",
-   "title": "Fone De Ouvido Bluetooth Bateria de Longa Duração Pro 4 Branco Conecta Rápido Com Case Carregador E Microfone Fast Plug",
-   "price": 24.99,
-   "original": 78.99,
-   "pct": 68,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_791435-MLA118754152028_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-bateria-de-longa-duracao-pro-4-branco-conecta-rapido-com-case-carregador-e-microfone-fast-plug/p/MLB25263382?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793915118
   }
  ]
 }
