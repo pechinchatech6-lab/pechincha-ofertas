@@ -1,7 +1,21 @@
 {
- "updated": 1793994053,
+ "updated": 1793994474,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 922,
+   "key": "mercadolivre:MLB78863823",
+   "title": "Retífica Pneumática Profissional Naisieka KMJ de Alta Rotação, com Maleta e Kit de Ponteiras para Lixar e Polir Metal",
+   "price": 104.0,
+   "original": 260.0,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_784959-MLA117115580949_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/retifica-pneumatica-profissional-naisieka-kmj-de-alta-rotacao-com-maleta-e-kit-de-ponteiras-para-lixar-e-polir-metal/p/MLB78863823?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793994454
+  },
   {
    "n": 921,
    "key": "mercadolivre:MLB57689750",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793969458
-  },
-  {
-   "n": 862,
-   "key": "mercadolivre:MLB19698479",
-   "title": "Creatina Dux Nutrition em pó Sem sabor x 300g",
-   "price": 35.9,
-   "original": 69.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_891287-MLA114656611130_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-dux-nutrition-em-po-sem-sabor-x-300g/p/MLB19698479?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793969037
   }
  ]
 }
