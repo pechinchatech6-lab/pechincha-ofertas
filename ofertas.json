@@ -1,7 +1,21 @@
 {
- "updated": 1794005828,
+ "updated": 1794006949,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 947,
+   "key": "mercadolivre:MLB64921330",
+   "title": "Vitaminas Always Fit Complexo B com Metilfolato e Metilcobalamina, 60 Cápsulas",
+   "price": 49.9,
+   "original": 69.9,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_951507-MLA105745113895_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/vitaminas-always-fit-complexo-b-com-metilfolato-e-metilcobalamina-60-capsulas/p/MLB64921330?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794006929
+  },
   {
    "n": 946,
    "key": "mercadolivre:MLB70228023",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793980140
-  },
-  {
-   "n": 887,
-   "key": "mercadolivre:MLB51868920",
-   "title": "Controle Sem Fio Xbox Series X S Microsoft Pulse Red para PC, One e Smart TVs",
-   "price": 421.0,
-   "original": 599.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_698165-MLA86671767786_062025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-sem-fio-xbox-series-x-s-microsoft-pulse-red-para-pc-one-e-smart-tvs/p/MLB51868920?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793979719
   }
  ]
 }
