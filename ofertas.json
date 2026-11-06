@@ -1,7 +1,21 @@
 {
- "updated": 1793976371,
+ "updated": 1793976792,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 880,
+   "key": "mercadolivre:MLB26085601",
+   "title": "Super Caixa De Som Completa Amplificada 200w 40 Cm De Altura Cor Preto",
+   "price": 145.0,
+   "original": 242.99,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_837631-MLA99983156149_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/super-caixa-de-som-completa-amplificada-200w-40-cm-de-altura-cor-preto/p/MLB26085601?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1793976772
+  },
   {
    "n": 879,
    "key": "mercadolivre:MLB48947564",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793915118
-  },
-  {
-   "n": 820,
-   "key": "mercadolivre:MLB80245753",
-   "title": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6\" E À Prova D'Água",
-   "price": 69.59,
-   "original": 79.99,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_680341-MLA118784298481_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-reforcada-jiesipote-para-viagem-com-compartimento-para-notebook-15-6-e-a-prova-d-agua/p/MLB80245753?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793914697
   }
  ]
 }
