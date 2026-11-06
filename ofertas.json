@@ -1,7 +1,21 @@
 {
- "updated": 1793929033,
+ "updated": 1793929454,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 855,
+   "key": "mercadolivre:MLB51132940",
+   "title": "Kit Discos de Serra Circular Rolken HSS para Micro Retífica e Furadeira, 7 Peças",
+   "price": 24.9,
+   "original": 38.32,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_689790-MLA112583257348_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-discos-de-serra-circular-rolken-hss-para-micro-retifica-e-furadeira-7-pecas/p/MLB51132940?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1793929434
+  },
   {
    "n": 854,
    "key": "mercadolivre:MLB18725403",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793904592
-  },
-  {
-   "n": 795,
-   "key": "mercadolivre:MLB65526763",
-   "title": "Relógio de Parede Digital Armstrong Quadrado, com Data, Temperatura e Alarme",
-   "price": 109.0,
-   "original": 216.5,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_712820-MLA114927673134_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-digital-armstrong-quadrado-com-data-temperatura-e-alarme/p/MLB65526763?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793904171
   }
  ]
 }
