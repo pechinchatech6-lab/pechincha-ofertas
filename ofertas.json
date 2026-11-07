@@ -1,7 +1,21 @@
 {
- "updated": 1794068310,
+ "updated": 1794068731,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1077,
+   "key": "mercadolivre:MLB27218826",
+   "title": "Kit 500 Aplicadores Descartáveis Batom T.D Cosméticos Rosa Cílios",
+   "price": 48.8,
+   "original": 55.9,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_901760-MLU77882425331_072024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-500-aplicadores-descartaveis-batom-t-d-cosmeticos-rosa-cilios/p/MLB27218826?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794068711
+  },
   {
    "n": 1076,
    "key": "mercadolivre:MLB65764004",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794037157
-  },
-  {
-   "n": 1017,
-   "key": "mercadolivre:MLB66607590",
-   "title": "Ventilador de Coluna Britânia 6 Pás 160W Maxx Force BVT44A",
-   "price": 285.31,
-   "original": 374.75,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_833225-MLA107903839444_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-britania-6-pas-160w-maxx-force-bvt44a/p/MLB66607590?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794036736
   }
  ]
 }
