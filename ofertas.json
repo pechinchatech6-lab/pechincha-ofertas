@@ -1,7 +1,21 @@
 {
- "updated": 1794087134,
+ "updated": 1794087748,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1120,
+   "key": "mercadolivre:MLB75237915",
+   "title": "Boné Masculino Trucker Country Rendinha Aba Curva Telinha Cor Preto Tamanho Único",
+   "price": 33.0,
+   "original": 39.59,
+   "pct": 17,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822285-MLA114300477059_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bone-masculino-trucker-country-rendinha-aba-curva-telinha-cor-preto-tamanho-unico/p/MLB75237915?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794087728
+  },
   {
    "n": 1119,
    "key": "mercadolivre:MLB19152893",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794061655
-  },
-  {
-   "n": 1060,
-   "key": "mercadolivre:MLB28407045",
-   "title": "Webcam Full HD Logitech Brio 100 - Grafite",
-   "price": 185.77,
-   "original": 225.0,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_874264-MLA106268664373_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-brio-100-grafite/p/MLB28407045?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794061234
   }
  ]
 }
