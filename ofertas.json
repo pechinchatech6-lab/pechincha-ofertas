@@ -1,7 +1,21 @@
 {
- "updated": 1794059149,
+ "updated": 1794059570,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1056,
+   "key": "mercadolivre:MLB6077911",
+   "title": "Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca RE31",
+   "price": 1595.0,
+   "original": 2399.0,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631165-MLA111827765025_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-cycle-defrost-240l-degelo-pratico-uma-porta-branca-re31/p/MLB6077911?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794059550
+  },
   {
    "n": 1055,
    "key": "mercadolivre:MLB25929487",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794028147
-  },
-  {
-   "n": 996,
-   "key": "mercadolivre:MLB56563800",
-   "title": "Bioré Óleo Demaquilante Facial Cleansing Oil Original 150ml",
-   "price": 49.9,
-   "original": 69.9,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_755988-MLA120725643229_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/biore-oleo-demaquilante-facial-cleansing-oil-original-150ml/p/MLB56563800?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794027726
   }
  ]
 }
