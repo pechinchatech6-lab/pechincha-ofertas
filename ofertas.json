@@ -1,7 +1,21 @@
 {
- "updated": 1794015956,
+ "updated": 1794016377,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 969,
+   "key": "mercadolivre:MLB19140415",
+   "title": "Suplemento Whey Isolate Protein Fuse 1,8kg sabor Morango Dark Lab",
+   "price": 179.9,
+   "original": 699.9,
+   "pct": 74,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_989007-MLA99405715766_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suplemento-whey-isolate-protein-fuse-1-8kg-sabor-morango-dark-lab/p/MLB19140415?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794016357
+  },
   {
    "n": 968,
    "key": "mercadolivre:MLB53218854",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793989402
-  },
-  {
-   "n": 909,
-   "key": "mercadolivre:MLB25834979",
-   "title": "Cor de fundo do relógio masculino Opk 6010 Quartz original: preto",
-   "price": 79.0,
-   "original": 119.0,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_684260-MLU70909697639_082023-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cor-de-fundo-do-relogio-masculino-opk-6010-quartz-original-preto/p/MLB25834979?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793988981
   }
  ]
 }
