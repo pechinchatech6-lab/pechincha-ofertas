@@ -1,7 +1,21 @@
 {
- "updated": 1794086292,
+ "updated": 1794086713,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1118,
+   "key": "mercadolivre:MLB43438200",
+   "title": "Smartband Xiaomi Smart Band 9 Active Rosa-Claro com Tela de 1.47\" e Monitor de Saúde",
+   "price": 188.81,
+   "original": 239.0,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_837680-MLA99853094051_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartband-xiaomi-smart-band-9-active-rosa-claro-com-tela-de-1-47-e-monitor-de-saude/p/MLB43438200?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794086693
+  },
   {
    "n": 1117,
    "key": "mercadolivre:MLB58382190",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794060813
-  },
-  {
-   "n": 1058,
-   "key": "mercadolivre:MLB18390529",
-   "title": "Creme Hidratante Diabet TX 350g - Goicoechea",
-   "price": 37.18,
-   "original": 42.5,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_720053-MLA119611093567_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-hidratante-diabet-tx-350g-goicoechea/p/MLB18390529?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794060392
   }
  ]
 }
