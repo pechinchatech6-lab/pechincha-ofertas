@@ -1,7 +1,21 @@
 {
- "updated": 1794036756,
+ "updated": 1794037177,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1018,
+   "key": "mercadolivre:MLB73383988",
+   "title": "Soprador Térmico ABLEMARK 600 °C Para Artesanato, Com 5 Bicos e Aquecimento Rápido",
+   "price": 130.95,
+   "original": 231.0,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_711023-MLA113130189801_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-termico-ablemark-600-c-para-artesanato-com-5-bicos-e-aquecimento-rapido/p/MLB73383988?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794037157
+  },
   {
    "n": 1017,
    "key": "mercadolivre:MLB66607590",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794012147
-  },
-  {
-   "n": 958,
-   "key": "mercadolivre:MLB68770277",
-   "title": "Aparador De Pelos Nariz E Orelha Elétrico Recarregável Sem Fio Acemic Preto Cortador Nasal Portátil Masculino E Feminino Para Higiene Pessoal Remoção De Pelos C",
-   "price": 19.99,
-   "original": 39.99,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674222-MLA110090137172_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-nariz-e-orelha-eletrico-recarregavel-sem-fio-acemic-preto-cortador-nasal-portatil-masculino-e-feminino/p/MLB68770277?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794011726
   }
  ]
 }
