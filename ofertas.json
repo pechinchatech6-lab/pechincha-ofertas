@@ -1,7 +1,21 @@
 {
- "updated": 1794054419,
+ "updated": 1794054841,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1046,
+   "key": "mercadolivre:MLB63414386",
+   "title": "Morsa Coordenada P/ Furadeira Bancada 4 Pol 100mm Vollekz Preto",
+   "price": 284.0,
+   "original": 437.38,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_852955-MLA101587007782_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/morsa-coordenada-p-furadeira-bancada-4-pol-100mm-vollekz-preto/p/MLB63414386?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794054821
+  },
   {
    "n": 1045,
    "key": "mercadolivre:MLB78840757",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794023937
-  },
-  {
-   "n": 986,
-   "key": "mercadolivre:MLB40182325",
-   "title": "Whey Protein Concentrado 1kg Morango Dark Lab",
-   "price": 136.9,
-   "original": 349.9,
-   "pct": 61,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_927988-MLA99469885866_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-morango-dark-lab/p/MLB40182325?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794023516
   }
  ]
 }
