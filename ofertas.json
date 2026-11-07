@@ -1,7 +1,21 @@
 {
- "updated": 1794092163,
+ "updated": 1794092584,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1131,
+   "key": "mercadolivre:MLB19160770",
+   "title": "Shampoo Para Bebê Johnson's Baby De Glicerina, 400ml",
+   "price": 19.99,
+   "original": 34.99,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631466-MLA109737821200_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-para-bebe-johnson-s-baby-de-glicerina-400ml/p/MLB19160770?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794092564
+  },
   {
    "n": 1130,
    "key": "mercadolivre:MLB56224979",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794066606
-  },
-  {
-   "n": 1071,
-   "key": "mercadolivre:MLB60126432",
-   "title": "Relógio Chroma Masculino Preto Saint Germain Clássico Caixa Preta Detalhes Prata 42mm",
-   "price": 126.96,
-   "original": 259.9,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_682402-MLA99403901858_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-chroma-masculino-preto-saint-germain-classico-caixa-preta-detalhes-prata-42mm/p/MLB60126432?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794066185
   }
  ]
 }
