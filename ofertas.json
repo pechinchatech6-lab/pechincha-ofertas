@@ -1,7 +1,21 @@
 {
- "updated": 1794029009,
+ "updated": 1794029430,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1000,
+   "key": "mercadolivre:MLB79751693",
+   "title": "Climatizador de Ar Portátil Paboxin 15L com Umidificador, 6 Velocidades e Controle Remoto",
+   "price": 484.02,
+   "original": 1139.99,
+   "pct": 58,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_977581-MLA118112130083_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-portatil-paboxin-15l-com-umidificador-6-velocidades-e-controle-remoto/p/MLB79751693?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794029410
+  },
   {
    "n": 999,
    "key": "mercadolivre:MLB18391072",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794003703
-  },
-  {
-   "n": 940,
-   "key": "mercadolivre:MLB19810227",
-   "title": "Creme Depilatório Veet Men Pele Normal 200ml",
-   "price": 39.9,
-   "original": 79.29,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_824173-MLA118163059710_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatorio-veet-men-pele-normal-200ml/p/MLB19810227?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794003282
   }
  ]
 }
