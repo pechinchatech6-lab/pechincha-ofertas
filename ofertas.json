@@ -1,7 +1,21 @@
 {
- "updated": 1794037954,
+ "updated": 1794038375,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1020,
+   "key": "mercadolivre:MLB15238956",
+   "title": "Chapinha De Cabelo Mq Professional Titanium Pro 480 Cor Chumbo",
+   "price": 389.48,
+   "original": 577.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_614724-MLA99489875538_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-mq-professional-titanium-pro-480-cor-chumbo/p/MLB15238956?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794038355
+  },
   {
    "n": 1019,
    "key": "mercadolivre:MLB41234257",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794012989
-  },
-  {
-   "n": 960,
-   "key": "mercadolivre:MLB34380457",
-   "title": "Unidade De Disco Playstation 5 Slim Cor Branco",
-   "price": 615.43,
-   "original": 699.0,
-   "pct": 12,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA100007892529_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/unidade-de-disco-playstation-5-slim-cor-branco/p/MLB34380457?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794012568
   }
  ]
 }
