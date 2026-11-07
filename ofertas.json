@@ -1,7 +1,21 @@
 {
- "updated": 1794045522,
+ "updated": 1794046151,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1033,
+   "key": "mercadolivre:MLB37931954",
+   "title": "Fone De Ouvido Sem Fio Para Treinos soundcore Sport X20 ANC Cancelamento De Ruído Ativo Bluetooth 5.3 Multiponto Ganchos Ajustáveis Graves Potentes Bateria 48H ",
+   "price": 479.0,
+   "original": 816.0,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_980790-MLA99367365098_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-para-treinos-soundcore-sport-x20-anc-cancelamento-de-ruido-ativo-bluetooth-5-3-multiponto-ganchos/p/MLB37931954?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794046131
+  },
   {
    "n": 1032,
    "key": "mercadolivre:MLB26703117",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794018463
-  },
-  {
-   "n": 973,
-   "key": "mercadolivre:MLB56094914",
-   "title": "Boné Trucker Masculino Liso com Aba Curva Preto",
-   "price": 18.68,
-   "original": 28.61,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_691796-MLA99611998710_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-trucker-masculino-liso-com-aba-curva-preto/p/MLB56094914?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794018041
   }
  ]
 }
