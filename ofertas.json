@@ -1,7 +1,21 @@
 {
- "updated": 1794011325,
+ "updated": 1794011746,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 958,
+   "key": "mercadolivre:MLB68770277",
+   "title": "Aparador De Pelos Nariz E Orelha Elétrico Recarregável Sem Fio Acemic Preto Cortador Nasal Portátil Masculino E Feminino Para Higiene Pessoal Remoção De Pelos C",
+   "price": 19.99,
+   "original": 39.99,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_674222-MLA110090137172_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-nariz-e-orelha-eletrico-recarregavel-sem-fio-acemic-preto-cortador-nasal-portatil-masculino-e-feminino/p/MLB68770277?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794011726
+  },
   {
    "n": 957,
    "key": "mercadolivre:MLB70336750",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793984771
-  },
-  {
-   "n": 898,
-   "key": "mercadolivre:MLB61594883",
-   "title": "Máquina De Lavar Bwf14ab 14kg Smart Sensor Ciclo Brastemp - Branco",
-   "price": 1749.99,
-   "original": 2516.08,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_814922-MLA99986840349_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-bwf14ab-14kg-smart-sensor-ciclo-brastemp-branco/p/MLB61594883?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793984350
   }
  ]
 }
