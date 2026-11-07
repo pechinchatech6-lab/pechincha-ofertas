@@ -1,7 +1,21 @@
 {
- "updated": 1794069573,
+ "updated": 1794069994,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1080,
+   "key": "mercadolivre:MLB80498644",
+   "title": "Alaxe Caixa De Som Inteligente Comando Voz Portátil Bluetooth LED RGB Compatível Com Aplicativo Alexa No Celular Som Sem Fio Compacta Para Casa Quarto Escritóri",
+   "price": 58.1,
+   "original": 175.0,
+   "pct": 67,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822646-MLA119209021623_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alaxe-caixa-de-som-inteligente-comando-voz-portatil-bluetooth-led-rgb-compativel-com-aplicativo-alexa-no-celular-som-sem/p/MLB80498644?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794069974
+  },
   {
    "n": 1079,
    "key": "mercadolivre:MLB19506691",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794038776
-  },
-  {
-   "n": 1020,
-   "key": "mercadolivre:MLB15238956",
-   "title": "Chapinha De Cabelo Mq Professional Titanium Pro 480 Cor Chumbo",
-   "price": 389.48,
-   "original": 577.9,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_614724-MLA99489875538_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-mq-professional-titanium-pro-480-cor-chumbo/p/MLB15238956?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794038355
   }
  ]
 }
