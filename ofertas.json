@@ -1,7 +1,21 @@
 {
- "updated": 1794041414,
+ "updated": 1794042028,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1027,
+   "key": "mercadolivre:MLB62958868",
+   "title": "Controle Para Ps2 E Ps1 Video game Dualshock Joystick Manete Com Fio E Analógico - Crowley",
+   "price": 29.9,
+   "original": 44.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_752612-MLA109505480396_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-para-ps2-e-ps1-video-game-dualshock-joystick-manete-com-fio-e-analogico-crowley/p/MLB62958868?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794042008
+  },
   {
    "n": 1026,
    "key": "mercadolivre:MLB18572371",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794015936
-  },
-  {
-   "n": 967,
-   "key": "mercadolivre:MLB22647527",
-   "title": "Escova Secadora Keratin, Mondial, 1300W - ES-11-BI Bivolt",
-   "price": 105.0,
-   "original": 222.9,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_856835-MLA100007840721_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-keratin-mondial-1300w-es-11-bi-bivolt/p/MLB22647527?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794015515
   }
  ]
 }
