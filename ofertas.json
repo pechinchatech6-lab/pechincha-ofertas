@@ -1,7 +1,21 @@
 {
- "updated": 1794034061,
+ "updated": 1794034482,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1012,
+   "key": "mercadolivre:MLB70516181",
+   "title": "Relógio Despertador Analógico Vintage Prateado, de Metal com Dois Sinos e Luz Noturna",
+   "price": 26.99,
+   "original": 36.5,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_713937-MLA113102590587_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-despertador-analogico-vintage-prateado-de-metal-com-dois-sinos-e-luz-noturna/p/MLB70516181?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794034462
+  },
   {
    "n": 1011,
    "key": "mercadolivre:MLB50181290",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794009455
-  },
-  {
-   "n": 952,
-   "key": "mercadolivre:MLB72990342",
-   "title": "Lip Tint Boca Rosa Batom Blush 10ml Vermelho Paixão",
-   "price": 42.1,
-   "original": 62.38,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_687050-MLA111868733898_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lip-tint-boca-rosa-batom-blush-10ml-vermelho-paixao/p/MLB72990342?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794009034
   }
  ]
 }
