@@ -1,7 +1,21 @@
 {
- "updated": 1794089637,
+ "updated": 1794090058,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1125,
+   "key": "mercadolivre:MLB42460852",
+   "title": "Alicate Tesoura Corta Vergalhão 30 Pol 750mm Aço Bramix",
+   "price": 123.0,
+   "original": 175.72,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_810142-MLA99444627574_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-tesoura-corta-vergalhao-30-pol-750mm-aco-bramix/p/MLB42460852?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794090038
+  },
   {
    "n": 1124,
    "key": "mercadolivre:MLB65184709",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794063790
-  },
-  {
-   "n": 1065,
-   "key": "mercadolivre:MLB33997846",
-   "title": "Controle Sem Fio Sony DualSense para PlayStation 5 Cor Branco CFI-ZCT1W",
-   "price": 339.99,
-   "original": 559.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_798856-MLA119118101088_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-sem-fio-sony-dualsense-para-playstation-5-cor-branco-cfi-zct1w/p/MLB33997846?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794063369
   }
  ]
 }
