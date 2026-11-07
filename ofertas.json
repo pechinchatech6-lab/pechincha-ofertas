@@ -1,7 +1,21 @@
 {
- "updated": 1794093426,
+ "updated": 1794093847,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1134,
+   "key": "mercadolivre:MLB79380541",
+   "title": "Caixa Caixinha De Som Bluetooth Pendrive Fm Sd Portátil 50w",
+   "price": 59.9,
+   "original": 86.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_882937-MLA116430422614_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-caixinha-de-som-bluetooth-pendrive-fm-sd-portatil-50w/p/MLB79380541?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794093827
+  },
   {
    "n": 1133,
    "key": "mercadolivre:MLB38919855",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794067869
-  },
-  {
-   "n": 1074,
-   "key": "mercadolivre:MLB44932986",
-   "title": "Chinelo Kenner Kivah Line Sem Desenho",
-   "price": 75.19,
-   "original": 101.0,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_634703-MLA96103845603_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chinelo-kenner-kivah-line-sem-desenho/p/MLB44932986?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794067448
   }
  ]
 }
