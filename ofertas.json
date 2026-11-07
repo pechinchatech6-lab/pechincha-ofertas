@@ -1,7 +1,21 @@
 {
- "updated": 1794062969,
+ "updated": 1794063389,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1065,
+   "key": "mercadolivre:MLB33997846",
+   "title": "Controle Sem Fio Sony DualSense para PlayStation 5 Cor Branco CFI-ZCT1W",
+   "price": 339.99,
+   "original": 559.0,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_798856-MLA119118101088_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-sem-fio-sony-dualsense-para-playstation-5-cor-branco-cfi-zct1w/p/MLB33997846?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794063369
+  },
   {
    "n": 1064,
    "key": "mercadolivre:MLB47519001",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794031936
-  },
-  {
-   "n": 1005,
-   "key": "mercadolivre:MLB24208936",
-   "title": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
-   "price": 32.17,
-   "original": 62.99,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-johnson-s-baby-glicerina-hipoalergenico-750ml/p/MLB24208936?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794031515
   }
  ]
 }
