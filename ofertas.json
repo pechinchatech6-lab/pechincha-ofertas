@@ -1,7 +1,21 @@
 {
- "updated": 1794031114,
+ "updated": 1794031535,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1005,
+   "key": "mercadolivre:MLB24208936",
+   "title": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+   "price": 32.17,
+   "original": 62.99,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-johnson-s-baby-glicerina-hipoalergenico-750ml/p/MLB24208936?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794031515
+  },
   {
    "n": 1004,
    "key": "mercadolivre:MLB79727962",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794005808
-  },
-  {
-   "n": 945,
-   "key": "mercadolivre:MLB47078704",
-   "title": "Controle Gamesir Super Nova Sem Fio Para Pc Switch Ios Android hall EfFeCt Anti Drift Rgb Rosa",
-   "price": 258.78,
-   "original": 386.51,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_714468-MLA99979875795_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-super-nova-sem-fio-para-pc-switch-ios-android-hall-effect-anti-drift-rgb-rosa/p/MLB47078704?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794005387
   }
  ]
 }
