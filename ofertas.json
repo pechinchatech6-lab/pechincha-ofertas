@@ -1,7 +1,21 @@
 {
- "updated": 1794090900,
+ "updated": 1794091321,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1128,
+   "key": "mercadolivre:MLB62291004",
+   "title": "1500 N.m Chave De Impacto Profissional 48V Brushless 2 Baterias 4000ma War Shark Bivolt",
+   "price": 399.0,
+   "original": 999.0,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_887072-MLA116515153103_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/1500-n-m-chave-de-impacto-profissional-48v-brushless-2-baterias-4000ma-war-shark-bivolt/p/MLB62291004?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794091301
+  },
   {
    "n": 1127,
    "key": "mercadolivre:MLB46342327",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794065053
-  },
-  {
-   "n": 1068,
-   "key": "mercadolivre:MLB67267597",
-   "title": "Smart Tv Philco 50 P50vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
-   "price": 2221.11,
-   "original": 3499.0,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_750412-MLA108743699852_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-philco-50-p50vik-4k-uhd-led-roku-dolby-audio-wi-fi-hdr10-110-220v/p/MLB67267597?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794064632
   }
  ]
 }
