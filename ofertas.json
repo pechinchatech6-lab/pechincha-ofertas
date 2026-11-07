@@ -1,7 +1,21 @@
 {
- "updated": 1794048256,
+ "updated": 1794048677,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1039,
+   "key": "mercadolivre:MLB19790746",
+   "title": "Micro-ondas Electrolux 36L Branco Efficient com Descongelamento Assistido ME36B",
+   "price": 620.23,
+   "original": 899.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_700594-MLA99497292644_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-electrolux-36l-branco-efficient-com-descongelamento-assistido-me36b/p/MLB19790746?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794048657
+  },
   {
    "n": 1038,
    "key": "mercadolivre:MLB18638651",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794020989
-  },
-  {
-   "n": 979,
-   "key": "mercadolivre:MLB62661747",
-   "title": "Ventilador De Parede Ventisol New Azul 3 Velocidades Estrutura Preto Diâmetro 50 Cm Material Das Pás Plástico",
-   "price": 198.99,
-   "original": 499.0,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_623474-MLA99869153411_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-parede-ventisol-new-azul-3-velocidades-estrutura-preto-diametro-50-cm-material-das-pas-plastico/p/MLB62661747?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794020568
   }
  ]
 }
