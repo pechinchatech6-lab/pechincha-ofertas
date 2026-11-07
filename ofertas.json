@@ -1,7 +1,21 @@
 {
- "updated": 1794079623,
+ "updated": 1794080045,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1103,
+   "key": "mercadolivre:MLB39167899",
+   "title": "Óleo para Barba Natura Homem, 30 ml",
+   "price": 49.14,
+   "original": 81.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_877552-MLU78029615962_082024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/oleo-para-barba-natura-homem-30-ml/p/MLB39167899?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794080025
+  },
   {
    "n": 1102,
    "key": "mercadolivre:MLB18555054",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794051276
-  },
-  {
-   "n": 1043,
-   "key": "mercadolivre:MLB32419427",
-   "title": "Creme De Barbear Natura Essencial Masculino 75g",
-   "price": 33.76,
-   "original": 68.9,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_705845-MLA99361907550_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-de-barbear-natura-essencial-masculino-75g/p/MLB32419427?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794050671
   }
  ]
 }
