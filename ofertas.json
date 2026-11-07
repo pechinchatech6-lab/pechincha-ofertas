@@ -1,7 +1,21 @@
 {
- "updated": 1794062096,
+ "updated": 1794062517,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1063,
+   "key": "mercadolivre:MLB51763024",
+   "title": "Moto Serra Elétrica 12 Polegadas 2 Baterias 48v Portátil Recarregável Profissional Kamare",
+   "price": 291.93,
+   "original": 499.99,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_945631-MLA115520669241_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/moto-serra-eletrica-12-polegadas-2-baterias-48v-portatil-recarregavel-profissional-kamare/p/MLB51763024?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794062497
+  },
   {
    "n": 1062,
    "key": "mercadolivre:MLB23249699",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794031094
-  },
-  {
-   "n": 1003,
-   "key": "mercadolivre:MLB70106562",
-   "title": "LG Home Theater Sound Bar S70TR",
-   "price": 1764.22,
-   "original": 2799.0,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_880525-MLA111071287524_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lg-home-theater-sound-bar-s70tr/p/MLB70106562?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794030673
   }
  ]
 }
