@@ -1,7 +1,21 @@
 {
- "updated": 1794076255,
+ "updated": 1794076676,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1095,
+   "key": "mercadolivre:MLB78620279",
+   "title": "Nintendo Switch Sports Resort - NS2",
+   "price": 369.9,
+   "original": 419.9,
+   "pct": 12,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_842013-MLA116813640343_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nintendo-switch-sports-resort-ns2/p/MLB78620279?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794076656
+  },
   {
    "n": 1094,
    "key": "mercadolivre:MLB18630341",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794047394
-  },
-  {
-   "n": 1035,
-   "key": "mercadolivre:MLB77676680",
-   "title": "Soundbar Kimiso 2.1 Desmontável com Subwoofer de 5,25\" para TV e PC",
-   "price": 419.0,
-   "original": 589.0,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_969104-MLA119236427877_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-kimiso-2-1-desmontavel-com-subwoofer-de-5-25-para-tv-e-pc/p/MLB77676680?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794046973
   }
  ]
 }
