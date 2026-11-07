@@ -1,7 +1,21 @@
 {
- "updated": 1794014693,
+ "updated": 1794015114,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 966,
+   "key": "mercadolivre:MLB46220824",
+   "title": "Webcam Camera Full Hd Zoom 1080p 360 Graus Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone- GoodVision",
+   "price": 36.7,
+   "original": 78.98,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_807092-MLA100966388363_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-360-graus-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-goodvision/p/MLB46220824?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794015094
+  },
   {
    "n": 965,
    "key": "mercadolivre:MLB10603268",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793988139
-  },
-  {
-   "n": 906,
-   "key": "mercadolivre:MLB20306137",
-   "title": "Mixer Elétrico 2 em 1 Recarregável USB 3 Velocidades Espumador de Leite Profissional em Aço Inoxidável Misturador Portátil para Cappuccino, Café, Whey, Matcha, ",
-   "price": 15.8,
-   "original": 78.99,
-   "pct": 80,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_877207-MLA119236955958_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mixer-eletrico-2-em-1-recarregavel-usb-3-velocidades-espumador-de-leite-profissional-em-aco-inoxidavel-misturador-portat/p/MLB20306137?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793987718
   }
  ]
 }
