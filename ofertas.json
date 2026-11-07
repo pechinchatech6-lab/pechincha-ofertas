@@ -1,7 +1,21 @@
 {
- "updated": 1794057465,
+ "updated": 1794057886,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1052,
+   "key": "mercadolivre:MLB70449712",
+   "title": "Body Splash Masculino Vibration 200ml - Primacial Perfume Bergamota Fresco",
+   "price": 41.61,
+   "original": 69.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_617155-MLA118231595864_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/body-splash-masculino-vibration-200ml-primacial-perfume-bergamota-fresco/p/MLB70449712?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794057866
+  },
   {
    "n": 1051,
    "key": "mercadolivre:MLB79307969",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794026463
-  },
-  {
-   "n": 992,
-   "key": "mercadolivre:MLB48196257",
-   "title": "Hidratante Multi Com Rosa Mosqueta Bepantol Derma 20g Momento De Aplicação Dia/noite Tipo De Pele Todo Tipo De Pele",
-   "price": 25.05,
-   "original": 28.15,
-   "pct": 11,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_750578-MLA83450389292_042025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hidratante-multi-com-rosa-mosqueta-bepantol-derma-20g-momento-de-aplicacao-dia-noite-tipo-de-pele-todo-tipo-de-pele/p/MLB48196257?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794026042
   }
  ]
 }
