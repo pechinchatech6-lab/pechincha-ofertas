@@ -1,7 +1,21 @@
 {
- "updated": 1794046993,
+ "updated": 1794047414,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1036,
+   "key": "mercadolivre:MLB68022762",
+   "title": "Forno Elétrico 52l Family Grill Inox Mondial 1800w Frn-52-bi",
+   "price": 434.99,
+   "original": 596.9,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_652340-MLA112261101364_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/forno-eletrico-52l-family-grill-inox-mondial-1800w-frn-52-bi/p/MLB68022762?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794047394
+  },
   {
    "n": 1035,
    "key": "mercadolivre:MLB77676680",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794019726
-  },
-  {
-   "n": 976,
-   "key": "mercadolivre:MLB56064567",
-   "title": "Short Cinta Modeladora Cós Alto Compressão Redutora Selene Cor Pó De Arroz Tamanho G",
-   "price": 21.83,
-   "original": 73.98,
-   "pct": 70,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_965925-MLA92022613418_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/short-cinta-modeladora-cos-alto-compressao-redutora-selene-cor-po-de-arroz-tamanho-g/p/MLB56064567?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794019305
   }
  ]
 }
