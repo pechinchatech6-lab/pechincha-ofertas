@@ -1,7 +1,21 @@
 {
- "updated": 1794020588,
+ "updated": 1794021009,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 980,
+   "key": "mercadolivre:MLB53816191",
+   "title": "Webcam Intelbras WCI-720p HD com Microfone e Tampa de Lente USB",
+   "price": 105.29,
+   "original": 139.0,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_864804-MLA100169344723_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-intelbras-wci-720p-hd-com-microfone-e-tampa-de-lente-usb/p/MLB53816191?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794020989
+  },
   {
    "n": 979,
    "key": "mercadolivre:MLB62661747",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793994033
-  },
-  {
-   "n": 920,
-   "key": "mercadolivre:MLB67146264",
-   "title": "Mini Mixer Misturador De Bebidas Elétrico 2 Em 1 Portátil Recarregável Mexedor De Ovos Leite Whey Café Espuma Shake Drinks Capuccino Suco Blackbom",
-   "price": 19.99,
-   "original": 49.99,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_993099-MLA118374430742_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-mixer-misturador-de-bebidas-eletrico-2-em-1-portatil-recarregavel-mexedor-de-ovos-leite-whey-cafe-espuma-shake-drin/p/MLB67146264?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793993612
   }
  ]
 }
