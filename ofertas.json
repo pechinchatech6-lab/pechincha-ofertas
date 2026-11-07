@@ -1,7 +1,21 @@
 {
- "updated": 1794028167,
+ "updated": 1794028588,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 998,
+   "key": "mercadolivre:MLB76394503",
+   "title": "Chave De Impacto Parafusadeira Furadeira Brushless 2 Baterias Sem Fio",
+   "price": 207.96,
+   "original": 569.0,
+   "pct": 63,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_917221-MLA118827145165_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chave-de-impacto-parafusadeira-furadeira-brushless-2-baterias-sem-fio/p/MLB76394503?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794028568
+  },
   {
    "n": 997,
    "key": "mercadolivre:MLB38659083",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794002861
-  },
-  {
-   "n": 938,
-   "key": "mercadolivre:MLB56214303",
-   "title": "Caixa de Som JBL PartyBox Club 120 Bluetooth Show de Luzes À Prova de Respingos Som JBL Pro Sound 160W RMS - Preta",
-   "price": 1762.77,
-   "original": 2630.0,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_848788-MLA118747656417_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-jbl-partybox-club-120-bluetooth-show-de-luzes-a-prova-de-respingos-som-jbl-pro-sound-160w-rms-preta/p/MLB56214303?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794002440
   }
  ]
 }
