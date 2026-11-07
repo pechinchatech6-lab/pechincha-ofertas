@@ -1,7 +1,21 @@
 {
- "updated": 1794023536,
+ "updated": 1794023957,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 987,
+   "key": "mercadolivre:MLB70308697",
+   "title": "Rádio Caixa De Som Bluetooth Recarregável Led Beexcellent Azul",
+   "price": 75.99,
+   "original": 99.9,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_840105-MLA111245741562_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/radio-caixa-de-som-bluetooth-recarregavel-led-beexcellent-azul/p/MLB70308697?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794023937
+  },
   {
    "n": 986,
    "key": "mercadolivre:MLB40182325",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793996980
-  },
-  {
-   "n": 927,
-   "key": "mercadolivre:MLB38446486",
-   "title": "Lixadeira Pneumática Orbital 6 Roquite Hookit Com Aspiração Profissional TLP600V The Black Tools",
-   "price": 199.9,
-   "original": 304.5,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_895686-MLA117363374148_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-orbital-6-roquite-hookit-com-aspiracao-profissional-tlp600v-the-black-tools/p/MLB38446486?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793996559
   }
  ]
 }
