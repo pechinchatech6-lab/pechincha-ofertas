@@ -1,7 +1,21 @@
 {
- "updated": 1794060412,
+ "updated": 1794060833,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1059,
+   "key": "mercadolivre:MLB6333687",
+   "title": "Geladeira Electrolux DC35A Cycle Defrost 260L Super Freezer Duplex Branca",
+   "price": 2099.0,
+   "original": 3699.0,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_946905-MLA114996170178_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-dc35a-cycle-defrost-260l-super-freezer-duplex-branca/p/MLB6333687?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794060813
+  },
   {
    "n": 1058,
    "key": "mercadolivre:MLB18390529",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794029410
-  },
-  {
-   "n": 999,
-   "key": "mercadolivre:MLB18391072",
-   "title": "Loção Hidratante Firmador Q10 + Vitamina C 200ml Nivea",
-   "price": 16.07,
-   "original": 30.49,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_873706-MLA111824424519_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/locao-hidratante-firmador-q10-vitamina-c-200ml-nivea/p/MLB18391072?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794028989
   }
  ]
 }
