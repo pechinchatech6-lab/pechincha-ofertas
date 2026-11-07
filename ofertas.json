@@ -1,7 +1,21 @@
 {
- "updated": 1794039967,
+ "updated": 1794040388,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1024,
+   "key": "mercadolivre:MLB27634376",
+   "title": "Vittak Organizador Maquiagem Cosméticos Batom Acrílico Giratório 360º Ajustável",
+   "price": 44.9,
+   "original": 58.8,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_986811-MLA112845656392_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/vittak-organizador-maquiagem-cosmeticos-batom-acrilico-giratorio-360o-ajustavel/p/MLB27634376?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794040368
+  },
   {
    "n": 1023,
    "key": "mercadolivre:MLB40231548",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794014673
-  },
-  {
-   "n": 964,
-   "key": "mercadolivre:MLB50575630",
-   "title": "Microfone sem fio Hollyland Lark A1 Combo cor preto",
-   "price": 392.49,
-   "original": 599.99,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_743619-MLA105319745630_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-sem-fio-hollyland-lark-a1-combo-cor-preto/p/MLB50575630?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794014252
   }
  ]
 }
