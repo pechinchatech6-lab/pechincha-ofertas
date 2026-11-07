@@ -1,7 +1,21 @@
 {
- "updated": 1794017640,
+ "updated": 1794018061,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 973,
+   "key": "mercadolivre:MLB56094914",
+   "title": "Boné Trucker Masculino Liso com Aba Curva Preto",
+   "price": 18.68,
+   "original": 28.61,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_691796-MLA99611998710_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bone-trucker-masculino-liso-com-aba-curva-preto/p/MLB56094914?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794018041
+  },
   {
    "n": 972,
    "key": "mercadolivre:MLB73418954",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793991086
-  },
-  {
-   "n": 913,
-   "key": "mercadolivre:MLB19694427",
-   "title": "Escova Secadora Britânia Bivolt 1300w Soft Bec07r Original",
-   "price": 100.75,
-   "original": 142.5,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_927062-MLA118753936978_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-britania-bivolt-1300w-soft-bec07r-original/p/MLB19694427?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793990665
   }
  ]
 }
