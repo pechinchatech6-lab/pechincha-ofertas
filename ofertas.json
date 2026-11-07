@@ -1,7 +1,21 @@
 {
- "updated": 1794037177,
+ "updated": 1794037954,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1019,
+   "key": "mercadolivre:MLB41234257",
+   "title": "LG Soundbar S60tr 440w Rms, 5.1 Canais, Bluetooth 5.3, Dol Preto 120 Hz",
+   "price": 1522.66,
+   "original": 2199.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_610679-MLA79349332342_092024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lg-soundbar-s60tr-440w-rms-5-1-canais-bluetooth-5-3-dol-preto-120-hz/p/MLB41234257?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794037934
+  },
   {
    "n": 1018,
    "key": "mercadolivre:MLB73383988",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794012568
-  },
-  {
-   "n": 959,
-   "key": "mercadolivre:MLB49197371",
-   "title": "Smart Tv Tcl 32 Polegadas Qled Full Hd S5k Wifi Bluetooth Google Tv 2 Hdmi Hdr10 Dolby Audio 32s5k",
-   "price": 1019.9,
-   "original": 1550.93,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_895373-MLA115962251521_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-tcl-32-polegadas-qled-full-hd-s5k-wifi-bluetooth-google-tv-2-hdmi-hdr10-dolby-audio-32s5k/p/MLB49197371?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794012147
   }
  ]
 }
