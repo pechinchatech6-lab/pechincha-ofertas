@@ -1,7 +1,21 @@
 {
- "updated": 1794039217,
+ "updated": 1794039967,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1023,
+   "key": "mercadolivre:MLB40231548",
+   "title": "Controle Gamepad Gamesir Galileo G8 + com Bluetooth para Android Ios Switch Tablet Pc Celular Cor Cinza Espacial",
+   "price": 358.69,
+   "original": 552.22,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_618495-MLA95678689468_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamepad-gamesir-galileo-g8-com-bluetooth-para-android-ios-switch-tablet-pc-celular-cor-cinza-espacial/p/MLB40231548?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794039947
+  },
   {
    "n": 1022,
    "key": "mercadolivre:MLB65036528",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794014252
-  },
-  {
-   "n": 963,
-   "key": "mercadolivre:MLB73436853",
-   "title": "Organizador Multiuso Mesa Maquiagem Pincel Skincare Banheiro Cristal",
-   "price": 28.0,
-   "original": 36.99,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_947433-MLA113158137831_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/organizador-multiuso-mesa-maquiagem-pincel-skincare-banheiro-cristal/p/MLB73436853?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794013831
   }
  ]
 }
