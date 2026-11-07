@@ -1,7 +1,21 @@
 {
- "updated": 1794012588,
+ "updated": 1794013009,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 961,
+   "key": "mercadolivre:MLB68020736",
+   "title": "Caixa De Som Soundbar RMS 200W Home Theater Tv Sound Bar Com Subwoofer Bluetooth Som Cinema, Com HDMI ARC, óptico, AUX e Coaxial",
+   "price": 674.0,
+   "original": 1299.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_823006-MLA118820005541_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-soundbar-rms-200w-home-theater-tv-sound-bar-com-subwoofer-bluetooth-som-cinema-com-hdmi-arc-optico-aux-e-co/p/MLB68020736?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794012989
+  },
   {
    "n": 960,
    "key": "mercadolivre:MLB34380457",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793986034
-  },
-  {
-   "n": 901,
-   "key": "mercadolivre:MLB66911368",
-   "title": "Kit Alicate Crimpar Descascador 1200 Terminais Ilhós Tubular W&g",
-   "price": 74.59,
-   "original": 119.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_909617-MLA109112766975_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-alicate-crimpar-descascador-1200-terminais-ilhos-tubular-w-g/p/MLB66911368?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793985613
   }
  ]
 }
