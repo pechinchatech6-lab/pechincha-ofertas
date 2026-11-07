@@ -1,7 +1,21 @@
 {
- "updated": 1794067047,
+ "updated": 1794067468,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1074,
+   "key": "mercadolivre:MLB44932986",
+   "title": "Chinelo Kenner Kivah Line Sem Desenho",
+   "price": 75.19,
+   "original": 101.0,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_634703-MLA96103845603_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chinelo-kenner-kivah-line-sem-desenho/p/MLB44932986?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794067448
+  },
   {
    "n": 1073,
    "key": "mercadolivre:MLB74952987",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794035894
-  },
-  {
-   "n": 1014,
-   "key": "mercadolivre:MLB41168545",
-   "title": "Furadeira De Impacto 13mm 750w Profissional Com Kit Brocas Buchas E Bits 300 Peças The Black Tools",
-   "price": 199.9,
-   "original": 345.41,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_630406-MLA99939153905_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/furadeira-de-impacto-13mm-750w-profissional-com-kit-brocas-buchas-e-bits-300-pecas-the-black-tools/p/MLB41168545?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794035304
   }
  ]
 }
