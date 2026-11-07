@@ -1,7 +1,21 @@
 {
- "updated": 1794032377,
+ "updated": 1794032798,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1008,
+   "key": "mercadolivre:MLB23445432",
+   "title": "Relógio De Parede Led Digital Grande Termometro Recepção Preto Fast Plug",
+   "price": 64.9,
+   "original": 78.99,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_966574-MLA106370269334_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-led-digital-grande-termometro-recepcao-preto-fast-plug/p/MLB23445432?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794032778
+  },
   {
    "n": 1007,
    "key": "mercadolivre:MLB27731058",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794007771
-  },
-  {
-   "n": 948,
-   "key": "mercadolivre:MLB68833324",
-   "title": "Caixa de Som Gamer Soundbar Redragon Neo RGB Preto, para Som Imersivo",
-   "price": 181.39,
-   "original": 399.9,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_837939-MLA111040366985_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-gamer-soundbar-redragon-neo-rgb-preto-para-som-imersivo/p/MLB68833324?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794007350
   }
  ]
 }
