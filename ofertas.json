@@ -1,7 +1,21 @@
 {
- "updated": 1794083766,
+ "updated": 1794084187,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1112,
+   "key": "mercadolivre:MLB32101995",
+   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Branco MICGEEK",
+   "price": 23.95,
+   "original": 40.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_785462-MLA110586324994_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-branco-micgeek/p/MLB32101995?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794084167
+  },
   {
    "n": 1111,
    "key": "mercadolivre:MLB36754311",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794058287
-  },
-  {
-   "n": 1052,
-   "key": "mercadolivre:MLB70449712",
-   "title": "Body Splash Masculino Vibration 200ml - Primacial Perfume Bergamota Fresco",
-   "price": 41.61,
-   "original": 69.9,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_617155-MLA118231595864_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/body-splash-masculino-vibration-200ml-primacial-perfume-bergamota-fresco/p/MLB70449712?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794057866
   }
  ]
 }
