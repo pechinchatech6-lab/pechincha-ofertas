@@ -1,7 +1,21 @@
 {
- "updated": 1794027325,
+ "updated": 1794027746,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 996,
+   "key": "mercadolivre:MLB56563800",
+   "title": "Bioré Óleo Demaquilante Facial Cleansing Oil Original 150ml",
+   "price": 49.9,
+   "original": 69.9,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_755988-MLA120725643229_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/biore-oleo-demaquilante-facial-cleansing-oil-original-150ml/p/MLB56563800?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794027726
+  },
   {
    "n": 995,
    "key": "mercadolivre:MLB54549630",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794002019
-  },
-  {
-   "n": 936,
-   "key": "mercadolivre:MLB28463712",
-   "title": "Relógio Digital Mesa Despertador Inteligente Cabeceira Quarto Idoso Com Sensor De Temperatura Micgeek",
-   "price": 23.66,
-   "original": 40.0,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_642764-MLA97096422781_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-digital-mesa-despertador-inteligente-cabeceira-quarto-idoso-com-sensor-de-temperatura-micgeek/p/MLB28463712?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794001598
   }
  ]
 }
