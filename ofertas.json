@@ -1,7 +1,21 @@
 {
- "updated": 1794059991,
+ "updated": 1794060412,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1058,
+   "key": "mercadolivre:MLB18390529",
+   "title": "Creme Hidratante Diabet TX 350g - Goicoechea",
+   "price": 37.18,
+   "original": 42.5,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_720053-MLA119611093567_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-hidratante-diabet-tx-350g-goicoechea/p/MLB18390529?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794060392
+  },
   {
    "n": 1057,
    "key": "mercadolivre:MLB29149224",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794028989
-  },
-  {
-   "n": 998,
-   "key": "mercadolivre:MLB76394503",
-   "title": "Chave De Impacto Parafusadeira Furadeira Brushless 2 Baterias Sem Fio",
-   "price": 207.96,
-   "original": 569.0,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_917221-MLA118827145165_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chave-de-impacto-parafusadeira-furadeira-brushless-2-baterias-sem-fio/p/MLB76394503?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794028568
   }
  ]
 }
