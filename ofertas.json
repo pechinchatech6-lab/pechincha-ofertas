@@ -1,7 +1,21 @@
 {
- "updated": 1794017219,
+ "updated": 1794017640,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 972,
+   "key": "mercadolivre:MLB73418954",
+   "title": "Soprador De Ar Turbo Automotivo Limpeza Profunda Portatil Sem Fio Multifuncional Churrasqueira Janelas Poeiras Landara",
+   "price": 44.9,
+   "original": 78.99,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_855518-MLA118434888446_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-de-ar-turbo-automotivo-limpeza-profunda-portatil-sem-fio-multifuncional-churrasqueira-janelas-poeiras-landara/p/MLB73418954?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794017620
+  },
   {
    "n": 971,
    "key": "mercadolivre:MLB70040349",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793990665
-  },
-  {
-   "n": 912,
-   "key": "mercadolivre:MLB63956659",
-   "title": "Jogo de Soquetes de Impacto Longos VLX, 1/2\" Pol. com 15 Peças (8 a 32 mm)",
-   "price": 69.0,
-   "original": 89.9,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_957240-MLA115480611308_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/jogo-de-soquetes-de-impacto-longos-vlx-1-2-pol-com-15-pecas-8-a-32-mm/p/MLB63956659?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793990244
   }
  ]
 }
