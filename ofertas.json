@@ -1,7 +1,21 @@
 {
- "updated": 1794066205,
+ "updated": 1794066626,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1072,
+   "key": "mercadolivre:MLB1040287790",
+   "title": "Apple iPhone 16 (256 GB) - Rosa - Distribuidor Autorizado",
+   "price": 5596.67,
+   "original": 8599.0,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_719634-MLA97473882481_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/apple-iphone-16-256-gb-rosa-distribuidor-autorizado/p/MLB1040287790?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794066606
+  },
   {
    "n": 1071,
    "key": "mercadolivre:MLB60126432",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794034883
-  },
-  {
-   "n": 1012,
-   "key": "mercadolivre:MLB70516181",
-   "title": "Relógio Despertador Analógico Vintage Prateado, de Metal com Dois Sinos e Luz Noturna",
-   "price": 26.99,
-   "original": 36.5,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_713937-MLA113102590587_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-despertador-analogico-vintage-prateado-de-metal-com-dois-sinos-e-luz-noturna/p/MLB70516181?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794034462
   }
  ]
 }
