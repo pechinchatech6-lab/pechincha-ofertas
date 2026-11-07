@@ -1,7 +1,21 @@
 {
- "updated": 1794080045,
+ "updated": 1794080465,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1104,
+   "key": "mercadolivre:MLB53155512",
+   "title": "Multimetro Digital Portátil Profissional Com Bateria Inclusa Para Teste Medição Tensão Personalized View",
+   "price": 24.99,
+   "original": 29.99,
+   "pct": 17,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_863906-MLA110244293958_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/multimetro-digital-portatil-profissional-com-bateria-inclusa-para-teste-medicao-tensao-personalized-view/p/MLB53155512?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794080445
+  },
   {
    "n": 1103,
    "key": "mercadolivre:MLB39167899",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794054399
-  },
-  {
-   "n": 1044,
-   "key": "mercadolivre:MLB52300325",
-   "title": "Máquina de Lavar Electrolux 13kg Cesto Inox LDA13 Branco",
-   "price": 1729.99,
-   "original": 2789.0,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_634227-MLA99979901073_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-electrolux-13kg-cesto-inox-lda13-branco/p/MLB52300325?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794051276
   }
  ]
 }
