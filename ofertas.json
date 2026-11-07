@@ -1,7 +1,21 @@
 {
- "updated": 1794021431,
+ "updated": 1794021852,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 982,
+   "key": "mercadolivre:MLB19472441",
+   "title": "Chapinha De Cabelo Taiff Style Pro Titanium Preta Cor Preto",
+   "price": 192.75,
+   "original": 309.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_962693-MLA99881819447_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-taiff-style-pro-titanium-preta-cor-preto/p/MLB19472441?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794021832
+  },
   {
    "n": 981,
    "key": "mercadolivre:MLB77682099",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793994875
-  },
-  {
-   "n": 922,
-   "key": "mercadolivre:MLB78863823",
-   "title": "Retífica Pneumática Profissional Naisieka KMJ de Alta Rotação, com Maleta e Kit de Ponteiras para Lixar e Polir Metal",
-   "price": 104.0,
-   "original": 260.0,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_784959-MLA117115580949_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/retifica-pneumatica-profissional-naisieka-kmj-de-alta-rotacao-com-maleta-e-kit-de-ponteiras-para-lixar-e-polir-metal/p/MLB78863823?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793994454
   }
  ]
 }
