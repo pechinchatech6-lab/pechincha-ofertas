@@ -1,7 +1,21 @@
 {
- "updated": 1794010062,
+ "updated": 1794010483,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 955,
+   "key": "mercadolivre:MLB72717309",
+   "title": "Nivel Laser Verde 2 Linhas Autonivelante Profissional 360 Graus + Tripé",
+   "price": 158.24,
+   "original": 399.0,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_650496-MLA111742439286_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-2-linhas-autonivelante-profissional-360-graus-tripe/p/MLB72717309?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794010463
+  },
   {
    "n": 954,
    "key": "mercadolivre:MLB79724320",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793983508
-  },
-  {
-   "n": 895,
-   "key": "mercadolivre:MLB50147982",
-   "title": "Caixa De Som Portátil Bluetooth Sabala 901 Tws 2200mah Cor Azul",
-   "price": 99.0,
-   "original": 139.0,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_795378-MLA99483618370_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-bluetooth-sabala-901-tws-2200mah-cor-azul/p/MLB50147982?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793983087
   }
  ]
 }
