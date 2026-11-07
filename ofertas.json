@@ -1,7 +1,21 @@
 {
- "updated": 1794085450,
+ "updated": 1794085871,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1116,
+   "key": "mercadolivre:MLB76467562",
+   "title": "Lamina Serra Multi-corte Oscilante Kit 5 Pçs Para Wesco Makita",
+   "price": 27.35,
+   "original": 75.99,
+   "pct": 64,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_607957-MLA119667530665_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lamina-serra-multi-corte-oscilante-kit-5-pcs-para-wesco-makita/p/MLB76467562?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794085851
+  },
   {
    "n": 1115,
    "key": "mercadolivre:MLB79529287",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794059971
-  },
-  {
-   "n": 1056,
-   "key": "mercadolivre:MLB6077911",
-   "title": "Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca RE31",
-   "price": 1595.0,
-   "original": 2399.0,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631165-MLA111827765025_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-cycle-defrost-240l-degelo-pratico-uma-porta-branca-re31/p/MLB6077911?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794059550
   }
  ]
 }
