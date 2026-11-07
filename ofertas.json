@@ -1,7 +1,21 @@
 {
- "updated": 1794050691,
+ "updated": 1794051296,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1044,
+   "key": "mercadolivre:MLB52300325",
+   "title": "Máquina de Lavar Electrolux 13kg Cesto Inox LDA13 Branco",
+   "price": 1729.99,
+   "original": 2789.0,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_634227-MLA99979901073_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-electrolux-13kg-cesto-inox-lda13-branco/p/MLB52300325?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794051276
+  },
   {
    "n": 1043,
    "key": "mercadolivre:MLB32419427",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794023095
-  },
-  {
-   "n": 984,
-   "key": "mercadolivre:MLB64102825",
-   "title": "Microfone Sem Fio Zcco J6 Duplo Lapela Anti Ruido 2interface Preto",
-   "price": 114.48,
-   "original": 159.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_683644-MLA113590888835_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-sem-fio-zcco-j6-duplo-lapela-anti-ruido-2interface-preto/p/MLB64102825?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794022674
   }
  ]
 }
