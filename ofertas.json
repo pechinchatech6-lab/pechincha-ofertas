@@ -1,7 +1,21 @@
 {
- "updated": 1794056104,
+ "updated": 1794056525,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1050,
+   "key": "mercadolivre:MLB18391180",
+   "title": "NIVEA Loção Deo-Hidratante Soft Milk 400ml, Hidratação Profunda 72h, Hialurônico Puro, Corporal, Pele Seca",
+   "price": 19.29,
+   "original": 26.99,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_756821-MLA86791313939_062025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivea-locao-deo-hidratante-soft-milk-400ml-hidratacao-profunda-72h-hialuronico-puro-corporal-pele-seca/p/MLB18391180?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794056505
+  },
   {
    "n": 1049,
    "key": "mercadolivre:MLB37258669",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794025621
-  },
-  {
-   "n": 990,
-   "key": "mercadolivre:MLB52053067",
-   "title": "Geladeira Consul Degelo Seco 263 Litros - CRA30MB",
-   "price": 1689.9,
-   "original": 3099.0,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_758937-MLA99982189827_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-consul-degelo-seco-263-litros-cra30mb/p/MLB52053067?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794025200
   }
  ]
 }
