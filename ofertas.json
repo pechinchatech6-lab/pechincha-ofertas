@@ -1,7 +1,21 @@
 {
- "updated": 1794042870,
+ "updated": 1794043291,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1030,
+   "key": "mercadolivre:MLB16030232",
+   "title": "Aparador de Pelos Kemei KM-6776 Preto 3 em 1 Nariz e Barba Sem Fio",
+   "price": 48.9,
+   "original": 78.89,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_754437-MLA99453200484_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-kemei-km-6776-preto-3-em-1-nariz-e-barba-sem-fio/p/MLB16030232?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794043271
+  },
   {
    "n": 1029,
    "key": "mercadolivre:MLB25925806",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794017199
-  },
-  {
-   "n": 970,
-   "key": "mercadolivre:MLB54482689",
-   "title": "Webcam Hd Full 1080p Com Microfone Usb Plug Play Para Pc Notebook",
-   "price": 36.9,
-   "original": 80.0,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_678031-MLA118747452756_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-hd-full-1080p-com-microfone-usb-plug-play-para-pc-notebook/p/MLB54482689?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794016778
   }
  ]
 }
