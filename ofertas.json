@@ -1,7 +1,21 @@
 {
- "updated": 1794047414,
+ "updated": 1794047835,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1037,
+   "key": "mercadolivre:MLB61850779",
+   "title": "Microfone Havit GK65 Condensador USB com RGB para Streaming",
+   "price": 198.88,
+   "original": 220.98,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_675526-MLA97578976343_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microfone-havit-gk65-condensador-usb-com-rgb-para-streaming/p/MLB61850779?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794047815
+  },
   {
    "n": 1036,
    "key": "mercadolivre:MLB68022762",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794020147
-  },
-  {
-   "n": 977,
-   "key": "mercadolivre:MLB68089060",
-   "title": "Coqueteleira Academia Shaker Compartimentos Whey Suplementos Cor Branco",
-   "price": 34.47,
-   "original": 45.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_990003-MLA109631018622_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/coqueteleira-academia-shaker-compartimentos-whey-suplementos-cor-branco/p/MLB68089060?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794019726
   }
  ]
 }
