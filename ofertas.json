@@ -1,7 +1,21 @@
 {
- "updated": 1794045102,
+ "updated": 1794045522,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1032,
+   "key": "mercadolivre:MLB26703117",
+   "title": "Chapinha Profissional MQ Pro 480 Turbo Cor Black E Detalhes Silver",
+   "price": 352.0,
+   "original": 631.05,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_818498-MLA99527505846_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-profissional-mq-pro-480-turbo-cor-black-e-detalhes-silver/p/MLB26703117?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794045502
+  },
   {
    "n": 1031,
    "key": "mercadolivre:MLB77356916",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794018041
-  },
-  {
-   "n": 972,
-   "key": "mercadolivre:MLB73418954",
-   "title": "Soprador De Ar Turbo Automotivo Limpeza Profunda Portatil Sem Fio Multifuncional Churrasqueira Janelas Poeiras Landara",
-   "price": 44.9,
-   "original": 78.99,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_855518-MLA118434888446_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-de-ar-turbo-automotivo-limpeza-profunda-portatil-sem-fio-multifuncional-churrasqueira-janelas-poeiras-landara/p/MLB73418954?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794017620
   }
  ]
 }
