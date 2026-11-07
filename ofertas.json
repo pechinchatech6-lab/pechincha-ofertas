@@ -1,7 +1,21 @@
 {
- "updated": 1794079202,
+ "updated": 1794079623,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1102,
+   "key": "mercadolivre:MLB18555054",
+   "title": "Lixadeira Pneumática Roto Orbital PDR PRO-406 6'' 12,000 RPM",
+   "price": 228.0,
+   "original": 320.2,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_701812-MLA99872457571_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-roto-orbital-pdr-pro-406-6-12-000-rpm/p/MLB18555054?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794079603
+  },
   {
    "n": 1101,
    "key": "mercadolivre:MLB53397326",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794050671
-  },
-  {
-   "n": 1042,
-   "key": "mercadolivre:MLB45358161",
-   "title": "Kaiak Ultra Natura Colônia Perfume Masculino 100ml Relançamento 2025",
-   "price": 104.44,
-   "original": 189.9,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_916194-MLA114865292471_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kaiak-ultra-natura-colonia-perfume-masculino-100ml-relancamento-2025/p/MLB45358161?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794050250
   }
  ]
 }
