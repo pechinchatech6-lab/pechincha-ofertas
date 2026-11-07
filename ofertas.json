@@ -1,7 +1,21 @@
 {
- "updated": 1794092584,
+ "updated": 1794093005,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1132,
+   "key": "mercadolivre:MLB49822923",
+   "title": "Batedeira Planetária Philco 900W 5L Preta 12 Velocidades Turbo PBP90A",
+   "price": 299.0,
+   "original": 379.9,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_728713-MLA99416610212_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/batedeira-planetaria-philco-900w-5l-preta-12-velocidades-turbo-pbp90a/p/MLB49822923?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794092985
+  },
   {
    "n": 1131,
    "key": "mercadolivre:MLB19160770",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794067027
-  },
-  {
-   "n": 1072,
-   "key": "mercadolivre:MLB1040287790",
-   "title": "Apple iPhone 16 (256 GB) - Rosa - Distribuidor Autorizado",
-   "price": 5596.67,
-   "original": 8599.0,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_719634-MLA97473882481_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/apple-iphone-16-256-gb-rosa-distribuidor-autorizado/p/MLB1040287790?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794066606
   }
  ]
 }
