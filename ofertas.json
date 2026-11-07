@@ -1,7 +1,21 @@
 {
- "updated": 1794069152,
+ "updated": 1794069573,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1079,
+   "key": "mercadolivre:MLB19506691",
+   "title": "Creatina Dark Lab Premium Pure em pó Sem sabor x 300g",
+   "price": 39.92,
+   "original": 78.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_830138-MLA116668021755_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-dark-lab-premium-pure-em-po-sem-sabor-x-300g/p/MLB19506691?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794069553
+  },
   {
    "n": 1078,
    "key": "mercadolivre:MLB59870058",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794038355
-  },
-  {
-   "n": 1019,
-   "key": "mercadolivre:MLB41234257",
-   "title": "LG Soundbar S60tr 440w Rms, 5.1 Canais, Bluetooth 5.3, Dol Preto 120 Hz",
-   "price": 1522.66,
-   "original": 2199.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_610679-MLA79349332342_092024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lg-soundbar-s60tr-440w-rms-5-1-canais-bluetooth-5-3-dol-preto-120-hz/p/MLB41234257?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794037934
   }
  ]
 }
