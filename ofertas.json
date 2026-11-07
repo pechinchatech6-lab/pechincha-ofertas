@@ -1,7 +1,21 @@
 {
- "updated": 1794061254,
+ "updated": 1794061675,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1061,
+   "key": "mercadolivre:MLB19514465",
+   "title": "Argan Óleo Reparador 50ml , Lola from Rio",
+   "price": 13.16,
+   "original": 39.9,
+   "pct": 67,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_960905-MLA114016777742_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/argan-oleo-reparador-50ml-lola-from-rio/p/MLB19514465?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794061655
+  },
   {
    "n": 1060,
    "key": "mercadolivre:MLB28407045",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794030252
-  },
-  {
-   "n": 1001,
-   "key": "mercadolivre:MLB69204083",
-   "title": "Esmerilhadeira Lixadeira Angular 950w 6 Velocidades 115mm Amarelo 60hz",
-   "price": 139.0,
-   "original": 300.0,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_985186-MLA111238705441_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/esmerilhadeira-lixadeira-angular-950w-6-velocidades-115mm-amarelo-60hz/p/MLB69204083?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794029831
   }
  ]
 }
