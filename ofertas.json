@@ -1,7 +1,21 @@
 {
- "updated": 1794031535,
+ "updated": 1794031956,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1006,
+   "key": "mercadolivre:MLB48481616",
+   "title": "Lavadora Portátil sem fio Lava Jato Pistola 32 Bar Com 2 Baterias 48V Preto",
+   "price": 87.9,
+   "original": 219.9,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_767080-MLA116401764718_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lavadora-portatil-sem-fio-lava-jato-pistola-32-bar-com-2-baterias-48v-preto/p/MLB48481616?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794031936
+  },
   {
    "n": 1005,
    "key": "mercadolivre:MLB24208936",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794006929
-  },
-  {
-   "n": 946,
-   "key": "mercadolivre:MLB70228023",
-   "title": "Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente Prateado",
-   "price": 34.9,
-   "original": 49.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_907811-MLA112159861189_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-relogio-feminino-colar-brinco-pulseira-folheado-presente-prateado/p/MLB70228023?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794005808
   }
  ]
 }
