@@ -1,7 +1,21 @@
 {
- "updated": 1794014272,
+ "updated": 1794014693,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 965,
+   "key": "mercadolivre:MLB10603268",
+   "title": "Depilador Philco Aqua Deluxe Pdp01r Branco E Rosa 110v/220v Rosa-pálido",
+   "price": 121.9,
+   "original": 183.55,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_613498-MLA84853035151_052025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-philco-aqua-deluxe-pdp01r-branco-e-rosa-110v-220v-rosa-palido/p/MLB10603268?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794014673
+  },
   {
    "n": 964,
    "key": "mercadolivre:MLB50575630",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793987718
-  },
-  {
-   "n": 905,
-   "key": "mercadolivre:MLB75627272",
-   "title": "Mochila para Notebook Impermeável com Porta USB e Expansão de 25L a 40L, Ideal para Viagem e Trabalho",
-   "price": 98.1,
-   "original": 218.0,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_683360-MLA113618531626_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-para-notebook-impermeavel-com-porta-usb-e-expansao-de-25l-a-40l-ideal-para-viagem-e-trabalho/p/MLB75627272?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793987297
   }
  ]
 }
