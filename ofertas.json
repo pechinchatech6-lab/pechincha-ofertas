@@ -1,7 +1,21 @@
 {
- "updated": 1794026483,
+ "updated": 1794026904,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 994,
+   "key": "mercadolivre:MLB44895091",
+   "title": "Hidratante Facial Antissinais com Colágeno, Niacinamida e Vitamina C, Aumenta a Firmeza e Elasticidade da Pele, 48h de Hidratação, Garnier, 85g",
+   "price": 24.99,
+   "original": 44.59,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_606908-MLA81925002537_012025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hidratante-facial-antissinais-com-colageno-niacinamida-e-vitamina-c-aumenta-a-firmeza-e-elasticidade-da-pele-48h-de-hidr/p/MLB44895091?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794026884
+  },
   {
    "n": 993,
    "key": "mercadolivre:MLB77331725",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794001177
-  },
-  {
-   "n": 934,
-   "key": "mercadolivre:MLB18115557",
-   "title": "Relógio De Pulso Casio Youth W-218H-1AV",
-   "price": 143.9,
-   "original": 227.44,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_734707-MLA114937003722_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-youth-w-218h-1av/p/MLB18115557?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794000756
   }
  ]
 }
