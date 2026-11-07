@@ -1,7 +1,21 @@
 {
- "updated": 1794015114,
+ "updated": 1794015535,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 967,
+   "key": "mercadolivre:MLB22647527",
+   "title": "Escova Secadora Keratin, Mondial, 1300W - ES-11-BI Bivolt",
+   "price": 105.0,
+   "original": 222.9,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_856835-MLA100007840721_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-keratin-mondial-1300w-es-11-bi-bivolt/p/MLB22647527?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794015515
+  },
   {
    "n": 966,
    "key": "mercadolivre:MLB46220824",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793988560
-  },
-  {
-   "n": 907,
-   "key": "mercadolivre:MLB44784310",
-   "title": "Aparador de Pelos Super Groom 10 Mondial Preto/Azul Bivolt BG-03",
-   "price": 99.0,
-   "original": 202.9,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_716732-MLA99952834055_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-super-groom-10-mondial-preto-azul-bivolt-bg-03/p/MLB44784310?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793988139
   }
  ]
 }
