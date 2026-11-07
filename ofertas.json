@@ -1,7 +1,21 @@
 {
- "updated": 1794055683,
+ "updated": 1794056104,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1049,
+   "key": "mercadolivre:MLB37258669",
+   "title": "Ferro De Passar Cadence 2 Em 1 iro215 Cor Cinza",
+   "price": 60.0,
+   "original": 89.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_729868-MLA99475311530_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ferro-de-passar-cadence-2-em-1-iro215-cor-cinza/p/MLB37258669?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794056084
+  },
   {
    "n": 1048,
    "key": "mercadolivre:MLB19510151",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794025200
-  },
-  {
-   "n": 989,
-   "key": "mercadolivre:MLB45474714",
-   "title": "Chinelo Feminino Slim Havaianas",
-   "price": 39.09,
-   "original": 54.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_671885-MLA81672743644_012025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chinelo-feminino-slim-havaianas/p/MLB45474714?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794024779
   }
  ]
 }
