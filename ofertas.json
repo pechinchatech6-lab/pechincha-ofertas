@@ -1,7 +1,21 @@
 {
- "updated": 1794035324,
+ "updated": 1794035914,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1015,
+   "key": "mercadolivre:MLB14896780",
+   "title": "Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto",
+   "price": 211.25,
+   "original": 307.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_754389-MLA119103956430_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-oscilante-de-parede-ventisol-steel-6-pas-50cm-preto/p/MLB14896780?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794035894
+  },
   {
    "n": 1014,
    "key": "mercadolivre:MLB41168545",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794010884
-  },
-  {
-   "n": 955,
-   "key": "mercadolivre:MLB72717309",
-   "title": "Nivel Laser Verde 2 Linhas Autonivelante Profissional 360 Graus + Tripé",
-   "price": 158.24,
-   "original": 399.0,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_650496-MLA111742439286_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-2-linhas-autonivelante-profissional-360-graus-tripe/p/MLB72717309?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794010463
   }
  ]
 }
