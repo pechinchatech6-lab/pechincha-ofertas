@@ -1,7 +1,21 @@
 {
- "updated": 1794095110,
+ "updated": 1794095531,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1138,
+   "key": "mercadolivre:MLB57082682",
+   "title": "Caixa de Som JBL Boombox 4 Bluetooth Portátil 210W Bivolt Azul",
+   "price": 2275.0,
+   "original": 2699.0,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_674627-MLA100016786223_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-jbl-boombox-4-bluetooth-portatil-210w-bivolt-azul/p/MLB57082682?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794095511
+  },
   {
    "n": 1137,
    "key": "mercadolivre:MLB48808732",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794069553
-  },
-  {
-   "n": 1078,
-   "key": "mercadolivre:MLB59870058",
-   "title": "Chaleira Com Apito Brinox 2,7 L Roma Areia",
-   "price": 78.4,
-   "original": 237.71,
-   "pct": 67,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_866805-MLA104654258057_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chaleira-com-apito-brinox-2-7-l-roma-areia/p/MLB59870058?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794069132
   }
  ]
 }
