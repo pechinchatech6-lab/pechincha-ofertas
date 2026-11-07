@@ -1,7 +1,21 @@
 {
- "updated": 1794058728,
+ "updated": 1794059149,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1055,
+   "key": "mercadolivre:MLB25929487",
+   "title": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
+   "price": 69.99,
+   "original": 159.9,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-monohidratada-1kg-100-pura-dark-lab/p/MLB25929487?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794059129
+  },
   {
    "n": 1054,
    "key": "mercadolivre:MLB53283915",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794027726
-  },
-  {
-   "n": 995,
-   "key": "mercadolivre:MLB54549630",
-   "title": "Basike Caixa de Som Boombox Plus 80W 8000Mah Portátil Bluetooth 5.3 Sem fio IPX6 À Prova D'água Com Luz RGB Hifi TWS Bass Forte Amplificada Alto falante Bombox ",
-   "price": 358.19,
-   "original": 599.98,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_675598-MLA99455853026_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/basike-caixa-de-som-boombox-plus-80w-8000mah-portatil-bluetooth-5-3-sem-fio-ipx6-a-prova-d-agua-com-luz-rgb-hifi-tws-bas/p/MLB54549630?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794027305
   }
  ]
 }
