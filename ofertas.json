@@ -1,7 +1,21 @@
 {
- "updated": 1794022273,
+ "updated": 1794022694,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 984,
+   "key": "mercadolivre:MLB64102825",
+   "title": "Microfone Sem Fio Zcco J6 Duplo Lapela Anti Ruido 2interface Preto",
+   "price": 114.48,
+   "original": 159.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_683644-MLA113590888835_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microfone-sem-fio-zcco-j6-duplo-lapela-anti-ruido-2interface-preto/p/MLB64102825?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794022674
+  },
   {
    "n": 983,
    "key": "mercadolivre:MLB79663696",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793995717
-  },
-  {
-   "n": 924,
-   "key": "mercadolivre:MLB70481837",
-   "title": "Kokeshi Gota de Colágeno Creme Gel Regenerador Facial 45g",
-   "price": 25.46,
-   "original": 37.9,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_777446-MLA116329432518_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kokeshi-gota-de-colageno-creme-gel-regenerador-facial-45g/p/MLB70481837?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793995296
   }
  ]
 }
