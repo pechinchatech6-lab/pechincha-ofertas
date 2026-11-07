@@ -1,7 +1,21 @@
 {
- "updated": 1794012167,
+ "updated": 1794012588,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 960,
+   "key": "mercadolivre:MLB34380457",
+   "title": "Unidade De Disco Playstation 5 Slim Cor Branco",
+   "price": 615.43,
+   "original": 699.0,
+   "pct": 12,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_668724-MLA100007892529_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/unidade-de-disco-playstation-5-slim-cor-branco/p/MLB34380457?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794012568
+  },
   {
    "n": 959,
    "key": "mercadolivre:MLB49197371",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793985613
-  },
-  {
-   "n": 900,
-   "key": "mercadolivre:MLB54102936",
-   "title": "Xiaomi Redmi 15 12gb Ram 128gb Dual Sim 50mp Fm Impressão digital Dimm cinza",
-   "price": 1212.0,
-   "original": 2101.29,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_652088-MLA99478650034_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/xiaomi-redmi-15-12gb-ram-128gb-dual-sim-50mp-fm-impressao-digital-dimm-cinza/p/MLB54102936?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793985192
   }
  ]
 }
