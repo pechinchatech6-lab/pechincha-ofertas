@@ -1,7 +1,21 @@
 {
- "updated": 1794009475,
+ "updated": 1794010062,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 954,
+   "key": "mercadolivre:MLB79724320",
+   "title": "Cesto Organizador de Algodão Trançado Bege Com Alças de Couro Para Lavabo e Banheiro",
+   "price": 30.49,
+   "original": 59.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_787061-MLA118024289359_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cesto-organizador-de-algodao-trancado-bege-com-alcas-de-couro-para-lavabo-e-banheiro/p/MLB79724320?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794010042
+  },
   {
    "n": 953,
    "key": "mercadolivre:MLB53226472",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793983087
-  },
-  {
-   "n": 894,
-   "key": "mercadolivre:MLB75681377",
-   "title": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
-   "price": 2599.0,
-   "original": 3599.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-pro-lg-55-4k-ultra-hd-ai-55un85c/p/MLB75681377?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793982666
   }
  ]
 }
