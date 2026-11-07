@@ -1,7 +1,21 @@
 {
- "updated": 1794082924,
+ "updated": 1794083345,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1110,
+   "key": "mercadolivre:MLB39046706",
+   "title": "Oleo Wahl Para Lubrificar Lâmina De Maquina 118ml",
+   "price": 31.92,
+   "original": 39.9,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_711472-MLA99917138179_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/oleo-wahl-para-lubrificar-lamina-de-maquina-118ml/p/MLB39046706?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794083325
+  },
   {
    "n": 1109,
    "key": "mercadolivre:MLB38812838",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794057445
-  },
-  {
-   "n": 1050,
-   "key": "mercadolivre:MLB18391180",
-   "title": "NIVEA Loção Deo-Hidratante Soft Milk 400ml, Hidratação Profunda 72h, Hialurônico Puro, Corporal, Pele Seca",
-   "price": 19.29,
-   "original": 26.99,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_756821-MLA86791313939_062025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivea-locao-deo-hidratante-soft-milk-400ml-hidratacao-profunda-72h-hialuronico-puro-corporal-pele-seca/p/MLB18391180?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794056505
   }
  ]
 }
