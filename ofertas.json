@@ -1,7 +1,21 @@
 {
- "updated": 1794051296,
+ "updated": 1794054419,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1045,
+   "key": "mercadolivre:MLB78840757",
+   "title": "Caixa De Som Sound Bar Home Theater Bluetooth Para Tv Cinema 80w Cor Preto Bivolt Boyu Cell",
+   "price": 262.2,
+   "original": 360.9,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_857992-MLA118377893890_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-sound-bar-home-theater-bluetooth-para-tv-cinema-80w-cor-preto-bivolt-boyu-cell/p/MLB78840757?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794054399
+  },
   {
    "n": 1044,
    "key": "mercadolivre:MLB52300325",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794023516
-  },
-  {
-   "n": 985,
-   "key": "mercadolivre:MLB70378764",
-   "title": "Relógio de Parede Quartz Kasa Redondo, com 30 cm, para Cozinha",
-   "price": 33.78,
-   "original": 37.99,
-   "pct": 11,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_876061-MLA119342447875_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-quartz-kasa-redondo-com-30-cm-para-cozinha/p/MLB70378764?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794023095
   }
  ]
 }
