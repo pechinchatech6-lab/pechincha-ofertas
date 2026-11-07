@@ -1,7 +1,21 @@
 {
- "updated": 1794042028,
+ "updated": 1794042449,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1028,
+   "key": "mercadolivre:MLB19508984",
+   "title": "ISDIN Protetor Solar Facial Fusion Water 5 Stars Sem Cor FPS 60 - 50ml",
+   "price": 77.62,
+   "original": 114.9,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_655535-MLA115527373103_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/isdin-protetor-solar-facial-fusion-water-5-stars-sem-cor-fps-60-50ml/p/MLB19508984?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794042429
+  },
   {
    "n": 1027,
    "key": "mercadolivre:MLB62958868",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794016357
-  },
-  {
-   "n": 968,
-   "key": "mercadolivre:MLB53218854",
-   "title": "Webcam Full HD 1080p com Microfone USB Plug & Play Foco Automático Para PC Notebook Zoom Teams Meet Skype YouTube Discord e Mais – Ideal para Home Office Reuniõ",
-   "price": 29.9,
-   "original": 69.9,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_783413-MLA99501263398_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-full-hd-1080p-com-microfone-usb-plug-play-foco-automatico-para-pc-notebook-zoom-teams-meet-skype-youtube-discord-/p/MLB53218854?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794015936
   }
  ]
 }
