@@ -1,7 +1,21 @@
 {
- "updated": 1794029851,
+ "updated": 1794030272,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1002,
+   "key": "mercadolivre:MLB23903360",
+   "title": "Climatizador De Ar Oster Portátil 4 Em 1 Cor Branco",
+   "price": 479.0,
+   "original": 899.0,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_662412-MLA99979980071_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-oster-portatil-4-em-1-cor-branco/p/MLB23903360?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794030252
+  },
   {
    "n": 1001,
    "key": "mercadolivre:MLB69204083",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794004545
-  },
-  {
-   "n": 942,
-   "key": "mercadolivre:MLB19763399",
-   "title": "Mousse Creme Depilatório Racco 150ml",
-   "price": 62.9,
-   "original": 89.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_890679-MLA114433606636_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mousse-creme-depilatorio-racco-150ml/p/MLB19763399?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794004124
   }
  ]
 }
