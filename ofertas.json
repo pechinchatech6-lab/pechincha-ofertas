@@ -1,7 +1,21 @@
 {
- "updated": 1794072465,
+ "updated": 1794072886,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1086,
+   "key": "mercadolivre:MLB60709649",
+   "title": "Mochila Masculina Faculdade Impermeável Resistente Grande Trabalho Escola Cor Preto Desenho Do Tecido Liso",
+   "price": 57.99,
+   "original": 78.99,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_666313-MLA99570168096_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-masculina-faculdade-impermeavel-resistente-grande-trabalho-escola-cor-preto-desenho-do-tecido-liso/p/MLB60709649?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794072866
+  },
   {
    "n": 1085,
    "key": "mercadolivre:MLB19533185",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794042008
-  },
-  {
-   "n": 1026,
-   "key": "mercadolivre:MLB18572371",
-   "title": "Secador De Cabelos Motor Ac Profissional Easy 1700w Taiff Preto",
-   "price": 155.0,
-   "original": 299.9,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_993332-MLA91972291185_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-motor-ac-profissional-easy-1700w-taiff-preto/p/MLB18572371?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794041394
   }
  ]
 }
