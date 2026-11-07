@@ -1,7 +1,21 @@
 {
- "updated": 1794025220,
+ "updated": 1794025641,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 991,
+   "key": "mercadolivre:MLB48929479",
+   "title": "Caixa de Som Bluetooth Caixinha Grande 2 Altos Falantes 10w-hz 5.0 Boombox Com Radio Fm E Entrada Usb Pendrive",
+   "price": 147.0,
+   "original": 218.89,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_681719-MLA99467991212_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-caixinha-grande-2-altos-falantes-10w-hz-5-0-boombox-com-radio-fm-e-entrada-usb-pendrive/p/MLB48929479?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794025621
+  },
   {
    "n": 990,
    "key": "mercadolivre:MLB52053067",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1793999914
-  },
-  {
-   "n": 931,
-   "key": "mercadolivre:MLB80257068",
-   "title": "Relógio de Parede Analógico Silencioso Redondo 30 cm, para Sala ou Cozinha, Prata com Fundo Preto - NANY PINK",
-   "price": 53.25,
-   "original": 89.9,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628653-MLA118801358299_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-analogico-silencioso-redondo-30-cm-para-sala-ou-cozinha-prata-com-fundo-preto-nany-pink/p/MLB80257068?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1793999493
   }
  ]
 }
