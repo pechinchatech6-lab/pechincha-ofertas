@@ -1,7 +1,21 @@
 {
- "updated": 1794060833,
+ "updated": 1794061254,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1060,
+   "key": "mercadolivre:MLB28407045",
+   "title": "Webcam Full HD Logitech Brio 100 - Grafite",
+   "price": 185.77,
+   "original": 225.0,
+   "pct": 17,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_874264-MLA106268664373_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-brio-100-grafite/p/MLB28407045?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794061234
+  },
   {
    "n": 1059,
    "key": "mercadolivre:MLB6333687",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794029831
-  },
-  {
-   "n": 1000,
-   "key": "mercadolivre:MLB79751693",
-   "title": "Climatizador de Ar Portátil Paboxin 15L com Umidificador, 6 Velocidades e Controle Remoto",
-   "price": 484.02,
-   "original": 1139.99,
-   "pct": 58,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_977581-MLA118112130083_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-portatil-paboxin-15l-com-umidificador-6-velocidades-e-controle-remoto/p/MLB79751693?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794029410
   }
  ]
 }
