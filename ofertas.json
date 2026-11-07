@@ -1,7 +1,21 @@
 {
- "updated": 1794040993,
+ "updated": 1794041414,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1026,
+   "key": "mercadolivre:MLB18572371",
+   "title": "Secador De Cabelos Motor Ac Profissional Easy 1700w Taiff Preto",
+   "price": 155.0,
+   "original": 299.9,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_993332-MLA91972291185_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-motor-ac-profissional-easy-1700w-taiff-preto/p/MLB18572371?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794041394
+  },
   {
    "n": 1025,
    "key": "mercadolivre:MLB74325668",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794015515
-  },
-  {
-   "n": 966,
-   "key": "mercadolivre:MLB46220824",
-   "title": "Webcam Camera Full Hd Zoom 1080p 360 Graus Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone- GoodVision",
-   "price": 36.7,
-   "original": 78.98,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_807092-MLA100966388363_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-360-graus-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-goodvision/p/MLB46220824?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794015094
   }
  ]
 }
