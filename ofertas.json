@@ -1,7 +1,21 @@
 {
- "updated": 1794067468,
+ "updated": 1794067889,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1075,
+   "key": "mercadolivre:MLB61072496",
+   "title": "Caixa De Som Pc Notebook Gamer Soundbar Usb 6w Estéreo P2",
+   "price": 52.19,
+   "original": 78.9,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_644552-MLA120792015981_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-pc-notebook-gamer-soundbar-usb-6w-estereo-p2/p/MLB61072496?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794067869
+  },
   {
    "n": 1074,
    "key": "mercadolivre:MLB44932986",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794036315
-  },
-  {
-   "n": 1015,
-   "key": "mercadolivre:MLB14896780",
-   "title": "Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto",
-   "price": 211.25,
-   "original": 307.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_754389-MLA119103956430_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-oscilante-de-parede-ventisol-steel-6-pas-50cm-preto/p/MLB14896780?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794035894
   }
  ]
 }
