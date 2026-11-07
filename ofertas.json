@@ -1,7 +1,21 @@
 {
- "updated": 1794065073,
+ "updated": 1794065784,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1070,
+   "key": "mercadolivre:MLB1055308835",
+   "title": "iPhone 17 de 256 GB - Lavanda - Distribuidor Autorizado",
+   "price": 5887.77,
+   "original": 7999.0,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_896332-MLA95400062457_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/iphone-17-de-256-gb-lavanda-distribuidor-autorizado/p/MLB1055308835?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794065764
+  },
   {
    "n": 1069,
    "key": "mercadolivre:MLB24820394",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794034041
-  },
-  {
-   "n": 1010,
-   "key": "mercadolivre:MLB74143355",
-   "title": "Smart TV 4K 55\" LG QNED Mini LED AI QNED70 2026 Processador α7 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini webOS 26 - 55QNED70BSA",
-   "price": 2553.54,
-   "original": 3599.0,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_648434-MLA115300888751_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-4k-55-lg-qned-mini-led-ai-qned70-2026-processador-7-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-web/p/MLB74143355?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794033620
   }
  ]
 }
