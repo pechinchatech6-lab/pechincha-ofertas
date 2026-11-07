@@ -1,7 +1,21 @@
 {
- "updated": 1794046572,
+ "updated": 1794046993,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1035,
+   "key": "mercadolivre:MLB77676680",
+   "title": "Soundbar Kimiso 2.1 Desmontável com Subwoofer de 5,25\" para TV e PC",
+   "price": 419.0,
+   "original": 589.0,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_969104-MLA119236427877_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-kimiso-2-1-desmontavel-com-subwoofer-de-5-25-para-tv-e-pc/p/MLB77676680?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794046973
+  },
   {
    "n": 1034,
    "key": "mercadolivre:MLB26318454",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794019305
-  },
-  {
-   "n": 975,
-   "key": "mercadolivre:MLB74347854",
-   "title": "Nível Laser Davely Com Tripé Ajustável, de Linhas Horizontal e Vertical",
-   "price": 31.99,
-   "original": 60.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_784644-MLA117946819736_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivel-laser-davely-com-tripe-ajustavel-de-linhas-horizontal-e-vertical/p/MLB74347854?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794018884
   }
  ]
 }
