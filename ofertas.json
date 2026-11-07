@@ -1,7 +1,21 @@
 {
- "updated": 1794066626,
+ "updated": 1794067047,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1073,
+   "key": "mercadolivre:MLB74952987",
+   "title": "Mini Soprador de Ar Turbo Ventilador Portatil Sem Fio 130.000RPM Multigoods USB Recarregável Jato Potente 3 Velocidades para Churrasqueira e Limpeza de Teclado ",
+   "price": 51.0,
+   "original": 119.9,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_764203-MLA112903565332_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-soprador-de-ar-turbo-ventilador-portatil-sem-fio-130-000rpm-multigoods-usb-recarregavel-jato-potente-3-velocidades-/p/MLB74952987?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794067027
+  },
   {
    "n": 1072,
    "key": "mercadolivre:MLB1040287790",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794035304
-  },
-  {
-   "n": 1013,
-   "key": "mercadolivre:MLB62593832",
-   "title": "Depilador Luz Pulsada Intensa (IPL) Basike Sensacao Gelo Indolor Depilacao Definitiva 999999 Disparos 9 Niveis Rosto Corpo aparelho depilacao feminino depilação",
-   "price": 310.0,
-   "original": 569.82,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_680245-MLA100075970499_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-luz-pulsada-intensa-ipl-basike-sensacao-gelo-indolor-depilacao-definitiva-999999-disparos-9-niveis-rosto-corpo/p/MLB62593832?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794034883
   }
  ]
 }
