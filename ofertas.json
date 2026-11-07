@@ -1,7 +1,21 @@
 {
- "updated": 1794057886,
+ "updated": 1794058307,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1053,
+   "key": "mercadolivre:MLB40346127",
+   "title": "NIVEA Hidratante Labial Hidra Color 3 em 1 Rosé 4,8g, Cor Intensa, Hidratação 24h, Proteção UVA/UVB, Lábios e Bochechas",
+   "price": 19.15,
+   "original": 30.99,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_896307-MLA104534508623_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivea-hidratante-labial-hidra-color-3-em-1-rose-4-8g-cor-intensa-hidratacao-24h-protecao-uva-uvb-labios-e-bochechas/p/MLB40346127?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794058287
+  },
   {
    "n": 1052,
    "key": "mercadolivre:MLB70449712",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794026884
-  },
-  {
-   "n": 993,
-   "key": "mercadolivre:MLB77331725",
-   "title": "Alicate Tesoura para Cortar Arame Vergalhão e Cabo de Aço 3,2mm para Construção Serralheria Oficina Ferramenta Manual 8 Polegadas",
-   "price": 29.75,
-   "original": 64.99,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_659601-MLA116194121551_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alicate-tesoura-para-cortar-arame-vergalhao-e-cabo-de-aco-3-2mm-para-construcao-serralheria-oficina-ferramenta-manual-8-/p/MLB77331725?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794026463
   }
  ]
 }
