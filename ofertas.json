@@ -1,7 +1,21 @@
 {
- "updated": 1794068731,
+ "updated": 1794069152,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1078,
+   "key": "mercadolivre:MLB59870058",
+   "title": "Chaleira Com Apito Brinox 2,7 L Roma Areia",
+   "price": 78.4,
+   "original": 237.71,
+   "pct": 67,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_866805-MLA104654258057_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chaleira-com-apito-brinox-2-7-l-roma-areia/p/MLB59870058?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794069132
+  },
   {
    "n": 1077,
    "key": "mercadolivre:MLB27218826",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794037934
-  },
-  {
-   "n": 1018,
-   "key": "mercadolivre:MLB73383988",
-   "title": "Soprador Térmico ABLEMARK 600 °C Para Artesanato, Com 5 Bicos e Aquecimento Rápido",
-   "price": 130.95,
-   "original": 231.0,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_711023-MLA113130189801_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-termico-ablemark-600-c-para-artesanato-com-5-bicos-e-aquecimento-rapido/p/MLB73383988?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794037157
   }
  ]
 }
