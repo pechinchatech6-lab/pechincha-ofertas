@@ -1,7 +1,21 @@
 {
- "updated": 1794075413,
+ "updated": 1794075834,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1093,
+   "key": "mercadolivre:MLB78762198",
+   "title": "Cinto Elástico Sem Fivela Velcro Gancho Ajustável Conforto 2 Un unissex",
+   "price": 31.74,
+   "original": 52.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_766325-MLA119060130353_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cinto-elastico-sem-fivela-velcro-gancho-ajustavel-conforto-2-un-unissex/p/MLB78762198?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794075814
+  },
   {
    "n": 1092,
    "key": "mercadolivre:MLB48954912",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794046552
-  },
-  {
-   "n": 1033,
-   "key": "mercadolivre:MLB37931954",
-   "title": "Fone De Ouvido Sem Fio Para Treinos soundcore Sport X20 ANC Cancelamento De Ruído Ativo Bluetooth 5.3 Multiponto Ganchos Ajustáveis Graves Potentes Bateria 48H ",
-   "price": 479.0,
-   "original": 816.0,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_980790-MLA99367365098_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-para-treinos-soundcore-sport-x20-anc-cancelamento-de-ruido-ativo-bluetooth-5-3-multiponto-ganchos/p/MLB37931954?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794046131
   }
  ]
 }
