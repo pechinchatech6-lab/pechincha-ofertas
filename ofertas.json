@@ -1,7 +1,21 @@
 {
- "updated": 1794013851,
+ "updated": 1794014272,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 964,
+   "key": "mercadolivre:MLB50575630",
+   "title": "Microfone sem fio Hollyland Lark A1 Combo cor preto",
+   "price": 392.49,
+   "original": 599.99,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_743619-MLA105319745630_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microfone-sem-fio-hollyland-lark-a1-combo-cor-preto/p/MLB50575630?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794014252
+  },
   {
    "n": 963,
    "key": "mercadolivre:MLB73436853",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793987297
-  },
-  {
-   "n": 904,
-   "key": "mercadolivre:MLB69565361",
-   "title": "Chapinha Profissional 2 em 1 Prancha de Cabelo para Progressiva Bivolt 230°C Cerâmica com Íons Negativos Display LED Aquecimento Alisadora Rápido 15S Cabo 360° ",
-   "price": 90.0,
-   "original": 199.0,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_654465-MLA118109198585_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chapinha-profissional-2-em-1-prancha-de-cabelo-para-progressiva-bivolt-230-c-ceramica-com-ions-negativos-display-led-aqu/p/MLB69565361?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793986876
   }
  ]
 }
