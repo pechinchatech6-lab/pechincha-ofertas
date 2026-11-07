@@ -1,7 +1,21 @@
 {
- "updated": 1794021009,
+ "updated": 1794021431,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 981,
+   "key": "mercadolivre:MLB77682099",
+   "title": "Soundbar 2.1 LED Bluetooth 5.3 Subwoofer 5.25 polegadas HDMI ARC AUX USB Hi Fi Extra Bass 3D EQ Controle Remoto Display LED Caixa de Som TV PC Projetor Gamer Ho",
+   "price": 308.44,
+   "original": 599.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_611083-MLA119222890978_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-2-1-led-bluetooth-5-3-subwoofer-5-25-polegadas-hdmi-arc-aux-usb-hi-fi-extra-bass-3d-eq-controle-remoto-display-/p/MLB77682099?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794021411
+  },
   {
    "n": 980,
    "key": "mercadolivre:MLB53816191",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793994454
-  },
-  {
-   "n": 921,
-   "key": "mercadolivre:MLB57689750",
-   "title": "Caixa de Som Basike Boombox Bluetooth 200W, Portátil e à Prova D'Água IPX6",
-   "price": 853.57,
-   "original": 1376.74,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_620090-MLA99986834815_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-basike-boombox-bluetooth-200w-portatil-e-a-prova-d-agua-ipx6/p/MLB57689750?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793994033
   }
  ]
 }
