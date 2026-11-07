@@ -1,7 +1,21 @@
 {
- "updated": 1794093005,
+ "updated": 1794093426,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1133,
+   "key": "mercadolivre:MLB38919855",
+   "title": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 200g",
+   "price": 67.0,
+   "original": 98.9,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_686877-MLA114006261577_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-anticaspa-cabelos-normais-a-oleosos-dercos-ds-vichy-200g/p/MLB38919855?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794093406
+  },
   {
    "n": 1132,
    "key": "mercadolivre:MLB49822923",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794067448
-  },
-  {
-   "n": 1073,
-   "key": "mercadolivre:MLB74952987",
-   "title": "Mini Soprador de Ar Turbo Ventilador Portatil Sem Fio 130.000RPM Multigoods USB Recarregável Jato Potente 3 Velocidades para Churrasqueira e Limpeza de Teclado ",
-   "price": 51.0,
-   "original": 119.9,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_764203-MLA112903565332_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-soprador-de-ar-turbo-ventilador-portatil-sem-fio-130-000rpm-multigoods-usb-recarregavel-jato-potente-3-velocidades-/p/MLB74952987?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794067027
   }
  ]
 }
