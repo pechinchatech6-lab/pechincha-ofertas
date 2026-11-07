@@ -1,7 +1,21 @@
 {
- "updated": 1794090058,
+ "updated": 1794090479,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1126,
+   "key": "mercadolivre:MLB68347781",
+   "title": "Cinto Duplo Masculino Couro Dupla Face 2 Em 1 Preto Marrom Social 120CM",
+   "price": 26.09,
+   "original": 29.9,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_943212-MLA112119025356_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cinto-duplo-masculino-couro-dupla-face-2-em-1-preto-marrom-social-120cm/p/MLB68347781?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794090459
+  },
   {
    "n": 1125,
    "key": "mercadolivre:MLB42460852",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794064211
-  },
-  {
-   "n": 1066,
-   "key": "mercadolivre:MLB63356070",
-   "title": "Relógio De Bolso Masculino Vintage Quartz Antigo Cor Preto",
-   "price": 38.0,
-   "original": 99.0,
-   "pct": 62,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_756597-MLA101922004765_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-bolso-masculino-vintage-quartz-antigo-cor-preto/p/MLB63356070?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794063790
   }
  ]
 }
