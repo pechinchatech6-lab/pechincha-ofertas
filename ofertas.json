@@ -1,7 +1,21 @@
 {
- "updated": 1794042449,
+ "updated": 1794042870,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1029,
+   "key": "mercadolivre:MLB25925806",
+   "title": "Furadeira De Mourão Á Gasolina 0,6kw 23cc Tpd23 - Toyama",
+   "price": 1099.0,
+   "original": 1529.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_946040-MLA96208793020_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/furadeira-de-mourao-a-gasolina-0-6kw-23cc-tpd23-toyama/p/MLB25925806?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794042850
+  },
   {
    "n": 1028,
    "key": "mercadolivre:MLB19508984",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794016778
-  },
-  {
-   "n": 969,
-   "key": "mercadolivre:MLB19140415",
-   "title": "Suplemento Whey Isolate Protein Fuse 1,8kg sabor Morango Dark Lab",
-   "price": 179.9,
-   "original": 699.9,
-   "pct": 74,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_989007-MLA99405715766_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suplemento-whey-isolate-protein-fuse-1-8kg-sabor-morango-dark-lab/p/MLB19140415?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794016357
   }
  ]
 }
