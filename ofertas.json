@@ -1,7 +1,21 @@
 {
- "updated": 1794049099,
+ "updated": 1794049520,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1041,
+   "key": "mercadolivre:MLB27237302",
+   "title": "Lava Louças Brastemp 8 Serviços Preta - BLF08AE Preto",
+   "price": 1699.0,
+   "original": 2252.0,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_758227-MLA99859483597_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lava-loucas-brastemp-8-servicos-preta-blf08ae-preto/p/MLB27237302?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794049500
+  },
   {
    "n": 1040,
    "key": "mercadolivre:MLB62568815",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794021832
-  },
-  {
-   "n": 981,
-   "key": "mercadolivre:MLB77682099",
-   "title": "Soundbar 2.1 LED Bluetooth 5.3 Subwoofer 5.25 polegadas HDMI ARC AUX USB Hi Fi Extra Bass 3D EQ Controle Remoto Display LED Caixa de Som TV PC Projetor Gamer Ho",
-   "price": 308.44,
-   "original": 599.0,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_611083-MLA119222890978_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-2-1-led-bluetooth-5-3-subwoofer-5-25-polegadas-hdmi-arc-aux-usb-hi-fi-extra-bass-3d-eq-controle-remoto-display-/p/MLB77682099?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794021411
   }
  ]
 }
