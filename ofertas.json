@@ -1,7 +1,21 @@
 {
- "updated": 1794087748,
+ "updated": 1794088169,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1121,
+   "key": "mercadolivre:MLB57685924",
+   "title": "Ventilador De Mesa 40cm Turbo NVT-40-BL MONDIAL",
+   "price": 189.9,
+   "original": 269.9,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_777486-MLA100024464863_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-mesa-40cm-turbo-nvt-40-bl-mondial/p/MLB57685924?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794088149
+  },
   {
    "n": 1120,
    "key": "mercadolivre:MLB75237915",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794062076
-  },
-  {
-   "n": 1061,
-   "key": "mercadolivre:MLB19514465",
-   "title": "Argan Óleo Reparador 50ml , Lola from Rio",
-   "price": 13.16,
-   "original": 39.9,
-   "pct": 67,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_960905-MLA114016777742_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/argan-oleo-reparador-50ml-lola-from-rio/p/MLB19514465?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794061655
   }
  ]
 }
