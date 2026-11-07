@@ -1,7 +1,21 @@
 {
- "updated": 1794030272,
+ "updated": 1794030693,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1003,
+   "key": "mercadolivre:MLB70106562",
+   "title": "LG Home Theater Sound Bar S70TR",
+   "price": 1764.22,
+   "original": 2799.0,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_880525-MLA111071287524_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lg-home-theater-sound-bar-s70tr/p/MLB70106562?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794030673
+  },
   {
    "n": 1002,
    "key": "mercadolivre:MLB23903360",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794004966
-  },
-  {
-   "n": 943,
-   "key": "mercadolivre:MLB75536994",
-   "title": "Controle GameSir G7 Pro Sem Fio para Xbox Series X|S, PC e Android com Gatilhos Hall Effect",
-   "price": 476.87,
-   "original": 662.4,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_797885-MLA113442770934_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-pro-sem-fio-para-xbox-series-x-s-pc-e-android-com-gatilhos-hall-effect/p/MLB75536994?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794004545
   }
  ]
 }
