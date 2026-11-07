@@ -1,7 +1,21 @@
 {
- "updated": 1794019746,
+ "updated": 1794020167,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 978,
+   "key": "mercadolivre:MLB18953093",
+   "title": "Whey Protein Growth Concentrado 1kg – Sabor Baunilha",
+   "price": 154.99,
+   "original": 181.99,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_824274-MLA98770399871_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/whey-protein-growth-concentrado-1kg-sabor-baunilha/p/MLB18953093?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794020147
+  },
   {
    "n": 977,
    "key": "mercadolivre:MLB68089060",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1793993191
-  },
-  {
-   "n": 918,
-   "key": "mercadolivre:MLB80167828",
-   "title": "Bundle Nintendo Switch 2 + Mario Kart World + 3 Meses NSO",
-   "price": 4349.9,
-   "original": 5999.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_642168-MLA118780566083_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bundle-nintendo-switch-2-mario-kart-world-3-meses-nso/p/MLB80167828?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1793992770
   }
  ]
 }
