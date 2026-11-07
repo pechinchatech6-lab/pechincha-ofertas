@@ -1,7 +1,21 @@
 {
- "updated": 1794085029,
+ "updated": 1794085450,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1115,
+   "key": "mercadolivre:MLB79529287",
+   "title": "Smart TV Philips 43 polegadas QLED Full HD Wi-Fi HDR10 Dolby Áudio 43PGQ6921/78",
+   "price": 1479.0,
+   "original": 2149.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_739870-MLA117019190220_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-philips-43-polegadas-qled-full-hd-wi-fi-hdr10-dolby-audio-43pgq6921-78/p/MLB79529287?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794085430
+  },
   {
    "n": 1114,
    "key": "mercadolivre:MLB79072272",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794059550
-  },
-  {
-   "n": 1055,
-   "key": "mercadolivre:MLB25929487",
-   "title": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
-   "price": 69.99,
-   "original": 159.9,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-monohidratada-1kg-100-pura-dark-lab/p/MLB25929487?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794059129
   }
  ]
 }
