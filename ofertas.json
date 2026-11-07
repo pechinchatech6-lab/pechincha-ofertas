@@ -1,7 +1,21 @@
 {
- "updated": 1794064231,
+ "updated": 1794064652,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1068,
+   "key": "mercadolivre:MLB67267597",
+   "title": "Smart Tv Philco 50 P50vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
+   "price": 2221.11,
+   "original": 3499.0,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_750412-MLA108743699852_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-philco-50-p50vik-4k-uhd-led-roku-dolby-audio-wi-fi-hdr10-110-220v/p/MLB67267597?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794064632
+  },
   {
    "n": 1067,
    "key": "mercadolivre:MLB37900102",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794033199
-  },
-  {
-   "n": 1008,
-   "key": "mercadolivre:MLB23445432",
-   "title": "Relógio De Parede Led Digital Grande Termometro Recepção Preto Fast Plug",
-   "price": 64.9,
-   "original": 78.99,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_966574-MLA106370269334_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-led-digital-grande-termometro-recepcao-preto-fast-plug/p/MLB23445432?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794032778
   }
  ]
 }
