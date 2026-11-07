@@ -1,7 +1,21 @@
 {
- "updated": 1794086713,
+ "updated": 1794087134,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1119,
+   "key": "mercadolivre:MLB19152893",
+   "title": "Hidratante Corporal Neutrogena Hidrata & Repara 400ml",
+   "price": 25.9,
+   "original": 47.99,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_611157-MLA117806828603_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hidratante-corporal-neutrogena-hidrata-repara-400ml/p/MLB19152893?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794087114
+  },
   {
    "n": 1118,
    "key": "mercadolivre:MLB43438200",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794061234
-  },
-  {
-   "n": 1059,
-   "key": "mercadolivre:MLB6333687",
-   "title": "Geladeira Electrolux DC35A Cycle Defrost 260L Super Freezer Duplex Branca",
-   "price": 2099.0,
-   "original": 3699.0,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_946905-MLA114996170178_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-dc35a-cycle-defrost-260l-super-freezer-duplex-branca/p/MLB6333687?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794060813
   }
  ]
 }
