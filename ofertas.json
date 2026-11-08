@@ -1,7 +1,21 @@
 {
- "updated": 1794115784,
+ "updated": 1794116205,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1175,
+   "key": "mercadolivre:MLB19119114",
+   "title": "Micro-ondas 21 Litros Mondial 1200W - Mo-01-21-B",
+   "price": 463.68,
+   "original": 636.9,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_671642-MLA99548873200_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-21-litros-mondial-1200w-mo-01-21-b/p/MLB19119114?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794116185
+  },
   {
    "n": 1174,
    "key": "mercadolivre:MLB17822924",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794085851
-  },
-  {
-   "n": 1115,
-   "key": "mercadolivre:MLB79529287",
-   "title": "Smart TV Philips 43 polegadas QLED Full HD Wi-Fi HDR10 Dolby Áudio 43PGQ6921/78",
-   "price": 1479.0,
-   "original": 2149.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_739870-MLA117019190220_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-philips-43-polegadas-qled-full-hd-wi-fi-hdr10-dolby-audio-43pgq6921-78/p/MLB79529287?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794085430
   }
  ]
 }
