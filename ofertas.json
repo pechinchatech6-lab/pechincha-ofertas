@@ -1,7 +1,21 @@
 {
- "updated": 1794104488,
+ "updated": 1794104909,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1159,
+   "key": "mercadolivre:MLB79371321",
+   "title": "Depilador Aparador Elétrico Feminino Indolor 5 Em 1 Pelos Íntimo Facial Nariz Orelha Sobrancelha - Crowley",
+   "price": 49.0,
+   "original": 78.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_941388-MLA117697448455_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-aparador-eletrico-feminino-indolor-5-em-1-pelos-intimo-facial-nariz-orelha-sobrancelha-crowley/p/MLB79371321?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794104889
+  },
   {
    "n": 1158,
    "key": "mercadolivre:MLB35556218",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794078761
-  },
-  {
-   "n": 1099,
-   "key": "mercadolivre:MLB46189259",
-   "title": "Parafusadeira e Furadeira WF12K3.2 Bateria 12V WAP",
-   "price": 119.0,
-   "original": 196.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_804305-MLA119589286173_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-wf12k3-2-bateria-12v-wap/p/MLB46189259?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794078340
   }
  ]
 }
