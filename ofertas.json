@@ -1,7 +1,21 @@
 {
- "updated": 1794096794,
+ "updated": 1794097215,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1142,
+   "key": "mercadolivre:MLB63980306",
+   "title": "Pokémon Pokopia - Nintendo Switch 2",
+   "price": 439.89,
+   "original": 556.83,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_877218-MLA104113006671_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pokemon-pokopia-nintendo-switch-2/p/MLB63980306?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794097195
+  },
   {
    "n": 1141,
    "key": "mercadolivre:MLB25640671",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794071237
-  },
-  {
-   "n": 1082,
-   "key": "mercadolivre:MLB65973787",
-   "title": "Caixa De Som Bluetooth Portátil Tws Graves Potentes Beexcellent Preto",
-   "price": 119.99,
-   "original": 188.0,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_952019-MLA107639802173_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-portatil-tws-graves-potentes-beexcellent-preto/p/MLB65973787?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794070816
   }
  ]
 }
