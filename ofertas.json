@@ -1,7 +1,21 @@
 {
- "updated": 1794128347,
+ "updated": 1794128768,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1196,
+   "key": "mercadolivre:MLB79489063",
+   "title": "Soprador de Ar sem Fio Portátil 48V com 2 Baterias e Potência Turbo para Limpeza",
+   "price": 87.9,
+   "original": 250.0,
+   "pct": 65,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_779614-MLA117823377369_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-de-ar-sem-fio-portatil-48v-com-2-baterias-e-potencia-turbo-para-limpeza/p/MLB79489063?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794128748
+  },
   {
    "n": 1195,
    "key": "mercadolivre:MLB64301351",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794095090
-  },
-  {
-   "n": 1136,
-   "key": "mercadolivre:MLB75575414",
-   "title": "Politriz Polidora Automotiva Lixadeira 5 Polegadas (125 mm) Hilda Rosca M14",
-   "price": 96.12,
-   "original": 164.21,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_833486-MLA115396271563_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/politriz-polidora-automotiva-lixadeira-5-polegadas-125-mm-hilda-rosca-m14/p/MLB75575414?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794094669
   }
  ]
 }
