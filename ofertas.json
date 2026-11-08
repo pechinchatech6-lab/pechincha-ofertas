@@ -1,7 +1,21 @@
 {
- "updated": 1794167767,
+ "updated": 1794168188,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1278,
+   "key": "mercadolivre:MLB25912523",
+   "title": "Secador De Cabelo Vulcan Profissional 2500w - Taiff",
+   "price": 678.0,
+   "original": 1254.82,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_616033-MLA99481367784_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-vulcan-profissional-2500w-taiff/p/MLB25912523?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794168168
+  },
   {
    "n": 1277,
    "key": "mercadolivre:MLB66055148",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794140154
-  },
-  {
-   "n": 1218,
-   "key": "mercadolivre:MLB23373989",
-   "title": "Barbeador Kemei Shaver KM-1102 Sem Fio Cabeças Laváveis",
-   "price": 58.59,
-   "original": 198.9,
-   "pct": 71,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_777164-MLA99952832377_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/barbeador-kemei-shaver-km-1102-sem-fio-cabecas-lavaveis/p/MLB23373989?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794139733
   }
  ]
 }
