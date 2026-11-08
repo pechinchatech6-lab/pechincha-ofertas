@@ -1,7 +1,21 @@
 {
- "updated": 1794165241,
+ "updated": 1794165662,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1272,
+   "key": "mercadolivre:MLB75465650",
+   "title": "Coletor Guia de Pó Furadeira Parafusadeira 4 a 12mm Dor Block",
+   "price": 19.0,
+   "original": 38.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_981968-MLA114526798003_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/coletor-guia-de-po-furadeira-parafusadeira-4-a-12mm-dor-block/p/MLB75465650?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794165642
+  },
   {
    "n": 1271,
    "key": "mercadolivre:MLB46051297",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794137511
-  },
-  {
-   "n": 1212,
-   "key": "mercadolivre:MLB25969290",
-   "title": "Escova Secadora By Juliette Mondial 1300W - ES-JU-03",
-   "price": 144.0,
-   "original": 299.9,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_775867-MLA99944484715_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-by-juliette-mondial-1300w-es-ju-03/p/MLB25969290?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794137090
   }
  ]
 }
