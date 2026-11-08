@@ -1,7 +1,21 @@
 {
- "updated": 1794129189,
+ "updated": 1794129610,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1198,
+   "key": "mercadolivre:MLB64334861",
+   "title": "Caixa de Som Boombox Basike 80W Portátil Com Bluetooth 5.3 e RGB",
+   "price": 337.0,
+   "original": 599.98,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_836461-MLA106146443094_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-boombox-basike-80w-portatil-com-bluetooth-5-3-e-rgb/p/MLB64334861?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794129590
+  },
   {
    "n": 1197,
    "key": "mercadolivre:MLB24044937",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794095932
-  },
-  {
-   "n": 1138,
-   "key": "mercadolivre:MLB57082682",
-   "title": "Caixa de Som JBL Boombox 4 Bluetooth Portátil 210W Bivolt Azul",
-   "price": 2275.0,
-   "original": 2699.0,
-   "pct": 16,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674627-MLA100016786223_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-jbl-boombox-4-bluetooth-portatil-210w-bivolt-azul/p/MLB57082682?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794095511
   }
  ]
 }
