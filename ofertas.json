@@ -1,7 +1,21 @@
 {
- "updated": 1794154181,
+ "updated": 1794154602,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1249,
+   "key": "mercadolivre:MLB42164469",
+   "title": "Vitamina Always Fit Fit Hair para Cabelo e Unhas 30 Cápsulas",
+   "price": 44.91,
+   "original": 69.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_843897-MLA114342332614_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/vitamina-always-fit-fit-hair-para-cabelo-e-unhas-30-capsulas/p/MLB42164469?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794154582
+  },
   {
    "n": 1248,
    "key": "mercadolivre:MLB57490795",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794122588
-  },
-  {
-   "n": 1189,
-   "key": "mercadolivre:MLB57331529",
-   "title": "Creme Para Pentear Cachos Ostentação 1kg",
-   "price": 35.23,
-   "original": 55.0,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_937903-MLA99846026421_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-para-pentear-cachos-ostentacao-1kg/p/MLB57331529?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794122167
   }
  ]
 }
