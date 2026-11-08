@@ -1,7 +1,21 @@
 {
- "updated": 1794132058,
+ "updated": 1794132479,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1201,
+   "key": "mercadolivre:MLB23913684",
+   "title": "Trena Profissional 10 Metros 25mm Emborrachada Reforçada Fita de Aço Com Trava Manual Medição",
+   "price": 24.5,
+   "original": 34.99,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_813291-MLA117865477671_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/trena-profissional-10-metros-25mm-emborrachada-reforcada-fita-de-aco-com-trava-manual-medicao/p/MLB23913684?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794132459
+  },
   {
    "n": 1200,
    "key": "mercadolivre:MLB25295297",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794097195
-  },
-  {
-   "n": 1141,
-   "key": "mercadolivre:MLB25640671",
-   "title": "Relógio De Bolso Steampunk Corrente Antigo Relíquia Preto",
-   "price": 35.89,
-   "original": 59.99,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_698007-MLA99603224136_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-bolso-steampunk-corrente-antigo-reliquia-preto/p/MLB25640671?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794096774
   }
  ]
 }
