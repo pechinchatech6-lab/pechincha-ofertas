@@ -1,7 +1,21 @@
 {
- "updated": 1794177822,
+ "updated": 1794178243,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1297,
+   "key": "mercadolivre:MLB69013896",
+   "title": "Caixa de Som Amplificada Philco Extreme Bluetooth 5.3 480W 2 Microfones TWS Flash Light Bateria Recarregável PCX4801",
+   "price": 699.0,
+   "original": 1212.86,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680616-MLA116669244073_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-amplificada-philco-extreme-bluetooth-5-3-480w-2-microfones-tws-flash-light-bateria-recarregavel-pcx4801/p/MLB69013896?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794178223
+  },
   {
    "n": 1296,
    "key": "mercadolivre:MLB70508079",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794149604
-  },
-  {
-   "n": 1237,
-   "key": "mercadolivre:MLB72367910",
-   "title": "Haosin Escorredor Suporte Organizador De Louças E Pratos 2 Andares Aço Preto Para Pia De Cozinha Moderno",
-   "price": 99.99,
-   "original": 119.0,
-   "pct": 16,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_672135-MLA115722945598_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/haosin-escorredor-suporte-organizador-de-loucas-e-pratos-2-andares-aco-preto-para-pia-de-cozinha-moderno/p/MLB72367910?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794149008
   }
  ]
 }
