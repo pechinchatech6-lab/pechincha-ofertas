@@ -1,7 +1,21 @@
 {
- "updated": 1794110636,
+ "updated": 1794111428,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1168,
+   "key": "mercadolivre:MLB45436713",
+   "title": "Vedo HA400 Amplificador para Fones de Ouvido 4 Canais Compacto 6,35mm",
+   "price": 70.0,
+   "original": 78.0,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_968956-MLA100004958541_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/vedo-ha400-amplificador-para-fones-de-ouvido-4-canais-compacto-6-35mm/p/MLB45436713?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794111408
+  },
   {
    "n": 1167,
    "key": "mercadolivre:MLB74598488",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794082904
-  },
-  {
-   "n": 1108,
-   "key": "mercadolivre:MLB51545470",
-   "title": "Controle Sem Fio Xbox Series X|S Microsoft Azul Shock com Bluetooth",
-   "price": 389.99,
-   "original": 499.0,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_838906-MLA86702461397_062025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-sem-fio-xbox-series-x-s-microsoft-azul-shock-com-bluetooth/p/MLB51545470?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794082482
   }
  ]
 }
