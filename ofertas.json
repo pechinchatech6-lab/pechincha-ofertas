@@ -1,7 +1,21 @@
 {
- "updated": 1794100583,
+ "updated": 1794101155,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1151,
+   "key": "mercadolivre:MLB79307969",
+   "title": "Webcam Câmera Full Hd 1080p Microfone Embutido Zoom 360° Usb 2.0 Videoconferência Reunião Streaming para PC Notebook",
+   "price": 26.97,
+   "original": 69.78,
+   "pct": 61,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_924901-MLA116572440300_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-1080p-microfone-embutido-zoom-360-usb-2-0-videoconferencia-reuniao-streaming-para-pc-notebook/p/MLB79307969?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794101135
+  },
   {
    "n": 1150,
    "key": "mercadolivre:MLB41147255",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794075393
-  },
-  {
-   "n": 1091,
-   "key": "mercadolivre:MLB64176920",
-   "title": "Saida De Praia Calça Plus Size Tricô Feminina Cores Cor Branco Tamanho G3 veste 52 ao 56",
-   "price": 37.1,
-   "original": 41.48,
-   "pct": 11,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_771995-MLA116660825128_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/saida-de-praia-calca-plus-size-trico-feminina-cores-cor-branco-tamanho-g3-veste-52-ao-56/p/MLB64176920?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794074972
   }
  ]
 }
