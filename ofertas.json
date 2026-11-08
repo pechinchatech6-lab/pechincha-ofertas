@@ -1,7 +1,21 @@
 {
- "updated": 1794100162,
+ "updated": 1794100583,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1150,
+   "key": "mercadolivre:MLB41147255",
+   "title": "Controle Gamesir G7 Se Com Fio Para Xbox One Series S X Pc Hall Effect Botões Mecânicos Cor Azul",
+   "price": 239.0,
+   "original": 459.9,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_928331-MLA99599229698_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-se-com-fio-para-xbox-one-series-s-x-pc-hall-effect-botoes-mecanicos-cor-azul/p/MLB41147255?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794100563
+  },
   {
    "n": 1149,
    "key": "mercadolivre:MLB80245753",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794074972
-  },
-  {
-   "n": 1090,
-   "key": "mercadolivre:MLB25708528",
-   "title": "Shampoo Tonalizante Grecin Control GX Reduz Grisalho 118ml",
-   "price": 77.48,
-   "original": 111.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631595-MLA99350047876_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-grecin-control-gx-reduz-grisalho-118ml/p/MLB25708528?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794074550
   }
  ]
 }
