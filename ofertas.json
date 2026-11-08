@@ -1,7 +1,21 @@
 {
- "updated": 1794152497,
+ "updated": 1794152918,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1245,
+   "key": "mercadolivre:MLB27673874",
+   "title": "Creme Para Pentear Salon Line Gel Creme SOS Cachos Super Óleos 1kg",
+   "price": 31.5,
+   "original": 39.4,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_866240-MLA99924827189_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-para-pentear-salon-line-gel-creme-sos-cachos-super-oleos-1kg/p/MLB27673874?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794152898
+  },
   {
    "n": 1244,
    "key": "mercadolivre:MLB78894494",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794120822
-  },
-  {
-   "n": 1185,
-   "key": "mercadolivre:MLB27911502",
-   "title": "Anasol Protetor Solar Facial Clareador Toque Seco - Fps 70",
-   "price": 38.9,
-   "original": 88.91,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_828936-MLA99851316099_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/anasol-protetor-solar-facial-clareador-toque-seco-fps-70/p/MLB27911502?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794120401
   }
  ]
 }
