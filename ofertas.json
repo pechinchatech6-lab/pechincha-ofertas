@@ -1,7 +1,21 @@
 {
- "updated": 1794134163,
+ "updated": 1794134584,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1206,
+   "key": "mercadolivre:MLB67840670",
+   "title": "Trena Nível Laser Profissional 2,5m 3 Linhas Horizontal Vertical Cruzado Nível De Bolha Prático E Preciso Para Quadros Prateleiras Painéis Instalações Residenci",
+   "price": 27.99,
+   "original": 49.99,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_794741-MLA109737854070_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/trena-nivel-laser-profissional-2-5m-3-linhas-horizontal-vertical-cruzado-nivel-de-bolha-pratico-e-preciso-para-quadros-p/p/MLB67840670?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794134564
+  },
   {
    "n": 1205,
    "key": "mercadolivre:MLB50507430",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794099300
-  },
-  {
-   "n": 1146,
-   "key": "mercadolivre:MLB54160969",
-   "title": "Relógio De Parede Silencioso Sala De Estar Moderno E Simples Estrutura Dourado-escuro Fundo Branco",
-   "price": 29.99,
-   "original": 46.8,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_864557-MLA91287927765_082025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-silencioso-sala-de-estar-moderno-e-simples-estrutura-dourado-escuro-fundo-branco/p/MLB54160969?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794098879
   }
  ]
 }
