@@ -1,7 +1,21 @@
 {
- "updated": 1794119579,
+ "updated": 1794120000,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1184,
+   "key": "mercadolivre:MLB67817751",
+   "title": "Máquina de Lavar Consul 16Kg cor branco com Modo Eco CWN16AB",
+   "price": 1835.9,
+   "original": 2050.9,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_958363-MLA109408800568_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-consul-16kg-cor-branco-com-modo-eco-cwn16ab/p/MLB67817751?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794119980
+  },
   {
    "n": 1183,
    "key": "mercadolivre:MLB67292186",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794090038
-  },
-  {
-   "n": 1124,
-   "key": "mercadolivre:MLB65184709",
-   "title": "Caixa Maleta Porta Relógio Estojo Organizadora 2 Lugares Preto",
-   "price": 38.7,
-   "original": 59.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_950245-MLA105750028358_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-maleta-porta-relogio-estojo-organizadora-2-lugares-preto/p/MLB65184709?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794089617
   }
  ]
 }
