@@ -1,7 +1,21 @@
 {
- "updated": 1794179085,
+ "updated": 1794180729,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1300,
+   "key": "mercadolivre:MLB64921330",
+   "title": "Vitaminas Always Fit Complexo B com Metilfolato e Metilcobalamina, 60 Cápsulas",
+   "price": 49.9,
+   "original": 69.9,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_951507-MLA105745113895_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/vitaminas-always-fit-complexo-b-com-metilfolato-e-metilcobalamina-60-capsulas/p/MLB64921330?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794180709
+  },
   {
    "n": 1299,
    "key": "mercadolivre:MLB24326256",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794150867
-  },
-  {
-   "n": 1240,
-   "key": "mercadolivre:MLB29527654",
-   "title": "Hidratante Labial Nivea Ultra Hialurônico 5,2g",
-   "price": 23.0,
-   "original": 36.89,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_683043-MLA117370206881_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hidratante-labial-nivea-ultra-hialuronico-5-2g/p/MLB29527654?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794150446
   }
  ]
 }
