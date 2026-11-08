@@ -1,7 +1,21 @@
 {
- "updated": 1794120421,
+ "updated": 1794120842,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1186,
+   "key": "mercadolivre:MLB70009240",
+   "title": "Secador De Roupas 600w Elétrico Portátil Suspenso Cortina Compacto Econômico Seca Rápido",
+   "price": 112.45,
+   "original": 249.9,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_787276-MLA110939686058_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-roupas-600w-eletrico-portatil-suspenso-cortina-compacto-economico-seca-rapido/p/MLB70009240?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794120822
+  },
   {
    "n": 1185,
    "key": "mercadolivre:MLB27911502",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794090880
-  },
-  {
-   "n": 1126,
-   "key": "mercadolivre:MLB68347781",
-   "title": "Cinto Duplo Masculino Couro Dupla Face 2 Em 1 Preto Marrom Social 120CM",
-   "price": 26.09,
-   "original": 29.9,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_943212-MLA112119025356_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cinto-duplo-masculino-couro-dupla-face-2-em-1-preto-marrom-social-120cm/p/MLB68347781?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794090459
   }
  ]
 }
