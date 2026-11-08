@@ -1,7 +1,21 @@
 {
- "updated": 1794103646,
+ "updated": 1794104067,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1157,
+   "key": "mercadolivre:MLB25327723",
+   "title": "Escova Secadora Philco PES19SG BIVOLT",
+   "price": 143.9,
+   "original": 193.48,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_842495-MLA119271531210_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-philco-pes19sg-bivolt/p/MLB25327723?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794104047
+  },
   {
    "n": 1156,
    "key": "mercadolivre:MLB58338157",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794077919
-  },
-  {
-   "n": 1097,
-   "key": "mercadolivre:MLB79377107",
-   "title": "Jogo Serra Copo 16 Peças 19mm A 127mm Para Madeira Gesso Pvc Mdf Compensado Kit Completo Para Furadeira Conjunto De Serras Para Perfuração E Corte Circular Em O",
-   "price": 41.59,
-   "original": 69.9,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_980754-MLA116700635380_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/jogo-serra-copo-16-pecas-19mm-a-127mm-para-madeira-gesso-pvc-mdf-compensado-kit-completo-para-furadeira-conjunto-de-serr/p/MLB79377107?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794077498
   }
  ]
 }
