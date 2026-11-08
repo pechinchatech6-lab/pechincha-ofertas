@@ -1,7 +1,21 @@
 {
- "updated": 1794132900,
+ "updated": 1794133321,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1203,
+   "key": "mercadolivre:MLB29099771",
+   "title": "Secador de Cabelos Mondial 2000W - SCN-11",
+   "price": 108.49,
+   "original": 204.9,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_928357-MLA99995948951_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-mondial-2000w-scn-11/p/MLB29099771?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794133301
+  },
   {
    "n": 1202,
    "key": "mercadolivre:MLB65197027",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794098037
-  },
-  {
-   "n": 1143,
-   "key": "mercadolivre:MLB42162174",
-   "title": "Parafusadeira E Furadeira Sem Fio Bateria 3/8 10mm Com Maleta E Acessorios The Black Tools",
-   "price": 99.9,
-   "original": 209.9,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_649121-MLA108633953017_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-sem-fio-bateria-3-8-10mm-com-maleta-e-acessorios-the-black-tools/p/MLB42162174?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794097616
   }
  ]
 }
