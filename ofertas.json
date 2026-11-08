@@ -1,7 +1,21 @@
 {
- "updated": 1794106762,
+ "updated": 1794107361,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1162,
+   "key": "mercadolivre:MLB44334357",
+   "title": "EMEET C960 4K Webcam 1080P 60Fps Camera Para PC Streaming Com Microfone Automático Kit Videoconferencia",
+   "price": 284.13,
+   "original": 369.0,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631614-MLA105564532053_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/emeet-c960-4k-webcam-1080p-60fps-camera-para-pc-streaming-com-microfone-automatico-kit-videoconferencia/p/MLB44334357?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794107341
+  },
   {
    "n": 1161,
    "key": "mercadolivre:MLB18572379",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794080025
-  },
-  {
-   "n": 1102,
-   "key": "mercadolivre:MLB18555054",
-   "title": "Lixadeira Pneumática Roto Orbital PDR PRO-406 6'' 12,000 RPM",
-   "price": 228.0,
-   "original": 320.2,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_701812-MLA99872457571_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-roto-orbital-pdr-pro-406-6-12-000-rpm/p/MLB18555054?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794079603
   }
  ]
 }
