@@ -1,7 +1,21 @@
 {
- "updated": 1794149624,
+ "updated": 1794150045,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1239,
+   "key": "mercadolivre:MLB51233234",
+   "title": "Organizador Acrílico Para Cosméticos 2 Prateleiras Multiuso",
+   "price": 52.27,
+   "original": 78.56,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_981635-MLA112391937773_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/organizador-acrilico-para-cosmeticos-2-prateleiras-multiuso/p/MLB51233234?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794150025
+  },
   {
    "n": 1238,
    "key": "mercadolivre:MLB19717528",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794118296
-  },
-  {
-   "n": 1179,
-   "key": "mercadolivre:MLB57719746",
-   "title": "Lava Louças 8 Serviços Branco Touch Plus Midea",
-   "price": 1669.0,
-   "original": 1999.0,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_954836-MLA92889662154_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lava-loucas-8-servicos-branco-touch-plus-midea/p/MLB57719746?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794117874
   }
  ]
 }
