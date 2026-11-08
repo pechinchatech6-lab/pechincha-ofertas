@@ -1,7 +1,21 @@
 {
- "updated": 1794141016,
+ "updated": 1794141437,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1222,
+   "key": "mercadolivre:MLB18725308",
+   "title": "Creatina Soldiers Nutrition em pó Sem sabor x 500g",
+   "price": 44.9,
+   "original": 78.9,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_784236-MLA119862530715_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-soldiers-nutrition-em-po-sem-sabor-x-500g/p/MLB18725308?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794141417
+  },
   {
    "n": 1221,
    "key": "mercadolivre:MLB50811118",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794107762
-  },
-  {
-   "n": 1162,
-   "key": "mercadolivre:MLB44334357",
-   "title": "EMEET C960 4K Webcam 1080P 60Fps Camera Para PC Streaming Com Microfone Automático Kit Videoconferencia",
-   "price": 284.13,
-   "original": 369.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631614-MLA105564532053_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/emeet-c960-4k-webcam-1080p-60fps-camera-para-pc-streaming-com-microfone-automatico-kit-videoconferencia/p/MLB44334357?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794107341
   }
  ]
 }
