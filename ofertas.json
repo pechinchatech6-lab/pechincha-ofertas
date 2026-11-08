@@ -1,7 +1,21 @@
 {
- "updated": 1794144855,
+ "updated": 1794145460,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1230,
+   "key": "mercadolivre:MLB37984126",
+   "title": "Porta Suplementos Fitness Prottector 4 Divisões 100ml Hermético BPA Free",
+   "price": 34.0,
+   "original": 41.9,
+   "pct": 19,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_674514-MLA100087126261_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/porta-suplementos-fitness-prottector-4-divisoes-100ml-hermetico-bpa-free/p/MLB37984126?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794145440
+  },
   {
    "n": 1229,
    "key": "mercadolivre:MLB36823493",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794114501
-  },
-  {
-   "n": 1170,
-   "key": "mercadolivre:MLB28038505",
-   "title": "Caixa de Som Speaker Philco Extreme 220W PBS220BT",
-   "price": 415.37,
-   "original": 569.0,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_760667-MLA99822471815_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-speaker-philco-extreme-220w-pbs220bt/p/MLB28038505?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794112425
   }
  ]
 }
