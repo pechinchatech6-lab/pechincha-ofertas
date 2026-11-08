@@ -1,7 +1,21 @@
 {
- "updated": 1794167346,
+ "updated": 1794167767,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1277,
+   "key": "mercadolivre:MLB66055148",
+   "title": "Smart Tv 32 Philco Roku Tv Dolby Áudio Hdr10 P32crb",
+   "price": 929.8,
+   "original": 1199.0,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_875689-MLA107805437119_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-32-philco-roku-tv-dolby-audio-hdr10-p32crb/p/MLB66055148?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794167747
+  },
   {
    "n": 1276,
    "key": "mercadolivre:MLB44964696",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794139733
-  },
-  {
-   "n": 1217,
-   "key": "mercadolivre:MLB29011598",
-   "title": "Lavadora de Alta Pressão WAP WL 1820 com Stop Total, Jato Leque e Concentrado",
-   "price": 377.9,
-   "original": 728.0,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_968375-MLA87428792871_072025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-wap-wl-1820-com-stop-total-jato-leque-e-concentrado/p/MLB29011598?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794139312
   }
  ]
 }
