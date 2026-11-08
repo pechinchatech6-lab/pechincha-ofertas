@@ -1,7 +1,21 @@
 {
- "updated": 1794170714,
+ "updated": 1794171404,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1285,
+   "key": "mercadolivre:MLB75627272",
+   "title": "Mochila para Notebook Impermeável com Porta USB e Expansão de 25L a 40L, Ideal para Viagem e Trabalho",
+   "price": 98.1,
+   "original": 218.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_683360-MLA113618531626_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-para-notebook-impermeavel-com-porta-usb-e-expansao-de-25l-a-40l-ideal-para-viagem-e-trabalho/p/MLB75627272?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794171384
+  },
   {
    "n": 1284,
    "key": "mercadolivre:MLB44784310",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794143101
-  },
-  {
-   "n": 1225,
-   "key": "mercadolivre:MLB53603809",
-   "title": "Prancha Pente Elétrico Chapinha Barba Cabelo Alinhado Masculino Cerâmica Modelador Alisador 120°C Bivolt Branco Kavon",
-   "price": 29.09,
-   "original": 47.09,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_781168-MLA115240454559_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/prancha-pente-eletrico-chapinha-barba-cabelo-alinhado-masculino-ceramica-modelador-alisador-120-c-bivolt-branco-kavon/p/MLB53603809?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794142680
   }
  ]
 }
