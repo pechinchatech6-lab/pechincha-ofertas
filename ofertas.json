@@ -1,7 +1,21 @@
 {
- "updated": 1794176559,
+ "updated": 1794176980,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1294,
+   "key": "mercadolivre:MLB75536997",
+   "title": "Controle GameSir G7 Pro sem Fio para Xbox, PC e Android Prateado",
+   "price": 424.98,
+   "original": 552.28,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_697137-MLA113442533788_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-pro-sem-fio-para-xbox-pc-e-android-prateado/p/MLB75536997?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794176960
+  },
   {
    "n": 1293,
    "key": "mercadolivre:MLB49756297",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794148166
-  },
-  {
-   "n": 1234,
-   "key": "mercadolivre:MLB51115132",
-   "title": "Carrinho Organizador 3 Prateleiras Multiuso Cesto Auxiliar Com Roda E Alça Irsina",
-   "price": 97.67,
-   "original": 174.9,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_734144-MLA99450921904_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/carrinho-organizador-3-prateleiras-multiuso-cesto-auxiliar-com-roda-e-alca-irsina/p/MLB51115132?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794147745
   }
  ]
 }
