@@ -1,7 +1,21 @@
 {
- "updated": 1794181571,
+ "updated": 1794181992,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1303,
+   "key": "mercadolivre:MLB53878745",
+   "title": "Caixa de som Boombox Philco Extreme Bluetooth V.5.4 300W PBX01",
+   "price": 899.0,
+   "original": 1600.0,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_628373-MLA99520261698_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-boombox-philco-extreme-bluetooth-v-5-4-300w-pbx01/p/MLB53878745?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794181972
+  },
   {
    "n": 1302,
    "key": "mercadolivre:MLB79854330",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794152477
-  },
-  {
-   "n": 1243,
-   "key": "mercadolivre:MLB40336256",
-   "title": "Uomini Spirit Desodorante Colônia 100ml",
-   "price": 101.94,
-   "original": 199.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_740927-MLA106407688549_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/uomini-spirit-desodorante-colonia-100ml/p/MLB40336256?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794152056
   }
  ]
 }
