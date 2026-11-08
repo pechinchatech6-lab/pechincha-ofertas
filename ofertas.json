@@ -1,7 +1,21 @@
 {
- "updated": 1794163443,
+ "updated": 1794165241,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1271,
+   "key": "mercadolivre:MLB46051297",
+   "title": "Fone de ouvido Tws Philips Tat1109bk/00 preto Ipx4",
+   "price": 94.02,
+   "original": 199.0,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_638013-MLA99988533713_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-tws-philips-tat1109bk-00-preto-ipx4/p/MLB46051297?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794165221
+  },
   {
    "n": 1270,
    "key": "mercadolivre:MLB18085706",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794137090
-  },
-  {
-   "n": 1211,
-   "key": "mercadolivre:MLB23642918",
-   "title": "Chaleira Bule Alumínio C/ Apito Roma Vanilla Brinox 2,7 L",
-   "price": 95.15,
-   "original": 227.99,
-   "pct": 58,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_708092-MLA95935143405_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chaleira-bule-aluminio-c-apito-roma-vanilla-brinox-2-7-l/p/MLB23642918?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794136669
   }
  ]
 }
