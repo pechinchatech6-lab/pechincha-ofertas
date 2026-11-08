@@ -1,7 +1,21 @@
 {
- "updated": 1794136689,
+ "updated": 1794137110,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1212,
+   "key": "mercadolivre:MLB25969290",
+   "title": "Escova Secadora By Juliette Mondial 1300W - ES-JU-03",
+   "price": 144.0,
+   "original": 299.9,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_775867-MLA99944484715_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-by-juliette-mondial-1300w-es-ju-03/p/MLB25969290?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794137090
+  },
   {
    "n": 1211,
    "key": "mercadolivre:MLB23642918",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794102167
-  },
-  {
-   "n": 1152,
-   "key": "mercadolivre:MLB10481238",
-   "title": "Máscara de Cílios Maybelline Lash Sensational à Prova d'Água para Volume e Definição",
-   "price": 26.25,
-   "original": 59.17,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_645424-MLU72821012247_112023-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mascara-de-cilios-maybelline-lash-sensational-a-prova-d-agua-para-volume-e-definicao/p/MLB10481238?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794101556
   }
  ]
 }
