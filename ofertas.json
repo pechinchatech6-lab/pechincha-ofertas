@@ -1,7 +1,21 @@
 {
- "updated": 1794116627,
+ "updated": 1794117048,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1177,
+   "key": "mercadolivre:MLB19617679",
+   "title": "Micro-ondas Electrolux Branco 23L Efficient ME23B",
+   "price": 499.0,
+   "original": 659.0,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_742060-MLA99449598594_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-electrolux-branco-23l-efficient-me23b/p/MLB19617679?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794117028
+  },
   {
    "n": 1176,
    "key": "mercadolivre:MLB28859007",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794086693
-  },
-  {
-   "n": 1117,
-   "key": "mercadolivre:MLB58382190",
-   "title": "Mochila Notebook 17 Impermeável Reforçada Grande Masculina USB Escolar Trabalho Rincostar Preta Preto Liso",
-   "price": 39.74,
-   "original": 52.99,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_937893-MLA114680295948_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-notebook-17-impermeavel-reforcada-grande-masculina-usb-escolar-trabalho-rincostar-preta-preto-liso/p/MLB58382190?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794086272
   }
  ]
 }
