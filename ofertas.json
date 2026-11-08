@@ -1,7 +1,21 @@
 {
- "updated": 1794109794,
+ "updated": 1794110215,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1166,
+   "key": "mercadolivre:MLB51528458",
+   "title": "Aparador De Pelos Saco Homem P D'agua Barberpro Ultra íntimos",
+   "price": 155.0,
+   "original": 450.0,
+   "pct": 66,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_608043-MLA99960994505_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-saco-homem-p-d-agua-barberpro-ultra-intimos/p/MLB51528458?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794110195
+  },
   {
    "n": 1165,
    "key": "mercadolivre:MLB70063359",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794081859
-  },
-  {
-   "n": 1106,
-   "key": "mercadolivre:MLB65526763",
-   "title": "Relógio de Parede Digital Armstrong Quadrado, com Data, Temperatura e Alarme",
-   "price": 109.0,
-   "original": 216.5,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_712820-MLA114927673134_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-digital-armstrong-quadrado-com-data-temperatura-e-alarme/p/MLB65526763?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794081438
   }
  ]
 }
