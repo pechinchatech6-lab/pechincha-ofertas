@@ -1,7 +1,21 @@
 {
- "updated": 1794166504,
+ "updated": 1794166925,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1275,
+   "key": "mercadolivre:MLB34016199",
+   "title": "Microfone de Lapela Sem Fio Hollyland Lark M2 Combo (USB-C, Lightning e Câmera)",
+   "price": 598.5,
+   "original": 999.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_644387-MLA119786973369_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microfone-de-lapela-sem-fio-hollyland-lark-m2-combo-usb-c-lightning-e-camera/p/MLB34016199?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794166905
+  },
   {
    "n": 1274,
    "key": "mercadolivre:MLB26080271",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794138774
-  },
-  {
-   "n": 1215,
-   "key": "mercadolivre:MLB70041763",
-   "title": "Frigideira VYROX Antiaderente Premium 24 cm de Cerâmica com Fundo Triplo",
-   "price": 49.76,
-   "original": 121.37,
-   "pct": 59,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_854938-MLA111944300933_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/frigideira-vyrox-antiaderente-premium-24-cm-de-ceramica-com-fundo-triplo/p/MLB70041763?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794138353
   }
  ]
 }
