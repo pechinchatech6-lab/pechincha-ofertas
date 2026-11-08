@@ -1,7 +1,21 @@
 {
- "updated": 1794140174,
+ "updated": 1794140595,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1220,
+   "key": "mercadolivre:MLB38714294",
+   "title": "Aparador de Pelos Philco Multigroom 8 Em 1 Pap16 Cor Chumbo",
+   "price": 116.3,
+   "original": 169.9,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_999787-MLA100009174297_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-philco-multigroom-8-em-1-pap16-cor-chumbo/p/MLB38714294?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794140575
+  },
   {
    "n": 1219,
    "key": "mercadolivre:MLB19109935",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794106742
-  },
-  {
-   "n": 1160,
-   "key": "mercadolivre:MLB41517253",
-   "title": "Secador De Cabelos 2200w Psc2300 Motor Dc Philco Vermelho Com Tecnologia Íons Tourmaline - Secagem rápida e eficiente",
-   "price": 106.9,
-   "original": 137.61,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_845149-MLA116164516632_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-2200w-psc2300-motor-dc-philco-vermelho-com-tecnologia-ions-tourmaline-secagem-rapida-e-eficiente/p/MLB41517253?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794106321
   }
  ]
 }
