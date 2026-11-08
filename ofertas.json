@@ -1,7 +1,21 @@
 {
- "updated": 1794118316,
+ "updated": 1794118737,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1181,
+   "key": "mercadolivre:MLB18390996",
+   "title": "Mantecorp Hidratante Facial Epidrat Calm Restaurador - 40g",
+   "price": 69.9,
+   "original": 104.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_638204-MLU73122319784_122023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mantecorp-hidratante-facial-epidrat-calm-restaurador-40g/p/MLB18390996?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794118717
+  },
   {
    "n": 1180,
    "key": "mercadolivre:MLB23863899",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794088775
-  },
-  {
-   "n": 1121,
-   "key": "mercadolivre:MLB57685924",
-   "title": "Ventilador De Mesa 40cm Turbo NVT-40-BL MONDIAL",
-   "price": 189.9,
-   "original": 269.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_777486-MLA100024464863_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-mesa-40cm-turbo-nvt-40-bl-mondial/p/MLB57685924?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794088149
   }
  ]
 }
