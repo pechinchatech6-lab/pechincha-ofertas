@@ -1,7 +1,21 @@
 {
- "updated": 1794098478,
+ "updated": 1794098899,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1146,
+   "key": "mercadolivre:MLB54160969",
+   "title": "Relógio De Parede Silencioso Sala De Estar Moderno E Simples Estrutura Dourado-escuro Fundo Branco",
+   "price": 29.99,
+   "original": 46.8,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_864557-MLA91287927765_082025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-silencioso-sala-de-estar-moderno-e-simples-estrutura-dourado-escuro-fundo-branco/p/MLB54160969?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794098879
+  },
   {
    "n": 1145,
    "key": "mercadolivre:MLB74243177",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794073287
-  },
-  {
-   "n": 1086,
-   "key": "mercadolivre:MLB60709649",
-   "title": "Mochila Masculina Faculdade Impermeável Resistente Grande Trabalho Escola Cor Preto Desenho Do Tecido Liso",
-   "price": 57.99,
-   "original": 78.99,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_666313-MLA99570168096_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-masculina-faculdade-impermeavel-resistente-grande-trabalho-escola-cor-preto-desenho-do-tecido-liso/p/MLB60709649?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794072866
   }
  ]
 }
