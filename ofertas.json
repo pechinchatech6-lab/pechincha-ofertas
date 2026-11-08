@@ -1,7 +1,21 @@
 {
- "updated": 1794142700,
+ "updated": 1794143121,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1226,
+   "key": "mercadolivre:MLB59019868",
+   "title": "Mouse Vertical Ergonômico Sem Fio Recarregável Bluetooth e USB 2.4G – RGB, Silencioso, DPI Ajustável, Reduz Tensão no Pulso, Portátil e Confortável – Compatível",
+   "price": 38.38,
+   "original": 69.9,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_869466-MLA100026509347_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mouse-vertical-ergonomico-sem-fio-recarregavel-bluetooth-e-usb-2-4g-rgb-silencioso-dpi-ajustavel-reduz-tensao-no-pulso-p/p/MLB59019868?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794143101
+  },
   {
    "n": 1225,
    "key": "mercadolivre:MLB53603809",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794110616
-  },
-  {
-   "n": 1166,
-   "key": "mercadolivre:MLB51528458",
-   "title": "Aparador De Pelos Saco Homem P D'agua Barberpro Ultra íntimos",
-   "price": 155.0,
-   "original": 450.0,
-   "pct": 66,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_608043-MLA99960994505_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-saco-homem-p-d-agua-barberpro-ultra-intimos/p/MLB51528458?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794110195
   }
  ]
 }
