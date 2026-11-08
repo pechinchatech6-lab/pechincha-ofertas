@@ -1,7 +1,21 @@
 {
- "updated": 1794157970,
+ "updated": 1794158391,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1258,
+   "key": "mercadolivre:MLB60012839",
+   "title": "Parafusadeira Furadeira De Impacto A Bateria 21V 3/8” Bivolt 1400 Rpm Com Acessórios E Maleta TB-21PZW The Black Tools",
+   "price": 115.0,
+   "original": 259.9,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_660718-MLA99503122958_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-a-bateria-21v-3-8-bivolt-1400-rpm-com-acessorios-e-maleta-tb-21pzw-the-black-tools/p/MLB60012839?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794158371
+  },
   {
    "n": 1257,
    "key": "mercadolivre:MLB79475250",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794130011
-  },
-  {
-   "n": 1198,
-   "key": "mercadolivre:MLB64334861",
-   "title": "Caixa de Som Boombox Basike 80W Portátil Com Bluetooth 5.3 e RGB",
-   "price": 337.0,
-   "original": 599.98,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_836461-MLA106146443094_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-boombox-basike-80w-portatil-com-bluetooth-5-3-e-rgb/p/MLB64334861?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794129590
   }
  ]
 }
