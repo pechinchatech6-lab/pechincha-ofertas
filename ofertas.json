@@ -1,7 +1,21 @@
 {
- "updated": 1794139753,
+ "updated": 1794140174,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1219,
+   "key": "mercadolivre:MLB19109935",
+   "title": "Esmerilhadeira Bosch 4,5\" 220V 710W GWS 700 06013A30E0",
+   "price": 289.99,
+   "original": 332.5,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_670719-MLA99986706915_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/esmerilhadeira-bosch-4-5-220v-710w-gws-700-06013a30e0/p/MLB19109935?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794140154
+  },
   {
    "n": 1218,
    "key": "mercadolivre:MLB23373989",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794106321
-  },
-  {
-   "n": 1159,
-   "key": "mercadolivre:MLB79371321",
-   "title": "Depilador Aparador Elétrico Feminino Indolor 5 Em 1 Pelos Íntimo Facial Nariz Orelha Sobrancelha - Crowley",
-   "price": 49.0,
-   "original": 78.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_941388-MLA117697448455_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-aparador-eletrico-feminino-indolor-5-em-1-pelos-intimo-facial-nariz-orelha-sobrancelha-crowley/p/MLB79371321?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794104889
   }
  ]
 }
