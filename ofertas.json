@@ -1,7 +1,21 @@
 {
- "updated": 1794138373,
+ "updated": 1794138794,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1216,
+   "key": "mercadolivre:MLB24620782",
+   "title": "Escova Secadora Britânia 4 em 1 Cerâmica 1300W BES26SR Bivolt",
+   "price": 92.9,
+   "original": 139.9,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_654500-MLA99956258605_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-britania-4-em-1-ceramica-1300w-bes26sr-bivolt/p/MLB24620782?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794138774
+  },
   {
    "n": 1215,
    "key": "mercadolivre:MLB70041763",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794104047
-  },
-  {
-   "n": 1156,
-   "key": "mercadolivre:MLB58338157",
-   "title": "Cinta Modelador Short Cirurgia Plástica Biobela Cor Marrom Tamanho Egg-50",
-   "price": 159.0,
-   "original": 230.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_926715-MLA93303764654_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cinta-modelador-short-cirurgia-plastica-biobela-cor-marrom-tamanho-egg-50/p/MLB58338157?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794103626
   }
  ]
 }
