@@ -1,7 +1,21 @@
 {
- "updated": 1794135005,
+ "updated": 1794135426,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1208,
+   "key": "mercadolivre:MLB67678831",
+   "title": "Smartwatch Microwear S11 47mm Metal com GPS, NFC e Tela Amoled para Android e iOS Faz Ligaçoes",
+   "price": 98.81,
+   "original": 249.99,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_970885-MLA115253781654_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartwatch-microwear-s11-47mm-metal-com-gps-nfc-e-tela-amoled-para-android-e-ios-faz-ligacoes/p/MLB67678831?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794135406
+  },
   {
    "n": 1207,
    "key": "mercadolivre:MLB21801610",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794100142
-  },
-  {
-   "n": 1148,
-   "key": "mercadolivre:MLB47100887",
-   "title": "Kit Maquiagem Infantil Kalon Lashes Maleta 8 Peças Com Batom e Acessórios",
-   "price": 49.99,
-   "original": 78.99,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_758173-MLA112465206752_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-maquiagem-infantil-kalon-lashes-maleta-8-pecas-com-batom-e-acessorios/p/MLB47100887?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794099721
   }
  ]
 }
