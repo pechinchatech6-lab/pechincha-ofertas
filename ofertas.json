@@ -1,7 +1,21 @@
 {
- "updated": 1794157549,
+ "updated": 1794157970,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1257,
+   "key": "mercadolivre:MLB79475250",
+   "title": "Soundbar Com Subwoofer Desmontável 420W 5.1 Canais Home Theater Subwoofer Maizhelun Som Imersivo Conectividade Aux/HDMI (ARC)/USB/Óptico/Coaxial/Antena FM Bluet",
+   "price": 483.06,
+   "original": 998.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_831721-MLA116440066636_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-com-subwoofer-desmontavel-420w-5-1-canais-home-theater-subwoofer-maizhelun-som-imersivo-conectividade-aux-hdmi-/p/MLB79475250?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794157950
+  },
   {
    "n": 1256,
    "key": "mercadolivre:MLB57083347",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794129590
-  },
-  {
-   "n": 1197,
-   "key": "mercadolivre:MLB24044937",
-   "title": "Philco geladeira inverter frost free PRF535I inox com freezer 437l",
-   "price": 3606.32,
-   "original": 5634.88,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_717199-MLA100035736549_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/philco-geladeira-inverter-frost-free-prf535i-inox-com-freezer-437l/p/MLB24044937?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794129169
   }
  ]
 }
