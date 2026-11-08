@@ -1,7 +1,21 @@
 {
- "updated": 1794176980,
+ "updated": 1794177401,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1295,
+   "key": "mercadolivre:MLB70308700",
+   "title": "Rádio Caixa De Som Bluetooth Recarregável Led Beexcellent Vermelho",
+   "price": 75.99,
+   "original": 99.9,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_745672-MLA111246179304_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/radio-caixa-de-som-bluetooth-recarregavel-led-beexcellent-vermelho/p/MLB70308700?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794177381
+  },
   {
    "n": 1294,
    "key": "mercadolivre:MLB75536997",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794148587
-  },
-  {
-   "n": 1235,
-   "key": "mercadolivre:MLB23122766",
-   "title": "EMEET S600 4K Webcam 1080P 60Fps Camera Para Pc Streaming Con Microfone Automático Full HD Videoconferencia",
-   "price": 355.11,
-   "original": 399.0,
-   "pct": 11,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_639218-MLA112743784625_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/emeet-s600-4k-webcam-1080p-60fps-camera-para-pc-streaming-con-microfone-automatico-full-hd-videoconferencia/p/MLB23122766?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794148166
   }
  ]
 }
