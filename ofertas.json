@@ -1,7 +1,21 @@
 {
- "updated": 1794130031,
+ "updated": 1794132058,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1200,
+   "key": "mercadolivre:MLB25295297",
+   "title": "Mini Mixer Elétrico Portátil Misturador De Bebidas Café Leite Cappuccino Whey Protein Shake Ovos Espumador Batedor Fouet Inox Compacto Cozinha Drinks Mackie Fer",
+   "price": 19.9,
+   "original": 44.9,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_938885-MLA117943518284_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-mixer-eletrico-portatil-misturador-de-bebidas-cafe-leite-cappuccino-whey-protein-shake-ovos-espumador-batedor-fouet/p/MLB25295297?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794132038
+  },
   {
    "n": 1199,
    "key": "mercadolivre:MLB62254615",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794096774
-  },
-  {
-   "n": 1140,
-   "key": "mercadolivre:MLB19380821",
-   "title": "Deo Colônia Natura Hoje Masculino 100ml",
-   "price": 85.0,
-   "original": 159.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_809219-MLU72675777427_112023-F.jpg",
-   "link": "https://www.mercadolivre.com.br/deo-colonia-natura-hoje-masculino-100ml/p/MLB19380821?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794096353
   }
  ]
 }
