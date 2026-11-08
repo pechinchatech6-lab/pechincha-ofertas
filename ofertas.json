@@ -1,7 +1,21 @@
 {
- "updated": 1794141858,
+ "updated": 1794142279,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1224,
+   "key": "mercadolivre:MLB19603205",
+   "title": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
+   "price": 39.9,
+   "original": 64.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_662415-MLA97812910758_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-growth-supplements-monohidratada-em-po-sem-sabor-x-250g/p/MLB19603205?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794142259
+  },
   {
    "n": 1223,
    "key": "mercadolivre:MLB50257453",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794109774
-  },
-  {
-   "n": 1164,
-   "key": "mercadolivre:MLB68022040",
-   "title": "Caixa de Som Gamer Soundbar Redragon Neo RGB Cinza USB Tipo-C",
-   "price": 179.89,
-   "original": 259.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_762816-MLA110467482115_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-gamer-soundbar-redragon-neo-rgb-cinza-usb-tipo-c/p/MLB68022040?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794109354
   }
  ]
 }
