@@ -1,7 +1,21 @@
 {
- "updated": 1794114942,
+ "updated": 1794115363,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1173,
+   "key": "mercadolivre:MLB29126842",
+   "title": "Forno Elétrico Britânia 52l Dupla Resistência Bfe55p",
+   "price": 399.0,
+   "original": 519.0,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_667482-MLA97654032022_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/forno-eletrico-britania-52l-dupla-resistencia-bfe55p/p/MLB29126842?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794115343
+  },
   {
    "n": 1172,
    "key": "mercadolivre:MLB78314045",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794085009
-  },
-  {
-   "n": 1113,
-   "key": "mercadolivre:MLB64211779",
-   "title": "Controle Com Fio Usb Para Pc Tv Manete Joystick - Crowley",
-   "price": 28.0,
-   "original": 44.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_660259-MLA110461450931_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-com-fio-usb-para-pc-tv-manete-joystick-crowley/p/MLB64211779?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794084588
   }
  ]
 }
