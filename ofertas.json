@@ -1,7 +1,21 @@
 {
- "updated": 1794174931,
+ "updated": 1794176559,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1293,
+   "key": "mercadolivre:MLB49756297",
+   "title": "Projetor PFL5211 Full HD 5200lm Branco Intelbras 127/220V",
+   "price": 1099.0,
+   "original": 1299.58,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_641961-MLA99935759177_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-pfl5211-full-hd-5200lm-branco-intelbras-127-220v/p/MLB49756297?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794176539
+  },
   {
    "n": 1292,
    "key": "mercadolivre:MLB81483994",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794147745
-  },
-  {
-   "n": 1233,
-   "key": "mercadolivre:MLB59802579",
-   "title": "Caixa de Som Bluetooth - JBL Grip - 16W RMS, AI Sound Boost, Luz Ambiente, Auracast, IP68 e até 14h de Bateria com Playtime Boost - Preta",
-   "price": 414.0,
-   "original": 559.0,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_991521-MLA99990481703_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-jbl-grip-16w-rms-ai-sound-boost-luz-ambiente-auracast-ip68-e-ate-14h-de-bateria-com-playtime-boos/p/MLB59802579?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794147324
   }
  ]
 }
