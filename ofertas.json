@@ -1,7 +1,21 @@
 {
- "updated": 1794117894,
+ "updated": 1794118316,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1180,
+   "key": "mercadolivre:MLB23863899",
+   "title": "Cinto Masculino Social Ferracini Couro Legitimo Fc565a Cor Preto Tamanho 120",
+   "price": 74.0,
+   "original": 126.4,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_662652-MLA99549409232_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cinto-masculino-social-ferracini-couro-legitimo-fc565a-cor-preto-tamanho-120/p/MLB23863899?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794118296
+  },
   {
    "n": 1179,
    "key": "mercadolivre:MLB57719746",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794088149
-  },
-  {
-   "n": 1120,
-   "key": "mercadolivre:MLB75237915",
-   "title": "Boné Masculino Trucker Country Rendinha Aba Curva Telinha Cor Preto Tamanho Único",
-   "price": 33.0,
-   "original": 39.59,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_822285-MLA114300477059_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-masculino-trucker-country-rendinha-aba-curva-telinha-cor-preto-tamanho-unico/p/MLB75237915?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794087728
   }
  ]
 }
