@@ -1,7 +1,21 @@
 {
- "updated": 1794141437,
+ "updated": 1794141858,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1223,
+   "key": "mercadolivre:MLB50257453",
+   "title": "Escova Secadora Alisadora Elgin Agile Glossy Roxo",
+   "price": 98.93,
+   "original": 149.9,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_988692-MLA91972585991_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-alisadora-elgin-agile-glossy-roxo/p/MLB50257453?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794141838
+  },
   {
    "n": 1222,
    "key": "mercadolivre:MLB18725308",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794109354
-  },
-  {
-   "n": 1163,
-   "key": "mercadolivre:MLB14180098",
-   "title": "Prancha Alisadora Mondial Golden Rose/Preto Bivolt P-20",
-   "price": 91.23,
-   "original": 199.0,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_937184-MLA100013378601_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/prancha-alisadora-mondial-golden-rose-preto-bivolt-p-20/p/MLB14180098?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794107762
   }
  ]
 }
