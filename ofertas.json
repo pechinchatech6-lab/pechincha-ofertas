@@ -1,7 +1,21 @@
 {
- "updated": 1794118737,
+ "updated": 1794119158,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1182,
+   "key": "mercadolivre:MLB25685239",
+   "title": "Kit Completo Aerografia Mini Compressor Ar + Aerógrafo 0,3mm",
+   "price": 289.99,
+   "original": 397.48,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_670452-MLA99483709052_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-completo-aerografia-mini-compressor-ar-aerografo-0-3mm/p/MLB25685239?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794119138
+  },
   {
    "n": 1181,
    "key": "mercadolivre:MLB18390996",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794089196
-  },
-  {
-   "n": 1122,
-   "key": "mercadolivre:MLB65411803",
-   "title": "Saida De Praia Mini Saia Plus Size Regulagem Cor Preto Desenho Do Tecido Lisa Tamanho G3 Veste 52 Ao 56",
-   "price": 31.93,
-   "original": 49.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_692735-MLA118181129729_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/saida-de-praia-mini-saia-plus-size-regulagem-cor-preto-desenho-do-tecido-lisa-tamanho-g3-veste-52-ao-56/p/MLB65411803?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794088775
   }
  ]
 }
