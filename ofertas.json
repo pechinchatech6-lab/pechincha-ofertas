@@ -1,7 +1,21 @@
 {
- "updated": 1794098057,
+ "updated": 1794098478,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1145,
+   "key": "mercadolivre:MLB74243177",
+   "title": "Pistola De Pintura Com Compressor Elétrico 650w",
+   "price": 119.91,
+   "original": 199.85,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_720353-MLA113556068871_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pistola-de-pintura-com-compressor-eletrico-650w/p/MLB74243177?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794098458
+  },
   {
    "n": 1144,
    "key": "mercadolivre:MLB29328872",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794072866
-  },
-  {
-   "n": 1085,
-   "key": "mercadolivre:MLB19533185",
-   "title": "Creatina Integralmedica 100% Pura 60 Cápsulas - Aumento de Resistência e Desempenho para Atletas e Treinos Intensos",
-   "price": 16.63,
-   "original": 32.0,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_782298-MLA100076194863_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-integralmedica-100-pura-60-capsulas-aumento-de-resistencia-e-desempenho-para-atletas-e-treinos-intensos/p/MLB19533185?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794072445
   }
  ]
 }
