@@ -1,7 +1,21 @@
 {
- "updated": 1794123830,
+ "updated": 1794124251,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1193,
+   "key": "mercadolivre:MLB28525979",
+   "title": "Aquecedor Roll-on Cera Quente Depilador Elétrico Mega Bell Bivolt Automático - 110v/220v",
+   "price": 65.77,
+   "original": 131.65,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_747384-MLA85612694472_062025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aquecedor-roll-on-cera-quente-depilador-eletrico-mega-bell-bivolt-automatico-110v-220v/p/MLB28525979?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794124231
+  },
   {
    "n": 1192,
    "key": "mercadolivre:MLB62572243",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794093827
-  },
-  {
-   "n": 1133,
-   "key": "mercadolivre:MLB38919855",
-   "title": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 200g",
-   "price": 67.0,
-   "original": 98.9,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_686877-MLA114006261577_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-anticaspa-cabelos-normais-a-oleosos-dercos-ds-vichy-200g/p/MLB38919855?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794093406
   }
  ]
 }
