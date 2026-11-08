@@ -1,7 +1,21 @@
 {
- "updated": 1794128768,
+ "updated": 1794129189,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1197,
+   "key": "mercadolivre:MLB24044937",
+   "title": "Philco geladeira inverter frost free PRF535I inox com freezer 437l",
+   "price": 3606.32,
+   "original": 5634.88,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_717199-MLA100035736549_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/philco-geladeira-inverter-frost-free-prf535i-inox-com-freezer-437l/p/MLB24044937?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794129169
+  },
   {
    "n": 1196,
    "key": "mercadolivre:MLB79489063",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794095511
-  },
-  {
-   "n": 1137,
-   "key": "mercadolivre:MLB48808732",
-   "title": "Smart Tv Tcl 55 Polegadas Qd-Mini Led 4k C6k Wifi Bluetooth Google Tv 4 Hdmi 144hz Hdr10+ 55c6k",
-   "price": 3089.0,
-   "original": 3599.0,
-   "pct": 14,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_976857-MLA114607312864_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-tcl-55-polegadas-qd-mini-led-4k-c6k-wifi-bluetooth-google-tv-4-hdmi-144hz-hdr10-55c6k/p/MLB48808732?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794095090
   }
  ]
 }
