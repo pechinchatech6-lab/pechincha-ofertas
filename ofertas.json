@@ -1,7 +1,21 @@
 {
- "updated": 1794104067,
+ "updated": 1794104488,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1158,
+   "key": "mercadolivre:MLB35556218",
+   "title": "Ventilador De Teto C/ Controle 6 Vel. Fenix Ventisol",
+   "price": 299.0,
+   "original": 339.0,
+   "pct": 12,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_963344-MLA96100910929_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-teto-c-controle-6-vel-fenix-ventisol/p/MLB35556218?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794104468
+  },
   {
    "n": 1157,
    "key": "mercadolivre:MLB25327723",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794078340
-  },
-  {
-   "n": 1098,
-   "key": "mercadolivre:MLB27208726",
-   "title": "Pulseira Relógio Smartwatch Aço Inox Cor Preto Largura 18 mm",
-   "price": 35.82,
-   "original": 42.14,
-   "pct": 15,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_652168-MLA100118350771_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pulseira-relogio-smartwatch-aco-inox-cor-preto-largura-18-mm/p/MLB27208726?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794077919
   }
  ]
 }
