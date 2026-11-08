@@ -1,7 +1,21 @@
 {
- "updated": 1794129610,
+ "updated": 1794130031,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1199,
+   "key": "mercadolivre:MLB62254615",
+   "title": "Alicate Tesoura Poda Profissional Aço Inox Corte Galhos Duros Jardim Frutíferas Cabo Confortável Ergonômico Resistente - Marca: Smart Tools®",
+   "price": 15.99,
+   "original": 29.9,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_751362-MLA98648349039_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-tesoura-poda-profissional-aco-inox-corte-galhos-duros-jardim-frutiferas-cabo-confortavel-ergonomico-resistente-m/p/MLB62254615?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794130011
+  },
   {
    "n": 1198,
    "key": "mercadolivre:MLB64334861",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794096353
-  },
-  {
-   "n": 1139,
-   "key": "mercadolivre:MLB11281702",
-   "title": "Depilador Philco Aqua Deluxe Plus Pdp02r Cor Branco/Rosa",
-   "price": 112.71,
-   "original": 206.9,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_852041-MLA84857961663_052025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-philco-aqua-deluxe-plus-pdp02r-cor-branco-rosa/p/MLB11281702?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794095932
   }
  ]
 }
