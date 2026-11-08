@@ -1,7 +1,21 @@
 {
- "updated": 1794173281,
+ "updated": 1794173702,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1290,
+   "key": "mercadolivre:MLB24807108",
+   "title": "Escova Prancha Para Alisar E Modelar Barba E Cabelo Bivolt Cerâmica Pente Anti Frizz Portátil Masculina Branca Branco Sngames",
+   "price": 26.3,
+   "original": 59.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_721748-MLA118279156332_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-prancha-para-alisar-e-modelar-barba-e-cabelo-bivolt-ceramica-pente-anti-frizz-portatil-masculina-branca-branco-sn/p/MLB24807108?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794173682
+  },
   {
    "n": 1289,
    "key": "mercadolivre:MLB66911368",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794146483
-  },
-  {
-   "n": 1230,
-   "key": "mercadolivre:MLB37984126",
-   "title": "Porta Suplementos Fitness Prottector 4 Divisões 100ml Hermético BPA Free",
-   "price": 34.0,
-   "original": 41.9,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674514-MLA100087126261_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/porta-suplementos-fitness-prottector-4-divisoes-100ml-hermetico-bpa-free/p/MLB37984126?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794145440
   }
  ]
 }
