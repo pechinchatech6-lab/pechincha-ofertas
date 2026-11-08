@@ -1,7 +1,21 @@
 {
- "updated": 1794158391,
+ "updated": 1794158812,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1259,
+   "key": "mercadolivre:MLB37930434",
+   "title": "Par de Microfones Sem Fio JBL PartyBox Wireless Mic, Padrão Cardioide, Filtro de Respiração, Sistema Antichoque, Conexão 2,4 GHz, Alcance de até 30 m, até 20h d",
+   "price": 497.65,
+   "original": 899.0,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_883202-MLU77972528419_072024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/par-de-microfones-sem-fio-jbl-partybox-wireless-mic-padrao-cardioide-filtro-de-respiracao-sistema-antichoque-conexao-2-4/p/MLB37930434?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794158792
+  },
   {
    "n": 1258,
    "key": "mercadolivre:MLB60012839",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794132038
-  },
-  {
-   "n": 1199,
-   "key": "mercadolivre:MLB62254615",
-   "title": "Alicate Tesoura Poda Profissional Aço Inox Corte Galhos Duros Jardim Frutíferas Cabo Confortável Ergonômico Resistente - Marca: Smart Tools®",
-   "price": 15.99,
-   "original": 29.9,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_751362-MLA98648349039_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alicate-tesoura-poda-profissional-aco-inox-corte-galhos-duros-jardim-frutiferas-cabo-confortavel-ergonomico-resistente-m/p/MLB62254615?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794130011
   }
  ]
 }
