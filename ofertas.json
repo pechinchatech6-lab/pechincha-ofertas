@@ -1,7 +1,21 @@
 {
- "updated": 1794155865,
+ "updated": 1794156286,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1253,
+   "key": "mercadolivre:MLB53250495",
+   "title": "Caixa De Som Bluetooth Potente Amplificada 1000w PMPO Grande Potencia Microfone P10 10w-Saida Karaoke Usb Pendrive",
+   "price": 160.0,
+   "original": 429.89,
+   "pct": 63,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_782932-MLA99490697473_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-potente-amplificada-1000w-pmpo-grande-potencia-microfone-p10-10w-saida-karaoke-usb-pendrive/p/MLB53250495?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794156266
+  },
   {
    "n": 1252,
    "key": "mercadolivre:MLB38835569",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794127906
-  },
-  {
-   "n": 1193,
-   "key": "mercadolivre:MLB28525979",
-   "title": "Aquecedor Roll-on Cera Quente Depilador Elétrico Mega Bell Bivolt Automático - 110v/220v",
-   "price": 65.77,
-   "original": 131.65,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_747384-MLA85612694472_062025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aquecedor-roll-on-cera-quente-depilador-eletrico-mega-bell-bivolt-automatico-110v-220v/p/MLB28525979?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794124231
   }
  ]
 }
