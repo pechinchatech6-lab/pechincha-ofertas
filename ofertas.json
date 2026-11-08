@@ -1,7 +1,21 @@
 {
- "updated": 1794152918,
+ "updated": 1794153339,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1246,
+   "key": "mercadolivre:MLB19698479",
+   "title": "Creatina Dux Nutrition em pó Sem sabor x 300g",
+   "price": 35.9,
+   "original": 69.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_891287-MLA114656611130_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-dux-nutrition-em-po-sem-sabor-x-300g/p/MLB19698479?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794153319
+  },
   {
    "n": 1245,
    "key": "mercadolivre:MLB27673874",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794121243
-  },
-  {
-   "n": 1186,
-   "key": "mercadolivre:MLB70009240",
-   "title": "Secador De Roupas 600w Elétrico Portátil Suspenso Cortina Compacto Econômico Seca Rápido",
-   "price": 112.45,
-   "original": 249.9,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_787276-MLA110939686058_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-roupas-600w-eletrico-portatil-suspenso-cortina-compacto-economico-seca-rapido/p/MLB70009240?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794120822
   }
  ]
 }
