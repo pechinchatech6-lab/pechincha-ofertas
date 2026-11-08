@@ -1,7 +1,21 @@
 {
- "updated": 1794122187,
+ "updated": 1794122608,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1190,
+   "key": "mercadolivre:MLB27050983",
+   "title": "Aspirador De Pó E Líquido Portátil Wap Gtw Compact 1400w 5,5L 127V",
+   "price": 209.0,
+   "original": 381.0,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_775500-MLU77174207072_072024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aspirador-de-po-e-liquido-portatil-wap-gtw-compact-1400w-5-5l-127v/p/MLB27050983?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794122588
+  },
   {
    "n": 1189,
    "key": "mercadolivre:MLB57331529",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794092564
-  },
-  {
-   "n": 1130,
-   "key": "mercadolivre:MLB56224979",
-   "title": "Mini Compressor de Ar Portátil Digital com Calibrador para Carro e Moto",
-   "price": 72.97,
-   "original": 199.98,
-   "pct": 64,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_844179-MLA117073112680_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-compressor-de-ar-portatil-digital-com-calibrador-para-carro-e-moto/p/MLB56224979?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794092143
   }
  ]
 }
