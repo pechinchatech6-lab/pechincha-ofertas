@@ -1,7 +1,21 @@
 {
- "updated": 1794163022,
+ "updated": 1794163443,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1270,
+   "key": "mercadolivre:MLB18085706",
+   "title": "Prancha Philco PPR10 Titanium Digital Bivolt 230°C",
+   "price": 109.9,
+   "original": 143.46,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_690092-MLA117836782842_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/prancha-philco-ppr10-titanium-digital-bivolt-230-c/p/MLB18085706?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794163423
+  },
   {
    "n": 1269,
    "key": "mercadolivre:MLB17371049",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794136669
-  },
-  {
-   "n": 1210,
-   "key": "mercadolivre:MLB63467528",
-   "title": "Samsung Smart Tv 43 Qled Full Hd Q5f 2025, Xbox Cloud Gaming, Canais Gratuitos, Hdr, Som Em Movimento Virtual",
-   "price": 1665.0,
-   "original": 2299.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_612999-MLA102412809695_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/samsung-smart-tv-43-qled-full-hd-q5f-2025-xbox-cloud-gaming-canais-gratuitos-hdr-som-em-movimento-virtual/p/MLB63467528?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794136248
   }
  ]
 }
