@@ -1,7 +1,21 @@
 {
- "updated": 1794157128,
+ "updated": 1794157549,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1256,
+   "key": "mercadolivre:MLB57083347",
+   "title": "Console PlayStation5 Slim Disk - Pacote ASTRO BOT e Gran Turismo 7",
+   "price": 2699.91,
+   "original": 2999.9,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_756719-MLA92558518158_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/console-playstation5-slim-disk-pacote-astro-bot-e-gran-turismo-7/p/MLB57083347?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794157529
+  },
   {
    "n": 1255,
    "key": "mercadolivre:MLB26085601",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794129169
-  },
-  {
-   "n": 1196,
-   "key": "mercadolivre:MLB79489063",
-   "title": "Soprador de Ar sem Fio Portátil 48V com 2 Baterias e Potência Turbo para Limpeza",
-   "price": 87.9,
-   "original": 250.0,
-   "pct": 65,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_779614-MLA117823377369_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-de-ar-sem-fio-portatil-48v-com-2-baterias-e-potencia-turbo-para-limpeza/p/MLB79489063?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794128748
   }
  ]
 }
