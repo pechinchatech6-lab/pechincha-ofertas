@@ -1,7 +1,21 @@
 {
- "updated": 1794135426,
+ "updated": 1794135847,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1209,
+   "key": "mercadolivre:MLB62445524",
+   "title": "Nível Laser Verde 16 Linhas War Shark 2 Bateria+1.2m Tripé",
+   "price": 259.0,
+   "original": 500.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_770451-MLA113890807023_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-2-bateria-1-2m-tripe/p/MLB62445524?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794135827
+  },
   {
    "n": 1208,
    "key": "mercadolivre:MLB67678831",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794100563
-  },
-  {
-   "n": 1149,
-   "key": "mercadolivre:MLB80245753",
-   "title": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6\" E À Prova D'Água",
-   "price": 69.59,
-   "original": 79.99,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_680341-MLA118784298481_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-reforcada-jiesipote-para-viagem-com-compartimento-para-notebook-15-6-e-a-prova-d-agua/p/MLB80245753?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794100142
   }
  ]
 }
