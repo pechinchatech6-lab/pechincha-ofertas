@@ -1,7 +1,21 @@
 {
- "updated": 1794140595,
+ "updated": 1794141016,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1221,
+   "key": "mercadolivre:MLB50811118",
+   "title": "Mangueira Lavadora 5 metros Alta Pressão Trama de Aço Compatível Wap 2200 Resistente Cor Preto",
+   "price": 59.99,
+   "original": 82.24,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_918812-MLA109362188454_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mangueira-lavadora-5-metros-alta-pressao-trama-de-aco-compativel-wap-2200-resistente-cor-preto/p/MLB50811118?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794140996
+  },
   {
    "n": 1220,
    "key": "mercadolivre:MLB38714294",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794107341
-  },
-  {
-   "n": 1161,
-   "key": "mercadolivre:MLB18572379",
-   "title": "Secador De Cabelos Style Azul Tiffany 2000w Taiff Azul",
-   "price": 194.94,
-   "original": 324.9,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_612568-MLA113216391522_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-style-azul-tiffany-2000w-taiff-azul/p/MLB18572379?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794106742
   }
  ]
 }
