@@ -1,7 +1,21 @@
 {
- "updated": 1794150888,
+ "updated": 1794151655,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1242,
+   "key": "mercadolivre:MLB75638604",
+   "title": "Smartphone Samsung Galaxy A27 5G 128GB 6GB, Super Amoled 6.7'', Câmera Tripla 50MP Selfie 12MP, 5000 mAh, Ip67, NFC, Dual Sim, Recursos IA - Rosa",
+   "price": 1475.0,
+   "original": 2855.71,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_984483-MLA113635672926_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a27-5g-128gb-6gb-super-amoled-6-7-camera-tripla-50mp-selfie-12mp-5000-mah-ip67-nfc-dual-sim-re/p/MLB75638604?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794151635
+  },
   {
    "n": 1241,
    "key": "mercadolivre:MLB80592699",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794119559
-  },
-  {
-   "n": 1182,
-   "key": "mercadolivre:MLB25685239",
-   "title": "Kit Completo Aerografia Mini Compressor Ar + Aerógrafo 0,3mm",
-   "price": 289.99,
-   "original": 397.48,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_670452-MLA99483709052_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-completo-aerografia-mini-compressor-ar-aerografo-0-3mm/p/MLB25685239?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794119138
   }
  ]
 }
