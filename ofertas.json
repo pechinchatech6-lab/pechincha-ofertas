@@ -1,7 +1,21 @@
 {
- "updated": 1794101155,
+ "updated": 1794101576,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1152,
+   "key": "mercadolivre:MLB10481238",
+   "title": "Máscara de Cílios Maybelline Lash Sensational à Prova d'Água para Volume e Definição",
+   "price": 26.25,
+   "original": 59.17,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_645424-MLU72821012247_112023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mascara-de-cilios-maybelline-lash-sensational-a-prova-d-agua-para-volume-e-definicao/p/MLB10481238?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794101556
+  },
   {
    "n": 1151,
    "key": "mercadolivre:MLB79307969",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794075814
-  },
-  {
-   "n": 1092,
-   "key": "mercadolivre:MLB48954912",
-   "title": "Smart Tv H5000f Hd 32 Polegadas 2025 Preto Samsung Bivolt",
-   "price": 1039.9,
-   "original": 1645.99,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_823546-MLA120091348209_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-h5000f-hd-32-polegadas-2025-preto-samsung-bivolt/p/MLB48954912?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794075393
   }
  ]
 }
