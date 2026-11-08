@@ -1,7 +1,21 @@
 {
- "updated": 1794178243,
+ "updated": 1794178664,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1298,
+   "key": "mercadolivre:MLB27157886",
+   "title": "Kit Alicate Tramontina (Bico, Corte e Universal) 43409107",
+   "price": 82.38,
+   "original": 100.53,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_861759-MLA99467985726_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-alicate-tramontina-bico-corte-e-universal-43409107/p/MLB27157886?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794178644
+  },
   {
    "n": 1297,
    "key": "mercadolivre:MLB69013896",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794150025
-  },
-  {
-   "n": 1238,
-   "key": "mercadolivre:MLB19717528",
-   "title": "Creme facial Neutrogena Moisturizing Matte 3 em 1 - 100g",
-   "price": 25.24,
-   "original": 48.99,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_856077-MLU74218922451_012024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-facial-neutrogena-moisturizing-matte-3-em-1-100g/p/MLB19717528?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794149604
   }
  ]
 }
