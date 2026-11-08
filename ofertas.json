@@ -1,7 +1,21 @@
 {
- "updated": 1794166925,
+ "updated": 1794167346,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1276,
+   "key": "mercadolivre:MLB44964696",
+   "title": "Escova Secadora Space Shine Mondial Lilás 1300w - ES-21",
+   "price": 114.99,
+   "original": 179.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_693496-MLA99949977371_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-space-shine-mondial-lilas-1300w-es-21/p/MLB44964696?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794167326
+  },
   {
    "n": 1275,
    "key": "mercadolivre:MLB34016199",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794139312
-  },
-  {
-   "n": 1216,
-   "key": "mercadolivre:MLB24620782",
-   "title": "Escova Secadora Britânia 4 em 1 Cerâmica 1300W BES26SR Bivolt",
-   "price": 92.9,
-   "original": 139.9,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_654500-MLA99956258605_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-britania-4-em-1-ceramica-1300w-bes26sr-bivolt/p/MLB24620782?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794138774
   }
  ]
 }
