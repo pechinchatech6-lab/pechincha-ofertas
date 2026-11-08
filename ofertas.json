@@ -1,7 +1,21 @@
 {
- "updated": 1794172440,
+ "updated": 1794172860,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1288,
+   "key": "mercadolivre:MLB29233112",
+   "title": "Escova Secadora Es-14-BI Black Rose Argan 1200W Mondial",
+   "price": 93.51,
+   "original": 179.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_636186-MLA99547386296_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-es-14-bi-black-rose-argan-1200w-mondial/p/MLB29233112?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794172840
+  },
   {
    "n": 1287,
    "key": "mercadolivre:MLB57689750",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794144835
-  },
-  {
-   "n": 1228,
-   "key": "mercadolivre:MLB79843944",
-   "title": "Webcam Camera Full Hd Zoom 1080p Plug and Play Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone Pc Notebook Kateluo",
-   "price": 28.39,
-   "original": 44.57,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_754165-MLA119925151331_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-plug-and-play-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-pc-noteb/p/MLB79843944?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794144414
   }
  ]
 }
