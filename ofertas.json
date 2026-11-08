@@ -1,7 +1,21 @@
 {
- "updated": 1794168188,
+ "updated": 1794168609,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1279,
+   "key": "mercadolivre:MLB62549311",
+   "title": "Furadeira Mourão A Gasolina 26cc 2t Reversão 2 Brocas Evald",
+   "price": 939.89,
+   "original": 1248.75,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_849913-MLA99614240951_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/furadeira-mourao-a-gasolina-26cc-2t-reversao-2-brocas-evald/p/MLB62549311?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794168589
+  },
   {
    "n": 1278,
    "key": "mercadolivre:MLB25912523",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794140575
-  },
-  {
-   "n": 1219,
-   "key": "mercadolivre:MLB19109935",
-   "title": "Esmerilhadeira Bosch 4,5\" 220V 710W GWS 700 06013A30E0",
-   "price": 289.99,
-   "original": 332.5,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_670719-MLA99986706915_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/esmerilhadeira-bosch-4-5-220v-710w-gws-700-06013a30e0/p/MLB19109935?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794140154
   }
  ]
 }
