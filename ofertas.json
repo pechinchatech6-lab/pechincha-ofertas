@@ -1,7 +1,21 @@
 {
- "updated": 1794142279,
+ "updated": 1794142700,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1225,
+   "key": "mercadolivre:MLB53603809",
+   "title": "Prancha Pente Elétrico Chapinha Barba Cabelo Alinhado Masculino Cerâmica Modelador Alisador 120°C Bivolt Branco Kavon",
+   "price": 29.09,
+   "original": 47.09,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_781168-MLA115240454559_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/prancha-pente-eletrico-chapinha-barba-cabelo-alinhado-masculino-ceramica-modelador-alisador-120-c-bivolt-branco-kavon/p/MLB53603809?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794142680
+  },
   {
    "n": 1224,
    "key": "mercadolivre:MLB19603205",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794110195
-  },
-  {
-   "n": 1165,
-   "key": "mercadolivre:MLB70063359",
-   "title": "Alicate Crimpar Prensa Terminais 1200 Ilhós Tubular W&g",
-   "price": 41.98,
-   "original": 78.9,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_984860-MLA112698871104_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alicate-crimpar-prensa-terminais-1200-ilhos-tubular-w-g/p/MLB70063359?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794109774
   }
  ]
 }
