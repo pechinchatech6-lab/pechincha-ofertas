@@ -1,7 +1,21 @@
 {
- "updated": 1794120000,
+ "updated": 1794120421,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1185,
+   "key": "mercadolivre:MLB27911502",
+   "title": "Anasol Protetor Solar Facial Clareador Toque Seco - Fps 70",
+   "price": 38.9,
+   "original": 88.91,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_828936-MLA99851316099_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/anasol-protetor-solar-facial-clareador-toque-seco-fps-70/p/MLB27911502?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794120401
+  },
   {
    "n": 1184,
    "key": "mercadolivre:MLB67817751",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794090459
-  },
-  {
-   "n": 1125,
-   "key": "mercadolivre:MLB42460852",
-   "title": "Alicate Tesoura Corta Vergalhão 30 Pol 750mm Aço Bramix",
-   "price": 123.0,
-   "original": 175.72,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_810142-MLA99444627574_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alicate-tesoura-corta-vergalhao-30-pol-750mm-aco-bramix/p/MLB42460852?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794090038
   }
  ]
 }
