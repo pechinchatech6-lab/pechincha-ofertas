@@ -1,7 +1,21 @@
 {
- "updated": 1794104909,
+ "updated": 1794106341,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1160,
+   "key": "mercadolivre:MLB41517253",
+   "title": "Secador De Cabelos 2200w Psc2300 Motor Dc Philco Vermelho Com Tecnologia Íons Tourmaline - Secagem rápida e eficiente",
+   "price": 106.9,
+   "original": 137.61,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_845149-MLA116164516632_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-2200w-psc2300-motor-dc-philco-vermelho-com-tecnologia-ions-tourmaline-secagem-rapida-e-eficiente/p/MLB41517253?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794106321
+  },
   {
    "n": 1159,
    "key": "mercadolivre:MLB79371321",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794079182
-  },
-  {
-   "n": 1100,
-   "key": "mercadolivre:MLB23888631",
-   "title": "Secador Taiff Tourmaline Íon 2100W – Alta Performance Preto",
-   "price": 307.04,
-   "original": 499.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_899500-MLA100080591947_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-taiff-tourmaline-ion-2100w-alta-performance-preto/p/MLB23888631?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794078761
   }
  ]
 }
