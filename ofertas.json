@@ -1,7 +1,21 @@
 {
- "updated": 1794114521,
+ "updated": 1794114942,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1172,
+   "key": "mercadolivre:MLB78314045",
+   "title": "REBITADOR MANUAL REBITADEIRA DE ALICATE 4 BICOS REBITE ALICATE DE REPUXO ALUMÍNIO KIT 100 REBITES UNIVERSAL PROFISSIONAL STRONEX",
+   "price": 29.99,
+   "original": 59.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_777659-MLA115309884424_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/rebitador-manual-rebitadeira-de-alicate-4-bicos-rebite-alicate-de-repuxo-aluminio-kit-100-rebites-universal-profissional/p/MLB78314045?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794114922
+  },
   {
    "n": 1171,
    "key": "mercadolivre:MLB68988947",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794084588
-  },
-  {
-   "n": 1112,
-   "key": "mercadolivre:MLB32101995",
-   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Branco MICGEEK",
-   "price": 23.95,
-   "original": 40.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_785462-MLA110586324994_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-branco-micgeek/p/MLB32101995?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794084167
   }
  ]
 }
