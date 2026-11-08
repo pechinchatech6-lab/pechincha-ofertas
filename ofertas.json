@@ -1,7 +1,21 @@
 {
- "updated": 1794102608,
+ "updated": 1794103226,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1155,
+   "key": "mercadolivre:MLB42037727",
+   "title": "Webcam Emeet C60e 4k 30Fps Uhd 8mp Foco Automático 1080P 60fps Camera Para PC 2 microfon VideoConferencia Preto",
+   "price": 195.99,
+   "original": 259.0,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612329-MLA105513922053_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-emeet-c60e-4k-30fps-uhd-8mp-foco-automatico-1080p-60fps-camera-para-pc-2-microfon-videoconferencia-preto/p/MLB42037727?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794103206
+  },
   {
    "n": 1154,
    "key": "mercadolivre:MLB25808151",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794077077
-  },
-  {
-   "n": 1095,
-   "key": "mercadolivre:MLB78620279",
-   "title": "Nintendo Switch Sports Resort - NS2",
-   "price": 369.9,
-   "original": 419.9,
-   "pct": 12,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_842013-MLA116813640343_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nintendo-switch-sports-resort-ns2/p/MLB78620279?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794076656
   }
  ]
 }
