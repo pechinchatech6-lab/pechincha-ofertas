@@ -1,7 +1,21 @@
 {
- "updated": 1794106341,
+ "updated": 1794106762,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1161,
+   "key": "mercadolivre:MLB18572379",
+   "title": "Secador De Cabelos Style Azul Tiffany 2000w Taiff Azul",
+   "price": 194.94,
+   "original": 324.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612568-MLA113216391522_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-style-azul-tiffany-2000w-taiff-azul/p/MLB18572379?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794106742
+  },
   {
    "n": 1160,
    "key": "mercadolivre:MLB41517253",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794079603
-  },
-  {
-   "n": 1101,
-   "key": "mercadolivre:MLB53397326",
-   "title": "Caixa De Som Speaker Aiwa SP-05-LB 30w Bluetooth Ipx5",
-   "price": 289.0,
-   "original": 399.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_931282-MLA99529785692_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-speaker-aiwa-sp-05-lb-30w-bluetooth-ipx5/p/MLB53397326?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794079182
   }
  ]
 }
