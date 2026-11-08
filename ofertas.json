@@ -1,7 +1,21 @@
 {
- "updated": 1794171825,
+ "updated": 1794172440,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1287,
+   "key": "mercadolivre:MLB57689750",
+   "title": "Caixa de Som Basike Boombox Bluetooth 200W, Portátil e à Prova D'Água IPX6",
+   "price": 853.57,
+   "original": 1376.74,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_620090-MLA99986834815_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-basike-boombox-bluetooth-200w-portatil-e-a-prova-d-agua-ipx6/p/MLB57689750?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794172419
+  },
   {
    "n": 1286,
    "key": "mercadolivre:MLB47245501",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794144414
-  },
-  {
-   "n": 1227,
-   "key": "mercadolivre:MLB19772622",
-   "title": "Suplemento Alimentar Whey Fort 3W Sabor Frutas Vermelhas 900g Vitafor",
-   "price": 200.51,
-   "original": 373.0,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_900386-MLU75143558182_032024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suplemento-alimentar-whey-fort-3w-sabor-frutas-vermelhas-900g-vitafor/p/MLB19772622?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794143522
   }
  ]
 }
