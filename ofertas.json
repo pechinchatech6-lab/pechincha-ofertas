@@ -1,7 +1,21 @@
 {
- "updated": 1794132479,
+ "updated": 1794132900,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1202,
+   "key": "mercadolivre:MLB65197027",
+   "title": "Mini Mixer Homeroarte Elétrico de Bebidas 2 em 1 Portátil para Café e Ovos – Preto",
+   "price": 26.4,
+   "original": 39.97,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_679144-MLA112251524662_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-mixer-homeroarte-eletrico-de-bebidas-2-em-1-portatil-para-cafe-e-ovos-preto/p/MLB65197027?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794132880
+  },
   {
    "n": 1201,
    "key": "mercadolivre:MLB23913684",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794097616
-  },
-  {
-   "n": 1142,
-   "key": "mercadolivre:MLB63980306",
-   "title": "Pokémon Pokopia - Nintendo Switch 2",
-   "price": 439.89,
-   "original": 556.83,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_877218-MLA104113006671_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pokemon-pokopia-nintendo-switch-2/p/MLB63980306?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794097195
   }
  ]
 }
