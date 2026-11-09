@@ -1,7 +1,21 @@
 {
- "updated": 1794226346,
+ "updated": 1794226767,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1393,
+   "key": "mercadolivre:MLB46166366",
+   "title": "Soundbar Tcl Com Subwoofer Sem Fio Bluetooth 2.1 Canais 220w Rms Hdmi Arc S55h",
+   "price": 789.0,
+   "original": 1099.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_759987-MLA85186496974_052025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-tcl-com-subwoofer-sem-fio-bluetooth-2-1-canais-220w-rms-hdmi-arc-s55h/p/MLB46166366?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794226747
+  },
   {
    "n": 1392,
    "key": "mercadolivre:MLB15238956",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794196351
-  },
-  {
-   "n": 1333,
-   "key": "mercadolivre:MLB20870718",
-   "title": "Proteína New Millen Premium Whey Isolado Isolate em pó sabor Morango x 900g",
-   "price": 139.9,
-   "original": 249.32,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_667292-MLA112330453655_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/proteina-new-millen-premium-whey-isolado-isolate-em-po-sabor-morango-x-900g/p/MLB20870718?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794195930
   }
  ]
 }
