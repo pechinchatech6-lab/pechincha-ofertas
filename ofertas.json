@@ -1,7 +1,21 @@
 {
- "updated": 1794258795,
+ "updated": 1794259216,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1466,
+   "key": "mercadolivre:MLB54472324",
+   "title": "Aspirador de Pó Vertical Midea, 1350W, 2 em 1, cabo de 5M, Preto e Azul",
+   "price": 126.73,
+   "original": 499.0,
+   "pct": 75,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_742597-MLA95523059142_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-midea-1350w-2-em-1-cabo-de-5m-preto-e-azul/p/MLB54472324?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794259196
+  },
   {
    "n": 1465,
    "key": "mercadolivre:MLB69274486",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794232643
-  },
-  {
-   "n": 1406,
-   "key": "mercadolivre:MLB78889321",
-   "title": "Smartphone Motorola Moto G37 5G - 128GB 4GB RAM + 8GB RAM Boost, Camera 50MP com editor magico, Bateria de 5200 mAh e tela 6.7\" 120Hz, NFC - Azul Nautico",
-   "price": 1099.0,
-   "original": 2099.0,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_701453-MLA115696737028_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g37-5g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-com-editor-magico-bateria-de-5200-mah-e-tela-6-7/p/MLB78889321?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794232222
   }
  ]
 }
