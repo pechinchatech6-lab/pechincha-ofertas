@@ -1,7 +1,21 @@
 {
- "updated": 1794203949,
+ "updated": 1794204370,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1353,
+   "key": "mercadolivre:MLB56064567",
+   "title": "Short Cinta Modeladora Cós Alto Compressão Redutora Selene Cor Pó De Arroz Tamanho G",
+   "price": 21.83,
+   "original": 73.98,
+   "pct": 70,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_965925-MLA92022613418_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/short-cinta-modeladora-cos-alto-compressao-redutora-selene-cor-po-de-arroz-tamanho-g/p/MLB56064567?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794204350
+  },
   {
    "n": 1352,
    "key": "mercadolivre:MLB50912942",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794176960
-  },
-  {
-   "n": 1293,
-   "key": "mercadolivre:MLB49756297",
-   "title": "Projetor PFL5211 Full HD 5200lm Branco Intelbras 127/220V",
-   "price": 1099.0,
-   "original": 1299.58,
-   "pct": 15,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_641961-MLA99935759177_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-pfl5211-full-hd-5200lm-branco-intelbras-127-220v/p/MLB49756297?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794176539
   }
  ]
 }
