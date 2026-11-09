@@ -1,7 +1,21 @@
 {
- "updated": 1794184939,
+ "updated": 1794185360,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1311,
+   "key": "mercadolivre:MLB75879865",
+   "title": "Micro-ondas Philco 20L 1100W Limpa Fácil Tira Odor PMO24E",
+   "price": 499.0,
+   "original": 649.0,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_930150-MLA113958624794_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-philco-20l-1100w-limpa-facil-tira-odor-pmo24e/p/MLB75879865?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794185340
+  },
   {
    "n": 1310,
    "key": "mercadolivre:MLB37622470",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794155845
-  },
-  {
-   "n": 1251,
-   "key": "mercadolivre:MLB80743912",
-   "title": "Caixa De Som Bluetooth Potente 140w Basike Boombox Portátil Sem Fio Bateria 12000mAh Com A Prova D'agua,Luz Led Rgb, Bass Graves Potentes Para Festa Churrasco P",
-   "price": 479.97,
-   "original": 741.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_603413-MLA118246232754_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-potente-140w-basike-boombox-portatil-sem-fio-bateria-12000mah-com-a-prova-d-agua-luz-led-rgb-bass/p/MLB80743912?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794155424
   }
  ]
 }
