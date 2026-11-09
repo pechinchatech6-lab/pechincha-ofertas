@@ -1,7 +1,21 @@
 {
- "updated": 1794244031,
+ "updated": 1794244452,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1434,
+   "key": "mercadolivre:MLB78840757",
+   "title": "Caixa De Som Sound Bar Home Theater Bluetooth Para Tv Cinema 80w Cor Preto Bivolt Boyu Cell",
+   "price": 262.2,
+   "original": 360.9,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_857992-MLA118377893890_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-sound-bar-home-theater-bluetooth-para-tv-cinema-80w-cor-preto-bivolt-boyu-cell/p/MLB78840757?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794244432
+  },
   {
    "n": 1433,
    "key": "mercadolivre:MLB53758251",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794216809
-  },
-  {
-   "n": 1374,
-   "key": "mercadolivre:MLB47104607",
-   "title": "Parafusadeira Chave De Impacto A Bateria Lítio 21v Motor Brushless 800nm 80kgf.m Tb21ix The Black Tools",
-   "price": 399.9,
-   "original": 799.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_793824-MLA118387664379_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-chave-de-impacto-a-bateria-litio-21v-motor-brushless-800nm-80kgf-m-tb21ix-the-black-tools/p/MLB47104607?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794216388
   }
  ]
 }
