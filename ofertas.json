@@ -1,7 +1,21 @@
 {
- "updated": 1794245715,
+ "updated": 1794246136,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1438,
+   "key": "mercadolivre:MLB55909587",
+   "title": "Grips Capas Analógicos Nintendo Switch Mario Kart 4",
+   "price": 13.49,
+   "original": 17.99,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_694499-MLA99613990552_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/grips-capas-analogicos-nintendo-switch-mario-kart-4/p/MLB55909587?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794246116
+  },
   {
    "n": 1437,
    "key": "mercadolivre:MLB63356070",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794218683
-  },
-  {
-   "n": 1378,
-   "key": "mercadolivre:MLB54923379",
-   "title": "Microfone Lapela Sem Fio Duplo A'gold Anti Ruido Ia C/ Imã Cor Preto",
-   "price": 67.44,
-   "original": 119.9,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_604779-MLA117974675162_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-lapela-sem-fio-duplo-a-gold-anti-ruido-ia-c-ima-cor-preto/p/MLB54923379?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794218262
   }
  ]
 }
