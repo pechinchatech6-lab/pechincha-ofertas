@@ -1,7 +1,21 @@
 {
- "updated": 1794237716,
+ "updated": 1794238137,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1420,
+   "key": "mercadolivre:MLB45160657",
+   "title": "Mouse Gamer M711 Cobra Chroma Redragon Com fio Para Jogos 12.400 DPI Com Led RGB Preto",
+   "price": 79.9,
+   "original": 143.43,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_898286-MLA95664298408_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mouse-gamer-m711-cobra-chroma-redragon-com-fio-para-jogos-12-400-dpi-com-led-rgb-preto/p/MLB45160657?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794238117
+  },
   {
    "n": 1419,
    "key": "mercadolivre:MLB29149224",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794207908
-  },
-  {
-   "n": 1360,
-   "key": "mercadolivre:MLB29490023",
-   "title": "Par De Escova P/ Esmerilhadeira G650 Black E Decker",
-   "price": 15.87,
-   "original": 25.4,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_989594-MLA118205074267_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/par-de-escova-p-esmerilhadeira-g650-black-e-decker/p/MLB29490023?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794207297
   }
  ]
 }
