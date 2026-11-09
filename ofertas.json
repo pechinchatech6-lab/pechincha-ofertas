@@ -1,7 +1,21 @@
 {
- "updated": 1794254742,
+ "updated": 1794255658,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1458,
+   "key": "mercadolivre:MLB48929479",
+   "title": "Caixa de Som Bluetooth Caixinha Grande 2 Altos Falantes 10w-hz 5.0 Boombox Com Radio Fm E Entrada Usb Pendrive",
+   "price": 147.0,
+   "original": 218.89,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_681719-MLA99467991212_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-caixinha-grande-2-altos-falantes-10w-hz-5-0-boombox-com-radio-fm-e-entrada-usb-pendrive/p/MLB48929479?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794255638
+  },
   {
    "n": 1457,
    "key": "mercadolivre:MLB28047478",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794229275
-  },
-  {
-   "n": 1398,
-   "key": "mercadolivre:MLB66430893",
-   "title": "Coletor De Pó P/ Serra Circular Makita Sp6000",
-   "price": 37.18,
-   "original": 44.3,
-   "pct": 16,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_822957-MLA108509910251_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/coletor-de-po-p-serra-circular-makita-sp6000/p/MLB66430893?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794228854
   }
  ]
 }
