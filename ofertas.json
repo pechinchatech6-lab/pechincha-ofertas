@@ -1,7 +1,21 @@
 {
- "updated": 1794201423,
+ "updated": 1794201844,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1347,
+   "key": "mercadolivre:MLB54016038",
+   "title": "LG Soundbar SH5A 600W (4.1 canais) com AI Sound Pro e WOW Interface – Som Imersivo, Voz Clara e Sincronização Total com sua TV",
+   "price": 1159.0,
+   "original": 1799.0,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_911029-MLA100231909230_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lg-soundbar-sh5a-600w-4-1-canais-com-ai-sound-pro-e-wow-interface-som-imersivo-voz-clara-e-sincronizacao-total-com-sua-t/p/MLB54016038?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794201824
+  },
   {
    "n": 1346,
    "key": "mercadolivre:MLB67146264",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794172840
-  },
-  {
-   "n": 1287,
-   "key": "mercadolivre:MLB57689750",
-   "title": "Caixa de Som Basike Boombox Bluetooth 200W, Portátil e à Prova D'Água IPX6",
-   "price": 853.57,
-   "original": 1376.74,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_620090-MLA99986834815_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-basike-boombox-bluetooth-200w-portatil-e-a-prova-d-agua-ipx6/p/MLB57689750?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794172419
   }
  ]
 }
