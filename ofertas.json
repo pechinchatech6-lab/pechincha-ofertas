@@ -1,7 +1,21 @@
 {
- "updated": 1794193065,
+ "updated": 1794193486,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1328,
+   "key": "mercadolivre:MLB53670907",
+   "title": "Máscara de Cílios Guava Skincare Alonga e Esculpe Preto 8ml",
+   "price": 63.29,
+   "original": 99.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_831636-MLA89390150240_082025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mascara-de-cilios-guava-skincare-alonga-e-esculpe-preto-8ml/p/MLB53670907?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794193466
+  },
   {
    "n": 1327,
    "key": "mercadolivre:MLB50575630",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794163002
-  },
-  {
-   "n": 1268,
-   "key": "mercadolivre:MLB60948234",
-   "title": "Caixa De Som Bluetooth Caixinha Som Portátil Potente Tws Com Rádio Rgb Hifi Som À Prova D'água Ipx67 De Multimodo Bluetooth/Cartão Tf/Entrada Aux/Tws Para Inter",
-   "price": 169.0,
-   "original": 241.43,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_731403-MLA99979896537_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-caixinha-som-portatil-potente-tws-com-radio-rgb-hifi-som-a-prova-d-agua-ipx67-de-multimodo-blueto/p/MLB60948234?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794162581
   }
  ]
 }
