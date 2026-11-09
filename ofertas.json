@@ -1,7 +1,21 @@
 {
- "updated": 1794221405,
+ "updated": 1794221825,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1384,
+   "key": "mercadolivre:MLB72990342",
+   "title": "Lip Tint Boca Rosa Batom Blush 10ml Vermelho Paixão",
+   "price": 42.1,
+   "original": 62.38,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_687050-MLA111868733898_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lip-tint-boca-rosa-batom-blush-10ml-vermelho-paixao/p/MLB72990342?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794221805
+  },
   {
    "n": 1383,
    "key": "mercadolivre:MLB73076144",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794192203
-  },
-  {
-   "n": 1324,
-   "key": "mercadolivre:MLB68020736",
-   "title": "Caixa De Som Soundbar RMS 200W Home Theater Tv Sound Bar Com Subwoofer Bluetooth Som Cinema, Com HDMI ARC, óptico, AUX e Coaxial",
-   "price": 642.51,
-   "original": 1299.0,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_823006-MLA118820005541_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-soundbar-rms-200w-home-theater-tv-sound-bar-com-subwoofer-bluetooth-som-cinema-com-hdmi-arc-optico-aux-e-co/p/MLB68020736?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794191782
   }
  ]
 }
