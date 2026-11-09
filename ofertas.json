@@ -1,7 +1,21 @@
 {
- "updated": 1794257111,
+ "updated": 1794257532,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1462,
+   "key": "mercadolivre:MLB25708528",
+   "title": "Shampoo Tonalizante Grecin Control GX Reduz Grisalho 118ml",
+   "price": 77.48,
+   "original": 111.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631595-MLA99350047876_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-grecin-control-gx-reduz-grisalho-118ml/p/MLB25708528?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794257512
+  },
   {
    "n": 1461,
    "key": "mercadolivre:MLB67841910",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794230959
-  },
-  {
-   "n": 1402,
-   "key": "mercadolivre:MLB38176139",
-   "title": "Fone de Ouvido Bluetooth 5.4 soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celu",
-   "price": 196.0,
-   "original": 389.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_760745-MLA95700724020_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-5-4-soundcore-p30i-da-anker-cancelamento-de-ruido-adaptativo-graves-poderosos-45h-de-reproducao/p/MLB38176139?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794230538
   }
  ]
 }
