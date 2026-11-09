@@ -1,7 +1,21 @@
 {
- "updated": 1794262585,
+ "updated": 1794263951,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1475,
+   "key": "mercadolivre:MLB65526763",
+   "title": "Relógio de Parede Digital Armstrong Quadrado, com Data, Temperatura e Alarme",
+   "price": 109.0,
+   "original": 216.5,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_712820-MLA114927673134_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-digital-armstrong-quadrado-com-data-temperatura-e-alarme/p/MLB65526763?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794263931
+  },
   {
    "n": 1474,
    "key": "mercadolivre:MLB50093035",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794236433
-  },
-  {
-   "n": 1415,
-   "key": "mercadolivre:MLB1046215784",
-   "title": "iPhone 16e (128 GB) - Preto - Distribuidor Autorizado",
-   "price": 3499.0,
-   "original": 5799.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794236012
   }
  ]
 }
