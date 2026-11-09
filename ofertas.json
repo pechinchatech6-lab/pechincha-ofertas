@@ -1,7 +1,21 @@
 {
- "updated": 1794243189,
+ "updated": 1794243610,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1432,
+   "key": "mercadolivre:MLB19506691",
+   "title": "Creatina Dark Lab Premium Pure em pó Sem sabor x 300g",
+   "price": 36.64,
+   "original": 78.9,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_830138-MLA116668021755_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-dark-lab-premium-pure-em-po-sem-sabor-x-300g/p/MLB19506691?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794243590
+  },
   {
    "n": 1431,
    "key": "mercadolivre:MLB19508984",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794215967
-  },
-  {
-   "n": 1372,
-   "key": "mercadolivre:MLB76394503",
-   "title": "Chave De Impacto Parafusadeira Furadeira Brushless 2 Baterias Sem Fio",
-   "price": 207.96,
-   "original": 569.0,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_917221-MLA118827145165_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chave-de-impacto-parafusadeira-furadeira-brushless-2-baterias-sem-fio/p/MLB76394503?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794215546
   }
  ]
 }
