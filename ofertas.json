@@ -1,7 +1,21 @@
 {
- "updated": 1794182834,
+ "updated": 1794183255,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1306,
+   "key": "mercadolivre:MLB25834979",
+   "title": "Cor de fundo do relógio masculino Opk 6010 Quartz original: preto",
+   "price": 78.99,
+   "original": 94.5,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_684260-MLU70909697639_082023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cor-de-fundo-do-relogio-masculino-opk-6010-quartz-original-preto/p/MLB25834979?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794183235
+  },
   {
    "n": 1305,
    "key": "mercadolivre:MLB78863823",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794153740
-  },
-  {
-   "n": 1246,
-   "key": "mercadolivre:MLB19698479",
-   "title": "Creatina Dux Nutrition em pó Sem sabor x 300g",
-   "price": 35.9,
-   "original": 69.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_891287-MLA114656611130_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-dux-nutrition-em-po-sem-sabor-x-300g/p/MLB19698479?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794153319
   }
  ]
 }
