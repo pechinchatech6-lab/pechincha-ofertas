@@ -1,7 +1,21 @@
 {
- "updated": 1794197213,
+ "updated": 1794197634,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1337,
+   "key": "mercadolivre:MLB65574600",
+   "title": "Geladeira Brastemp Frost Free Inteligente 512 Litros Inox - BRM62AK",
+   "price": 3536.89,
+   "original": 4399.0,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_722606-MLA107191675311_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-brastemp-frost-free-inteligente-512-litros-inox-brm62ak/p/MLB65574600?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794197614
+  },
   {
    "n": 1336,
    "key": "mercadolivre:MLB40182325",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794168168
-  },
-  {
-   "n": 1277,
-   "key": "mercadolivre:MLB66055148",
-   "title": "Smart Tv 32 Philco Roku Tv Dolby Áudio Hdr10 P32crb",
-   "price": 929.8,
-   "original": 1199.0,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_875689-MLA107805437119_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-32-philco-roku-tv-dolby-audio-hdr10-p32crb/p/MLB66055148?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794167747
   }
  ]
 }
