@@ -1,7 +1,21 @@
 {
- "updated": 1794234347,
+ "updated": 1794234769,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1412,
+   "key": "mercadolivre:MLB69699136",
+   "title": "Chapinha Barba Modelador Masculino Profissional Prancha Elétrica Alisadora Cabelo Bigode Anti Frizz Portátil Bivolt Pente Elétrico Fio Giratório Íons 210° Model",
+   "price": 63.19,
+   "original": 78.9,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_926986-MLA110748503884_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-barba-modelador-masculino-profissional-prancha-eletrica-alisadora-cabelo-bigode-anti-frizz-portatil-bivolt-pent/p/MLB69699136?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794234749
+  },
   {
    "n": 1411,
    "key": "mercadolivre:MLB79751693",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794204350
-  },
-  {
-   "n": 1352,
-   "key": "mercadolivre:MLB50912942",
-   "title": "Escova Secadora Alisadora Volumizadora Rotativa Philco PER03 1300w Cor Dourado-escuro",
-   "price": 204.0,
-   "original": 249.9,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_701646-MLA91559093774_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-alisadora-volumizadora-rotativa-philco-per03-1300w-cor-dourado-escuro/p/MLB50912942?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794203929
   }
  ]
 }
