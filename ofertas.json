@@ -1,7 +1,21 @@
 {
- "updated": 1794253058,
+ "updated": 1794253479,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1454,
+   "key": "mercadolivre:MLB15782425",
+   "title": "Micro-ondas LG 30L Branco Limpa Fácil - 220V",
+   "price": 573.0,
+   "original": 1079.67,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_678304-MLA99504547952_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-lg-30l-branco-limpa-facil-220v/p/MLB15782425?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794253459
+  },
   {
    "n": 1453,
    "key": "mercadolivre:MLB50382362",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794227589
-  },
-  {
-   "n": 1394,
-   "key": "mercadolivre:MLB40231548",
-   "title": "Controle Gamepad Gamesir Galileo G8 + com Bluetooth para Android Ios Switch Tablet Pc Celular Cor Cinza Espacial",
-   "price": 358.69,
-   "original": 552.22,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_618495-MLA95678689468_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamepad-gamesir-galileo-g8-com-bluetooth-para-android-ios-switch-tablet-pc-celular-cor-cinza-espacial/p/MLB40231548?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794227168
   }
  ]
 }
