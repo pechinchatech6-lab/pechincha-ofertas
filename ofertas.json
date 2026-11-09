@@ -1,7 +1,21 @@
 {
- "updated": 1794263951,
+ "updated": 1794264372,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1476,
+   "key": "mercadolivre:MLB25263382",
+   "title": "Fone De Ouvido Bluetooth Bateria de Longa Duração Pro 4 Branco Conecta Rápido Com Case Carregador E Microfone Fast Plug",
+   "price": 24.99,
+   "original": 78.99,
+   "pct": 68,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_791435-MLA118754152028_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-bateria-de-longa-duracao-pro-4-branco-conecta-rapido-com-case-carregador-e-microfone-fast-plug/p/MLB25263382?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794264352
+  },
   {
    "n": 1475,
    "key": "mercadolivre:MLB65526763",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794236854
-  },
-  {
-   "n": 1416,
-   "key": "mercadolivre:MLB69621250",
-   "title": "Soundbar Philips 2.0, bluetooth, USB e HDMI ARC TAB4000/78",
-   "price": 329.9,
-   "original": 639.0,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_797186-MLA111578278076_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-philips-2-0-bluetooth-usb-e-hdmi-arc-tab4000-78/p/MLB69621250?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794236433
   }
  ]
 }
