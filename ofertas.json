@@ -1,7 +1,21 @@
 {
- "updated": 1794246557,
+ "updated": 1794246978,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1440,
+   "key": "mercadolivre:MLB19533185",
+   "title": "Creatina Integralmedica 100% Pura 60 Cápsulas - Aumento de Resistência e Desempenho para Atletas e Treinos Intensos",
+   "price": 16.63,
+   "original": 32.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_782298-MLA100076194863_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-integralmedica-100-pura-60-capsulas-aumento-de-resistencia-e-desempenho-para-atletas-e-treinos-intensos/p/MLB19533185?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794246958
+  },
   {
    "n": 1439,
    "key": "mercadolivre:MLB37257779",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794219525
-  },
-  {
-   "n": 1380,
-   "key": "mercadolivre:MLB80069221",
-   "title": "Kit Ferramentas Elétricas MOHOR 4 em 1 com 2 Baterias, Furadeira Parafusadeira, Martelete, Esmerilhadeira e Chave de Impacto",
-   "price": 629.6,
-   "original": 1014.5,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_654080-MLA116899240114_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-ferramentas-eletricas-mohor-4-em-1-com-2-baterias-furadeira-parafusadeira-martelete-esmerilhadeira-e-chave-de-impact/p/MLB80069221?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794219104
   }
  ]
 }
