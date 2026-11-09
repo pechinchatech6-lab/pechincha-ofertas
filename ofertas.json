@@ -1,7 +1,21 @@
 {
- "updated": 1794225504,
+ "updated": 1794225925,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1391,
+   "key": "mercadolivre:MLB24117280",
+   "title": "Fone de Ouvido Bluetooth Dapon H02D, Bluetooth 5.1, Modo Sem Fio e P2 3,5mm, Dobrável, Almofadas Macias, Bateria 350mAh até 22h, Microfone Integrado, Controle n",
+   "price": 73.72,
+   "original": 149.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_871158-MLA99870084511_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-dapon-h02d-bluetooth-5-1-modo-sem-fio-e-p2-3-5mm-dobravel-almofadas-macias-bateria-350mah-ate-2/p/MLB24117280?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794225905
+  },
   {
    "n": 1390,
    "key": "mercadolivre:MLB77356916",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794195509
-  },
-  {
-   "n": 1331,
-   "key": "mercadolivre:MLB6087971",
-   "title": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg",
-   "price": 78.9,
-   "original": 179.84,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_608162-MLA112813208483_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/proteina-max-titanium-whey-pro-concetrado-em-po-sabor-morango-x-1kg/p/MLB6087971?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794195088
   }
  ]
 }
