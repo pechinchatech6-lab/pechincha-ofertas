@@ -1,7 +1,21 @@
 {
- "updated": 1794231400,
+ "updated": 1794231821,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1405,
+   "key": "mercadolivre:MLB18638651",
+   "title": "Secador de Cabelos Mondial Preto 2000W SCN-01",
+   "price": 88.0,
+   "original": 172.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_931087-MLA100025900529_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-mondial-preto-2000w-scn-01/p/MLB18638651?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794231801
+  },
   {
    "n": 1404,
    "key": "mercadolivre:MLB65041642",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794201403
-  },
-  {
-   "n": 1345,
-   "key": "mercadolivre:MLB77682099",
-   "title": "Soundbar 2.1 LED Bluetooth 5.3 Subwoofer 5.25 polegadas HDMI ARC AUX USB Hi Fi Extra Bass 3D EQ Controle Remoto Display LED Caixa de Som TV PC Projetor Gamer Ho",
-   "price": 308.44,
-   "original": 599.0,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_611083-MLA119222890978_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-2-1-led-bluetooth-5-3-subwoofer-5-25-polegadas-hdmi-arc-aux-usb-hi-fi-extra-bass-3d-eq-controle-remoto-display-/p/MLB77682099?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794200982
   }
  ]
 }
