@@ -1,7 +1,21 @@
 {
- "updated": 1794236874,
+ "updated": 1794237295,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1418,
+   "key": "mercadolivre:MLB65319818",
+   "title": "Smartphone Motorola Moto G67 5g - 128gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia 600, Tela 1.5k Extreme Amoled 120hz, Ultrarresistente - Chumbo",
+   "price": 1307.73,
+   "original": 1899.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_635893-MLA106048486992_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g67-5g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-1-5k-extreme-amoled-120hz-ul/p/MLB65319818?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794237275
+  },
   {
    "n": 1417,
    "key": "mercadolivre:MLB48947564",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794206876
-  },
-  {
-   "n": 1358,
-   "key": "mercadolivre:MLB79663696",
-   "title": "1 Par Meia Polaina Aeróbica Academia Esporte Fitness Premium Cor Roxo Desenho do tecido Lisa Tamanho Único",
-   "price": 20.29,
-   "original": 27.8,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_987354-MLA118009293495_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/1-par-meia-polaina-aerobica-academia-esporte-fitness-premium-cor-roxo-desenho-do-tecido-lisa-tamanho-unico/p/MLB79663696?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794206455
   }
  ]
 }
