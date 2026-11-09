@@ -1,7 +1,21 @@
 {
- "updated": 1794223855,
+ "updated": 1794224457,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1388,
+   "key": "mercadolivre:MLB41195234",
+   "title": "Controle GameSir G7 HE para Xbox One Series S X PC Joystick Hall Effect Vibração Ajustável Cor Preto",
+   "price": 259.0,
+   "original": 499.9,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_719231-MLA99963023017_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-he-para-xbox-one-series-s-x-pc-joystick-hall-effect-vibracao-ajustavel-cor-preto/p/MLB41195234?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794224437
+  },
   {
    "n": 1387,
    "key": "mercadolivre:MLB22729783",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794194246
-  },
-  {
-   "n": 1328,
-   "key": "mercadolivre:MLB53670907",
-   "title": "Máscara de Cílios Guava Skincare Alonga e Esculpe Preto 8ml",
-   "price": 63.29,
-   "original": 99.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_831636-MLA89390150240_082025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mascara-de-cilios-guava-skincare-alonga-e-esculpe-preto-8ml/p/MLB53670907?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794193466
   }
  ]
 }
