@@ -1,7 +1,21 @@
 {
- "updated": 1794257532,
+ "updated": 1794257953,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1463,
+   "key": "mercadolivre:MLB67159376",
+   "title": "Trena 10 Metros Fita Métrica Profissional Fluorescente Aço Com Trava Retrátil Automática Autotrava 25mm Marca Fortner",
+   "price": 31.7,
+   "original": 35.7,
+   "pct": 11,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_783062-MLA109471201109_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/trena-10-metros-fita-metrica-profissional-fluorescente-aco-com-trava-retratil-automatica-autotrava-25mm-marca-fortner/p/MLB67159376?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794257933
+  },
   {
    "n": 1462,
    "key": "mercadolivre:MLB25708528",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794231380
-  },
-  {
-   "n": 1403,
-   "key": "mercadolivre:MLB16030232",
-   "title": "Aparador de Pelos Kemei KM-6776 Preto 3 em 1 Nariz e Barba Sem Fio",
-   "price": 48.9,
-   "original": 78.89,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_754437-MLA99453200484_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-kemei-km-6776-preto-3-em-1-nariz-e-barba-sem-fio/p/MLB16030232?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794230959
   }
  ]
 }
