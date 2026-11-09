@@ -1,7 +1,21 @@
 {
- "updated": 1794256690,
+ "updated": 1794257111,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1461,
+   "key": "mercadolivre:MLB67841910",
+   "title": "Máquina de Lavar Consul 10 kg Dosagem Econômica - CWB10BB Branca",
+   "price": 1588.78,
+   "original": 2036.9,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_825901-MLA110283929053_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-consul-10-kg-dosagem-economica-cwb10bb-branca/p/MLB67841910?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794257091
+  },
   {
    "n": 1460,
    "key": "mercadolivre:MLB60709649",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794230538
-  },
-  {
-   "n": 1401,
-   "key": "mercadolivre:MLB6360396",
-   "title": "Prancha Cerâmica Profissional Classic 180° Taiff Bivolt Preto",
-   "price": 90.99,
-   "original": 156.07,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_773132-MLA96072907583_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/prancha-ceramica-profissional-classic-180-taiff-bivolt-preto/p/MLB6360396?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794230117
   }
  ]
 }
