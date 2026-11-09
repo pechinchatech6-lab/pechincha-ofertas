@@ -1,7 +1,21 @@
 {
- "updated": 1794226767,
+ "updated": 1794227188,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1394,
+   "key": "mercadolivre:MLB40231548",
+   "title": "Controle Gamepad Gamesir Galileo G8 + com Bluetooth para Android Ios Switch Tablet Pc Celular Cor Cinza Espacial",
+   "price": 358.69,
+   "original": 552.22,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_618495-MLA95678689468_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamepad-gamesir-galileo-g8-com-bluetooth-para-android-ios-switch-tablet-pc-celular-cor-cinza-espacial/p/MLB40231548?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794227168
+  },
   {
    "n": 1393,
    "key": "mercadolivre:MLB46166366",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794196772
-  },
-  {
-   "n": 1334,
-   "key": "mercadolivre:MLB79898986",
-   "title": "Trena Profissional 10 Metros 25mm Reforçada Emborrachada Com Trava Manual Fita Métrica 10M Retrátil Medição Fita De Aço Laranja Vellon",
-   "price": 22.99,
-   "original": 49.9,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_662894-MLA118256784565_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/trena-profissional-10-metros-25mm-reforcada-emborrachada-com-trava-manual-fita-metrica-10m-retratil-medicao-fita-de-aco-/p/MLB79898986?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794196351
   }
  ]
 }
