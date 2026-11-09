@@ -1,7 +1,21 @@
 {
- "updated": 1794238979,
+ "updated": 1794239400,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1422,
+   "key": "mercadolivre:MLB80248155",
+   "title": "Mouse Gamer Dual-mode 2.4g Bluetooth 1600 Dpi Estampa Branco",
+   "price": 59.8,
+   "original": 99.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_628298-MLA118786919355_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mouse-gamer-dual-mode-2-4g-bluetooth-1600-dpi-estampa-branco/p/MLB80248155?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794239380
+  },
   {
    "n": 1421,
    "key": "mercadolivre:MLB49851699",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794208949
-  },
-  {
-   "n": 1362,
-   "key": "mercadolivre:MLB43398945",
-   "title": "Rotor Induzido Menegotti P/ Lixadeira Mlp750 Profissional",
-   "price": 101.78,
-   "original": 158.34,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_616880-MLA95664378756_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/rotor-induzido-menegotti-p-lixadeira-mlp750-profissional/p/MLB43398945?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794208329
   }
  ]
 }
