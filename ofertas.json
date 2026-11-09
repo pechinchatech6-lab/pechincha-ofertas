@@ -1,7 +1,21 @@
 {
- "updated": 1794221825,
+ "updated": 1794222246,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1385,
+   "key": "mercadolivre:MLB50181290",
+   "title": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Simake",
+   "price": 119.6,
+   "original": 299.0,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_835659-MLA116548375638_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-c-2-baterias-maleta-kit-completo-led-eixo-flexivel-varios-niveis-torque-simake/p/MLB50181290?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794222226
+  },
   {
    "n": 1384,
    "key": "mercadolivre:MLB72990342",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794192624
-  },
-  {
-   "n": 1325,
-   "key": "mercadolivre:MLB20306137",
-   "title": "Mixer Elétrico 2 em 1 Recarregável USB 3 Velocidades Espumador de Leite Profissional em Aço Inoxidável Misturador Portátil para Cappuccino, Café, Whey, Matcha, ",
-   "price": 15.8,
-   "original": 78.99,
-   "pct": 80,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_877207-MLA119236955958_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mixer-eletrico-2-em-1-recarregavel-usb-3-velocidades-espumador-de-leite-profissional-em-aco-inoxidavel-misturador-portat/p/MLB20306137?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794192203
   }
  ]
 }
