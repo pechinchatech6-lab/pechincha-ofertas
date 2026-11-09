@@ -1,7 +1,21 @@
 {
- "updated": 1794228874,
+ "updated": 1794229295,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1399,
+   "key": "mercadolivre:MLB26703117",
+   "title": "Chapinha Profissional MQ Pro 480 Turbo Cor Black E Detalhes Silver",
+   "price": 352.0,
+   "original": 631.05,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_818498-MLA99527505846_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-profissional-mq-pro-480-turbo-cor-black-e-detalhes-silver/p/MLB26703117?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794229275
+  },
   {
    "n": 1398,
    "key": "mercadolivre:MLB66430893",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794198877
-  },
-  {
-   "n": 1339,
-   "key": "mercadolivre:MLB68089060",
-   "title": "Coqueteleira Academia Shaker Compartimentos Whey Suplementos Cor Branco",
-   "price": 34.47,
-   "original": 45.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_990003-MLA109631018622_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/coqueteleira-academia-shaker-compartimentos-whey-suplementos-cor-branco/p/MLB68089060?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794198456
   }
  ]
 }
