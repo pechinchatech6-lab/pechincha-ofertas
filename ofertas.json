@@ -1,7 +1,21 @@
 {
- "updated": 1794200581,
+ "updated": 1794201002,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1345,
+   "key": "mercadolivre:MLB77682099",
+   "title": "Soundbar 2.1 LED Bluetooth 5.3 Subwoofer 5.25 polegadas HDMI ARC AUX USB Hi Fi Extra Bass 3D EQ Controle Remoto Display LED Caixa de Som TV PC Projetor Gamer Ho",
+   "price": 308.44,
+   "original": 599.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_611083-MLA119222890978_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-2-1-led-bluetooth-5-3-subwoofer-5-25-polegadas-hdmi-arc-aux-usb-hi-fi-extra-bass-3d-eq-controle-remoto-display-/p/MLB77682099?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794200982
+  },
   {
    "n": 1344,
    "key": "mercadolivre:MLB18572372",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794171805
-  },
-  {
-   "n": 1285,
-   "key": "mercadolivre:MLB75627272",
-   "title": "Mochila para Notebook Impermeável com Porta USB e Expansão de 25L a 40L, Ideal para Viagem e Trabalho",
-   "price": 98.1,
-   "original": 218.0,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_683360-MLA113618531626_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-para-notebook-impermeavel-com-porta-usb-e-expansao-de-25l-a-40l-ideal-para-viagem-e-trabalho/p/MLB75627272?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794171384
   }
  ]
 }
