@@ -1,7 +1,21 @@
 {
- "updated": 1794253900,
+ "updated": 1794254321,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1456,
+   "key": "mercadolivre:MLB55024225",
+   "title": "Soprador De Ar Turbo 21v Portátil Bateria Recarregável Potente Para Folhas Pó Limpeza Carro Tso-21a The Black Tools",
+   "price": 109.95,
+   "original": 219.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_987154-MLA116188035225_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-de-ar-turbo-21v-portatil-bateria-recarregavel-potente-para-folhas-po-limpeza-carro-tso-21a-the-black-tools/p/MLB55024225?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794254301
+  },
   {
    "n": 1455,
    "key": "mercadolivre:MLB69966498",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794228431
-  },
-  {
-   "n": 1396,
-   "key": "mercadolivre:MLB28529446",
-   "title": "Forno Elétrico Philco 50L Dupla Resistência PFE52P",
-   "price": 429.0,
-   "original": 529.0,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_992228-MLA99495565436_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/forno-eletrico-philco-50l-dupla-resistencia-pfe52p/p/MLB28529446?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794228010
   }
  ]
 }
