@@ -1,7 +1,21 @@
 {
- "updated": 1794266056,
+ "updated": 1794266477,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1481,
+   "key": "mercadolivre:MLB79377107",
+   "title": "Jogo Serra Copo 16 Peças 19mm A 127mm Para Madeira Gesso Pvc Mdf Compensado Kit Completo Para Furadeira Conjunto De Serras Para Perfuração E Corte Circular Em O",
+   "price": 41.59,
+   "original": 69.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_980754-MLA116700635380_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/jogo-serra-copo-16-pecas-19mm-a-127mm-para-madeira-gesso-pvc-mdf-compensado-kit-completo-para-furadeira-conjunto-de-serr/p/MLB79377107?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794266457
+  },
   {
    "n": 1480,
    "key": "mercadolivre:MLB70185872",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794239380
-  },
-  {
-   "n": 1421,
-   "key": "mercadolivre:MLB49851699",
-   "title": "Controle GameSir Tegenaria T3 Lite Com Fio para PC Switch Android iOS Steam Celular Hall Effect USB-A Design Ergonômico Branco",
-   "price": 92.0,
-   "original": 159.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_667956-MLA100010532689_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-tegenaria-t3-lite-com-fio-para-pc-switch-android-ios-steam-celular-hall-effect-usb-a-design-ergonomico-/p/MLB49851699?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794238959
   }
  ]
 }
