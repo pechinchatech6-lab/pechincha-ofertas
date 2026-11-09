@@ -1,7 +1,21 @@
 {
- "updated": 1794266477,
+ "updated": 1794266898,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1482,
+   "key": "mercadolivre:MLB18610706",
+   "title": "Logitech Mk235 ABNT2 Português Teclado E Mouse Grafite Preto",
+   "price": 157.2,
+   "original": 219.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_735713-MLA99973706633_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/logitech-mk235-abnt2-portugues-teclado-e-mouse-grafite-preto/p/MLB18610706?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794266878
+  },
   {
    "n": 1481,
    "key": "mercadolivre:MLB79377107",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794239801
-  },
-  {
-   "n": 1422,
-   "key": "mercadolivre:MLB80248155",
-   "title": "Mouse Gamer Dual-mode 2.4g Bluetooth 1600 Dpi Estampa Branco",
-   "price": 59.8,
-   "original": 99.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628298-MLA118786919355_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-gamer-dual-mode-2-4g-bluetooth-1600-dpi-estampa-branco/p/MLB80248155?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794239380
   }
  ]
 }
