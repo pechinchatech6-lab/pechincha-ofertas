@@ -1,7 +1,21 @@
 {
- "updated": 1794209997,
+ "updated": 1794210418,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1365,
+   "key": "mercadolivre:MLB66922418",
+   "title": "Caixa De Som Bluetooth Rádio Relógio Despertador Espelho Fm Branco",
+   "price": 47.99,
+   "original": 89.0,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_903797-MLA109116011101_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-radio-relogio-despertador-espelho-fm-branco/p/MLB66922418?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794210398
+  },
   {
    "n": 1364,
    "key": "mercadolivre:MLB45474714",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794183235
-  },
-  {
-   "n": 1305,
-   "key": "mercadolivre:MLB78863823",
-   "title": "Retífica Pneumática Profissional Naisieka KMJ de Alta Rotação, com Maleta e Kit de Ponteiras para Lixar e Polir Metal",
-   "price": 104.0,
-   "original": 260.0,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_784959-MLA117115580949_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/retifica-pneumatica-profissional-naisieka-kmj-de-alta-rotacao-com-maleta-e-kit-de-ponteiras-para-lixar-e-polir-metal/p/MLB78863823?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794182814
   }
  ]
 }
