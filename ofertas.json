@@ -1,7 +1,21 @@
 {
- "updated": 1794258374,
+ "updated": 1794258795,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1465,
+   "key": "mercadolivre:MLB69274486",
+   "title": "Multímetro Digital Com Iluminação Bip Profissional Portátil Md-180l B Basto Com Bateria",
+   "price": 34.29,
+   "original": 49.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_722130-MLA110446246164_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/multimetro-digital-com-iluminacao-bip-profissional-portatil-md-180l-b-basto-com-bateria/p/MLB69274486?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794258775
+  },
   {
    "n": 1464,
    "key": "mercadolivre:MLB56546186",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794232222
-  },
-  {
-   "n": 1405,
-   "key": "mercadolivre:MLB18638651",
-   "title": "Secador de Cabelos Mondial Preto 2000W SCN-01",
-   "price": 88.0,
-   "original": 172.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_931087-MLA100025900529_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-mondial-preto-2000w-scn-01/p/MLB18638651?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794231801
   }
  ]
 }
