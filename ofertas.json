@@ -1,7 +1,21 @@
 {
- "updated": 1794268161,
+ "updated": 1794268582,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1486,
+   "key": "mercadolivre:MLB75898900",
+   "title": "Nível Laser Verde 16 Linhas War Shark 360° Autonivelante + 2 Baterias",
+   "price": 199.0,
+   "original": 400.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612772-MLA117503682685_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-360-autonivelante-2-baterias/p/MLB75898900?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794268562
+  },
   {
    "n": 1485,
    "key": "mercadolivre:MLB43438200",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794241485
-  },
-  {
-   "n": 1426,
-   "key": "mercadolivre:MLB20662382",
-   "title": "Smart TV AIWA 43” Android Full HD Borda Ultrafina HDR10 Dolby Áudio AWS-TV-43-BL-02-A",
-   "price": 1329.0,
-   "original": 1899.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_994322-MLA99533174096_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-aiwa-43-android-full-hd-borda-ultrafina-hdr10-dolby-audio-aws-tv-43-bl-02-a/p/MLB20662382?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794241064
   }
  ]
 }
