@@ -1,7 +1,21 @@
 {
- "updated": 1794195529,
+ "updated": 1794195950,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1333,
+   "key": "mercadolivre:MLB20870718",
+   "title": "Proteína New Millen Premium Whey Isolado Isolate em pó sabor Morango x 900g",
+   "price": 139.9,
+   "original": 249.32,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_667292-MLA112330453655_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/proteina-new-millen-premium-whey-isolado-isolate-em-po-sabor-morango-x-900g/p/MLB20870718?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794195930
+  },
   {
    "n": 1332,
    "key": "mercadolivre:MLB68770277",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794166484
-  },
-  {
-   "n": 1273,
-   "key": "mercadolivre:MLB67291937",
-   "title": "Fone Ouvido Bluetooth Compatível Com Iphone X Xr 11 12 13 14 15 16 17 Xs Pro Max Plus Samsung S20 S23 S24 Xiaomi Motorola Android Ios Sem Fio Prova DAgua Wirele",
-   "price": 48.91,
-   "original": 78.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_793840-MLA109795835063_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-ouvido-bluetooth-compativel-com-iphone-x-xr-11-12-13-14-15-16-17-xs-pro-max-plus-samsung-s20-s23-s24-xiaomi-motorol/p/MLB67291937?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794166063
   }
  ]
 }
