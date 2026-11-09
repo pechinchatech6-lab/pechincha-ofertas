@@ -1,7 +1,21 @@
 {
- "updated": 1794208969,
+ "updated": 1794209997,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1364,
+   "key": "mercadolivre:MLB45474714",
+   "title": "Chinelo Feminino Slim Havaianas",
+   "price": 39.09,
+   "original": 54.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_671885-MLA81672743644_012025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chinelo-feminino-slim-havaianas/p/MLB45474714?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794209977
+  },
   {
    "n": 1363,
    "key": "mercadolivre:MLB19716757",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794182814
-  },
-  {
-   "n": 1304,
-   "key": "mercadolivre:MLB70228023",
-   "title": "Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente Prateado",
-   "price": 34.9,
-   "original": 49.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_907811-MLA112159861189_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-relogio-feminino-colar-brinco-pulseira-folheado-presente-prateado/p/MLB70228023?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794182393
   }
  ]
 }
