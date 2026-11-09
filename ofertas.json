@@ -1,7 +1,21 @@
 {
- "updated": 1794241505,
+ "updated": 1794241926,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1428,
+   "key": "mercadolivre:MLB61072496",
+   "title": "Caixa De Som Pc Notebook Gamer Soundbar Usb 6w Estéreo P2",
+   "price": 52.19,
+   "original": 78.9,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_644552-MLA120792015981_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-pc-notebook-gamer-soundbar-usb-6w-estereo-p2/p/MLB61072496?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794241906
+  },
   {
    "n": 1427,
    "key": "mercadolivre:MLB80498644",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794214084
-  },
-  {
-   "n": 1368,
-   "key": "mercadolivre:MLB27175663",
-   "title": "NIVEA Hidratante Labial Hidra Color 2 em 1 Nude 4,8g, Hidratação Duradoura, Cor Intensa, Lábios Protegidos",
-   "price": 19.98,
-   "original": 30.99,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_962354-MLU73694960294_012024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivea-hidratante-labial-hidra-color-2-em-1-nude-4-8g-hidratacao-duradoura-cor-intensa-labios-protegidos/p/MLB27175663?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794211661
   }
  ]
 }
