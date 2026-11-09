@@ -1,7 +1,21 @@
 {
- "updated": 1794267740,
+ "updated": 1794268161,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1485,
+   "key": "mercadolivre:MLB43438200",
+   "title": "Smartband Xiaomi Smart Band 9 Active Rosa-Claro com Tela de 1.47\" e Monitor de Saúde",
+   "price": 183.59,
+   "original": 227.9,
+   "pct": 19,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_837680-MLA99853094051_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartband-xiaomi-smart-band-9-active-rosa-claro-com-tela-de-1-47-e-monitor-de-saude/p/MLB43438200?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794268141
+  },
   {
    "n": 1484,
    "key": "mercadolivre:MLB54470406",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794241064
-  },
-  {
-   "n": 1425,
-   "key": "mercadolivre:MLB1040287790",
-   "title": "Apple iPhone 16 (256 GB) - Rosa - Distribuidor Autorizado",
-   "price": 5596.67,
-   "original": 8599.0,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_719634-MLA97473882481_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/apple-iphone-16-256-gb-rosa-distribuidor-autorizado/p/MLB1040287790?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794240643
   }
  ]
 }
