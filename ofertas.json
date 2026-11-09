@@ -1,7 +1,21 @@
 {
- "updated": 1794252216,
+ "updated": 1794252637,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1452,
+   "key": "mercadolivre:MLB68267062",
+   "title": "Relógio Xiaomi Redmi Watch 6 preto",
+   "price": 576.73,
+   "original": 749.0,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_985987-MLA110566609097_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-xiaomi-redmi-watch-6-preto/p/MLB68267062?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794252617
+  },
   {
    "n": 1451,
    "key": "mercadolivre:MLB65541449",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794226747
-  },
-  {
-   "n": 1392,
-   "key": "mercadolivre:MLB15238956",
-   "title": "Chapinha De Cabelo Mq Professional Titanium Pro 480 Cor Chumbo",
-   "price": 389.48,
-   "original": 577.9,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_614724-MLA99489875538_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-mq-professional-titanium-pro-480-cor-chumbo/p/MLB15238956?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794226326
   }
  ]
 }
