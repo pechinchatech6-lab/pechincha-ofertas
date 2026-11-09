@@ -1,7 +1,21 @@
 {
- "updated": 1794225925,
+ "updated": 1794226346,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1392,
+   "key": "mercadolivre:MLB15238956",
+   "title": "Chapinha De Cabelo Mq Professional Titanium Pro 480 Cor Chumbo",
+   "price": 389.48,
+   "original": 577.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_614724-MLA99489875538_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-mq-professional-titanium-pro-480-cor-chumbo/p/MLB15238956?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794226326
+  },
   {
    "n": 1391,
    "key": "mercadolivre:MLB24117280",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794195930
-  },
-  {
-   "n": 1332,
-   "key": "mercadolivre:MLB68770277",
-   "title": "Aparador De Pelos Nariz E Orelha Elétrico Recarregável Sem Fio Acemic Preto Cortador Nasal Portátil Masculino E Feminino Para Higiene Pessoal Remoção De Pelos C",
-   "price": 19.99,
-   "original": 39.99,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674222-MLA110090137172_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-nariz-e-orelha-eletrico-recarregavel-sem-fio-acemic-preto-cortador-nasal-portatil-masculino-e-feminino/p/MLB68770277?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794195509
   }
  ]
 }
