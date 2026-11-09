@@ -1,7 +1,21 @@
 {
- "updated": 1794215987,
+ "updated": 1794216408,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1374,
+   "key": "mercadolivre:MLB47104607",
+   "title": "Parafusadeira Chave De Impacto A Bateria Lítio 21v Motor Brushless 800nm 80kgf.m Tb21ix The Black Tools",
+   "price": 399.9,
+   "original": 799.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_793824-MLA118387664379_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-chave-de-impacto-a-bateria-litio-21v-motor-brushless-800nm-80kgf-m-tb21ix-the-black-tools/p/MLB47104607?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794216388
+  },
   {
    "n": 1373,
    "key": "mercadolivre:MLB67283569",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794187024
-  },
-  {
-   "n": 1314,
-   "key": "mercadolivre:MLB15502351",
-   "title": "Caixa de Som Bluetooth Grasep D-S14 Vermelha Portátil Subwoofer 5.1",
-   "price": 124.0,
-   "original": 198.99,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_948865-MLA99939894493_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-grasep-d-s14-vermelha-portatil-subwoofer-5-1/p/MLB15502351?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794186603
   }
  ]
 }
