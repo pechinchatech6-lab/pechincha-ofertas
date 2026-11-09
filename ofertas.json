@@ -1,7 +1,21 @@
 {
- "updated": 1794217671,
+ "updated": 1794218282,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1378,
+   "key": "mercadolivre:MLB54923379",
+   "title": "Microfone Lapela Sem Fio Duplo A'gold Anti Ruido Ia C/ Imã Cor Preto",
+   "price": 67.44,
+   "original": 119.9,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_604779-MLA117974675162_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microfone-lapela-sem-fio-duplo-a-gold-anti-ruido-ia-c-ima-cor-preto/p/MLB54923379?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794218262
+  },
   {
    "n": 1377,
    "key": "mercadolivre:MLB62593832",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794188708
-  },
-  {
-   "n": 1318,
-   "key": "mercadolivre:MLB79371322",
-   "title": "Depilador Aparador Elétrico Feminino Indolor 4 Em 1 Pelos Íntimo Facial Nariz Orelha Sobrancelha - Crowley",
-   "price": 35.49,
-   "original": 54.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_993413-MLA116209048116_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-aparador-eletrico-feminino-indolor-4-em-1-pelos-intimo-facial-nariz-orelha-sobrancelha-crowley/p/MLB79371322?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794188287
   }
  ]
 }
