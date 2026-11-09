@@ -1,7 +1,21 @@
 {
- "updated": 1794190539,
+ "updated": 1794190960,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1322,
+   "key": "mercadolivre:MLB47078704",
+   "title": "Controle Gamesir Super Nova Sem Fio Para Pc Switch Ios Android hall EfFeCt Anti Drift Rgb Rosa",
+   "price": 258.78,
+   "original": 386.51,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_714468-MLA99979875795_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamesir-super-nova-sem-fio-para-pc-switch-ios-android-hall-effect-anti-drift-rgb-rosa/p/MLB47078704?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794190940
+  },
   {
    "n": 1321,
    "key": "mercadolivre:MLB53218854",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794160476
-  },
-  {
-   "n": 1262,
-   "key": "mercadolivre:MLB40692702",
-   "title": "Furadeira de Impacto Bosch 450W 10mm GSB 450 RE com Jogo de Brocas Bits 300 Peças",
-   "price": 311.0,
-   "original": 492.71,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_705500-MLA99899450981_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/furadeira-de-impacto-bosch-450w-10mm-gsb-450-re-com-jogo-de-brocas-bits-300-pecas/p/MLB40692702?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794160055
   }
  ]
 }
