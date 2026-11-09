@@ -1,7 +1,21 @@
 {
- "updated": 1794240242,
+ "updated": 1794240663,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1425,
+   "key": "mercadolivre:MLB1040287790",
+   "title": "Apple iPhone 16 (256 GB) - Rosa - Distribuidor Autorizado",
+   "price": 5596.67,
+   "original": 8599.0,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_719634-MLA97473882481_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/apple-iphone-16-256-gb-rosa-distribuidor-autorizado/p/MLB1040287790?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794240643
+  },
   {
    "n": 1424,
    "key": "mercadolivre:MLB45151298",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794210819
-  },
-  {
-   "n": 1365,
-   "key": "mercadolivre:MLB66922418",
-   "title": "Caixa De Som Bluetooth Rádio Relógio Despertador Espelho Fm Branco",
-   "price": 47.99,
-   "original": 89.0,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_903797-MLA109116011101_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-radio-relogio-despertador-espelho-fm-branco/p/MLB66922418?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794210398
   }
  ]
 }
