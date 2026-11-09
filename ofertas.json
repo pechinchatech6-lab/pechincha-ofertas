@@ -1,7 +1,21 @@
 {
- "updated": 1794265635,
+ "updated": 1794266056,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1480,
+   "key": "mercadolivre:MLB70185872",
+   "title": "Geladeira Electrolux Tf71s Frost Free Duplex 480l Cor Inox",
+   "price": 3284.0,
+   "original": 4699.9,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_964823-MLA112155453445_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-tf71s-frost-free-duplex-480l-cor-inox/p/MLB70185872?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794266036
+  },
   {
    "n": 1479,
    "key": "mercadolivre:MLB18115557",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794238959
-  },
-  {
-   "n": 1420,
-   "key": "mercadolivre:MLB45160657",
-   "title": "Mouse Gamer M711 Cobra Chroma Redragon Com fio Para Jogos 12.400 DPI Com Led RGB Preto",
-   "price": 79.9,
-   "original": 143.43,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_898286-MLA95664298408_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-gamer-m711-cobra-chroma-redragon-com-fio-para-jogos-12-400-dpi-com-led-rgb-preto/p/MLB45160657?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794238117
   }
  ]
 }
