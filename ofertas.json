@@ -1,7 +1,21 @@
 {
- "updated": 1794249083,
+ "updated": 1794249510,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1446,
+   "key": "mercadolivre:MLB22307702",
+   "title": "Volante Gamer Logitech G29 Driving Force para PlayStation e PC",
+   "price": 1599.0,
+   "original": 1999.9,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_797609-MLA54385954486_032023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/volante-gamer-logitech-g29-driving-force-para-playstation-e-pc/p/MLB22307702?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794249490
+  },
   {
    "n": 1445,
    "key": "mercadolivre:MLB78730229",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794223835
-  },
-  {
-   "n": 1386,
-   "key": "mercadolivre:MLB66896529",
-   "title": "Celular Xiaomi Poco X8 Pro 8gb Ram 256gb Rom Dual Sim 6.59 Amoled Dimensity 8500 Ultra Green",
-   "price": 2093.0,
-   "original": 2990.0,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_619994-MLA108307143102_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/celular-xiaomi-poco-x8-pro-8gb-ram-256gb-rom-dual-sim-6-59-amoled-dimensity-8500-ultra-green/p/MLB66896529?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794223414
   }
  ]
 }
