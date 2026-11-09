@@ -1,7 +1,21 @@
 {
- "updated": 1794223434,
+ "updated": 1794223855,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1387,
+   "key": "mercadolivre:MLB22729783",
+   "title": "Soprador Térmico 1500w Com Acessórios Razi Rz-sk1500 Cinza",
+   "price": 111.0,
+   "original": 390.0,
+   "pct": 72,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_846674-MLA100037351581_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-termico-1500w-com-acessorios-razi-rz-sk1500-cinza/p/MLB22729783?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794223835
+  },
   {
    "n": 1386,
    "key": "mercadolivre:MLB66896529",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794193466
-  },
-  {
-   "n": 1327,
-   "key": "mercadolivre:MLB50575630",
-   "title": "Microfone sem fio Hollyland Lark A1 Combo cor preto",
-   "price": 392.49,
-   "original": 599.99,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_743619-MLA105319745630_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-sem-fio-hollyland-lark-a1-combo-cor-preto/p/MLB50575630?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794193045
   }
  ]
 }
