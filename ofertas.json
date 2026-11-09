@@ -1,7 +1,21 @@
 {
- "updated": 1794186623,
+ "updated": 1794187044,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1315,
+   "key": "mercadolivre:MLB19810227",
+   "title": "Creme Depilatório Veet Men Pele Normal 200ml",
+   "price": 39.9,
+   "original": 79.29,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_824173-MLA118163059710_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-depilatorio-veet-men-pele-normal-200ml/p/MLB19810227?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794187024
+  },
   {
    "n": 1314,
    "key": "mercadolivre:MLB15502351",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794157529
-  },
-  {
-   "n": 1255,
-   "key": "mercadolivre:MLB26085601",
-   "title": "Super Caixa De Som Completa Amplificada 200w 40 Cm De Altura Cor Preto",
-   "price": 145.0,
-   "original": 242.99,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_837631-MLA99983156149_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/super-caixa-de-som-completa-amplificada-200w-40-cm-de-altura-cor-preto/p/MLB26085601?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794157108
   }
  ]
 }
