@@ -1,7 +1,21 @@
 {
- "updated": 1794214104,
+ "updated": 1794214525,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1370,
+   "key": "mercadolivre:MLB24208936",
+   "title": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+   "price": 32.17,
+   "original": 62.99,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-johnson-s-baby-glicerina-hipoalergenico-750ml/p/MLB24208936?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794214505
+  },
   {
    "n": 1369,
    "key": "mercadolivre:MLB77331725",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794185340
-  },
-  {
-   "n": 1310,
-   "key": "mercadolivre:MLB37622470",
-   "title": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 125g",
-   "price": 61.97,
-   "original": 98.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_658983-MLA114006492841_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-anticaspa-cabelos-normais-a-oleosos-dercos-ds-vichy-125g/p/MLB37622470?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794184919
   }
  ]
 }
