@@ -1,7 +1,21 @@
 {
- "updated": 1794188728,
+ "updated": 1794190118,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1320,
+   "key": "mercadolivre:MLB19140415",
+   "title": "Suplemento Whey Isolate Protein Fuse 1,8kg sabor Morango Dark Lab",
+   "price": 179.9,
+   "original": 699.9,
+   "pct": 74,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_989007-MLA99405715766_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suplemento-whey-isolate-protein-fuse-1-8kg-sabor-morango-dark-lab/p/MLB19140415?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794190098
+  },
   {
    "n": 1319,
    "key": "mercadolivre:MLB46220824",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794159634
-  },
-  {
-   "n": 1260,
-   "key": "mercadolivre:MLB19750516",
-   "title": "Micro-ondas Electrolux 36L cor Inox Efficient com Descongelamento Assistido ME36S",
-   "price": 729.0,
-   "original": 989.0,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_864516-MLA99700643378_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-electrolux-36l-cor-inox-efficient-com-descongelamento-assistido-me36s/p/MLB19750516?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794159213
   }
  ]
 }
