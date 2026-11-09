@@ -1,7 +1,21 @@
 {
- "updated": 1794228451,
+ "updated": 1794228874,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1398,
+   "key": "mercadolivre:MLB66430893",
+   "title": "Coletor De Pó P/ Serra Circular Makita Sp6000",
+   "price": 37.18,
+   "original": 44.3,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822957-MLA108509910251_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/coletor-de-po-p-serra-circular-makita-sp6000/p/MLB66430893?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794228854
+  },
   {
    "n": 1397,
    "key": "mercadolivre:MLB22647527",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794198456
-  },
-  {
-   "n": 1338,
-   "key": "mercadolivre:MLB71650391",
-   "title": "Multímetro Digital Profissional Lcd Iluminado Portátil Multifunções Ac Dc Bip Com Bateria",
-   "price": 32.49,
-   "original": 59.9,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_933618-MLA113308998651_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/multimetro-digital-profissional-lcd-iluminado-portatil-multifuncoes-ac-dc-bip-com-bateria/p/MLB71650391?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794198035
   }
  ]
 }
