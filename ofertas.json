@@ -1,7 +1,21 @@
 {
- "updated": 1794235611,
+ "updated": 1794236032,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1415,
+   "key": "mercadolivre:MLB1046215784",
+   "title": "iPhone 16e (128 GB) - Preto - Distribuidor Autorizado",
+   "price": 3499.0,
+   "original": 5799.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794236012
+  },
   {
    "n": 1414,
    "key": "mercadolivre:MLB28407045",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794205613
-  },
-  {
-   "n": 1355,
-   "key": "mercadolivre:MLB74347854",
-   "title": "Nível Laser Davely Com Tripé Ajustável, de Linhas Horizontal e Vertical",
-   "price": 31.99,
-   "original": 60.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_784644-MLA117946819736_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivel-laser-davely-com-tripe-ajustavel-de-linhas-horizontal-e-vertical/p/MLB74347854?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794205192
   }
  ]
 }
