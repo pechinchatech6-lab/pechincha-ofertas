@@ -1,7 +1,21 @@
 {
- "updated": 1794203107,
+ "updated": 1794203528,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1351,
+   "key": "mercadolivre:MLB47944518",
+   "title": "Lavadora De Alta Pressão Kärcher Prática Black 1500 Psi 1400w 300l/h Com Aplicador De Detergente E Lança Regulável",
+   "price": 282.0,
+   "original": 449.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_894333-MLA115546000124_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-karcher-pratica-black-1500-psi-1400w-300l-h-com-aplicador-de-detergente-e-lanca-regulavel/p/MLB47944518?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794203508
+  },
   {
    "n": 1350,
    "key": "mercadolivre:MLB29574189",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794174911
-  },
-  {
-   "n": 1291,
-   "key": "mercadolivre:MLB64177043",
-   "title": "Saida De Praia Calça Plus Size Tricô Feminina Cores Cor Preto Tamanho G3 veste 52 ao 56",
-   "price": 37.48,
-   "original": 49.55,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_916671-MLA116997959800_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/saida-de-praia-calca-plus-size-trico-feminina-cores-cor-preto-tamanho-g3-veste-52-ao-56/p/MLB64177043?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794174490
   }
  ]
 }
