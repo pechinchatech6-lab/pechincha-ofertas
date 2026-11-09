@@ -1,7 +1,21 @@
 {
- "updated": 1794264793,
+ "updated": 1794265214,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1478,
+   "key": "mercadolivre:MLB19086162",
+   "title": "Redragon Adiemus GS560 Soundbar Gamer RGB com Iluminação Chroma e Design Compacto",
+   "price": 177.0,
+   "original": 299.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_644830-MLA96135217083_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/redragon-adiemus-gs560-soundbar-gamer-rgb-com-iluminacao-chroma-e-design-compacto/p/MLB19086162?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794265194
+  },
   {
    "n": 1477,
    "key": "mercadolivre:MLB47887434",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794237696
-  },
-  {
-   "n": 1418,
-   "key": "mercadolivre:MLB65319818",
-   "title": "Smartphone Motorola Moto G67 5g - 128gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia 600, Tela 1.5k Extreme Amoled 120hz, Ultrarresistente - Chumbo",
-   "price": 1307.73,
-   "original": 1899.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_635893-MLA106048486992_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g67-5g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-1-5k-extreme-amoled-120hz-ul/p/MLB65319818?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794237275
   }
  ]
 }
