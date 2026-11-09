@@ -1,7 +1,21 @@
 {
- "updated": 1794222246,
+ "updated": 1794223434,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1386,
+   "key": "mercadolivre:MLB66896529",
+   "title": "Celular Xiaomi Poco X8 Pro 8gb Ram 256gb Rom Dual Sim 6.59 Amoled Dimensity 8500 Ultra Green",
+   "price": 2093.0,
+   "original": 2990.0,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_619994-MLA108307143102_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/celular-xiaomi-poco-x8-pro-8gb-ram-256gb-rom-dual-sim-6-59-amoled-dimensity-8500-ultra-green/p/MLB66896529?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794223414
+  },
   {
    "n": 1385,
    "key": "mercadolivre:MLB50181290",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794193045
-  },
-  {
-   "n": 1326,
-   "key": "mercadolivre:MLB66469973",
-   "title": "Tesoura Poda Galhos Jardinagem Alicate Profissional Aço Inox - Bondu",
-   "price": 20.12,
-   "original": 39.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_931262-MLA114541575774_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/tesoura-poda-galhos-jardinagem-alicate-profissional-aco-inox-bondu/p/MLB66469973?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794192624
   }
  ]
 }
