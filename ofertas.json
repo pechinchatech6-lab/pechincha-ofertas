@@ -1,7 +1,21 @@
 {
- "updated": 1794242347,
+ "updated": 1794242768,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1430,
+   "key": "mercadolivre:MLB65764004",
+   "title": "Fones De Ouvido Usb-c Tipo C Com Microfone Integrado Som Estéreo Alta Qualidade Controle Chamadas Compatível Com iPhone 15 16 17 18 Android Samsung Xiaomi Motor",
+   "price": 22.3,
+   "original": 59.99,
+   "pct": 63,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_693659-MLA113618776783_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fones-de-ouvido-usb-c-tipo-c-com-microfone-integrado-som-estereo-alta-qualidade-controle-chamadas-compativel-com-iphone-/p/MLB65764004?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794242748
+  },
   {
    "n": 1429,
    "key": "mercadolivre:MLB37879762",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794215125
-  },
-  {
-   "n": 1370,
-   "key": "mercadolivre:MLB24208936",
-   "title": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
-   "price": 32.17,
-   "original": 62.99,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-johnson-s-baby-glicerina-hipoalergenico-750ml/p/MLB24208936?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794214505
   }
  ]
 }
