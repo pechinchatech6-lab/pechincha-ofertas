@@ -1,7 +1,21 @@
 {
- "updated": 1794251795,
+ "updated": 1794252216,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1451,
+   "key": "mercadolivre:MLB65541449",
+   "title": "Fone de Ouvido JBL Tune 530BT Bluetooth Sem Fio Preto Headphone com Microfone Wireless Estéreo Graves Potentes Confortável",
+   "price": 182.0,
+   "original": 259.9,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_608030-MLA106478715282_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-jbl-tune-530bt-bluetooth-sem-fio-preto-headphone-com-microfone-wireless-estereo-graves-potentes-confortav/p/MLB65541449?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794252196
+  },
   {
    "n": 1450,
    "key": "mercadolivre:MLB74797220",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794226326
-  },
-  {
-   "n": 1391,
-   "key": "mercadolivre:MLB24117280",
-   "title": "Fone de Ouvido Bluetooth Dapon H02D, Bluetooth 5.1, Modo Sem Fio e P2 3,5mm, Dobrável, Almofadas Macias, Bateria 350mAh até 22h, Microfone Integrado, Controle n",
-   "price": 73.72,
-   "original": 149.0,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_871158-MLA99870084511_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-dapon-h02d-bluetooth-5-1-modo-sem-fio-e-p2-3-5mm-dobravel-almofadas-macias-bateria-350mah-ate-2/p/MLB24117280?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794225905
   }
  ]
 }
