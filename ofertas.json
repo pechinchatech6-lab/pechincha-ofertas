@@ -1,7 +1,21 @@
 {
- "updated": 1794187465,
+ "updated": 1794187886,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1317,
+   "key": "mercadolivre:MLB19721946",
+   "title": "Relógio Casio Unissex Vintage Prata Aq-230a-1dmq",
+   "price": 101.96,
+   "original": 299.9,
+   "pct": 66,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_633473-MLA115741902361_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-casio-unissex-vintage-prata-aq-230a-1dmq/p/MLB19721946?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794187866
+  },
   {
    "n": 1316,
    "key": "mercadolivre:MLB63950169",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794158371
-  },
-  {
-   "n": 1257,
-   "key": "mercadolivre:MLB79475250",
-   "title": "Soundbar Com Subwoofer Desmontável 420W 5.1 Canais Home Theater Subwoofer Maizhelun Som Imersivo Conectividade Aux/HDMI (ARC)/USB/Óptico/Coaxial/Antena FM Bluet",
-   "price": 483.06,
-   "original": 998.0,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_831721-MLA116440066636_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-com-subwoofer-desmontavel-420w-5-1-canais-home-theater-subwoofer-maizhelun-som-imersivo-conectividade-aux-hdmi-/p/MLB79475250?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794157950
   }
  ]
 }
