@@ -1,7 +1,21 @@
 {
- "updated": 1794181992,
+ "updated": 1794182413,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1304,
+   "key": "mercadolivre:MLB70228023",
+   "title": "Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente Prateado",
+   "price": 34.9,
+   "original": 49.9,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_907811-MLA112159861189_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-relogio-feminino-colar-brinco-pulseira-folheado-presente-prateado/p/MLB70228023?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794182393
+  },
   {
    "n": 1303,
    "key": "mercadolivre:MLB53878745",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794152898
-  },
-  {
-   "n": 1244,
-   "key": "mercadolivre:MLB78894494",
-   "title": "Relógio Smartwatch Xiaomi Redmi Watch 6 Lite Amoled 1,96” Gps 5atm Preto",
-   "price": 404.0,
-   "original": 808.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_875045-MLA117800788327_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-smartwatch-xiaomi-redmi-watch-6-lite-amoled-1-96-gps-5atm-preto/p/MLB78894494?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794152477
   }
  ]
 }
