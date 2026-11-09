@@ -1,7 +1,21 @@
 {
- "updated": 1794183255,
+ "updated": 1794183676,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1307,
+   "key": "mercadolivre:MLB40535137",
+   "title": "Forno Elétrico Britânia 44L Preto Dupla Resistência 1500W BFE44P 127V",
+   "price": 339.0,
+   "original": 399.0,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_692583-MLA100276103564_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/forno-eletrico-britania-44l-preto-dupla-resistencia-1500w-bfe44p-127v/p/MLB40535137?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794183656
+  },
   {
    "n": 1306,
    "key": "mercadolivre:MLB25834979",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794154161
-  },
-  {
-   "n": 1247,
-   "key": "mercadolivre:MLB26826554",
-   "title": "Caixa De Som Speaker Aiwa AWS-SP-01 Bluetooth Cor Preto",
-   "price": 169.0,
-   "original": 349.9,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_812534-MLA99524049864_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-speaker-aiwa-aws-sp-01-bluetooth-cor-preto/p/MLB26826554?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794153740
   }
  ]
 }
