@@ -1,7 +1,21 @@
 {
- "updated": 1794185360,
+ "updated": 1794185781,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1312,
+   "key": "mercadolivre:MLB70611003",
+   "title": "Smartwatch Mi Xiaomi Smart Band 10 Pro Gps Preto Rosa Prata Rosa Mesh",
+   "price": 414.16,
+   "original": 499.0,
+   "pct": 17,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_940873-MLA112535138151_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartwatch-mi-xiaomi-smart-band-10-pro-gps-preto-rosa-prata-rosa-mesh/p/MLB70611003?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794185761
+  },
   {
    "n": 1311,
    "key": "mercadolivre:MLB75879865",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794156266
-  },
-  {
-   "n": 1252,
-   "key": "mercadolivre:MLB38835569",
-   "title": "Kit Parafusadeira/Furadeira A Bateria 12V 3/8 Polegadas 10Mm + Jogo De Ferramentas 169 Peças Com Maleta The Black Tools",
-   "price": 259.9,
-   "original": 489.9,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_854053-MLA116500660104_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-parafusadeira-furadeira-a-bateria-12v-3-8-polegadas-10mm-jogo-de-ferramentas-169-pecas-com-maleta-the-black-tools/p/MLB38835569?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794155845
   }
  ]
 }
