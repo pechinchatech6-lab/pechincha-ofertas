@@ -1,7 +1,21 @@
 {
- "updated": 1794251374,
+ "updated": 1794251795,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1450,
+   "key": "mercadolivre:MLB74797220",
+   "title": "Moto Serra Elétrica 12 Polegadas Motoserra Eletrica Portátil Brushless 2 Baterias 3 Correntes",
+   "price": 318.35,
+   "original": 600.0,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_970650-MLA118144315182_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/moto-serra-eletrica-12-polegadas-motoserra-eletrica-portatil-brushless-2-baterias-3-correntes/p/MLB74797220?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794251775
+  },
   {
    "n": 1449,
    "key": "mercadolivre:MLB63036814",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794225905
-  },
-  {
-   "n": 1390,
-   "key": "mercadolivre:MLB77356916",
-   "title": "Boné Ny New York Unissex Yankees Fitão Trucker Masculino Feminino Moda Verão Marca Lemon Shark Cor Azul-marinho e Branco",
-   "price": 31.99,
-   "original": 44.99,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_772153-MLA116204648701_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-ny-new-york-unissex-yankees-fitao-trucker-masculino-feminino-moda-verao-marca-lemon-shark-cor-azul-marinho-e-branco/p/MLB77356916?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794225484
   }
  ]
 }
