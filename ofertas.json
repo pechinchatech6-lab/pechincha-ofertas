@@ -1,7 +1,21 @@
 {
- "updated": 1794227188,
+ "updated": 1794227609,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1395,
+   "key": "mercadolivre:MLB32387819",
+   "title": "Kit Eudora Siage Cica-Therapy Shampoo 250ml + Máscara 250g",
+   "price": 63.8,
+   "original": 78.0,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_658406-MLA117339689810_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-eudora-siage-cica-therapy-shampoo-250ml-mascara-250g/p/MLB32387819?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794227589
+  },
   {
    "n": 1394,
    "key": "mercadolivre:MLB40231548",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794197193
-  },
-  {
-   "n": 1335,
-   "key": "mercadolivre:MLB18390579",
-   "title": "Creme Hidratante Cetaphil para Pele Seca a Muito Seca Sensível com Niacinamida B3 453g, Hidrata por até 48 h desde a primeira aplicação, restaura a barreira em ",
-   "price": 80.0,
-   "original": 110.0,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_906094-MLA118070993607_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-hidratante-cetaphil-para-pele-seca-a-muito-seca-sensivel-com-niacinamida-b3-453g-hidrata-por-ate-48-h-desde-a-prim/p/MLB18390579?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794196772
   }
  ]
 }
