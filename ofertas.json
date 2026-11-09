@@ -1,7 +1,21 @@
 {
- "updated": 1794204370,
+ "updated": 1794204791,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1354,
+   "key": "mercadolivre:MLB24575190",
+   "title": "Chaleira de vidro com Infusor Bule e coador 350ml Prateado",
+   "price": 18.78,
+   "original": 39.99,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_718338-MLA118565531938_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chaleira-de-vidro-com-infusor-bule-e-coador-350ml-prateado/p/MLB24575190?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794204771
+  },
   {
    "n": 1353,
    "key": "mercadolivre:MLB56064567",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794177381
-  },
-  {
-   "n": 1294,
-   "key": "mercadolivre:MLB75536997",
-   "title": "Controle GameSir G7 Pro sem Fio para Xbox, PC e Android Prateado",
-   "price": 424.98,
-   "original": 552.28,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_697137-MLA113442533788_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-pro-sem-fio-para-xbox-pc-e-android-prateado/p/MLB75536997?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794176960
   }
  ]
 }
