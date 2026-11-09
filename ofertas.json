@@ -1,7 +1,21 @@
 {
- "updated": 1794208349,
+ "updated": 1794208969,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1363,
+   "key": "mercadolivre:MLB19716757",
+   "title": "Hidratante Corporal Intensivo Neutrogena Norwegian com fragrância, 400mL",
+   "price": 59.64,
+   "original": 122.9,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_749806-MLA53986261246_022023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hidratante-corporal-intensivo-neutrogena-norwegian-com-fragrancia-400ml/p/MLB19716757?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794208949
+  },
   {
    "n": 1362,
    "key": "mercadolivre:MLB43398945",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794182393
-  },
-  {
-   "n": 1303,
-   "key": "mercadolivre:MLB53878745",
-   "title": "Caixa de som Boombox Philco Extreme Bluetooth V.5.4 300W PBX01",
-   "price": 899.0,
-   "original": 1600.0,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628373-MLA99520261698_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-boombox-philco-extreme-bluetooth-v-5-4-300w-pbx01/p/MLB53878745?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794181972
   }
  ]
 }
