@@ -1,7 +1,21 @@
 {
- "updated": 1794254321,
+ "updated": 1794254742,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1457,
+   "key": "mercadolivre:MLB28047478",
+   "title": "Corretivo Líquido Claro Concealer Edition Tom Light 15g Océane",
+   "price": 41.9,
+   "original": 76.36,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_835317-MLU72697942292_112023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/corretivo-liquido-claro-concealer-edition-tom-light-15g-oceane/p/MLB28047478?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794254722
+  },
   {
    "n": 1456,
    "key": "mercadolivre:MLB55024225",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794228854
-  },
-  {
-   "n": 1397,
-   "key": "mercadolivre:MLB22647527",
-   "title": "Escova Secadora Keratin, Mondial, 1300W - ES-11-BI Bivolt",
-   "price": 105.0,
-   "original": 222.9,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_856835-MLA100007840721_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-keratin-mondial-1300w-es-11-bi-bivolt/p/MLB22647527?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794228431
   }
  ]
 }
