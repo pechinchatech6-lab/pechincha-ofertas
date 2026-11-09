@@ -1,7 +1,21 @@
 {
- "updated": 1794249510,
+ "updated": 1794250532,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1447,
+   "key": "mercadolivre:MLB76436759",
+   "title": "Smart TV HD 32\" LG LB650 AI 2026 Processador α5 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini Canais Grátis webOS 26 - 32LB650BPSA",
+   "price": 1020.27,
+   "original": 1549.0,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_626506-MLA116657908871_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-hd-32-lg-lb650-ai-2026-processador-5-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-canais-gratis-webo/p/MLB76436759?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794250512
+  },
   {
    "n": 1446,
    "key": "mercadolivre:MLB22307702",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794224437
-  },
-  {
-   "n": 1387,
-   "key": "mercadolivre:MLB22729783",
-   "title": "Soprador Térmico 1500w Com Acessórios Razi Rz-sk1500 Cinza",
-   "price": 111.0,
-   "original": 390.0,
-   "pct": 72,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_846674-MLA100037351581_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-termico-1500w-com-acessorios-razi-rz-sk1500-cinza/p/MLB22729783?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794223835
   }
  ]
 }
