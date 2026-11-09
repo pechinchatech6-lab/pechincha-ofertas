@@ -1,7 +1,21 @@
 {
- "updated": 1794248662,
+ "updated": 1794249083,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1445,
+   "key": "mercadolivre:MLB78730229",
+   "title": "Depilador Elétrico Feminino VB Vetka Beauty 4 em 1 com Cabeças para Rosto, Nariz, Sobrancelha e corporal Indolor Portátil",
+   "price": 39.99,
+   "original": 65.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_740093-MLA115548829984_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-vb-vetka-beauty-4-em-1-com-cabecas-para-rosto-nariz-sobrancelha-e-corporal-indolor-portatil/p/MLB78730229?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794249063
+  },
   {
    "n": 1444,
    "key": "mercadolivre:MLB23347882",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794223414
-  },
-  {
-   "n": 1385,
-   "key": "mercadolivre:MLB50181290",
-   "title": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Simake",
-   "price": 119.6,
-   "original": 299.0,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_835659-MLA116548375638_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-c-2-baterias-maleta-kit-completo-led-eixo-flexivel-varios-niveis-torque-simake/p/MLB50181290?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794222226
   }
  ]
 }
