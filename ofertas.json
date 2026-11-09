@@ -1,7 +1,21 @@
 {
- "updated": 1794215566,
+ "updated": 1794215987,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1373,
+   "key": "mercadolivre:MLB67283569",
+   "title": "Carrinho Organizador de Aço Carbono para Cozinha e Lavanderia com 3 Prateleiras e Rodinhas – Olga Casa",
+   "price": 105.45,
+   "original": 190.45,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_865673-MLA109562361345_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/carrinho-organizador-de-aco-carbono-para-cozinha-e-lavanderia-com-3-prateleiras-e-rodinhas-olga-casa/p/MLB67283569?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794215967
+  },
   {
    "n": 1372,
    "key": "mercadolivre:MLB76394503",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794186603
-  },
-  {
-   "n": 1313,
-   "key": "mercadolivre:MLB21619053",
-   "title": "Lava Louças 14 Serviços Midea Cor Branca Cor Branco",
-   "price": 2499.0,
-   "original": 2999.0,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_922977-MLA99924594261_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lava-loucas-14-servicos-midea-cor-branca-cor-branco/p/MLB21619053?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794186182
   }
  ]
 }
