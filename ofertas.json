@@ -1,7 +1,21 @@
 {
- "updated": 1794187886,
+ "updated": 1794188307,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1318,
+   "key": "mercadolivre:MLB79371322",
+   "title": "Depilador Aparador Elétrico Feminino Indolor 4 Em 1 Pelos Íntimo Facial Nariz Orelha Sobrancelha - Crowley",
+   "price": 35.49,
+   "original": 54.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_993413-MLA116209048116_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-aparador-eletrico-feminino-indolor-4-em-1-pelos-intimo-facial-nariz-orelha-sobrancelha-crowley/p/MLB79371322?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794188287
+  },
   {
    "n": 1317,
    "key": "mercadolivre:MLB19721946",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794158792
-  },
-  {
-   "n": 1258,
-   "key": "mercadolivre:MLB60012839",
-   "title": "Parafusadeira Furadeira De Impacto A Bateria 21V 3/8” Bivolt 1400 Rpm Com Acessórios E Maleta TB-21PZW The Black Tools",
-   "price": 115.0,
-   "original": 259.9,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_660718-MLA99503122958_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-a-bateria-21v-3-8-bivolt-1400-rpm-com-acessorios-e-maleta-tb-21pzw-the-black-tools/p/MLB60012839?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794158371
   }
  ]
 }
