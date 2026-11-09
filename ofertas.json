@@ -1,7 +1,21 @@
 {
- "updated": 1794199318,
+ "updated": 1794199739,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1342,
+   "key": "mercadolivre:MLB42164469",
+   "title": "Vitamina Always Fit Fit Hair para Cabelo e Unhas 30 Cápsulas",
+   "price": 38.0,
+   "original": 49.9,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_843897-MLA114342332614_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/vitamina-always-fit-fit-hair-para-cabelo-e-unhas-30-capsulas/p/MLB42164469?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794199719
+  },
   {
    "n": 1341,
    "key": "mercadolivre:MLB67136040",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794170273
-  },
-  {
-   "n": 1282,
-   "key": "mercadolivre:MLB49851461",
-   "title": "Controle Gamepad Gamesir X5 Lite Usb-c Android iPhone 15/16 Mobile Hall Effect Turbo Leve Verde",
-   "price": 154.9,
-   "original": 249.0,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_718644-MLA99496654954_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamepad-gamesir-x5-lite-usb-c-android-iphone-15-16-mobile-hall-effect-turbo-leve-verde/p/MLB49851461?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794169852
   }
  ]
 }
