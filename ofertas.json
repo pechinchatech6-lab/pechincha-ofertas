@@ -1,7 +1,21 @@
 {
- "updated": 1794184518,
+ "updated": 1794184939,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1310,
+   "key": "mercadolivre:MLB37622470",
+   "title": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 125g",
+   "price": 61.97,
+   "original": 98.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_658983-MLA114006492841_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-anticaspa-cabelos-normais-a-oleosos-dercos-ds-vichy-125g/p/MLB37622470?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794184919
+  },
   {
    "n": 1309,
    "key": "mercadolivre:MLB17944016",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794155424
-  },
-  {
-   "n": 1250,
-   "key": "mercadolivre:MLB28894895",
-   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Preto Micgeek",
-   "price": 24.94,
-   "original": 40.0,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_767519-MLA108974232726_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-preto-micgeek/p/MLB28894895?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794155003
   }
  ]
 }
