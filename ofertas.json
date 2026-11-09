@@ -1,7 +1,21 @@
 {
- "updated": 1794233926,
+ "updated": 1794234347,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1411,
+   "key": "mercadolivre:MLB79751693",
+   "title": "Climatizador de Ar Portátil Paboxin 15L com Umidificador, 6 Velocidades e Controle Remoto",
+   "price": 484.02,
+   "original": 1139.99,
+   "pct": 58,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_977581-MLA118112130083_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-portatil-paboxin-15l-com-umidificador-6-velocidades-e-controle-remoto/p/MLB79751693?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794234327
+  },
   {
    "n": 1410,
    "key": "mercadolivre:MLB32419427",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794203929
-  },
-  {
-   "n": 1351,
-   "key": "mercadolivre:MLB47944518",
-   "title": "Lavadora De Alta Pressão Kärcher Prática Black 1500 Psi 1400w 300l/h Com Aplicador De Detergente E Lança Regulável",
-   "price": 282.0,
-   "original": 449.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_894333-MLA115546000124_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-karcher-pratica-black-1500-psi-1400w-300l-h-com-aplicador-de-detergente-e-lanca-regulavel/p/MLB47944518?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794203508
   }
  ]
 }
