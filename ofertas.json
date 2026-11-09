@@ -1,7 +1,21 @@
 {
- "updated": 1794247399,
+ "updated": 1794247820,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1442,
+   "key": "mercadolivre:MLB53283915",
+   "title": "Lixadeira Pneumática Orbital 6 Rokit Roquite Hookit",
+   "price": 145.56,
+   "original": 210.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_820674-MLA99527117808_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-orbital-6-rokit-roquite-hookit/p/MLB53283915?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794247800
+  },
   {
    "n": 1441,
    "key": "mercadolivre:MLB20691601",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794221384
-  },
-  {
-   "n": 1382,
-   "key": "mercadolivre:MLB46836999",
-   "title": "Lixadeira Orbital 350W Profissional Circular 125mm Velocidade Variável Com 16 Lixas E Auto Sucção Coletor De Pó Desoon",
-   "price": 158.99,
-   "original": 259.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_818921-MLA100021286435_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-orbital-350w-profissional-circular-125mm-velocidade-variavel-com-16-lixas-e-auto-succao-coletor-de-po-desoon/p/MLB46836999?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794219946
   }
  ]
 }
