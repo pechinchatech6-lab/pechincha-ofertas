@@ -1,7 +1,21 @@
 {
- "updated": 1794216408,
+ "updated": 1794216829,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1375,
+   "key": "mercadolivre:MLB70516181",
+   "title": "Relógio Despertador Analógico Vintage Prateado, de Metal com Dois Sinos e Luz Noturna",
+   "price": 26.99,
+   "original": 36.5,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_713937-MLA113102590587_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-despertador-analogico-vintage-prateado-de-metal-com-dois-sinos-e-luz-noturna/p/MLB70516181?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794216809
+  },
   {
    "n": 1374,
    "key": "mercadolivre:MLB47104607",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794187445
-  },
-  {
-   "n": 1315,
-   "key": "mercadolivre:MLB19810227",
-   "title": "Creme Depilatório Veet Men Pele Normal 200ml",
-   "price": 39.9,
-   "original": 79.29,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_824173-MLA118163059710_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatorio-veet-men-pele-normal-200ml/p/MLB19810227?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794187024
   }
  ]
 }
