@@ -1,7 +1,21 @@
 {
- "updated": 1794230979,
+ "updated": 1794231400,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1404,
+   "key": "mercadolivre:MLB65041642",
+   "title": "Smartphone Motorola Moto G17 4g - 128gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia 600, Tela Fhd+ 60hz, Bateria 5200 Mah - Azul",
+   "price": 887.0,
+   "original": 1599.0,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_773592-MLA105493148200_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g17-4g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-fhd-60hz-bateria-5200-mah-az/p/MLB65041642?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794231380
+  },
   {
    "n": 1403,
    "key": "mercadolivre:MLB16030232",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794200982
-  },
-  {
-   "n": 1344,
-   "key": "mercadolivre:MLB18572372",
-   "title": "Secador De Cabelos Motor Ac Profissional Easy 1700w Taiff Preto",
-   "price": 162.5,
-   "original": 310.55,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_605441-MLA100022070439_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-motor-ac-profissional-easy-1700w-taiff-preto/p/MLB18572372?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794200561
   }
  ]
 }
