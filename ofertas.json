@@ -1,7 +1,21 @@
 {
- "updated": 1794194687,
+ "updated": 1794195108,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1331,
+   "key": "mercadolivre:MLB6087971",
+   "title": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg",
+   "price": 78.9,
+   "original": 179.84,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_608162-MLA112813208483_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/proteina-max-titanium-whey-pro-concetrado-em-po-sabor-morango-x-1kg/p/MLB6087971?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794195088
+  },
   {
    "n": 1330,
    "key": "mercadolivre:MLB57714599",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794165642
-  },
-  {
-   "n": 1271,
-   "key": "mercadolivre:MLB46051297",
-   "title": "Fone de ouvido Tws Philips Tat1109bk/00 preto Ipx4",
-   "price": 94.02,
-   "original": 199.0,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_638013-MLA99988533713_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-tws-philips-tat1109bk-00-preto-ipx4/p/MLB46051297?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794165221
   }
  ]
 }
