@@ -1,7 +1,21 @@
 {
- "updated": 1794186202,
+ "updated": 1794186623,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1314,
+   "key": "mercadolivre:MLB15502351",
+   "title": "Caixa de Som Bluetooth Grasep D-S14 Vermelha Portátil Subwoofer 5.1",
+   "price": 124.0,
+   "original": 198.99,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_948865-MLA99939894493_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-grasep-d-s14-vermelha-portatil-subwoofer-5-1/p/MLB15502351?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794186603
+  },
   {
    "n": 1313,
    "key": "mercadolivre:MLB21619053",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794157108
-  },
-  {
-   "n": 1254,
-   "key": "mercadolivre:MLB53860589",
-   "title": "Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 220V",
-   "price": 288.47,
-   "original": 575.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_969245-MLA99639655414_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-compacta-wap-wl-1800-1400w-1500psi-360l-h-220v/p/MLB53860589?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794156687
   }
  ]
 }
