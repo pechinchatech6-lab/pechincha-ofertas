@@ -1,7 +1,21 @@
 {
- "updated": 1794233505,
+ "updated": 1794233926,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1410,
+   "key": "mercadolivre:MLB32419427",
+   "title": "Creme De Barbear Natura Essencial Masculino 75g",
+   "price": 33.76,
+   "original": 68.9,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_705845-MLA99361907550_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-de-barbear-natura-essencial-masculino-75g/p/MLB32419427?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794233906
+  },
   {
    "n": 1409,
    "key": "mercadolivre:MLB25929487",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794203508
-  },
-  {
-   "n": 1350,
-   "key": "mercadolivre:MLB29574189",
-   "title": "Escova Alisadora Black Rose, Mondial, 36W - EA-07",
-   "price": 105.28,
-   "original": 176.9,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_783377-MLA99937056217_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-alisadora-black-rose-mondial-36w-ea-07/p/MLB29574189?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794203087
   }
  ]
 }
