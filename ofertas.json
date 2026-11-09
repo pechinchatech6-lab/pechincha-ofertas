@@ -1,7 +1,21 @@
 {
- "updated": 1794266898,
+ "updated": 1794267319,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1483,
+   "key": "mercadolivre:MLB32101995",
+   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Branco MICGEEK",
+   "price": 23.95,
+   "original": 40.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_785462-MLA110586324994_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-branco-micgeek/p/MLB32101995?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794267299
+  },
   {
    "n": 1482,
    "key": "mercadolivre:MLB18610706",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794240222
-  },
-  {
-   "n": 1423,
-   "key": "mercadolivre:MLB22327723",
-   "title": "Creme Reparador Protetor Avène Cicalfate+ Pele Sensível 20ml",
-   "price": 36.9,
-   "original": 52.99,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_902417-MLA99263357268_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-reparador-protetor-avene-cicalfate-pele-sensivel-20ml/p/MLB22327723?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794239801
   }
  ]
 }
