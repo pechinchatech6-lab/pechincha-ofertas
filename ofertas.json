@@ -1,7 +1,21 @@
 {
- "updated": 1794247820,
+ "updated": 1794248241,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1443,
+   "key": "mercadolivre:MLB17196486",
+   "title": "Creme Depilatória Depimiel Men Corporal Masculino Homem 120g",
+   "price": 20.99,
+   "original": 32.49,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_715696-MLA99823330751_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-depilatoria-depimiel-men-corporal-masculino-homem-120g/p/MLB17196486?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794248221
+  },
   {
    "n": 1442,
    "key": "mercadolivre:MLB53283915",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794221805
-  },
-  {
-   "n": 1383,
-   "key": "mercadolivre:MLB73076144",
-   "title": "Caixa de Som Basike Bluetooth Portátil 200W com Subwoofer e IPX6 Azul-Marinho",
-   "price": 678.38,
-   "original": 1128.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_924378-MLA111904555764_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-basike-bluetooth-portatil-200w-com-subwoofer-e-ipx6-azul-marinho/p/MLB73076144?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794221384
   }
  ]
 }
