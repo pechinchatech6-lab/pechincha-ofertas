@@ -1,7 +1,21 @@
 {
- "updated": 1794237295,
+ "updated": 1794237716,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1419,
+   "key": "mercadolivre:MLB29149224",
+   "title": "Pré-treino Evolution 300G Termogênico Melancia - Soldiers Nutrition",
+   "price": 47.13,
+   "original": 99.9,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_874204-MLA99607101834_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pre-treino-evolution-300g-termogenico-melancia-soldiers-nutrition/p/MLB29149224?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794237696
+  },
   {
    "n": 1418,
    "key": "mercadolivre:MLB65319818",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794207297
-  },
-  {
-   "n": 1359,
-   "key": "mercadolivre:MLB75084329",
-   "title": "Panela Pressão 4,2l Indução Cerâmica 4 Válvulas Segurança Cor Branco Lecce",
-   "price": 169.26,
-   "original": 319.9,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_885608-MLA113077985864_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/panela-pressao-4-2l-inducao-ceramica-4-valvulas-seguranca-cor-branco-lecce/p/MLB75084329?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794206876
   }
  ]
 }
