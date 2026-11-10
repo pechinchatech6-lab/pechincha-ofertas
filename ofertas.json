@@ -1,7 +1,21 @@
 {
- "updated": 1794278806,
+ "updated": 1794279227,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1509,
+   "key": "mercadolivre:MLB24820394",
+   "title": "Creme Depilatório Corporal Peles Delicadas 100ml - Veet",
+   "price": 35.0,
+   "original": 49.98,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_754338-MLA110034890716_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-depilatorio-corporal-peles-delicadas-100ml-veet/p/MLB24820394?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794279207
+  },
   {
    "n": 1508,
    "key": "mercadolivre:MLB67406789",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794251775
-  },
-  {
-   "n": 1449,
-   "key": "mercadolivre:MLB63036814",
-   "title": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
-   "price": 1064.13,
-   "original": 1499.0,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_904550-MLA100972962937_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-32-philco-p32vik-roku-led-dolby-audio-hdr-wi-fi-110-220v/p/MLB63036814?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794251354
   }
  ]
 }
