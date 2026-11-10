@@ -1,7 +1,21 @@
 {
- "updated": 1794328977,
+ "updated": 1794329398,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1608,
+   "key": "mercadolivre:MLB46342327",
+   "title": "Hollyland Microfone Sem Fio Duplo Lark M2 Usb-c Para iPhone Cor Preto",
+   "price": 601.79,
+   "original": 1180.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_885955-MLA99563651214_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hollyland-microfone-sem-fio-duplo-lark-m2-usb-c-para-iphone-cor-preto/p/MLB46342327?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794329378
+  },
   {
    "n": 1607,
    "key": "mercadolivre:MLB41146763",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794296826
-  },
-  {
-   "n": 1548,
-   "key": "mercadolivre:MLB19694427",
-   "title": "Escova Secadora Britânia Bivolt 1300w Soft Bec07r Original",
-   "price": 99.0,
-   "original": 139.9,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_734805-MLA114128393951_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-britania-bivolt-1300w-soft-bec07r-original/p/MLB19694427?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794296363
   }
  ]
 }
