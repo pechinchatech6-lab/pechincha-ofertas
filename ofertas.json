@@ -1,7 +1,21 @@
 {
- "updated": 1794297883,
+ "updated": 1794298304,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1551,
+   "key": "mercadolivre:MLB70063359",
+   "title": "Alicate Crimpar Prensa Terminais 1200 Ilhós Tubular W&g",
+   "price": 41.98,
+   "original": 78.9,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_984860-MLA112698871104_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-crimpar-prensa-terminais-1200-ilhos-tubular-w-g/p/MLB70063359?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794298284
+  },
   {
    "n": 1550,
    "key": "mercadolivre:MLB17822924",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794271199
-  },
-  {
-   "n": 1491,
-   "key": "mercadolivre:MLB64211779",
-   "title": "Controle Com Fio Usb Para Pc Tv Manete Joystick - Crowley",
-   "price": 28.0,
-   "original": 44.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_660259-MLA110461450931_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-com-fio-usb-para-pc-tv-manete-joystick-crowley/p/MLB64211779?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794270778
   }
  ]
 }
