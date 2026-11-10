@@ -1,7 +1,21 @@
 {
- "updated": 1794349167,
+ "updated": 1794349588,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1654,
+   "key": "mercadolivre:MLB55916098",
+   "title": "Soprador Térmico Profissional Spark Br 2000w Para Envelopamento 2 Estágios 600° Graus Ar Quente Preto",
+   "price": 99.99,
+   "original": 149.99,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_971697-MLA99964556757_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-termico-profissional-spark-br-2000w-para-envelopamento-2-estagios-600-graus-ar-quente-preto/p/MLB55916098?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794349568
+  },
   {
    "n": 1653,
    "key": "mercadolivre:MLB21801610",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794322377
-  },
-  {
-   "n": 1594,
-   "key": "mercadolivre:MLB67840670",
-   "title": "Trena Nível Laser Profissional 2,5m 3 Linhas Horizontal Vertical Cruzado Nível De Bolha Prático E Preciso Para Quadros Prateleiras Painéis Instalações Residenci",
-   "price": 27.99,
-   "original": 49.99,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_794741-MLA109737854070_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/trena-nivel-laser-profissional-2-5m-3-linhas-horizontal-vertical-cruzado-nivel-de-bolha-pratico-e-preciso-para-quadros-p/p/MLB67840670?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794321956
   }
  ]
 }
