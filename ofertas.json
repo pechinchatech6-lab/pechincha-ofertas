@@ -1,7 +1,21 @@
 {
- "updated": 1794273324,
+ "updated": 1794273745,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1498,
+   "key": "mercadolivre:MLB42064366",
+   "title": "Caixa De Som Philips Tax5509 Party Speaker - Preta",
+   "price": 1234.05,
+   "original": 1999.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_933349-MLA99498688278_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-philips-tax5509-party-speaker-preta/p/MLB42064366?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794273725
+  },
   {
    "n": 1497,
    "key": "mercadolivre:MLB18643725",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794246537
-  },
-  {
-   "n": 1438,
-   "key": "mercadolivre:MLB55909587",
-   "title": "Grips Capas Analógicos Nintendo Switch Mario Kart 4",
-   "price": 13.49,
-   "original": 17.99,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_694499-MLA99613990552_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/grips-capas-analogicos-nintendo-switch-mario-kart-4/p/MLB55909587?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794246116
   }
  ]
 }
