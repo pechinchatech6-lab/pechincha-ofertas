@@ -1,7 +1,21 @@
 {
- "updated": 1794323565,
+ "updated": 1794324590,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1598,
+   "key": "mercadolivre:MLB31886565",
+   "title": "Escova Secadora Cadence Uau 4 em 1 ESC800",
+   "price": 121.72,
+   "original": 179.0,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_802701-MLA114592682461_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-cadence-uau-4-em-1-esc800/p/MLB31886565?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794324570
+  },
   {
    "n": 1597,
    "key": "mercadolivre:MLB72717309",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794292574
-  },
-  {
-   "n": 1538,
-   "key": "mercadolivre:MLB54549630",
-   "title": "Basike Caixa de Som Boombox Plus 80W 8000Mah Portátil Bluetooth 5.3 Sem fio IPX6 À Prova D'água Com Luz RGB Hifi TWS Bass Forte Amplificada Alto falante Bombox ",
-   "price": 358.19,
-   "original": 599.98,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_675598-MLA99455853026_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/basike-caixa-de-som-boombox-plus-80w-8000mah-portatil-bluetooth-5-3-sem-fio-ipx6-a-prova-d-agua-com-luz-rgb-hifi-tws-bas/p/MLB54549630?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794292153
   }
  ]
 }
