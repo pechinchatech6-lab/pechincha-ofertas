@@ -1,7 +1,21 @@
 {
- "updated": 1794270798,
+ "updated": 1794271219,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1492,
+   "key": "mercadolivre:MLB38812838",
+   "title": "Induzido Rotor Serra Circular Bosch Gks 150",
+   "price": 167.0,
+   "original": 217.11,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_985726-MLA99938953533_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/induzido-rotor-serra-circular-bosch-gks-150/p/MLB38812838?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794271199
+  },
   {
    "n": 1491,
    "key": "mercadolivre:MLB64211779",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794244011
-  },
-  {
-   "n": 1432,
-   "key": "mercadolivre:MLB19506691",
-   "title": "Creatina Dark Lab Premium Pure em pó Sem sabor x 300g",
-   "price": 36.64,
-   "original": 78.9,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_830138-MLA116668021755_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-dark-lab-premium-pure-em-po-sem-sabor-x-300g/p/MLB19506691?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794243590
   }
  ]
 }
