@@ -1,7 +1,21 @@
 {
- "updated": 1794292594,
+ "updated": 1794293015,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1540,
+   "key": "mercadolivre:MLB66055236",
+   "title": "Aparador De Pelos Supergroom-10 Mondial Bivolt Bg-10",
+   "price": 89.0,
+   "original": 166.9,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822569-MLA107807368063_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-supergroom-10-mondial-bivolt-bg-10/p/MLB66055236?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794292995
+  },
   {
    "n": 1539,
    "key": "mercadolivre:MLB49197748",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794266457
-  },
-  {
-   "n": 1480,
-   "key": "mercadolivre:MLB70185872",
-   "title": "Geladeira Electrolux Tf71s Frost Free Duplex 480l Cor Inox",
-   "price": 3284.0,
-   "original": 4699.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_964823-MLA112155453445_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-tf71s-frost-free-duplex-480l-cor-inox/p/MLB70185872?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794266036
   }
  ]
 }
