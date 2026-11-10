@@ -1,7 +1,21 @@
 {
- "updated": 1794349588,
+ "updated": 1794350009,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1655,
+   "key": "mercadolivre:MLB75964600",
+   "title": "Escova Secadora Philco com Íons Tourmaline e Tecnologia Anti-frizz Bivolt",
+   "price": 138.9,
+   "original": 280.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_917271-MLA115687705498_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-philco-com-ions-tourmaline-e-tecnologia-anti-frizz-bivolt/p/MLB75964600?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794349989
+  },
   {
    "n": 1654,
    "key": "mercadolivre:MLB55916098",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794322798
-  },
-  {
-   "n": 1595,
-   "key": "mercadolivre:MLB37984126",
-   "title": "Porta Suplementos Fitness Prottector 4 Divisões 100ml Hermético BPA Free",
-   "price": 34.0,
-   "original": 41.9,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674514-MLA100087126261_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/porta-suplementos-fitness-prottector-4-divisoes-100ml-hermetico-bpa-free/p/MLB37984126?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794322377
   }
  ]
 }
