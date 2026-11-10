@@ -1,7 +1,21 @@
 {
- "updated": 1794303488,
+ "updated": 1794303909,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1561,
+   "key": "mercadolivre:MLB65549139",
+   "title": "Soundbar - JBL Cinema SB180 - 2.1 Canais, 110W RMS, Subwoofer Sem Fio de 6,5\", Bluetooth, HDMI ARC e Modos Cinema, Música e Notícias - Preta",
+   "price": 914.9,
+   "original": 1133.9,
+   "pct": 19,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_981416-MLA117651094602_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-jbl-cinema-sb180-2-1-canais-110w-rms-subwoofer-sem-fio-de-6-5-bluetooth-hdmi-arc-e-modos-cinema-musica-e-notici/p/MLB65549139?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794303889
+  },
   {
    "n": 1560,
    "key": "mercadolivre:MLB18391072",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794275409
-  },
-  {
-   "n": 1501,
-   "key": "mercadolivre:MLB65411803",
-   "title": "Saida De Praia Mini Saia Plus Size Regulagem Cor Preto Desenho Do Tecido Lisa Tamanho G3 Veste 52 Ao 56",
-   "price": 31.93,
-   "original": 49.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_692735-MLA118181129729_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/saida-de-praia-mini-saia-plus-size-regulagem-cor-preto-desenho-do-tecido-lisa-tamanho-g3-veste-52-ao-56/p/MLB65411803?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794274988
   }
  ]
 }
