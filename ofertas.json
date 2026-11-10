@@ -1,7 +1,21 @@
 {
- "updated": 1794337820,
+ "updated": 1794338241,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1629,
+   "key": "mercadolivre:MLB28525979",
+   "title": "Aquecedor Roll-on Cera Quente Depilador Elétrico Mega Bell Bivolt Automático - 110v/220v",
+   "price": 65.77,
+   "original": 131.65,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_747384-MLA85612694472_062025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aquecedor-roll-on-cera-quente-depilador-eletrico-mega-bell-bivolt-automatico-110v-220v/p/MLB28525979?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794338221
+  },
   {
    "n": 1628,
    "key": "mercadolivre:MLB79475250",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794310240
-  },
-  {
-   "n": 1569,
-   "key": "mercadolivre:MLB66607590",
-   "title": "Ventilador de Coluna Britânia 6 Pás 160W Maxx Force BVT44A",
-   "price": 285.31,
-   "original": 374.75,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_833225-MLA107903839444_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-britania-6-pas-160w-maxx-force-bvt44a/p/MLB66607590?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794309819
   }
  ]
 }
