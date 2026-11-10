@@ -1,7 +1,21 @@
 {
- "updated": 1794274587,
+ "updated": 1794275008,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1501,
+   "key": "mercadolivre:MLB65411803",
+   "title": "Saida De Praia Mini Saia Plus Size Regulagem Cor Preto Desenho Do Tecido Lisa Tamanho G3 Veste 52 Ao 56",
+   "price": 31.93,
+   "original": 49.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_692735-MLA118181129729_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/saida-de-praia-mini-saia-plus-size-regulagem-cor-preto-desenho-do-tecido-lisa-tamanho-g3-veste-52-ao-56/p/MLB65411803?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794274988
+  },
   {
    "n": 1500,
    "key": "mercadolivre:MLB76467562",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794247800
-  },
-  {
-   "n": 1441,
-   "key": "mercadolivre:MLB20691601",
-   "title": "Kit 2 Manete Controle Compativel Sem Fio Ps3 Cabo Carregador Sngames",
-   "price": 63.5,
-   "original": 120.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_730400-MLA99238212360_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-2-manete-controle-compativel-sem-fio-ps3-cabo-carregador-sngames/p/MLB20691601?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794247379
   }
  ]
 }
