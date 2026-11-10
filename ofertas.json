@@ -1,7 +1,21 @@
 {
- "updated": 1794346518,
+ "updated": 1794346939,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1649,
+   "key": "mercadolivre:MLB74606733",
+   "title": "Parafusadeira Furadeira De Impacto Brushless 2 Baterias",
+   "price": 279.0,
+   "original": 669.0,
+   "pct": 58,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_981504-MLA115611725759_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-brushless-2-baterias/p/MLB74606733?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794346919
+  },
   {
    "n": 1648,
    "key": "mercadolivre:MLB77579125",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794320272
-  },
-  {
-   "n": 1589,
-   "key": "mercadolivre:MLB18726361",
-   "title": "Creatina Em Pó 100g Creapure Growth Supplements",
-   "price": 67.8,
-   "original": 109.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_659835-MLA98760176203_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-em-po-100g-creapure-growth-supplements/p/MLB18726361?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794319851
   }
  ]
 }
