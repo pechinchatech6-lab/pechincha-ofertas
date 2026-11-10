@@ -1,7 +1,21 @@
 {
- "updated": 1794287998,
+ "updated": 1794288419,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1530,
+   "key": "mercadolivre:MLB56105252",
+   "title": "Boné Lacoste sport cor preto tamanho un",
+   "price": 287.99,
+   "original": 436.55,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_674746-MLA92434903779_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bone-lacoste-sport-cor-preto-tamanho-un/p/MLB56105252?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794288399
+  },
   {
    "n": 1529,
    "key": "mercadolivre:MLB16268160",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794261302
-  },
-  {
-   "n": 1470,
-   "key": "mercadolivre:MLB27208726",
-   "title": "Pulseira Relógio Smartwatch Aço Inox Cor Preto Largura 18 mm",
-   "price": 35.82,
-   "original": 42.14,
-   "pct": 15,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_652168-MLA100118350771_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pulseira-relogio-smartwatch-aco-inox-cor-preto-largura-18-mm/p/MLB27208726?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794260880
   }
  ]
 }
