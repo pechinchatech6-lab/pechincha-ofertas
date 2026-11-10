@@ -1,7 +1,21 @@
 {
- "updated": 1794293857,
+ "updated": 1794294278,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1543,
+   "key": "mercadolivre:MLB57685924",
+   "title": "Ventilador De Mesa 40cm Turbo NVT-40-BL MONDIAL",
+   "price": 189.9,
+   "original": 269.9,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_777486-MLA100024464863_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-mesa-40cm-turbo-nvt-40-bl-mondial/p/MLB57685924?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794294258
+  },
   {
    "n": 1542,
    "key": "mercadolivre:MLB39167899",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794267720
-  },
-  {
-   "n": 1483,
-   "key": "mercadolivre:MLB32101995",
-   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Branco MICGEEK",
-   "price": 23.95,
-   "original": 40.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_785462-MLA110586324994_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-branco-micgeek/p/MLB32101995?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794267299
   }
  ]
 }
