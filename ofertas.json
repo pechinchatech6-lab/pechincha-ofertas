@@ -1,7 +1,21 @@
 {
- "updated": 1794353948,
+ "updated": 1794354369,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1663,
+   "key": "mercadolivre:MLB79529287",
+   "title": "Smart TV Philips 43 polegadas QLED Full HD Wi-Fi HDR10 Dolby Áudio 43PGQ6921/78",
+   "price": 1479.0,
+   "original": 2149.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_739870-MLA117019190220_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-philips-43-polegadas-qled-full-hd-wi-fi-hdr10-dolby-audio-43pgq6921-78/p/MLB79529287?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794354349
+  },
   {
    "n": 1662,
    "key": "mercadolivre:MLB18580665",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794327694
-  },
-  {
-   "n": 1603,
-   "key": "mercadolivre:MLB19932033",
-   "title": "Óleo Lubrificante Para Lâminas De Máquinas 118.3ml - Wahl",
-   "price": 24.09,
-   "original": 34.5,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_748738-MLU74247860795_012024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/oleo-lubrificante-para-laminas-de-maquinas-118-3ml-wahl/p/MLB19932033?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794327273
   }
  ]
 }
