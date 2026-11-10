@@ -1,7 +1,21 @@
 {
- "updated": 1794342451,
+ "updated": 1794343150,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1640,
+   "key": "mercadolivre:MLB55237000",
+   "title": "Caixa de Som Bluetooth Portátil - JBL Boombox 4 - JBL Pro Sound, AI Sound Boost, 210W RMS, até 34h de Bateria, Bass Boost, IP68, Auracast e USB-C Lossless - Squ",
+   "price": 2467.26,
+   "original": 3199.0,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_966884-MLA118535139627_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-portatil-jbl-boombox-4-jbl-pro-sound-ai-sound-boost-210w-rms-ate-34h-de-bateria-bass-boost-ip68-a/p/MLB55237000?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794343130
+  },
   {
    "n": 1639,
    "key": "mercadolivre:MLB59870058",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794316145
-  },
-  {
-   "n": 1580,
-   "key": "mercadolivre:MLB27634376",
-   "title": "Vittak Organizador Maquiagem Cosméticos Batom Acrílico Giratório 360º Ajustável",
-   "price": 44.9,
-   "original": 58.8,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_986811-MLA112845656392_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/vittak-organizador-maquiagem-cosmeticos-batom-acrilico-giratorio-360o-ajustavel/p/MLB27634376?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794315724
   }
  ]
 }
