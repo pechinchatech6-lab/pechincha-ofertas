@@ -1,7 +1,21 @@
 {
- "updated": 1794329819,
+ "updated": 1794330240,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1610,
+   "key": "mercadolivre:MLB65453832",
+   "title": "Microfone Dinâmico FIFINE AM8 para Streaming e Podcast com USB e XLR",
+   "price": 303.93,
+   "original": 347.9,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_870149-MLA106921638581_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microfone-dinamico-fifine-am8-para-streaming-e-podcast-com-usb-e-xlr/p/MLB65453832?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794330220
+  },
   {
    "n": 1609,
    "key": "mercadolivre:MLB67561388",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794298284
-  },
-  {
-   "n": 1550,
-   "key": "mercadolivre:MLB17822924",
-   "title": "Relógio de pulso Casio GA-2100 com corria de resina cor vermelho - fondo bordô",
-   "price": 409.99,
-   "original": 998.0,
-   "pct": 59,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_884312-MLA99489775726_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-ga-2100-com-corria-de-resina-cor-vermelho-fondo-bordo/p/MLB17822924?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794297863
   }
  ]
 }
