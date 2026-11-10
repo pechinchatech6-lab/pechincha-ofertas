@@ -1,7 +1,21 @@
 {
- "updated": 1794304751,
+ "updated": 1794305172,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1564,
+   "key": "mercadolivre:MLB20288453",
+   "title": "Shampoo Tonalizante Color Change Castanho Escuro Kissnewyork",
+   "price": 26.94,
+   "original": 43.23,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_909365-MLA112260486831_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-color-change-castanho-escuro-kissnewyork/p/MLB20288453?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794305152
+  },
   {
    "n": 1563,
    "key": "mercadolivre:MLB65184709",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794276672
-  },
-  {
-   "n": 1504,
-   "key": "mercadolivre:MLB68347781",
-   "title": "Cinto Duplo Masculino Couro Dupla Face 2 Em 1 Preto Marrom Social 120CM",
-   "price": 26.09,
-   "original": 29.9,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_943212-MLA112119025356_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cinto-duplo-masculino-couro-dupla-face-2-em-1-preto-marrom-social-120cm/p/MLB68347781?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794276251
   }
  ]
 }
