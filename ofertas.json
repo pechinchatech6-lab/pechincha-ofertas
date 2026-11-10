@@ -1,7 +1,21 @@
 {
- "updated": 1794287577,
+ "updated": 1794287998,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1529,
+   "key": "mercadolivre:MLB16268160",
+   "title": "Controle Microsoft Wireless Carbon Black para Xbox Series X|S e PC",
+   "price": 349.99,
+   "original": 499.0,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_706410-MLA54692702580_032023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-microsoft-wireless-carbon-black-para-xbox-series-x-s-e-pc/p/MLB16268160?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794287978
+  },
   {
    "n": 1528,
    "key": "mercadolivre:MLB16259568",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794260880
-  },
-  {
-   "n": 1469,
-   "key": "mercadolivre:MLB47519001",
-   "title": "Fone de Ouvido Eardbud AIWA AWS-EB-05-B Bluetooth IPX4 24 Horas de bateria",
-   "price": 84.9,
-   "original": 189.0,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_980288-MLA99966340125_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-eardbud-aiwa-aws-eb-05-b-bluetooth-ipx4-24-horas-de-bateria/p/MLB47519001?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794260459
   }
  ]
 }
