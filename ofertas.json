@@ -1,7 +1,21 @@
 {
- "updated": 1794336135,
+ "updated": 1794336557,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1625,
+   "key": "mercadolivre:MLB28909016",
+   "title": "Kit 02 Laminas Serra Tico Tico Starrett Bu3dc",
+   "price": 31.63,
+   "original": 36.99,
+   "pct": 14,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_943858-MLA100072970499_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-02-laminas-serra-tico-tico-starrett-bu3dc/p/MLB28909016?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794336537
+  },
   {
    "n": 1624,
    "key": "mercadolivre:MLB66586631",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794308556
-  },
-  {
-   "n": 1565,
-   "key": "mercadolivre:MLB47890206",
-   "title": "Lixadeira Pneumática Roto Orbital 6pol Ch O-10 Chiaperini",
-   "price": 245.0,
-   "original": 426.9,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_704005-MLA111956336055_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-roto-orbital-6pol-ch-o-10-chiaperini/p/MLB47890206?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794308135
   }
  ]
 }
