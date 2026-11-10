@@ -1,7 +1,21 @@
 {
- "updated": 1794303067,
+ "updated": 1794303488,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1560,
+   "key": "mercadolivre:MLB18391072",
+   "title": "Loção Hidratante Firmador Q10 + Vitamina C 200ml Nivea",
+   "price": 14.9,
+   "original": 30.49,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_873706-MLA111824424519_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/locao-hidratante-firmador-q10-vitamina-c-200ml-nivea/p/MLB18391072?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794303468
+  },
   {
    "n": 1559,
    "key": "mercadolivre:MLB41234257",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794274988
-  },
-  {
-   "n": 1500,
-   "key": "mercadolivre:MLB76467562",
-   "title": "Lamina Serra Multi-corte Oscilante Kit 5 Pçs Para Wesco Makita",
-   "price": 27.35,
-   "original": 75.99,
-   "pct": 64,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_607957-MLA119667530665_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lamina-serra-multi-corte-oscilante-kit-5-pcs-para-wesco-makita/p/MLB76467562?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794274567
   }
  ]
 }
