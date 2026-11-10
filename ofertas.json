@@ -1,7 +1,21 @@
 {
- "updated": 1794289261,
+ "updated": 1794289682,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1533,
+   "key": "mercadolivre:MLB58338157",
+   "title": "Cinta Modelador Short Cirurgia Plástica Biobela Cor Marrom Tamanho Egg-50",
+   "price": 159.0,
+   "original": 230.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_926715-MLA93303764654_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cinta-modelador-short-cirurgia-plastica-biobela-cor-marrom-tamanho-egg-50/p/MLB58338157?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794289662
+  },
   {
    "n": 1532,
    "key": "mercadolivre:MLB27731058",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794262565
-  },
-  {
-   "n": 1473,
-   "key": "mercadolivre:MLB18724254",
-   "title": "Pré Treino Darkness Évora PW Sabor Frutas Amarelas 150g",
-   "price": 49.0,
-   "original": 63.99,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_983910-MLA98862650373_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pre-treino-darkness-evora-pw-sabor-frutas-amarelas-150g/p/MLB18724254?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794262144
   }
  ]
 }
