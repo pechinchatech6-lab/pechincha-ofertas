@@ -1,7 +1,21 @@
 {
- "updated": 1794271640,
+ "updated": 1794272061,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1494,
+   "key": "mercadolivre:MLB58382190",
+   "title": "Mochila Notebook 17 Impermeável Reforçada Grande Masculina USB Escolar Trabalho Rincostar Preta Preto Liso",
+   "price": 39.74,
+   "original": 52.99,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_937893-MLA114680295948_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-notebook-17-impermeavel-reforcada-grande-masculina-usb-escolar-trabalho-rincostar-preta-preto-liso/p/MLB58382190?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794272041
+  },
   {
    "n": 1493,
    "key": "mercadolivre:MLB19152893",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794244853
-  },
-  {
-   "n": 1434,
-   "key": "mercadolivre:MLB78840757",
-   "title": "Caixa De Som Sound Bar Home Theater Bluetooth Para Tv Cinema 80w Cor Preto Bivolt Boyu Cell",
-   "price": 262.2,
-   "original": 360.9,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_857992-MLA118377893890_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-sound-bar-home-theater-bluetooth-para-tv-cinema-80w-cor-preto-bivolt-boyu-cell/p/MLB78840757?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794244432
   }
  ]
 }
