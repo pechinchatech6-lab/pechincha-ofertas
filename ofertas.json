@@ -1,7 +1,21 @@
 {
- "updated": 1794319450,
+ "updated": 1794319871,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1589,
+   "key": "mercadolivre:MLB18726361",
+   "title": "Creatina Em Pó 100g Creapure Growth Supplements",
+   "price": 67.8,
+   "original": 109.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_659835-MLA98760176203_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-em-po-100g-creapure-growth-supplements/p/MLB18726361?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794319851
+  },
   {
    "n": 1588,
    "key": "mercadolivre:MLB25969290",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794288399
-  },
-  {
-   "n": 1529,
-   "key": "mercadolivre:MLB16268160",
-   "title": "Controle Microsoft Wireless Carbon Black para Xbox Series X|S e PC",
-   "price": 349.99,
-   "original": 499.0,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_706410-MLA54692702580_032023-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-microsoft-wireless-carbon-black-para-xbox-series-x-s-e-pc/p/MLB16268160?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794287978
   }
  ]
 }
