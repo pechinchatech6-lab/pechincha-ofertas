@@ -1,7 +1,21 @@
 {
- "updated": 1794282525,
+ "updated": 1794282946,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1517,
+   "key": "mercadolivre:MLB77843005",
+   "title": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser ",
+   "price": 109.9,
+   "original": 199.0,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_900627-MLA119928676927_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-vap-portatil-sem-fio-bateria-lava-jato-eletrica-recarregavel-p-lavar-carro-moto-quintal-c-2-bat/p/MLB77843005?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794282926
+  },
   {
    "n": 1516,
    "key": "mercadolivre:MLB60728265",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794255638
-  },
-  {
-   "n": 1457,
-   "key": "mercadolivre:MLB28047478",
-   "title": "Corretivo Líquido Claro Concealer Edition Tom Light 15g Océane",
-   "price": 41.9,
-   "original": 76.36,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_835317-MLU72697942292_112023-F.jpg",
-   "link": "https://www.mercadolivre.com.br/corretivo-liquido-claro-concealer-edition-tom-light-15g-oceane/p/MLB28047478?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794254722
   }
  ]
 }
