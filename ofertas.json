@@ -1,7 +1,21 @@
 {
- "updated": 1794343571,
+ "updated": 1794343992,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1642,
+   "key": "mercadolivre:MLB77363281",
+   "title": "Kit de Brilho Labial Hidratante Fran by Franciny Ehlke com Gloss Lip Bunny e Franboesa",
+   "price": 39.82,
+   "original": 104.7,
+   "pct": 62,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_842770-MLA116205993339_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-de-brilho-labial-hidratante-fran-by-franciny-ehlke-com-gloss-lip-bunny-e-franboesa/p/MLB77363281?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794343972
+  },
   {
    "n": 1641,
    "key": "mercadolivre:MLB29011598",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794316987
-  },
-  {
-   "n": 1582,
-   "key": "mercadolivre:MLB59019868",
-   "title": "Mouse Vertical Ergonômico Sem Fio Recarregável Bluetooth e USB 2.4G – RGB, Silencioso, DPI Ajustável, Reduz Tensão no Pulso, Portátil e Confortável – Compatível",
-   "price": 38.38,
-   "original": 69.9,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_869466-MLA100026509347_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-vertical-ergonomico-sem-fio-recarregavel-bluetooth-e-usb-2-4g-rgb-silencioso-dpi-ajustavel-reduz-tensao-no-pulso-p/p/MLB59019868?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794316566
   }
  ]
 }
