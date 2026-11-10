@@ -1,7 +1,21 @@
 {
- "updated": 1794278386,
+ "updated": 1794278806,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1508,
+   "key": "mercadolivre:MLB67406789",
+   "title": "Compressor de Ar Digital Mini Portátil sem Fio para Carro, Moto e Bicicleta",
+   "price": 69.21,
+   "original": 149.99,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_637618-MLA109832243653_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/compressor-de-ar-digital-mini-portatil-sem-fio-para-carro-moto-e-bicicleta/p/MLB67406789?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794278786
+  },
   {
    "n": 1507,
    "key": "mercadolivre:MLB25640671",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794251354
-  },
-  {
-   "n": 1448,
-   "key": "mercadolivre:MLB18630341",
-   "title": "Creatina Monohidratada Max Titanium Sem Sabor 100g",
-   "price": 21.69,
-   "original": 30.13,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_697835-MLA117269994412_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-monohidratada-max-titanium-sem-sabor-100g/p/MLB18630341?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794250933
   }
  ]
 }
