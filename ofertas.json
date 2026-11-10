@@ -1,7 +1,21 @@
 {
- "updated": 1794302438,
+ "updated": 1794303067,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1559,
+   "key": "mercadolivre:MLB41234257",
+   "title": "LG Soundbar S60tr 440w Rms, 5.1 Canais, Bluetooth 5.3, Dol Preto 120 Hz",
+   "price": 1521.09,
+   "original": 2199.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_610679-MLA79349332342_092024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lg-soundbar-s60tr-440w-rms-5-1-canais-bluetooth-5-3-dol-preto-120-hz/p/MLB41234257?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794303047
+  },
   {
    "n": 1558,
    "key": "mercadolivre:MLB30996900",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794274567
-  },
-  {
-   "n": 1499,
-   "key": "mercadolivre:MLB75237915",
-   "title": "Boné Masculino Trucker Country Rendinha Aba Curva Telinha Cor Preto Tamanho Único",
-   "price": 33.0,
-   "original": 39.59,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_822285-MLA114300477059_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-masculino-trucker-country-rendinha-aba-curva-telinha-cor-preto-tamanho-unico/p/MLB75237915?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794274146
   }
  ]
 }
