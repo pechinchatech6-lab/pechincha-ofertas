@@ -1,7 +1,21 @@
 {
- "updated": 1794280416,
+ "updated": 1794280837,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1512,
+   "key": "mercadolivre:MLB61642416",
+   "title": "Caixa De Som Portatil Inova Caixinha Com Rgb Tws Recarregável Subwoofer, Potente Caixas Bluetooth Ideal Festas Ao Ar Livre E Uso Diário, Preto",
+   "price": 74.0,
+   "original": 143.62,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_720363-MLA99931033474_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-inova-caixinha-com-rgb-tws-recarregavel-subwoofer-potente-caixas-bluetooth-ideal-festas-ao-ar-livr/p/MLB61642416?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794280817
+  },
   {
    "n": 1511,
    "key": "mercadolivre:MLB18931576",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794253038
-  },
-  {
-   "n": 1452,
-   "key": "mercadolivre:MLB68267062",
-   "title": "Relógio Xiaomi Redmi Watch 6 preto",
-   "price": 576.73,
-   "original": 749.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_985987-MLA110566609097_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-xiaomi-redmi-watch-6-preto/p/MLB68267062?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794252617
   }
  ]
 }
