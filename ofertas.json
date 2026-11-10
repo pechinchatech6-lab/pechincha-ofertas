@@ -1,7 +1,21 @@
 {
- "updated": 1794287156,
+ "updated": 1794287577,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1528,
+   "key": "mercadolivre:MLB16259568",
+   "title": "Microfones Dylan DW DW-602 MAX Dinâmico Cardioide cor preto",
+   "price": 371.0,
+   "original": 650.0,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_965812-MLA99414361614_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microfones-dylan-dw-dw-602-max-dinamico-cardioide-cor-preto/p/MLB16259568?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794287557
+  },
   {
    "n": 1527,
    "key": "mercadolivre:MLB74243177",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794260459
-  },
-  {
-   "n": 1468,
-   "key": "mercadolivre:MLB55129816",
-   "title": "Canga Calça Tricô Plus Size Preto Algodão Poliéster Tamanho 46-50",
-   "price": 37.48,
-   "original": 49.55,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_948291-MLA118124230825_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/canga-calca-trico-plus-size-preto-algodao-poliester-tamanho-46-50/p/MLB55129816?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794260038
   }
  ]
 }
