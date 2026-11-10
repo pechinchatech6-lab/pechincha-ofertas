@@ -1,7 +1,21 @@
 {
- "updated": 1794327714,
+ "updated": 1794328135,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1605,
+   "key": "mercadolivre:MLB39046706",
+   "title": "Oleo Wahl Para Lubrificar Lâmina De Maquina 118ml",
+   "price": 31.92,
+   "original": 39.9,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_711472-MLA99917138179_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/oleo-wahl-para-lubrificar-lamina-de-maquina-118ml/p/MLB39046706?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794328115
+  },
   {
    "n": 1604,
    "key": "mercadolivre:MLB18238727",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794295521
-  },
-  {
-   "n": 1545,
-   "key": "mercadolivre:MLB19472441",
-   "title": "Chapinha De Cabelo Taiff Style Pro Titanium Preta Cor Preto",
-   "price": 189.0,
-   "original": 216.0,
-   "pct": 12,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_962693-MLA99881819447_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-taiff-style-pro-titanium-preta-cor-preto/p/MLB19472441?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794295100
   }
  ]
 }
