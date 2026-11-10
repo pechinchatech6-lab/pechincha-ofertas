@@ -1,7 +1,21 @@
 {
- "updated": 1794336557,
+ "updated": 1794336978,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1626,
+   "key": "mercadolivre:MLB17371049",
+   "title": "Egeo Choc Desodorante Colônia 90ml O Boticário",
+   "price": 90.69,
+   "original": 164.9,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_848320-MLA84544531916_052025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/egeo-choc-desodorante-colonia-90ml-o-boticario/p/MLB17371049?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794336958
+  },
   {
    "n": 1625,
    "key": "mercadolivre:MLB28909016",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794308977
-  },
-  {
-   "n": 1566,
-   "key": "mercadolivre:MLB20621105",
-   "title": "Creme Depilatório Depeelig Racco Masculino e Feminino 150ml",
-   "price": 77.99,
-   "original": 99.99,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_987522-MLA106209631431_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatorio-depeelig-racco-masculino-e-feminino-150ml/p/MLB20621105?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794308556
   }
  ]
 }
