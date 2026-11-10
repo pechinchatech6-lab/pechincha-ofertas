@@ -1,7 +1,21 @@
 {
- "updated": 1794313677,
+ "updated": 1794314279,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1577,
+   "key": "mercadolivre:MLB68022040",
+   "title": "Caixa de Som Gamer Soundbar Redragon Neo RGB Cinza USB Tipo-C",
+   "price": 174.49,
+   "original": 259.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_762816-MLA110467482115_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-gamer-soundbar-redragon-neo-rgb-cinza-usb-tipo-c/p/MLB68022040?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794314259
+  },
   {
    "n": 1576,
    "key": "mercadolivre:MLB23532969",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794283347
-  },
-  {
-   "n": 1517,
-   "key": "mercadolivre:MLB77843005",
-   "title": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser ",
-   "price": 109.9,
-   "original": 199.0,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_900627-MLA119928676927_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-vap-portatil-sem-fio-bateria-lava-jato-eletrica-recarregavel-p-lavar-carro-moto-quintal-c-2-bat/p/MLB77843005?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794282926
   }
  ]
 }
