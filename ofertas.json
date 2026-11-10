@@ -1,7 +1,21 @@
 {
- "updated": 1794279648,
+ "updated": 1794280416,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1511,
+   "key": "mercadolivre:MLB18931576",
+   "title": "Webcam HD Logitech C270 Com Microfone Embutido Preto",
+   "price": 142.0,
+   "original": 219.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_798375-MLA105664345376_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-hd-logitech-c270-com-microfone-embutido-preto/p/MLB18931576?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794280396
+  },
   {
    "n": 1510,
    "key": "mercadolivre:MLB79315305",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794252617
-  },
-  {
-   "n": 1451,
-   "key": "mercadolivre:MLB65541449",
-   "title": "Fone de Ouvido JBL Tune 530BT Bluetooth Sem Fio Preto Headphone com Microfone Wireless Estéreo Graves Potentes Confortável",
-   "price": 182.0,
-   "original": 259.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_608030-MLA106478715282_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-jbl-tune-530bt-bluetooth-sem-fio-preto-headphone-com-microfone-wireless-estereo-graves-potentes-confortav/p/MLB65541449?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794252196
   }
  ]
 }
