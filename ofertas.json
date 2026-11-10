@@ -1,7 +1,21 @@
 {
- "updated": 1794352685,
+ "updated": 1794353106,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1660,
+   "key": "mercadolivre:MLB18572379",
+   "title": "Secador De Cabelos Style Azul Tiffany 2000w Taiff Azul",
+   "price": 194.06,
+   "original": 299.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612568-MLA113216391522_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-style-azul-tiffany-2000w-taiff-azul/p/MLB18572379?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794353086
+  },
   {
    "n": 1659,
    "key": "mercadolivre:MLB47841547",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794326431
-  },
-  {
-   "n": 1600,
-   "key": "mercadolivre:MLB79514124",
-   "title": "Caixa De Som Boombox 4 Jbl Preto",
-   "price": 2299.0,
-   "original": 3599.0,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_999084-MLA116969673160_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-boombox-4-jbl-preto/p/MLB79514124?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794326010
   }
  ]
 }
