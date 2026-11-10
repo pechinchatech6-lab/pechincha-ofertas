@@ -1,7 +1,21 @@
 {
- "updated": 1794290945,
+ "updated": 1794291754,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1537,
+   "key": "mercadolivre:MLB75681377",
+   "title": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
+   "price": 2599.0,
+   "original": 3599.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-pro-lg-55-4k-ultra-hd-ai-55un85c/p/MLB75681377?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794291733
+  },
   {
    "n": 1536,
    "key": "mercadolivre:MLB26578445",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794265194
-  },
-  {
-   "n": 1477,
-   "key": "mercadolivre:MLB47887434",
-   "title": "Relógio Parede LED Digital Grande 46x22cm Hall Entrada Academia Hospital Igreja Comércio Recepção Calendário Termômetro Data Hora 12/24h Temperatura Dia Mês Ano",
-   "price": 123.89,
-   "original": 214.28,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_656466-MLA112698128142_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-parede-led-digital-grande-46x22cm-hall-entrada-academia-hospital-igreja-comercio-recepcao-calendario-termometro-/p/MLB47887434?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794264773
   }
  ]
 }
