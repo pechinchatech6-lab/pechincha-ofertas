@@ -1,7 +1,21 @@
 {
- "updated": 1794285893,
+ "updated": 1794286314,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1525,
+   "key": "mercadolivre:MLB80245753",
+   "title": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6\" E À Prova D'Água",
+   "price": 69.59,
+   "original": 79.99,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680341-MLA118784298481_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-reforcada-jiesipote-para-viagem-com-compartimento-para-notebook-15-6-e-a-prova-d-agua/p/MLB80245753?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794286294
+  },
   {
    "n": 1524,
    "key": "mercadolivre:MLB41168545",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794259196
-  },
-  {
-   "n": 1465,
-   "key": "mercadolivre:MLB69274486",
-   "title": "Multímetro Digital Com Iluminação Bip Profissional Portátil Md-180l B Basto Com Bateria",
-   "price": 34.29,
-   "original": 49.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_722130-MLA110446246164_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/multimetro-digital-com-iluminacao-bip-profissional-portatil-md-180l-b-basto-com-bateria/p/MLB69274486?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794258775
   }
  ]
 }
