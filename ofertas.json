@@ -1,7 +1,21 @@
 {
- "updated": 1794303909,
+ "updated": 1794304330,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1562,
+   "key": "mercadolivre:MLB27911502",
+   "title": "Anasol Protetor Solar Facial Clareador Toque Seco - Fps 70",
+   "price": 38.9,
+   "original": 88.91,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_828936-MLA99851316099_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/anasol-protetor-solar-facial-clareador-toque-seco-fps-70/p/MLB27911502?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794304310
+  },
   {
    "n": 1561,
    "key": "mercadolivre:MLB65549139",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794275830
-  },
-  {
-   "n": 1502,
-   "key": "mercadolivre:MLB78318283",
-   "title": "Frigideira Cerâmica Antiaderente Grande 24cm Acompanha Espátula Para Fogão A Gás Indução Cooktop Sem Óleo Não Gruda Profissional PÍTIA",
-   "price": 48.49,
-   "original": 129.99,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_840680-MLA117132218899_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/frigideira-ceramica-antiaderente-grande-24cm-acompanha-espatula-para-fogao-a-gas-inducao-cooktop-sem-oleo-nao-gruda-prof/p/MLB78318283?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794275409
   }
  ]
 }
