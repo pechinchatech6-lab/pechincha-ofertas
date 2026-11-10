@@ -1,7 +1,21 @@
 {
- "updated": 1794314279,
+ "updated": 1794314700,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1578,
+   "key": "mercadolivre:MLB74325668",
+   "title": "Secador de Tênis Elétrico Portátil para Calçados Sapatos Chuteiras Botas e Sapatilhas Aparelho Secador de Calçados Compacto para Secagem de Tênis e Sapatos AQPI",
+   "price": 73.0,
+   "original": 91.99,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_613438-MLA115543723862_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-tenis-eletrico-portatil-para-calcados-sapatos-chuteiras-botas-e-sapatilhas-aparelho-secador-de-calcados-compa/p/MLB74325668?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794314680
+  },
   {
    "n": 1577,
    "key": "mercadolivre:MLB68022040",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794283768
-  },
-  {
-   "n": 1518,
-   "key": "mercadolivre:MLB80248155",
-   "title": "Mouse Gamer Dual-mode 2.4g Bluetooth 1600 Dpi Estampa Branco",
-   "price": 42.57,
-   "original": 99.0,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628298-MLA118786919355_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-gamer-dual-mode-2-4g-bluetooth-1600-dpi-estampa-branco/p/MLB80248155?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794283347
   }
  ]
 }
