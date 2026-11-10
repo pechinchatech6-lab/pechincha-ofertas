@@ -1,7 +1,21 @@
 {
- "updated": 1794335293,
+ "updated": 1794335714,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1623,
+   "key": "mercadolivre:MLB52859377",
+   "title": "Disco Serra Circular Widea Madeira 60 Dentes 7.1/4'' 180mm",
+   "price": 29.94,
+   "original": 37.9,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_917812-MLA107170788045_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/disco-serra-circular-widea-madeira-60-dentes-7-1-4-180mm/p/MLB52859377?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794335694
+  },
   {
    "n": 1622,
    "key": "mercadolivre:MLB76151285",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794305152
-  },
-  {
-   "n": 1563,
-   "key": "mercadolivre:MLB65184709",
-   "title": "Caixa Maleta Porta Relógio Estojo Organizadora 2 Lugares Preto",
-   "price": 38.7,
-   "original": 59.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_950245-MLA105750028358_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-maleta-porta-relogio-estojo-organizadora-2-lugares-preto/p/MLB65184709?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794304731
   }
  ]
 }
