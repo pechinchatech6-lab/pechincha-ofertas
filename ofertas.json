@@ -1,7 +1,21 @@
 {
- "updated": 1794346939,
+ "updated": 1794347360,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1650,
+   "key": "mercadolivre:MLB17425497",
+   "title": "Relógio Vintage Preto com Pulseira de Borracha F91W-1 Clássico e Elegante Casio",
+   "price": 47.96,
+   "original": 149.9,
+   "pct": 68,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_999657-MLA118986253288_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-vintage-preto-com-pulseira-de-borracha-f91w-1-classico-e-elegante-casio/p/MLB17425497?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794347340
+  },
   {
    "n": 1649,
    "key": "mercadolivre:MLB74606733",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794320693
-  },
-  {
-   "n": 1590,
-   "key": "mercadolivre:MLB28757015",
-   "title": "Escova Secadora Ga.ma Babosa Brush 3d 1300W Verde Bivolt",
-   "price": 133.99,
-   "original": 279.9,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_899031-MLA114756927320_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-ga-ma-babosa-brush-3d-1300w-verde-bivolt/p/MLB28757015?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794320272
   }
  ]
 }
