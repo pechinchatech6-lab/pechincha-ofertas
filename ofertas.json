@@ -1,7 +1,21 @@
 {
- "updated": 1794308155,
+ "updated": 1794308576,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1566,
+   "key": "mercadolivre:MLB20621105",
+   "title": "Creme Depilatório Depeelig Racco Masculino e Feminino 150ml",
+   "price": 77.99,
+   "original": 99.99,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_987522-MLA106209631431_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-depilatorio-depeelig-racco-masculino-e-feminino-150ml/p/MLB20621105?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794308556
+  },
   {
    "n": 1565,
    "key": "mercadolivre:MLB47890206",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794278365
-  },
-  {
-   "n": 1506,
-   "key": "mercadolivre:MLB76457853",
-   "title": "Alicate Corta Cabos de Aço Profissional 8\" Com Mola e Trava de Segurança Para Arames e Telas",
-   "price": 41.79,
-   "original": 75.99,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_764804-MLA114346988668_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alicate-corta-cabos-de-aco-profissional-8-com-mola-e-trava-de-seguranca-para-arames-e-telas/p/MLB76457853?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794277093
   }
  ]
 }
