@@ -1,7 +1,21 @@
 {
- "updated": 1794353527,
+ "updated": 1794353948,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1662,
+   "key": "mercadolivre:MLB18580665",
+   "title": "Taiff Black Ion Secador De Cabelo Profissional 2000w Cor Preto",
+   "price": 199.89,
+   "original": 349.88,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_742671-MLU78597786812_082024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/taiff-black-ion-secador-de-cabelo-profissional-2000w-cor-preto/p/MLB18580665?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794353928
+  },
   {
    "n": 1661,
    "key": "mercadolivre:MLB72367910",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794327273
-  },
-  {
-   "n": 1602,
-   "key": "mercadolivre:MLB22511808",
-   "title": "Aspirador de Pó Vertical e Portátil WAP High Speed Plus 1350W 3 em 1",
-   "price": 145.33,
-   "original": 326.0,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_887734-MLA99375017938_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-e-portatil-wap-high-speed-plus-1350w-3-em-1/p/MLB22511808?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794326852
   }
  ]
 }
