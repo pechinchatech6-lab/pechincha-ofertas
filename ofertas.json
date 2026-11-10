@@ -1,7 +1,21 @@
 {
- "updated": 1794295962,
+ "updated": 1794296383,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1548,
+   "key": "mercadolivre:MLB19694427",
+   "title": "Escova Secadora Britânia Bivolt 1300w Soft Bec07r Original",
+   "price": 99.0,
+   "original": 139.9,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_734805-MLA114128393951_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-britania-bivolt-1300w-soft-bec07r-original/p/MLB19694427?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794296363
+  },
   {
    "n": 1547,
    "key": "mercadolivre:MLB69351361",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794269936
-  },
-  {
-   "n": 1488,
-   "key": "mercadolivre:MLB19589318",
-   "title": "Mixer Portátil Black+Decker M150 sem Fio",
-   "price": 48.9,
-   "original": 62.3,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_971389-MLA113251725367_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mixer-portatil-black-decker-m150-sem-fio/p/MLB19589318?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794269515
   }
  ]
 }
