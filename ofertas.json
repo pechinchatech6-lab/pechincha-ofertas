@@ -1,7 +1,21 @@
 {
- "updated": 1794340767,
+ "updated": 1794341188,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1636,
+   "key": "mercadolivre:MLB63650123",
+   "title": "Chave De Impacto Bateria 21v 450nm SH450 XUMTOM 1/2 Pol Parafusadeira Recarregável Sem Escova Com 2 Baterias e Maleta",
+   "price": 185.13,
+   "original": 329.9,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_791957-MLA113904367415_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chave-de-impacto-bateria-21v-450nm-sh450-xumtom-1-2-pol-parafusadeira-recarregavel-sem-escova-com-2-baterias-e-maleta/p/MLB63650123?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794341168
+  },
   {
    "n": 1635,
    "key": "mercadolivre:MLB50147982",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794314259
-  },
-  {
-   "n": 1576,
-   "key": "mercadolivre:MLB23532969",
-   "title": "Corretivo Cover Stick C-01 4g Fran By Franciny Ehlke Tom Rosado",
-   "price": 32.94,
-   "original": 59.9,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_652772-MLU75985507633_042024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/corretivo-cover-stick-c-01-4g-fran-by-franciny-ehlke-tom-rosado/p/MLB23532969?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794313657
   }
  ]
 }
