@@ -1,7 +1,21 @@
 {
- "updated": 1794305172,
+ "updated": 1794308155,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1565,
+   "key": "mercadolivre:MLB47890206",
+   "title": "Lixadeira Pneumática Roto Orbital 6pol Ch O-10 Chiaperini",
+   "price": 245.0,
+   "original": 426.9,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_704005-MLA111956336055_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-roto-orbital-6pol-ch-o-10-chiaperini/p/MLB47890206?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794308135
+  },
   {
    "n": 1564,
    "key": "mercadolivre:MLB20288453",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794277093
-  },
-  {
-   "n": 1505,
-   "key": "mercadolivre:MLB53397326",
-   "title": "Caixa De Som Speaker Aiwa SP-05-LB 30w Bluetooth Ipx5",
-   "price": 289.0,
-   "original": 399.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_931282-MLA99529785692_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-speaker-aiwa-sp-05-lb-30w-bluetooth-ipx5/p/MLB53397326?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794276672
   }
  ]
 }
