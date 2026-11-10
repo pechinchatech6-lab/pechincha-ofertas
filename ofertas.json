@@ -1,7 +1,21 @@
 {
- "updated": 1794328135,
+ "updated": 1794328556,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1606,
+   "key": "mercadolivre:MLB37931954",
+   "title": "Fone De Ouvido Sem Fio Para Treinos soundcore Sport X20 ANC Cancelamento De Ruído Ativo Bluetooth 5.3 Multiponto Ganchos Ajustáveis Graves Potentes Bateria 48H ",
+   "price": 479.0,
+   "original": 816.0,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_980790-MLA99367365098_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-para-treinos-soundcore-sport-x20-anc-cancelamento-de-ruido-ativo-bluetooth-5-3-multiponto-ganchos/p/MLB37931954?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794328536
+  },
   {
    "n": 1605,
    "key": "mercadolivre:MLB39046706",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794295942
-  },
-  {
-   "n": 1546,
-   "key": "mercadolivre:MLB64102825",
-   "title": "Microfone Sem Fio Zcco J6 Duplo Lapela Anti Ruido 2interface Preto",
-   "price": 114.48,
-   "original": 159.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_683644-MLA113590888835_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-sem-fio-zcco-j6-duplo-lapela-anti-ruido-2interface-preto/p/MLB64102825?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794295521
   }
  ]
 }
