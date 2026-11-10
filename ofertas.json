@@ -1,7 +1,21 @@
 {
- "updated": 1794294699,
+ "updated": 1794295120,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1545,
+   "key": "mercadolivre:MLB19472441",
+   "title": "Chapinha De Cabelo Taiff Style Pro Titanium Preta Cor Preto",
+   "price": 189.0,
+   "original": 216.0,
+   "pct": 12,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_962693-MLA99881819447_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-taiff-style-pro-titanium-preta-cor-preto/p/MLB19472441?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794295100
+  },
   {
    "n": 1544,
    "key": "mercadolivre:MLB70106562",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794268562
-  },
-  {
-   "n": 1485,
-   "key": "mercadolivre:MLB43438200",
-   "title": "Smartband Xiaomi Smart Band 9 Active Rosa-Claro com Tela de 1.47\" e Monitor de Saúde",
-   "price": 183.59,
-   "original": 227.9,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_837680-MLA99853094051_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartband-xiaomi-smart-band-9-active-rosa-claro-com-tela-de-1-47-e-monitor-de-saude/p/MLB43438200?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794268141
   }
  ]
 }
