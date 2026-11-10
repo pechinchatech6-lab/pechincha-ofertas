@@ -1,7 +1,21 @@
 {
- "updated": 1794288840,
+ "updated": 1794289261,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1532,
+   "key": "mercadolivre:MLB27731058",
+   "title": "Shampoo Antiqueda Estimulante com Aminexil, Dercos Energy+ Vichy, 200g",
+   "price": 61.69,
+   "original": 98.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_728026-MLA117488225821_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-antiqueda-estimulante-com-aminexil-dercos-energy-vichy-200g/p/MLB27731058?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794289241
+  },
   {
    "n": 1531,
    "key": "mercadolivre:MLB39291772",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794262144
-  },
-  {
-   "n": 1472,
-   "key": "mercadolivre:MLB78762198",
-   "title": "Cinto Elástico Sem Fivela Velcro Gancho Ajustável Conforto 2 Un unissex",
-   "price": 31.74,
-   "original": 52.9,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_766325-MLA119060130353_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cinto-elastico-sem-fivela-velcro-gancho-ajustavel-conforto-2-un-unissex/p/MLB78762198?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794261723
   }
  ]
 }
