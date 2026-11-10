@@ -1,7 +1,21 @@
 {
- "updated": 1794318691,
+ "updated": 1794319450,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1588,
+   "key": "mercadolivre:MLB25969290",
+   "title": "Escova Secadora By Juliette Mondial 1300W - ES-JU-03",
+   "price": 144.0,
+   "original": 299.9,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_775867-MLA99944484715_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-by-juliette-mondial-1300w-es-ju-03/p/MLB25969290?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794319430
+  },
   {
    "n": 1587,
    "key": "mercadolivre:MLB19772622",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794287978
-  },
-  {
-   "n": 1528,
-   "key": "mercadolivre:MLB16259568",
-   "title": "Microfones Dylan DW DW-602 MAX Dinâmico Cardioide cor preto",
-   "price": 371.0,
-   "original": 650.0,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_965812-MLA99414361614_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfones-dylan-dw-dw-602-max-dinamico-cardioide-cor-preto/p/MLB16259568?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794287557
   }
  ]
 }
