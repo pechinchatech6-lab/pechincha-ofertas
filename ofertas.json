@@ -1,7 +1,21 @@
 {
- "updated": 1794345255,
+ "updated": 1794345676,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1646,
+   "key": "mercadolivre:MLB47245501",
+   "title": "Smartphone Motorola Edge 60 Fusion 5g - 256gb 8gb Ram+8gb Ram Boost, 50mp Sony Ai Camera Ip68 Nfc - Cinza Vegan Leather",
+   "price": 1999.0,
+   "original": 3299.0,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631624-MLA99926713059_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-fusion-5g-256gb-8gb-ram-8gb-ram-boost-50mp-sony-ai-camera-ip68-nfc-cinza-vegan-leather/p/MLB47245501?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794345656
+  },
   {
    "n": 1645,
    "key": "mercadolivre:MLB15279367",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794318671
-  },
-  {
-   "n": 1586,
-   "key": "mercadolivre:MLB79843944",
-   "title": "Webcam Camera Full Hd Zoom 1080p Plug and Play Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone Pc Notebook Kateluo",
-   "price": 28.39,
-   "original": 44.57,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_754165-MLA119925151331_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-plug-and-play-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-pc-noteb/p/MLB79843944?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794318250
   }
  ]
 }
