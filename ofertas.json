@@ -1,7 +1,21 @@
 {
- "updated": 1794269535,
+ "updated": 1794269956,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1489,
+   "key": "mercadolivre:MLB51545470",
+   "title": "Controle Sem Fio Xbox Series X|S Microsoft Azul Shock com Bluetooth",
+   "price": 363.99,
+   "original": 590.99,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_838906-MLA86702461397_062025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-sem-fio-xbox-series-x-s-microsoft-azul-shock-com-bluetooth/p/MLB51545470?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794269936
+  },
   {
    "n": 1488,
    "key": "mercadolivre:MLB19589318",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794242748
-  },
-  {
-   "n": 1429,
-   "key": "mercadolivre:MLB37879762",
-   "title": "Ventilador de Coluna 40cm Turbo Mondial 140W NVT-40C-8P-B",
-   "price": 239.0,
-   "original": 319.9,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_932750-MLA99508100228_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-40cm-turbo-mondial-140w-nvt-40c-8p-b/p/MLB37879762?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794242327
   }
  ]
 }
