@@ -1,7 +1,21 @@
 {
- "updated": 1794273745,
+ "updated": 1794274166,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1499,
+   "key": "mercadolivre:MLB75237915",
+   "title": "Boné Masculino Trucker Country Rendinha Aba Curva Telinha Cor Preto Tamanho Único",
+   "price": 33.0,
+   "original": 39.59,
+   "pct": 17,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822285-MLA114300477059_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bone-masculino-trucker-country-rendinha-aba-curva-telinha-cor-preto-tamanho-unico/p/MLB75237915?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794274146
+  },
   {
    "n": 1498,
    "key": "mercadolivre:MLB42064366",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794246958
-  },
-  {
-   "n": 1439,
-   "key": "mercadolivre:MLB37257779",
-   "title": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 300g",
-   "price": 94.99,
-   "original": 153.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646464-MLA112810161826_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-anticaspa-cabelos-normais-a-oleosos-dercos-ds-vichy-300g/p/MLB37257779?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794246537
   }
  ]
 }
