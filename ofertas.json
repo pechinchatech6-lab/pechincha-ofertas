@@ -1,7 +1,21 @@
 {
- "updated": 1794275429,
+ "updated": 1794275850,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1503,
+   "key": "mercadolivre:MLB22203782",
+   "title": "Óleo Capilar wella Oil Reflect 30ml",
+   "price": 35.64,
+   "original": 69.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_690433-MLA116380162305_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/oleo-capilar-wella-oil-reflect-30ml/p/MLB22203782?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794275830
+  },
   {
    "n": 1502,
    "key": "mercadolivre:MLB78318283",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794248642
-  },
-  {
-   "n": 1443,
-   "key": "mercadolivre:MLB17196486",
-   "title": "Creme Depilatória Depimiel Men Corporal Masculino Homem 120g",
-   "price": 20.99,
-   "original": 32.49,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_715696-MLA99823330751_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatoria-depimiel-men-corporal-masculino-homem-120g/p/MLB17196486?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794248221
   }
  ]
 }
