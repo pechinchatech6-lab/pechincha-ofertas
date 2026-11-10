@@ -1,7 +1,21 @@
 {
- "updated": 1794284630,
+ "updated": 1794285051,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1522,
+   "key": "mercadolivre:MLB36930842",
+   "title": "Cesto Organizador Flow 6,6 Litros Chumbo OU CFW250CHF - Para Roupas Produtos de Limpeza Lavanderia Alimentos Cozinha Brinquedos Papel Higiênico Armário Pratelei",
+   "price": 20.22,
+   "original": 27.9,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_648457-MLA115769760487_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cesto-organizador-flow-6-6-litros-chumbo-ou-cfw250chf-para-roupas-produtos-de-limpeza-lavanderia-alimentos-cozinha-brinq/p/MLB36930842?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794285031
+  },
   {
    "n": 1521,
    "key": "mercadolivre:MLB42162174",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794257933
-  },
-  {
-   "n": 1462,
-   "key": "mercadolivre:MLB25708528",
-   "title": "Shampoo Tonalizante Grecin Control GX Reduz Grisalho 118ml",
-   "price": 77.48,
-   "original": 111.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631595-MLA99350047876_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-grecin-control-gx-reduz-grisalho-118ml/p/MLB25708528?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794257512
   }
  ]
 }
