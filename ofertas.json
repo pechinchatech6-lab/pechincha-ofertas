@@ -1,7 +1,21 @@
 {
- "updated": 1794334451,
+ "updated": 1794334872,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1621,
+   "key": "mercadolivre:MLB18390529",
+   "title": "Creme Hidratante Diabet TX 350g - Goicoechea",
+   "price": 37.18,
+   "original": 42.5,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_720053-MLA119611093567_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-hidratante-diabet-tx-350g-goicoechea/p/MLB18390529?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794334852
+  },
   {
    "n": 1620,
    "key": "mercadolivre:MLB6333687",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794304310
-  },
-  {
-   "n": 1561,
-   "key": "mercadolivre:MLB65549139",
-   "title": "Soundbar - JBL Cinema SB180 - 2.1 Canais, 110W RMS, Subwoofer Sem Fio de 6,5\", Bluetooth, HDMI ARC e Modos Cinema, Música e Notícias - Preta",
-   "price": 914.9,
-   "original": 1133.9,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_981416-MLA117651094602_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-jbl-cinema-sb180-2-1-canais-110w-rms-subwoofer-sem-fio-de-6-5-bluetooth-hdmi-arc-e-modos-cinema-musica-e-notici/p/MLB65549139?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794303889
   }
  ]
 }
