@@ -1,7 +1,21 @@
 {
- "updated": 1794331924,
+ "updated": 1794332345,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1615,
+   "key": "mercadolivre:MLB55232692",
+   "title": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca 1L - Hidratação 48h",
+   "price": 129.9,
+   "original": 205.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_800625-MLA118013409895_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cetaphil-locao-hidratante-corporal-e-facial-para-pele-sensivel-normal-a-seca-1l-hidratacao-48h/p/MLB55232692?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794332325
+  },
   {
    "n": 1614,
    "key": "mercadolivre:MLB45308620",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794301368
-  },
-  {
-   "n": 1555,
-   "key": "mercadolivre:MLB65973787",
-   "title": "Caixa De Som Bluetooth Portátil Tws Graves Potentes Beexcellent Preto",
-   "price": 119.99,
-   "original": 188.0,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_952019-MLA107639802173_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-portatil-tws-graves-potentes-beexcellent-preto/p/MLB65973787?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794300947
   }
  ]
 }
