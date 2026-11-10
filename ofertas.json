@@ -1,7 +1,21 @@
 {
- "updated": 1794276271,
+ "updated": 1794276692,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1505,
+   "key": "mercadolivre:MLB53397326",
+   "title": "Caixa De Som Speaker Aiwa SP-05-LB 30w Bluetooth Ipx5",
+   "price": 289.0,
+   "original": 399.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_931282-MLA99529785692_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-speaker-aiwa-sp-05-lb-30w-bluetooth-ipx5/p/MLB53397326?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794276672
+  },
   {
    "n": 1504,
    "key": "mercadolivre:MLB68347781",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794249490
-  },
-  {
-   "n": 1445,
-   "key": "mercadolivre:MLB78730229",
-   "title": "Depilador Elétrico Feminino VB Vetka Beauty 4 em 1 com Cabeças para Rosto, Nariz, Sobrancelha e corporal Indolor Portátil",
-   "price": 39.99,
-   "original": 65.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_740093-MLA115548829984_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-vb-vetka-beauty-4-em-1-com-cabecas-para-rosto-nariz-sobrancelha-e-corporal-indolor-portatil/p/MLB78730229?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794249063
   }
  ]
 }
