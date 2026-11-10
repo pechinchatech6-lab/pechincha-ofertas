@@ -1,7 +1,21 @@
 {
- "updated": 1794344413,
+ "updated": 1794344834,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1644,
+   "key": "mercadolivre:MLB21360271",
+   "title": "Club 6 Voyage Desodorante Colônia 95ml",
+   "price": 94.85,
+   "original": 112.94,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_888890-MLA109484188480_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/club-6-voyage-desodorante-colonia-95ml/p/MLB21360271?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794344814
+  },
   {
    "n": 1643,
    "key": "mercadolivre:MLB79727962",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794317829
-  },
-  {
-   "n": 1584,
-   "key": "mercadolivre:MLB18572392",
-   "title": "Secador De Cabelo 2000 Watts - Style Pro Taiff",
-   "price": 204.26,
-   "original": 336.36,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_889216-MLA99506441392_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-2000-watts-style-pro-taiff/p/MLB18572392?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794317408
   }
  ]
 }
