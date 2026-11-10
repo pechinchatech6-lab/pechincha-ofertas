@@ -1,7 +1,21 @@
 {
- "updated": 1794294278,
+ "updated": 1794294699,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1544,
+   "key": "mercadolivre:MLB70106562",
+   "title": "LG Home Theater Sound Bar S70TR",
+   "price": 1764.22,
+   "original": 2799.0,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_880525-MLA111071287524_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lg-home-theater-sound-bar-s70tr/p/MLB70106562?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794294679
+  },
   {
    "n": 1543,
    "key": "mercadolivre:MLB57685924",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794268141
-  },
-  {
-   "n": 1484,
-   "key": "mercadolivre:MLB54470406",
-   "title": "Caixa de Som Portátil - JBL PartyBox Encore Essential 2 - JBL Pro Sound, AI Sound Boost, até 15h de Bateria, Show de Luzes, Auracast, IPX4 e Microfone - Preta",
-   "price": 1291.85,
-   "original": 1699.0,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_822320-MLA117015533966_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-jbl-partybox-encore-essential-2-jbl-pro-sound-ai-sound-boost-ate-15h-de-bateria-show-de-luzes-aura/p/MLB54470406?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794267720
   }
  ]
 }
