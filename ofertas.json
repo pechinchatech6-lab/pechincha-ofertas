@@ -1,7 +1,21 @@
 {
- "updated": 1794279227,
+ "updated": 1794279648,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1510,
+   "key": "mercadolivre:MLB79315305",
+   "title": "Kit Chave de Impacto Sem Fio 330Nm 48V Brushless Bateria Soquetes",
+   "price": 159.99,
+   "original": 299.99,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_712062-MLA116159890840_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-chave-de-impacto-sem-fio-330nm-48v-brushless-bateria-soquetes/p/MLB79315305?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794279628
+  },
   {
    "n": 1509,
    "key": "mercadolivre:MLB24820394",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794252196
-  },
-  {
-   "n": 1450,
-   "key": "mercadolivre:MLB74797220",
-   "title": "Moto Serra Elétrica 12 Polegadas Motoserra Eletrica Portátil Brushless 2 Baterias 3 Correntes",
-   "price": 318.35,
-   "original": 600.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_970650-MLA118144315182_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/moto-serra-eletrica-12-polegadas-motoserra-eletrica-portatil-brushless-2-baterias-3-correntes/p/MLB74797220?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794251775
   }
  ]
 }
