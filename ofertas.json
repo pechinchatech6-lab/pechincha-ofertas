@@ -1,7 +1,21 @@
 {
- "updated": 1794298725,
+ "updated": 1794299147,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1553,
+   "key": "mercadolivre:MLB74598488",
+   "title": "Kit Alicate Crimpador e Desencapador de Fios Hexon Profissional com 1200 Ilhós",
+   "price": 76.9,
+   "original": 120.0,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_866702-MLA113979534319_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-alicate-crimpador-e-desencapador-de-fios-hexon-profissional-com-1200-ilhos/p/MLB74598488?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794299127
+  },
   {
    "n": 1552,
    "key": "mercadolivre:MLB52053067",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794272041
-  },
-  {
-   "n": 1493,
-   "key": "mercadolivre:MLB19152893",
-   "title": "Hidratante Corporal Neutrogena Hidrata & Repara 400ml",
-   "price": 23.09,
-   "original": 47.99,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_611157-MLA117806828603_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hidratante-corporal-neutrogena-hidrata-repara-400ml/p/MLB19152893?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794271620
   }
  ]
 }
