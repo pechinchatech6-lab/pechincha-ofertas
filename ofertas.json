@@ -1,7 +1,21 @@
 {
- "updated": 1794319871,
+ "updated": 1794320292,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1590,
+   "key": "mercadolivre:MLB28757015",
+   "title": "Escova Secadora Ga.ma Babosa Brush 3d 1300W Verde Bivolt",
+   "price": 133.99,
+   "original": 279.9,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_899031-MLA114756927320_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-ga-ma-babosa-brush-3d-1300w-verde-bivolt/p/MLB28757015?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794320272
+  },
   {
    "n": 1589,
    "key": "mercadolivre:MLB18726361",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794288820
-  },
-  {
-   "n": 1530,
-   "key": "mercadolivre:MLB56105252",
-   "title": "Boné Lacoste sport cor preto tamanho un",
-   "price": 287.99,
-   "original": 436.55,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674746-MLA92434903779_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-lacoste-sport-cor-preto-tamanho-un/p/MLB56105252?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794288399
   }
  ]
 }
