@@ -1,7 +1,21 @@
 {
- "updated": 1794322397,
+ "updated": 1794322818,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1596,
+   "key": "mercadolivre:MLB29099771",
+   "title": "Secador de Cabelos Mondial 2000W - SCN-11",
+   "price": 108.49,
+   "original": 204.9,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_928357-MLA99995948951_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-mondial-2000w-scn-11/p/MLB29099771?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794322798
+  },
   {
    "n": 1595,
    "key": "mercadolivre:MLB37984126",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794291733
-  },
-  {
-   "n": 1536,
-   "key": "mercadolivre:MLB26578445",
-   "title": "Secador De Cabelo Taiff Profissional Style Vermelho Clássico",
-   "price": 194.0,
-   "original": 447.36,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_895859-MLA99858387669_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-taiff-profissional-style-vermelho-classico/p/MLB26578445?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794290925
   }
  ]
 }
