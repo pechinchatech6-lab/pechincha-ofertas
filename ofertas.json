@@ -1,7 +1,21 @@
 {
- "updated": 1794285472,
+ "updated": 1794285893,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1524,
+   "key": "mercadolivre:MLB41168545",
+   "title": "Furadeira De Impacto 13mm 750w Profissional Com Kit Brocas Buchas E Bits 300 Peças The Black Tools",
+   "price": 199.9,
+   "original": 345.41,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_630406-MLA99939153905_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/furadeira-de-impacto-13mm-750w-profissional-com-kit-brocas-buchas-e-bits-300-pecas-the-black-tools/p/MLB41168545?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794285873
+  },
   {
    "n": 1523,
    "key": "mercadolivre:MLB79059013",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794258775
-  },
-  {
-   "n": 1464,
-   "key": "mercadolivre:MLB56546186",
-   "title": "Bioré Óleo Demaquilante Facial Cleansing Oil Original 230ml",
-   "price": 73.9,
-   "original": 88.9,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_855741-MLA119030355352_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/biore-oleo-demaquilante-facial-cleansing-oil-original-230ml/p/MLB56546186?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794258354
   }
  ]
 }
