@@ -1,7 +1,21 @@
 {
- "updated": 1794292173,
+ "updated": 1794292594,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1539,
+   "key": "mercadolivre:MLB49197748",
+   "title": "Smart Tv Tcl 43 Polegadas Qled Full Hd S5k Wifi Bluetooth Google Tv 2 Hdmi Hdr10 Dolby Audio 43s5k",
+   "price": 1598.0,
+   "original": 1849.0,
+   "pct": 14,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_957852-MLA114585921650_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-tcl-43-polegadas-qled-full-hd-s5k-wifi-bluetooth-google-tv-2-hdmi-hdr10-dolby-audio-43s5k/p/MLB49197748?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794292574
+  },
   {
    "n": 1538,
    "key": "mercadolivre:MLB54549630",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794266036
-  },
-  {
-   "n": 1479,
-   "key": "mercadolivre:MLB18115557",
-   "title": "Relógio De Pulso Casio Youth W-218H-1AV",
-   "price": 139.0,
-   "original": 227.44,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_734707-MLA114937003722_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-youth-w-218h-1av/p/MLB18115557?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794265615
   }
  ]
 }
