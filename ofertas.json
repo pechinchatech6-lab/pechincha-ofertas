@@ -1,7 +1,21 @@
 {
- "updated": 1794350009,
+ "updated": 1794351421,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1656,
+   "key": "mercadolivre:MLB57689750",
+   "title": "Caixa de Som Basike Boombox Bluetooth 200W, Portátil e à Prova D'Água IPX6",
+   "price": 837.0,
+   "original": 1376.74,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_620090-MLA99986834815_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-basike-boombox-bluetooth-200w-portatil-e-a-prova-d-agua-ipx6/p/MLB57689750?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794351401
+  },
   {
    "n": 1655,
    "key": "mercadolivre:MLB75964600",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794323545
-  },
-  {
-   "n": 1596,
-   "key": "mercadolivre:MLB29099771",
-   "title": "Secador de Cabelos Mondial 2000W - SCN-11",
-   "price": 108.49,
-   "original": 204.9,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_928357-MLA99995948951_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-mondial-2000w-scn-11/p/MLB29099771?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794322798
   }
  ]
 }
