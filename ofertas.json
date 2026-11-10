@@ -1,7 +1,21 @@
 {
- "updated": 1794314700,
+ "updated": 1794315323,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1579,
+   "key": "mercadolivre:MLB19603205",
+   "title": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
+   "price": 34.9,
+   "original": 64.9,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_662415-MLA97812910758_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-growth-supplements-monohidratada-em-po-sem-sabor-x-250g/p/MLB19603205?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794315303
+  },
   {
    "n": 1578,
    "key": "mercadolivre:MLB74325668",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794284189
-  },
-  {
-   "n": 1519,
-   "key": "mercadolivre:MLB63980306",
-   "title": "Pokémon Pokopia - Nintendo Switch 2",
-   "price": 439.89,
-   "original": 556.83,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_877218-MLA104113006671_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pokemon-pokopia-nintendo-switch-2/p/MLB63980306?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794283768
   }
  ]
 }
