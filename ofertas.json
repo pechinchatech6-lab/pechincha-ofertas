@@ -1,7 +1,21 @@
 {
- "updated": 1794326030,
+ "updated": 1794326451,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1601,
+   "key": "mercadolivre:MLB59221401",
+   "title": "Creme de Barbear Gillette para Rosto e Corpo para Homens com Aloe 150mL",
+   "price": 22.04,
+   "original": 26.9,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_717816-MLA119483033044_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-de-barbear-gillette-para-rosto-e-corpo-para-homens-com-aloe-150ml/p/MLB59221401?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794326431
+  },
   {
    "n": 1600,
    "key": "mercadolivre:MLB79514124",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794293837
-  },
-  {
-   "n": 1541,
-   "key": "mercadolivre:MLB14896780",
-   "title": "Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto",
-   "price": 211.25,
-   "original": 307.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_754389-MLA119103956430_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-oscilante-de-parede-ventisol-steel-6-pas-50cm-preto/p/MLB14896780?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794293416
   }
  ]
 }
