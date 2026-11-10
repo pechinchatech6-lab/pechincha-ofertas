@@ -1,7 +1,21 @@
 {
- "updated": 1794333187,
+ "updated": 1794333608,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1618,
+   "key": "mercadolivre:MLB79524826",
+   "title": "Smart TV Philips 32 polegadas QLED HD Wi-Fi HDR10 Dolby Áudio 32PQG6921/78",
+   "price": 999.0,
+   "original": 1549.0,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_781580-MLA116373371688_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-philips-32-polegadas-qled-hd-wi-fi-hdr10-dolby-audio-32pqg6921-78/p/MLB79524826?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794333588
+  },
   {
    "n": 1617,
    "key": "mercadolivre:MLB56563800",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794303047
-  },
-  {
-   "n": 1558,
-   "key": "mercadolivre:MLB30996900",
-   "title": "Ventilador De Mesa Portátil Com Iluminação Umidificador Climatizador Com Reservatório USB com Luz LED HW",
-   "price": 43.29,
-   "original": 71.99,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_784436-MLA120879909545_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-mesa-portatil-com-iluminacao-umidificador-climatizador-com-reservatorio-usb-com-luz-led-hw/p/MLB30996900?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794302418
   }
  ]
 }
