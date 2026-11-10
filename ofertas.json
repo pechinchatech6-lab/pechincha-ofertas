@@ -1,7 +1,21 @@
 {
- "updated": 1794339083,
+ "updated": 1794339504,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1632,
+   "key": "mercadolivre:MLB10603268",
+   "title": "Depilador Philco Aqua Deluxe Pdp01r Branco E Rosa 110v/220v Rosa-pálido",
+   "price": 121.9,
+   "original": 183.55,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_613498-MLA84853035151_052025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-philco-aqua-deluxe-pdp01r-branco-e-rosa-110v-220v-rosa-palido/p/MLB10603268?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794339484
+  },
   {
    "n": 1631,
    "key": "mercadolivre:MLB74577431",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794312062
-  },
-  {
-   "n": 1572,
-   "key": "mercadolivre:MLB61850779",
-   "title": "Microfone Havit GK65 Condensador USB com RGB para Streaming",
-   "price": 198.88,
-   "original": 220.98,
-   "pct": 10,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_675526-MLA97578976343_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-havit-gk65-condensador-usb-com-rgb-para-streaming/p/MLB61850779?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794311641
   }
  ]
 }
