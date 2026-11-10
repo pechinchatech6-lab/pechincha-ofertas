@@ -1,7 +1,21 @@
 {
- "updated": 1794274166,
+ "updated": 1794274587,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1500,
+   "key": "mercadolivre:MLB76467562",
+   "title": "Lamina Serra Multi-corte Oscilante Kit 5 Pçs Para Wesco Makita",
+   "price": 27.35,
+   "original": 75.99,
+   "pct": 64,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_607957-MLA119667530665_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lamina-serra-multi-corte-oscilante-kit-5-pcs-para-wesco-makita/p/MLB76467562?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794274567
+  },
   {
    "n": 1499,
    "key": "mercadolivre:MLB75237915",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794247379
-  },
-  {
-   "n": 1440,
-   "key": "mercadolivre:MLB19533185",
-   "title": "Creatina Integralmedica 100% Pura 60 Cápsulas - Aumento de Resistência e Desempenho para Atletas e Treinos Intensos",
-   "price": 16.63,
-   "original": 32.0,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_782298-MLA100076194863_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-integralmedica-100-pura-60-capsulas-aumento-de-resistencia-e-desempenho-para-atletas-e-treinos-intensos/p/MLB19533185?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794246958
   }
  ]
 }
