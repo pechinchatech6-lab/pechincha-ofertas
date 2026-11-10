@@ -1,7 +1,21 @@
 {
- "updated": 1794331082,
+ "updated": 1794331503,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1613,
+   "key": "mercadolivre:MLB25074971",
+   "title": "Relógio Tommy Hilfiger 1791659 Cor de malha original: cor de moldura marrom, cor de fundo prateada, cor de fundo azul",
+   "price": 445.9,
+   "original": 990.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_796643-MLU70696783047_072023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-tommy-hilfiger-1791659-cor-de-malha-original-cor-de-moldura-marrom-cor-de-fundo-prateada-cor-de-fundo-azul/p/MLB25074971?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794331483
+  },
   {
    "n": 1612,
    "key": "mercadolivre:MLB27048678",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794299916
-  },
-  {
-   "n": 1553,
-   "key": "mercadolivre:MLB74598488",
-   "title": "Kit Alicate Crimpador e Desencapador de Fios Hexon Profissional com 1200 Ilhós",
-   "price": 76.9,
-   "original": 120.0,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_866702-MLA113979534319_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-alicate-crimpador-e-desencapador-de-fios-hexon-profissional-com-1200-ilhos/p/MLB74598488?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794299127
   }
  ]
 }
