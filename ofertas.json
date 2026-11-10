@@ -1,7 +1,21 @@
 {
- "updated": 1794332345,
+ "updated": 1794332766,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1616,
+   "key": "mercadolivre:MLB57673254",
+   "title": "Mini Geladeira Portatil 4 Litros 5v Usb Aquece Esfria Carro Cor Preto",
+   "price": 241.0,
+   "original": 500.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822020-MLA96100187615_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-geladeira-portatil-4-litros-5v-usb-aquece-esfria-carro-cor-preto/p/MLB57673254?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794332746
+  },
   {
    "n": 1615,
    "key": "mercadolivre:MLB55232692",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794301997
-  },
-  {
-   "n": 1556,
-   "key": "mercadolivre:MLB18390996",
-   "title": "Mantecorp Hidratante Facial Epidrat Calm Restaurador - 40g",
-   "price": 69.9,
-   "original": 104.9,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_638204-MLU73122319784_122023-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mantecorp-hidratante-facial-epidrat-calm-restaurador-40g/p/MLB18390996?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794301368
   }
  ]
 }
