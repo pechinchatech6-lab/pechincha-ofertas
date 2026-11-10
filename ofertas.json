@@ -1,7 +1,21 @@
 {
- "updated": 1794282104,
+ "updated": 1794282525,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1516,
+   "key": "mercadolivre:MLB60728265",
+   "title": "Smart Tv Aoc Dled 32 Wi-fi Roku Tv Quad Core 32s5155/78g",
+   "price": 816.99,
+   "original": 1289.0,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_802027-MLA120306983603_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-aoc-dled-32-wi-fi-roku-tv-quad-core-32s5155-78g/p/MLB60728265?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794282505
+  },
   {
    "n": 1515,
    "key": "mercadolivre:MLB18725403",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794254722
-  },
-  {
-   "n": 1456,
-   "key": "mercadolivre:MLB55024225",
-   "title": "Soprador De Ar Turbo 21v Portátil Bateria Recarregável Potente Para Folhas Pó Limpeza Carro Tso-21a The Black Tools",
-   "price": 109.95,
-   "original": 219.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_987154-MLA116188035225_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-de-ar-turbo-21v-portatil-bateria-recarregavel-potente-para-folhas-po-limpeza-carro-tso-21a-the-black-tools/p/MLB55024225?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794254301
   }
  ]
 }
