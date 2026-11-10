@@ -1,7 +1,21 @@
 {
- "updated": 1794272903,
+ "updated": 1794273324,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1497,
+   "key": "mercadolivre:MLB18643725",
+   "title": "Hidratante Labial Nivea Med Repair FPS15 4,8g",
+   "price": 16.1,
+   "original": 30.99,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_771056-MLA104010765404_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hidratante-labial-nivea-med-repair-fps15-4-8g/p/MLB18643725?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794273304
+  },
   {
    "n": 1496,
    "key": "mercadolivre:MLB79380541",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794246116
-  },
-  {
-   "n": 1437,
-   "key": "mercadolivre:MLB63356070",
-   "title": "Relógio De Bolso Masculino Vintage Quartz Antigo Cor Preto",
-   "price": 38.0,
-   "original": 99.0,
-   "pct": 62,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_756597-MLA101922004765_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-bolso-masculino-vintage-quartz-antigo-cor-preto/p/MLB63356070?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794245695
   }
  ]
 }
