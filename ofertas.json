@@ -1,7 +1,21 @@
 {
- "updated": 1794291754,
+ "updated": 1794292173,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1538,
+   "key": "mercadolivre:MLB54549630",
+   "title": "Basike Caixa de Som Boombox Plus 80W 8000Mah Portátil Bluetooth 5.3 Sem fio IPX6 À Prova D'água Com Luz RGB Hifi TWS Bass Forte Amplificada Alto falante Bombox ",
+   "price": 358.19,
+   "original": 599.98,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_675598-MLA99455853026_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/basike-caixa-de-som-boombox-plus-80w-8000mah-portatil-bluetooth-5-3-sem-fio-ipx6-a-prova-d-agua-com-luz-rgb-hifi-tws-bas/p/MLB54549630?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794292153
+  },
   {
    "n": 1537,
    "key": "mercadolivre:MLB75681377",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794265615
-  },
-  {
-   "n": 1478,
-   "key": "mercadolivre:MLB19086162",
-   "title": "Redragon Adiemus GS560 Soundbar Gamer RGB com Iluminação Chroma e Design Compacto",
-   "price": 177.0,
-   "original": 299.9,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_644830-MLA96135217083_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/redragon-adiemus-gs560-soundbar-gamer-rgb-com-iluminacao-chroma-e-design-compacto/p/MLB19086162?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794265194
   }
  ]
 }
