@@ -1,7 +1,21 @@
 {
- "updated": 1794272482,
+ "updated": 1794272903,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1496,
+   "key": "mercadolivre:MLB79380541",
+   "title": "Caixa Caixinha De Som Bluetooth Pendrive Fm Sd Portátil 50w",
+   "price": 59.9,
+   "original": 86.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_882937-MLA116430422614_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-caixinha-de-som-bluetooth-pendrive-fm-sd-portatil-50w/p/MLB79380541?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794272883
+  },
   {
    "n": 1495,
    "key": "mercadolivre:MLB64921330",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794245695
-  },
-  {
-   "n": 1436,
-   "key": "mercadolivre:MLB70308697",
-   "title": "Rádio Caixa De Som Bluetooth Recarregável Led Beexcellent Azul",
-   "price": 75.99,
-   "original": 99.9,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_840105-MLA111245741562_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/radio-caixa-de-som-bluetooth-recarregavel-led-beexcellent-azul/p/MLB70308697?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794245274
   }
  ]
 }
