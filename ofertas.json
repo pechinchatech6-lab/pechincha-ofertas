@@ -1,7 +1,21 @@
 {
- "updated": 1794308997,
+ "updated": 1794309418,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1568,
+   "key": "mercadolivre:MLB62925370",
+   "title": "Depilador Elétrico Feminino de Sobrancelhas Black Raipe, Caneta Recarregável e Indolor",
+   "price": 21.99,
+   "original": 29.99,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_713881-MLA112707674461_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-de-sobrancelhas-black-raipe-caneta-recarregavel-e-indolor/p/MLB62925370?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794309398
+  },
   {
    "n": 1567,
    "key": "mercadolivre:MLB38446486",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794279207
-  },
-  {
-   "n": 1508,
-   "key": "mercadolivre:MLB67406789",
-   "title": "Compressor de Ar Digital Mini Portátil sem Fio para Carro, Moto e Bicicleta",
-   "price": 69.21,
-   "original": 149.99,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_637618-MLA109832243653_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/compressor-de-ar-digital-mini-portatil-sem-fio-para-carro-moto-e-bicicleta/p/MLB67406789?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794278786
   }
  ]
 }
