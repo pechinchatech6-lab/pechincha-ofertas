@@ -1,7 +1,21 @@
 {
- "updated": 1794275008,
+ "updated": 1794275429,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1502,
+   "key": "mercadolivre:MLB78318283",
+   "title": "Frigideira Cerâmica Antiaderente Grande 24cm Acompanha Espátula Para Fogão A Gás Indução Cooktop Sem Óleo Não Gruda Profissional PÍTIA",
+   "price": 48.49,
+   "original": 129.99,
+   "pct": 63,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_840680-MLA117132218899_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/frigideira-ceramica-antiaderente-grande-24cm-acompanha-espatula-para-fogao-a-gas-inducao-cooktop-sem-oleo-nao-gruda-prof/p/MLB78318283?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794275409
+  },
   {
    "n": 1501,
    "key": "mercadolivre:MLB65411803",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794248221
-  },
-  {
-   "n": 1442,
-   "key": "mercadolivre:MLB53283915",
-   "title": "Lixadeira Pneumática Orbital 6 Rokit Roquite Hookit",
-   "price": 145.56,
-   "original": 210.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_820674-MLA99527117808_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-orbital-6-rokit-roquite-hookit/p/MLB53283915?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794247800
   }
  ]
 }
