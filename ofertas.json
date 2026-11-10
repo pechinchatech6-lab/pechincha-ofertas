@@ -1,7 +1,21 @@
 {
- "updated": 1794318270,
+ "updated": 1794318691,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1587,
+   "key": "mercadolivre:MLB19772622",
+   "title": "Suplemento Alimentar Whey Fort 3W Sabor Frutas Vermelhas 900g Vitafor",
+   "price": 200.51,
+   "original": 373.0,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_900386-MLU75143558182_032024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suplemento-alimentar-whey-fort-3w-sabor-frutas-vermelhas-900g-vitafor/p/MLB19772622?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794318671
+  },
   {
    "n": 1586,
    "key": "mercadolivre:MLB79843944",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794287557
-  },
-  {
-   "n": 1527,
-   "key": "mercadolivre:MLB74243177",
-   "title": "Pistola De Pintura Com Compressor Elétrico 650w",
-   "price": 119.91,
-   "original": 199.85,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_720353-MLA113556068871_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pistola-de-pintura-com-compressor-eletrico-650w/p/MLB74243177?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794287136
   }
  ]
 }
