@@ -1,7 +1,21 @@
 {
- "updated": 1794320713,
+ "updated": 1794321134,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1592,
+   "key": "mercadolivre:MLB26110011",
+   "title": "Trena Standard 5 Metros Com Trava Iw13947 Irwin",
+   "price": 23.0,
+   "original": 45.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_996028-MLA99620936002_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/trena-standard-5-metros-com-trava-iw13947-irwin/p/MLB26110011?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794321114
+  },
   {
    "n": 1591,
    "key": "mercadolivre:MLB18640232",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794289662
-  },
-  {
-   "n": 1532,
-   "key": "mercadolivre:MLB27731058",
-   "title": "Shampoo Antiqueda Estimulante com Aminexil, Dercos Energy+ Vichy, 200g",
-   "price": 61.69,
-   "original": 98.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_728026-MLA117488225821_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-antiqueda-estimulante-com-aminexil-dercos-energy-vichy-200g/p/MLB27731058?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794289241
   }
  ]
 }
