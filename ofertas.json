@@ -1,7 +1,21 @@
 {
- "updated": 1794268582,
+ "updated": 1794269114,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1487,
+   "key": "mercadolivre:MLB22778772",
+   "title": "Controle Para Xbox 360 Com Fio USB Joystick Manete Gamepad Controle PC Gamer Para Computador Windows Steam Game Pass Android Gamepass TV Vibração Analógico Ergo",
+   "price": 38.08,
+   "original": 89.9,
+   "pct": 58,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_905623-MLA118558569418_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-para-xbox-360-com-fio-usb-joystick-manete-gamepad-controle-pc-gamer-para-computador-windows-steam-game-pass-and/p/MLB22778772?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794269094
+  },
   {
    "n": 1486,
    "key": "mercadolivre:MLB75898900",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794241906
-  },
-  {
-   "n": 1427,
-   "key": "mercadolivre:MLB80498644",
-   "title": "Alaxe Caixa De Som Inteligente Comando Voz Portátil Bluetooth LED RGB Compatível Com Aplicativo Alexa No Celular Som Sem Fio Compacta Para Casa Quarto Escritóri",
-   "price": 46.99,
-   "original": 175.0,
-   "pct": 73,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_822646-MLA119209021623_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alaxe-caixa-de-som-inteligente-comando-voz-portatil-bluetooth-led-rgb-compativel-com-aplicativo-alexa-no-celular-som-sem/p/MLB80498644?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794241485
   }
  ]
 }
