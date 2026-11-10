@@ -1,7 +1,21 @@
 {
- "updated": 1794329398,
+ "updated": 1794329819,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1609,
+   "key": "mercadolivre:MLB67561388",
+   "title": "Kit Ferramentas Profissional Hexon com 58 Peças: Soquetes, Catraca e Chaves Combinadas",
+   "price": 76.53,
+   "original": 150.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_887585-MLA109559899308_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-ferramentas-profissional-hexon-com-58-pecas-soquetes-catraca-e-chaves-combinadas/p/MLB67561388?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794329799
+  },
   {
    "n": 1608,
    "key": "mercadolivre:MLB46342327",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794297863
-  },
-  {
-   "n": 1549,
-   "key": "mercadolivre:MLB16602518",
-   "title": "Liquidificador Oster OLIQ610 1400w Full 3,2L Cor Preto",
-   "price": 177.84,
-   "original": 299.0,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_864038-MLA100027785333_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/liquidificador-oster-oliq610-1400w-full-3-2l-cor-preto/p/MLB16602518?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794296826
   }
  ]
 }
