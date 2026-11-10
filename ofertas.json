@@ -1,7 +1,21 @@
 {
- "updated": 1794354369,
+ "updated": 1794354790,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1664,
+   "key": "mercadolivre:MLB81483994",
+   "title": "Soundbar de 350W com 4 alto-falantes e 4.0 canais, Home Theater destacável com Dolby e DTS, Caixa De Som Bluetooth 5.3 , entradas Aux/HDMI(ARC)/USB/Óptica/Coaxi",
+   "price": 316.59,
+   "original": 700.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_757334-MLA119069939232_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-de-350w-com-4-alto-falantes-e-4-0-canais-home-theater-destacavel-com-dolby-e-dts-caixa-de-som-bluetooth-5-3-ent/p/MLB81483994?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794354770
+  },
   {
    "n": 1663,
    "key": "mercadolivre:MLB79529287",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794328115
-  },
-  {
-   "n": 1604,
-   "key": "mercadolivre:MLB18238727",
-   "title": "Aspirador de Pó Vertical Electrolux 1450W STK15 com Fio Portátil de Mão 2 em 1 e 1,6 Litros de capacidade com Filtro Hepa Cinza-escuro",
-   "price": 170.0,
-   "original": 239.99,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_738236-MLA116379124521_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-electrolux-1450w-stk15-com-fio-portatil-de-mao-2-em-1-e-1-6-litros-de-capacidade-com-filtro-hep/p/MLB18238727?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794327694
   }
  ]
 }
