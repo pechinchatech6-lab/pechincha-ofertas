@@ -1,7 +1,21 @@
 {
- "updated": 1794343150,
+ "updated": 1794343571,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1641,
+   "key": "mercadolivre:MLB29011598",
+   "title": "Lavadora de Alta Pressão WAP WL 1820 com Stop Total, Jato Leque e Concentrado",
+   "price": 369.0,
+   "original": 728.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_968375-MLA87428792871_072025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-wap-wl-1820-com-stop-total-jato-leque-e-concentrado/p/MLB29011598?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794343551
+  },
   {
    "n": 1640,
    "key": "mercadolivre:MLB55237000",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794316566
-  },
-  {
-   "n": 1581,
-   "key": "mercadolivre:MLB18725308",
-   "title": "Creatina Soldiers Nutrition em pó Sem sabor x 500g",
-   "price": 44.9,
-   "original": 78.9,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_784236-MLA119862530715_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-soldiers-nutrition-em-po-sem-sabor-x-500g/p/MLB18725308?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794316145
   }
  ]
 }
