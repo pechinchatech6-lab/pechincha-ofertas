@@ -1,7 +1,21 @@
 {
- "updated": 1794299936,
+ "updated": 1794300967,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1555,
+   "key": "mercadolivre:MLB65973787",
+   "title": "Caixa De Som Bluetooth Portátil Tws Graves Potentes Beexcellent Preto",
+   "price": 119.99,
+   "original": 188.0,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_952019-MLA107639802173_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-portatil-tws-graves-potentes-beexcellent-preto/p/MLB65973787?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794300947
+  },
   {
    "n": 1554,
    "key": "mercadolivre:MLB19489040",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794272883
-  },
-  {
-   "n": 1495,
-   "key": "mercadolivre:MLB64921330",
-   "title": "Always Fit Vitaminas Essenciais Completas Complexo B Com Metilfolato E Metilcobalamina, 60 Cápsulas Sem Sabor",
-   "price": 34.9,
-   "original": 49.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_650149-MLA115641533929_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/always-fit-vitaminas-essenciais-completas-complexo-b-com-metilfolato-e-metilcobalamina-60-capsulas-sem-sabor/p/MLB64921330?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794272462
   }
  ]
 }
