@@ -1,7 +1,21 @@
 {
- "updated": 1794309418,
+ "updated": 1794309839,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1569,
+   "key": "mercadolivre:MLB66607590",
+   "title": "Ventilador de Coluna Britânia 6 Pás 160W Maxx Force BVT44A",
+   "price": 285.31,
+   "original": 374.75,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_833225-MLA107903839444_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-britania-6-pas-160w-maxx-force-bvt44a/p/MLB66607590?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794309819
+  },
   {
    "n": 1568,
    "key": "mercadolivre:MLB62925370",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794279628
-  },
-  {
-   "n": 1509,
-   "key": "mercadolivre:MLB24820394",
-   "title": "Creme Depilatório Corporal Peles Delicadas 100ml - Veet",
-   "price": 35.0,
-   "original": 49.98,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_754338-MLA110034890716_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatorio-corporal-peles-delicadas-100ml-veet/p/MLB24820394?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794279207
   }
  ]
 }
