@@ -1,7 +1,21 @@
 {
- "updated": 1794313256,
+ "updated": 1794313677,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1576,
+   "key": "mercadolivre:MLB23532969",
+   "title": "Corretivo Cover Stick C-01 4g Fran By Franciny Ehlke Tom Rosado",
+   "price": 32.94,
+   "original": 59.9,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_652772-MLU75985507633_042024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/corretivo-cover-stick-c-01-4g-fran-by-franciny-ehlke-tom-rosado/p/MLB23532969?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794313657
+  },
   {
    "n": 1575,
    "key": "mercadolivre:MLB62568815",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794282926
-  },
-  {
-   "n": 1516,
-   "key": "mercadolivre:MLB60728265",
-   "title": "Smart Tv Aoc Dled 32 Wi-fi Roku Tv Quad Core 32s5155/78g",
-   "price": 816.99,
-   "original": 1289.0,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_802027-MLA120306983603_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-aoc-dled-32-wi-fi-roku-tv-quad-core-32s5155-78g/p/MLB60728265?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794282505
   }
  ]
 }
