@@ -1,7 +1,21 @@
 {
- "updated": 1794322818,
+ "updated": 1794323565,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1597,
+   "key": "mercadolivre:MLB72717309",
+   "title": "Nivel Laser Verde 2 Linhas Autonivelante Profissional 360 Graus + Tripé",
+   "price": 158.24,
+   "original": 399.0,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_650496-MLA111742439286_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-2-linhas-autonivelante-profissional-360-graus-tripe/p/MLB72717309?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794323545
+  },
   {
    "n": 1596,
    "key": "mercadolivre:MLB29099771",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794292153
-  },
-  {
-   "n": 1537,
-   "key": "mercadolivre:MLB75681377",
-   "title": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
-   "price": 2599.0,
-   "original": 3599.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-pro-lg-55-4k-ultra-hd-ai-55un85c/p/MLB75681377?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794291733
   }
  ]
 }
