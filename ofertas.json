@@ -1,7 +1,21 @@
 {
- "updated": 1794338662,
+ "updated": 1794339083,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1631,
+   "key": "mercadolivre:MLB74577431",
+   "title": "Alicate 8 Polegadas Corta Vergalhão Cabos De Aço Fios 3,2mm",
+   "price": 30.9,
+   "original": 48.99,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_929091-MLA118752942428_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-8-polegadas-corta-vergalhao-cabos-de-aco-fios-3-2mm/p/MLB74577431?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794339063
+  },
   {
    "n": 1630,
    "key": "mercadolivre:MLB25295297",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794311641
-  },
-  {
-   "n": 1571,
-   "key": "mercadolivre:MLB62958868",
-   "title": "Controle Para Ps2 E Ps1 Video game Dualshock Joystick Manete Com Fio E Analógico - Crowley",
-   "price": 27.9,
-   "original": 44.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_752612-MLA109505480396_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-para-ps2-e-ps1-video-game-dualshock-joystick-manete-com-fio-e-analogico-crowley/p/MLB62958868?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794311220
   }
  ]
 }
