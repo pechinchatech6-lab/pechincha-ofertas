@@ -1,7 +1,21 @@
 {
- "updated": 1794296383,
+ "updated": 1794296846,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1549,
+   "key": "mercadolivre:MLB16602518",
+   "title": "Liquidificador Oster OLIQ610 1400w Full 3,2L Cor Preto",
+   "price": 177.84,
+   "original": 299.0,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_864038-MLA100027785333_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/liquidificador-oster-oliq610-1400w-full-3-2l-cor-preto/p/MLB16602518?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794296826
+  },
   {
    "n": 1548,
    "key": "mercadolivre:MLB19694427",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794270357
-  },
-  {
-   "n": 1489,
-   "key": "mercadolivre:MLB51545470",
-   "title": "Controle Sem Fio Xbox Series X|S Microsoft Azul Shock com Bluetooth",
-   "price": 363.99,
-   "original": 590.99,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_838906-MLA86702461397_062025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-sem-fio-xbox-series-x-s-microsoft-azul-shock-com-bluetooth/p/MLB51545470?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794269936
   }
  ]
 }
