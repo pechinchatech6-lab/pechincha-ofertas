@@ -1,7 +1,21 @@
 {
- "updated": 1794356896,
+ "updated": 1794357317,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1670,
+   "key": "mercadolivre:MLB75627272",
+   "title": "Mochila para Notebook Impermeável com Porta USB e Expansão de 25L a 40L, Ideal para Viagem e Trabalho",
+   "price": 89.0,
+   "original": 218.0,
+   "pct": 59,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_683360-MLA113618531626_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-para-notebook-impermeavel-com-porta-usb-e-expansao-de-25l-a-40l-ideal-para-viagem-e-trabalho/p/MLB75627272?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794357297
+  },
   {
    "n": 1669,
    "key": "mercadolivre:MLB25925806",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794330641
-  },
-  {
-   "n": 1610,
-   "key": "mercadolivre:MLB65453832",
-   "title": "Microfone Dinâmico FIFINE AM8 para Streaming e Podcast com USB e XLR",
-   "price": 303.93,
-   "original": 347.9,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_870149-MLA106921638581_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-dinamico-fifine-am8-para-streaming-e-podcast-com-usb-e-xlr/p/MLB65453832?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794330220
   }
  ]
 }
