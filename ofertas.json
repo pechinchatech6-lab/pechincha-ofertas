@@ -1,7 +1,21 @@
 {
- "updated": 1794426343,
+ "updated": 1794426764,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1821,
+   "key": "mercadolivre:MLB70508079",
+   "title": "Rebitador Manual Tipo Alicate Com 4 Bicos E 100 Rebites Para Metal Alumínio Madeira E Plástico Universal Profissional",
+   "price": 26.99,
+   "original": 47.7,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_883900-MLA112439073103_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/rebitador-manual-tipo-alicate-com-4-bicos-e-100-rebites-para-metal-aluminio-madeira-e-plastico-universal-profissional/p/MLB70508079?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794426744
+  },
   {
    "n": 1820,
    "key": "mercadolivre:MLB63356070",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794399667
-  },
-  {
-   "n": 1761,
-   "key": "mercadolivre:MLB80306555",
-   "title": "Kit 10 Lâminas de Serra Sabre Evofix HSS para Madeira, Metal e PVC – Encaixe Universal",
-   "price": 55.99,
-   "original": 69.99,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_897136-MLA117441653026_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-10-laminas-de-serra-sabre-evofix-hss-para-madeira-metal-e-pvc-encaixe-universal/p/MLB80306555?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794398754
   }
  ]
 }
