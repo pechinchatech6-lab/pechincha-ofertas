@@ -1,7 +1,21 @@
 {
- "updated": 1794398774,
+ "updated": 1794399687,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1762,
+   "key": "mercadolivre:MLB73076144",
+   "title": "Caixa de Som Basike Bluetooth Portátil 200W com Subwoofer e IPX6 Azul-Marinho",
+   "price": 678.38,
+   "original": 1128.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_924378-MLA111904555764_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-basike-bluetooth-portatil-200w-com-subwoofer-e-ipx6-azul-marinho/p/MLB73076144?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794399667
+  },
   {
    "n": 1761,
    "key": "mercadolivre:MLB80306555",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794372945
-  },
-  {
-   "n": 1702,
-   "key": "mercadolivre:MLB68020736",
-   "title": "Caixa De Som Soundbar RMS 200W Home Theater Tv Sound Bar Com Subwoofer Bluetooth Som Cinema, Com HDMI ARC, óptico, AUX e Coaxial",
-   "price": 642.51,
-   "original": 1299.0,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_823006-MLA118820005541_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-soundbar-rms-200w-home-theater-tv-sound-bar-com-subwoofer-bluetooth-som-cinema-com-hdmi-arc-optico-aux-e-co/p/MLB68020736?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794372376
   }
  ]
 }
