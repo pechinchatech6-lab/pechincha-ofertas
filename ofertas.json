@@ -1,7 +1,21 @@
 {
- "updated": 1794382977,
+ "updated": 1794383398,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1725,
+   "key": "mercadolivre:MLB67714386",
+   "title": "Smartwatch HUAWEI WATCH FIT 5 AMOLED de 182\" Design Leve Mini Treino Bateria com Até 10 Dias 64 GB Gerenciamento Avançado da Saúde Monitor do Sono SpO2 GPS Comp",
+   "price": 699.0,
+   "original": 929.0,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_879649-MLA110592319201_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartwatch-huawei-watch-fit-5-amoled-de-182-design-leve-mini-treino-bateria-com-ate-10-dias-64-gb-gerenciamento-avancado/p/MLB67714386?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794383378
+  },
   {
    "n": 1724,
    "key": "mercadolivre:MLB48927245",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794355612
-  },
-  {
-   "n": 1665,
-   "key": "mercadolivre:MLB51233234",
-   "title": "Organizador Acrílico Para Cosméticos 2 Prateleiras Multiuso",
-   "price": 52.27,
-   "original": 78.56,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_981635-MLA112391937773_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/organizador-acrilico-para-cosmeticos-2-prateleiras-multiuso/p/MLB51233234?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794355191
   }
  ]
 }
