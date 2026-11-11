@@ -1,7 +1,21 @@
 {
- "updated": 1794427185,
+ "updated": 1794428440,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1823,
+   "key": "mercadolivre:MLB62147878",
+   "title": "Caixa De Som Speaker Aiwa AWS-SP-07-B 7w Bluetooth Ipx6 Preto",
+   "price": 123.0,
+   "original": 279.9,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_801403-MLA108910039206_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-speaker-aiwa-aws-sp-07-b-7w-bluetooth-ipx6-preto/p/MLB62147878?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794428420
+  },
   {
    "n": 1822,
    "key": "mercadolivre:MLB19514465",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794400509
-  },
-  {
-   "n": 1763,
-   "key": "mercadolivre:MLB6077911",
-   "title": "Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca RE31",
-   "price": 1578.8,
-   "original": 2399.0,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631165-MLA111827765025_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-cycle-defrost-240l-degelo-pratico-uma-porta-branca-re31/p/MLB6077911?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794400088
   }
  ]
 }
