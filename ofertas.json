@@ -1,7 +1,21 @@
 {
- "updated": 1794419387,
+ "updated": 1794419808,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1808,
+   "key": "mercadolivre:MLB50916106",
+   "title": "Carrinho Organizador Multiuso 3 Prateleiras Cesto Auxiliar Com Roda E Alça Irsina",
+   "price": 78.98,
+   "original": 174.9,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_827903-MLA99367785988_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/carrinho-organizador-multiuso-3-prateleiras-cesto-auxiliar-com-roda-e-alca-irsina/p/MLB50916106?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794419788
+  },
   {
    "n": 1807,
    "key": "mercadolivre:MLB80743912",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794393702
-  },
-  {
-   "n": 1748,
-   "key": "mercadolivre:MLB59322248",
-   "title": "Máquina De Lavar Branca Consul 12kg Com Dosagem Econômica E Cor Branco 110v",
-   "price": 1599.0,
-   "original": 1777.0,
-   "pct": 10,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_612560-MLA99968162739_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-branca-consul-12kg-com-dosagem-economica-e-cor-branco-110v/p/MLB59322248?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794393281
   }
  ]
 }
