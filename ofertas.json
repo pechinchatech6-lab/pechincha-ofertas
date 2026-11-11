@@ -1,7 +1,21 @@
 {
- "updated": 1794357738,
+ "updated": 1794358550,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1672,
+   "key": "mercadolivre:MLB54440434",
+   "title": "Saída de Praia Calça Plus Size Branca B&B Tamanho G1 Algodão Tricô",
+   "price": 37.48,
+   "original": 49.55,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631555-MLA95520279052_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/saida-de-praia-calca-plus-size-branca-b-b-tamanho-g1-algodao-trico/p/MLB54440434?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794358530
+  },
   {
    "n": 1671,
    "key": "mercadolivre:MLB43534649",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794331483
-  },
-  {
-   "n": 1612,
-   "key": "mercadolivre:MLB27048678",
-   "title": "Caixa De Som Retro Bluetooth Radio Fm Usb Vintage Lanterna Cor Marrom",
-   "price": 77.0,
-   "original": 98.0,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_683806-MLA99562259620_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-retro-bluetooth-radio-fm-usb-vintage-lanterna-cor-marrom/p/MLB27048678?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794331062
   }
  ]
 }
