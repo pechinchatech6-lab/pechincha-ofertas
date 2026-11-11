@@ -1,7 +1,21 @@
 {
- "updated": 1794390354,
+ "updated": 1794390775,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1742,
+   "key": "mercadolivre:MLB46189259",
+   "title": "Parafusadeira e Furadeira WF12K3.2 Bateria 12V WAP",
+   "price": 119.0,
+   "original": 196.0,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_804305-MLA119589286173_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-wf12k3-2-bateria-12v-wap/p/MLB46189259?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794390755
+  },
   {
    "n": 1741,
    "key": "mercadolivre:MLB57719746",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794364377
-  },
-  {
-   "n": 1682,
-   "key": "mercadolivre:MLB42037727",
-   "title": "Webcam Emeet C60e 4k 30Fps Uhd 8mp Foco Automático 1080P 60fps Camera Para PC 2 microfon VideoConferencia Preto",
-   "price": 195.99,
-   "original": 259.0,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_612329-MLA105513922053_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-emeet-c60e-4k-30fps-uhd-8mp-foco-automatico-1080p-60fps-camera-para-pc-2-microfon-videoconferencia-preto/p/MLB42037727?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794363956
   }
  ]
 }
