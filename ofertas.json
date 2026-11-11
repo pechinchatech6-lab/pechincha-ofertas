@@ -1,7 +1,21 @@
 {
- "updated": 1794374406,
+ "updated": 1794374827,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1707,
+   "key": "mercadolivre:MLB26826554",
+   "title": "Caixa De Som Speaker Aiwa AWS-SP-01 Bluetooth Cor Preto",
+   "price": 159.0,
+   "original": 349.9,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_812534-MLA99524049864_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-speaker-aiwa-aws-sp-01-bluetooth-cor-preto/p/MLB26826554?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794374807
+  },
   {
    "n": 1706,
    "key": "mercadolivre:MLB39205913",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794346498
-  },
-  {
-   "n": 1647,
-   "key": "mercadolivre:MLB26607995",
-   "title": "Saia Pareô Canga Preta Marujá Beach Viscose Pompom Tamanho 42-46",
-   "price": 39.8,
-   "original": 54.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_918425-MLA99582022534_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/saia-pareo-canga-preta-maruja-beach-viscose-pompom-tamanho-42-46/p/MLB26607995?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794346077
   }
  ]
 }
