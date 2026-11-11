@@ -1,7 +1,21 @@
 {
- "updated": 1794361029,
+ "updated": 1794361450,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1676,
+   "key": "mercadolivre:MLB34233590",
+   "title": "Ventilador Arno X-treme 9 Mesa 40cm Ve90",
+   "price": 298.0,
+   "original": 349.99,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_686594-MLA99930624347_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-arno-x-treme-9-mesa-40cm-ve90/p/MLB34233590?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794361430
+  },
   {
    "n": 1675,
    "key": "mercadolivre:MLB24326256",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794333167
-  },
-  {
-   "n": 1616,
-   "key": "mercadolivre:MLB57673254",
-   "title": "Mini Geladeira Portatil 4 Litros 5v Usb Aquece Esfria Carro Cor Preto",
-   "price": 241.0,
-   "original": 500.0,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_822020-MLA96100187615_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-geladeira-portatil-4-litros-5v-usb-aquece-esfria-carro-cor-preto/p/MLB57673254?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794332746
   }
  ]
 }
