@@ -1,7 +1,21 @@
 {
- "updated": 1794437736,
+ "updated": 1794438157,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1842,
+   "key": "mercadolivre:MLB23888631",
+   "title": "Secador Taiff Tourmaline Íon 2100W – Alta Performance Preto",
+   "price": 307.04,
+   "original": 499.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_899500-MLA100080591947_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-taiff-tourmaline-ion-2100w-alta-performance-preto/p/MLB23888631?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794438137
+  },
   {
    "n": 1841,
    "key": "mercadolivre:MLB50939549",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794409263
-  },
-  {
-   "n": 1782,
-   "key": "mercadolivre:MLB16030232",
-   "title": "Aparador de Pelos Kemei KM-6776 Preto 3 em 1 Nariz e Barba Sem Fio",
-   "price": 48.9,
-   "original": 78.89,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_754437-MLA99453200484_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-kemei-km-6776-preto-3-em-1-nariz-e-barba-sem-fio/p/MLB16030232?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794408842
   }
  ]
 }
