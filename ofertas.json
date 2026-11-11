@@ -1,7 +1,21 @@
 {
- "updated": 1794405494,
+ "updated": 1794405915,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1775,
+   "key": "mercadolivre:MLB80167828",
+   "title": "Bundle Nintendo Switch 2 + Mario Kart World + 3 Meses NSO",
+   "price": 4299.9,
+   "original": 5699.9,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_642168-MLA118780566083_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bundle-nintendo-switch-2-mario-kart-world-3-meses-nso/p/MLB80167828?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794405895
+  },
   {
    "n": 1774,
    "key": "mercadolivre:MLB63467528",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794379589
-  },
-  {
-   "n": 1715,
-   "key": "mercadolivre:MLB20993983",
-   "title": "Hidratante Facial Epidrat Calm B5 Para Pele Sensível 50ml Mantecorp",
-   "price": 69.9,
-   "original": 104.9,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_670612-MLB74162425659_012024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hidratante-facial-epidrat-calm-b5-para-pele-sensivel-50ml-mantecorp/p/MLB20993983?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794379168
   }
  ]
 }
