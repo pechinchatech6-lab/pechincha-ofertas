@@ -1,7 +1,21 @@
 {
- "updated": 1794373985,
+ "updated": 1794374406,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1706,
+   "key": "mercadolivre:MLB39205913",
+   "title": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43lr6700psa Hdr10 Pro",
+   "price": 1599.0,
+   "original": 2999.0,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_741946-MLA107875422514_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-lg-43-ld-wifi-bluetooth-full-hd-43lr6700psa-hdr10-pro/p/MLB39205913?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794374386
+  },
   {
    "n": 1705,
    "key": "mercadolivre:MLB42164469",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794346077
-  },
-  {
-   "n": 1646,
-   "key": "mercadolivre:MLB47245501",
-   "title": "Smartphone Motorola Edge 60 Fusion 5g - 256gb 8gb Ram+8gb Ram Boost, 50mp Sony Ai Camera Ip68 Nfc - Cinza Vegan Leather",
-   "price": 1999.0,
-   "original": 3299.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631624-MLA99926713059_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-fusion-5g-256gb-8gb-ram-8gb-ram-boost-50mp-sony-ai-camera-ip68-nfc-cinza-vegan-leather/p/MLB47245501?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794345656
   }
  ]
 }
