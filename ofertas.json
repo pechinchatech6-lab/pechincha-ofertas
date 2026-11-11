@@ -1,7 +1,21 @@
 {
- "updated": 1794355211,
+ "updated": 1794355632,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1666,
+   "key": "mercadolivre:MLB34016199",
+   "title": "Microfone de Lapela Sem Fio Hollyland Lark M2 Combo (USB-C, Lightning e Câmera)",
+   "price": 598.5,
+   "original": 999.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_644387-MLA119786973369_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microfone-de-lapela-sem-fio-hollyland-lark-m2-combo-usb-c-lightning-e-camera/p/MLB34016199?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794355612
+  },
   {
    "n": 1665,
    "key": "mercadolivre:MLB51233234",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794328957
-  },
-  {
-   "n": 1606,
-   "key": "mercadolivre:MLB37931954",
-   "title": "Fone De Ouvido Sem Fio Para Treinos soundcore Sport X20 ANC Cancelamento De Ruído Ativo Bluetooth 5.3 Multiponto Ganchos Ajustáveis Graves Potentes Bateria 48H ",
-   "price": 479.0,
-   "original": 816.0,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_980790-MLA99367365098_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-para-treinos-soundcore-sport-x20-anc-cancelamento-de-ruido-ativo-bluetooth-5-3-multiponto-ganchos/p/MLB37931954?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794328536
   }
  ]
 }
