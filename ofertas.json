@@ -1,7 +1,21 @@
 {
- "updated": 1794394564,
+ "updated": 1794394985,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1752,
+   "key": "mercadolivre:MLB40346127",
+   "title": "NIVEA Hidratante Labial Hidra Color 3 em 1 Rosé 4,8g, Cor Intensa, Hidratação 24h, Proteção UVA/UVB, Lábios e Bochechas",
+   "price": 19.15,
+   "original": 30.99,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_896307-MLA104534508623_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivea-hidratante-labial-hidra-color-3-em-1-rose-4-8g-cor-intensa-hidratacao-24h-protecao-uva-uvb-labios-e-bochechas/p/MLB40346127?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794394965
+  },
   {
    "n": 1751,
    "key": "mercadolivre:MLB45474714",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794368587
-  },
-  {
-   "n": 1692,
-   "key": "mercadolivre:MLB29043746",
-   "title": "Webcam Emeet C960 4k Videoconferência Para Pc 1080p 60fps Preto",
-   "price": 242.99,
-   "original": 374.99,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_617398-MLA99988184761_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-emeet-c960-4k-videoconferencia-para-pc-1080p-60fps-preto/p/MLB29043746?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794368166
   }
  ]
 }
