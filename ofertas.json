@@ -1,7 +1,21 @@
 {
- "updated": 1794410546,
+ "updated": 1794410967,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1787,
+   "key": "mercadolivre:MLB20870718",
+   "title": "Proteína New Millen Premium Whey Isolado Isolate em pó sabor Morango x 900g",
+   "price": 134.83,
+   "original": 249.32,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_667292-MLA112330453655_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/proteina-new-millen-premium-whey-isolado-isolate-em-po-sabor-morango-x-900g/p/MLB20870718?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794410947
+  },
   {
    "n": 1786,
    "key": "mercadolivre:MLB80756614",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794384641
-  },
-  {
-   "n": 1727,
-   "key": "mercadolivre:MLB29360695",
-   "title": "Kit Multímetro Digital Minipa ET-1002 10A CAT I 600V Com 2 Conectores De Emenda Wago 221-2411",
-   "price": 86.9,
-   "original": 178.0,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_824408-MLA118643361088_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-multimetro-digital-minipa-et-1002-10a-cat-i-600v-com-2-conectores-de-emenda-wago-221-2411/p/MLB29360695?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794384220
   }
  ]
 }
