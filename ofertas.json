@@ -1,7 +1,21 @@
 {
- "updated": 1794360608,
+ "updated": 1794361029,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1675,
+   "key": "mercadolivre:MLB24326256",
+   "title": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 40ml",
+   "price": 71.52,
+   "original": 109.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_695558-MLA119937437423_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-multirreparador-pele-sensivel-cicaplast-baume-b5-la-roche-posay-40ml/p/MLB24326256?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794361009
+  },
   {
    "n": 1674,
    "key": "mercadolivre:MLB35556218",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794332746
-  },
-  {
-   "n": 1615,
-   "key": "mercadolivre:MLB55232692",
-   "title": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca 1L - Hidratação 48h",
-   "price": 129.9,
-   "original": 205.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_800625-MLA118013409895_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cetaphil-locao-hidratante-corporal-e-facial-para-pele-sensivel-normal-a-seca-1l-hidratacao-48h/p/MLB55232692?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794332325
   }
  ]
 }
