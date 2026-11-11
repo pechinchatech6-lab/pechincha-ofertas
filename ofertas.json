@@ -1,7 +1,21 @@
 {
- "updated": 1794359580,
+ "updated": 1794360608,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1674,
+   "key": "mercadolivre:MLB35556218",
+   "title": "Ventilador De Teto C/ Controle 6 Vel. Fenix Ventisol",
+   "price": 299.0,
+   "original": 339.0,
+   "pct": 12,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_963344-MLA96100910929_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-teto-c-controle-6-vel-fenix-ventisol/p/MLB35556218?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794360588
+  },
   {
    "n": 1673,
    "key": "mercadolivre:MLB66911368",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794332325
-  },
-  {
-   "n": 1614,
-   "key": "mercadolivre:MLB45308620",
-   "title": "Cabeçote Compressor Pró Euro 10 Pcm Pés 140 Psi Libras",
-   "price": 679.9,
-   "original": 999.9,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_754151-MLA118250519029_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cabecote-compressor-pro-euro-10-pcm-pes-140-psi-libras/p/MLB45308620?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794331904
   }
  ]
 }
