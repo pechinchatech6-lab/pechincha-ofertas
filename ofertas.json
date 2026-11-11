@@ -1,7 +1,21 @@
 {
- "updated": 1794397932,
+ "updated": 1794398353,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1760,
+   "key": "mercadolivre:MLB70516181",
+   "title": "Relógio Despertador Analógico Vintage Prateado, de Metal com Dois Sinos e Luz Noturna",
+   "price": 26.99,
+   "original": 36.5,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_713937-MLA113102590587_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-despertador-analogico-vintage-prateado-de-metal-com-dois-sinos-e-luz-noturna/p/MLB70516181?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794398333
+  },
   {
    "n": 1759,
    "key": "mercadolivre:MLB37258669",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794371955
-  },
-  {
-   "n": 1700,
-   "key": "mercadolivre:MLB79818260",
-   "title": "Aparador Depilador Feminino 4 Em 1 Pelos Íntimos Rosto Corpo Sobrancelhas Nariz Barbeador Corporal Super Brasileirinho",
-   "price": 29.98,
-   "original": 119.0,
-   "pct": 75,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_885910-MLA116621373284_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-depilador-feminino-4-em-1-pelos-intimos-rosto-corpo-sobrancelhas-nariz-barbeador-corporal-super-brasileirinho/p/MLB79818260?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794371534
   }
  ]
 }
