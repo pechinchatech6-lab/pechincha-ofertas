@@ -1,7 +1,21 @@
 {
- "updated": 1794436699,
+ "updated": 1794437736,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1841,
+   "key": "mercadolivre:MLB50939549",
+   "title": "Controle 8BitDo Ultimate 2 Bluetooth Preto",
+   "price": 359.9,
+   "original": 499.99,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_679491-MLA112992355209_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-8bitdo-ultimate-2-bluetooth-preto/p/MLB50939549?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794437716
+  },
   {
    "n": 1840,
    "key": "mercadolivre:MLB57723873",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794408842
-  },
-  {
-   "n": 1781,
-   "key": "mercadolivre:MLB50181290",
-   "title": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Simake",
-   "price": 119.6,
-   "original": 299.0,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_835659-MLA116548375638_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-c-2-baterias-maleta-kit-completo-led-eixo-flexivel-varios-niveis-torque-simake/p/MLB50181290?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794408421
   }
  ]
 }
