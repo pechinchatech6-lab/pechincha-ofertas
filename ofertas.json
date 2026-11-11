@@ -1,7 +1,21 @@
 {
- "updated": 1794380872,
+ "updated": 1794381293,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1720,
+   "key": "mercadolivre:MLB19512139",
+   "title": "Secador de Cabelos Taiff Vulcan Diamante Íon Cerâmica Motor AC Profissional 2500W",
+   "price": 584.89,
+   "original": 961.43,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_905613-MLA99472146490_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-taiff-vulcan-diamante-ion-ceramica-motor-ac-profissional-2500w/p/MLB19512139?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794381273
+  },
   {
    "n": 1719,
    "key": "mercadolivre:MLB60126432",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794353507
-  },
-  {
-   "n": 1660,
-   "key": "mercadolivre:MLB18572379",
-   "title": "Secador De Cabelos Style Azul Tiffany 2000w Taiff Azul",
-   "price": 194.06,
-   "original": 299.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_612568-MLA113216391522_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-style-azul-tiffany-2000w-taiff-azul/p/MLB18572379?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794353086
   }
  ]
 }
