@@ -1,7 +1,21 @@
 {
- "updated": 1794403190,
+ "updated": 1794403810,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1770,
+   "key": "mercadolivre:MLB72990342",
+   "title": "Lip Tint Boca Rosa Batom Blush 10ml Vermelho Paixão",
+   "price": 36.3,
+   "original": 62.38,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_687050-MLA111868733898_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lip-tint-boca-rosa-batom-blush-10ml-vermelho-paixao/p/MLB72990342?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794403790
+  },
   {
    "n": 1769,
    "key": "mercadolivre:MLB62291004",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794377484
-  },
-  {
-   "n": 1710,
-   "key": "mercadolivre:MLB49652036",
-   "title": "Secador De Cabelos Philco psc3500 4 Em 1 dobrável motor bldc Prateado",
-   "price": 376.0,
-   "original": 829.99,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_875331-MLA117081876247_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-philco-psc3500-4-em-1-dobravel-motor-bldc-prateado/p/MLB49652036?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794377063
   }
  ]
 }
