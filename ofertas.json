@@ -1,7 +1,21 @@
 {
- "updated": 1794377083,
+ "updated": 1794377504,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1711,
+   "key": "mercadolivre:MLB37927083",
+   "title": "Caixa de Som Philco Extreme 380W Flash Lights PCX4800",
+   "price": 479.0,
+   "original": 799.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_954643-MLA96761509429_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-philco-extreme-380w-flash-lights-pcx4800/p/MLB37927083?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794377484
+  },
   {
    "n": 1710,
    "key": "mercadolivre:MLB49652036",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794348726
-  },
-  {
-   "n": 1651,
-   "key": "mercadolivre:MLB30917968",
-   "title": "Caixa de Som Amplificada Amvox ACA 1101 Duplo 8 Black 1100W Woofer 8\"",
-   "price": 795.4,
-   "original": 1299.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_664631-MLA99508571080_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-amplificada-amvox-aca-1101-duplo-8-black-1100w-woofer-8/p/MLB30917968?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794348305
   }
  ]
 }
