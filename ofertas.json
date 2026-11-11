@@ -1,7 +1,21 @@
 {
- "updated": 1794410967,
+ "updated": 1794411388,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1788,
+   "key": "mercadolivre:MLB41195234",
+   "title": "Controle GameSir G7 HE para Xbox One Series S X PC Joystick Hall Effect Vibração Ajustável Cor Preto",
+   "price": 259.0,
+   "original": 499.9,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_719231-MLA99963023017_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-he-para-xbox-one-series-s-x-pc-joystick-hall-effect-vibracao-ajustavel-cor-preto/p/MLB41195234?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794411368
+  },
   {
    "n": 1787,
    "key": "mercadolivre:MLB20870718",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794385282
-  },
-  {
-   "n": 1728,
-   "key": "mercadolivre:MLB68770277",
-   "title": "Aparador De Pelos Nariz E Orelha Elétrico Recarregável Sem Fio Acemic Preto Cortador Nasal Portátil Masculino E Feminino Para Higiene Pessoal Remoção De Pelos C",
-   "price": 19.39,
-   "original": 39.99,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674222-MLA110090137172_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-nariz-e-orelha-eletrico-recarregavel-sem-fio-acemic-preto-cortador-nasal-portatil-masculino-e-feminino/p/MLB68770277?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794384641
   }
  ]
 }
