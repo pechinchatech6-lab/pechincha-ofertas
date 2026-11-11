@@ -1,7 +1,21 @@
 {
- "updated": 1794368607,
+ "updated": 1794369028,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1694,
+   "key": "mercadolivre:MLB53816191",
+   "title": "Webcam Intelbras WCI-720p HD com Microfone e Tampa de Lente USB",
+   "price": 105.29,
+   "original": 139.0,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_864804-MLA100169344723_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-intelbras-wci-720p-hd-com-microfone-e-tampa-de-lente-usb/p/MLB53816191?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794369008
+  },
   {
    "n": 1693,
    "key": "mercadolivre:MLB70211597",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794340747
-  },
-  {
-   "n": 1634,
-   "key": "mercadolivre:MLB62219543",
-   "title": "Creme Depilatório Facial 3 Em 1 Avon Care 30 G",
-   "price": 19.49,
-   "original": 29.53,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_901075-MLA104257485275_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatorio-facial-3-em-1-avon-care-30-g/p/MLB62219543?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794340326
   }
  ]
 }
