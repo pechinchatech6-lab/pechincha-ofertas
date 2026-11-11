@@ -1,7 +1,21 @@
 {
- "updated": 1794421218,
+ "updated": 1794421639,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1811,
+   "key": "mercadolivre:MLB19510151",
+   "title": "ISDIN Creme Corporal Woman Antiestrias Apto para Grávidas - 245g",
+   "price": 99.0,
+   "original": 159.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_668300-MLA88631934993_072025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/isdin-creme-corporal-woman-antiestrias-apto-para-gravidas-245g/p/MLB19510151?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794421619
+  },
   {
    "n": 1810,
    "key": "mercadolivre:MLB78840757",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794394965
-  },
-  {
-   "n": 1751,
-   "key": "mercadolivre:MLB45474714",
-   "title": "Chinelo Feminino Slim Havaianas",
-   "price": 39.09,
-   "original": 54.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_671885-MLA81672743644_012025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chinelo-feminino-slim-havaianas/p/MLB45474714?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794394544
   }
  ]
 }
