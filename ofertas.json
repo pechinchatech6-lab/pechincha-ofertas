@@ -1,7 +1,21 @@
 {
- "updated": 1794388249,
+ "updated": 1794388670,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1737,
+   "key": "mercadolivre:MLB23863899",
+   "title": "Cinto Masculino Social Ferracini Couro Legitimo Fc565a Cor Preto Tamanho 120",
+   "price": 74.0,
+   "original": 126.4,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_662652-MLA99549409232_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cinto-masculino-social-ferracini-couro-legitimo-fc565a-cor-preto-tamanho-120/p/MLB23863899?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794388650
+  },
   {
    "n": 1736,
    "key": "mercadolivre:MLB68988947",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794362272
-  },
-  {
-   "n": 1677,
-   "key": "mercadolivre:MLB67292186",
-   "title": "Gel Creme Hidratante Facial Hialurônico Toque Seco com Ácido Hialurônico, Niacinamida e Aloe Vera, Peles Mistas e Oleosas, 85g",
-   "price": 24.37,
-   "original": 44.59,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_763003-MLA110264577538_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/gel-creme-hidratante-facial-hialuronico-toque-seco-com-acido-hialuronico-niacinamida-e-aloe-vera-peles-mistas-e-oleosas-/p/MLB67292186?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794361851
   }
  ]
 }
