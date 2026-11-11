@@ -1,7 +1,21 @@
 {
- "updated": 1794371975,
+ "updated": 1794372396,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1702,
+   "key": "mercadolivre:MLB68020736",
+   "title": "Caixa De Som Soundbar RMS 200W Home Theater Tv Sound Bar Com Subwoofer Bluetooth Som Cinema, Com HDMI ARC, óptico, AUX e Coaxial",
+   "price": 642.51,
+   "original": 1299.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_823006-MLA118820005541_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-soundbar-rms-200w-home-theater-tv-sound-bar-com-subwoofer-bluetooth-som-cinema-com-hdmi-arc-optico-aux-e-co/p/MLB68020736?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794372376
+  },
   {
    "n": 1701,
    "key": "mercadolivre:MLB40182325",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794344393
-  },
-  {
-   "n": 1642,
-   "key": "mercadolivre:MLB77363281",
-   "title": "Kit de Brilho Labial Hidratante Fran by Franciny Ehlke com Gloss Lip Bunny e Franboesa",
-   "price": 39.82,
-   "original": 104.7,
-   "pct": 62,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_842770-MLA116205993339_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-de-brilho-labial-hidratante-fran-by-franciny-ehlke-com-gloss-lip-bunny-e-franboesa/p/MLB77363281?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794343972
   }
  ]
 }
