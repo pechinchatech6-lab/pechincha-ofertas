@@ -1,7 +1,21 @@
 {
- "updated": 1794377504,
+ "updated": 1794377925,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1712,
+   "key": "mercadolivre:MLB64641216",
+   "title": "Ventilador de Coluna Britânia 6 Pás de 40cm 160W BVC41A",
+   "price": 170.1,
+   "original": 189.0,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_702322-MLA105457895165_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-britania-6-pas-de-40cm-160w-bvc41a/p/MLB64641216?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794377905
+  },
   {
    "n": 1711,
    "key": "mercadolivre:MLB37927083",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794349147
-  },
-  {
-   "n": 1652,
-   "key": "mercadolivre:MLB23553444",
-   "title": "Soprador Térmico Stv150n 1500w - Vonder cor Amarelo",
-   "price": 132.0,
-   "original": 217.15,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_802856-MLA99453804192_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-termico-stv150n-1500w-vonder-cor-amarelo/p/MLB23553444?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794348726
   }
  ]
 }
