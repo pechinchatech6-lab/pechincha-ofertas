@@ -1,7 +1,21 @@
 {
- "updated": 1794384661,
+ "updated": 1794385302,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1729,
+   "key": "mercadolivre:MLB62445524",
+   "title": "Nível Laser Verde 16 Linhas War Shark 2 Bateria+1.2m Tripé",
+   "price": 259.0,
+   "original": 500.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_770451-MLA113890807023_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-2-bateria-1-2m-tripe/p/MLB62445524?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794385282
+  },
   {
    "n": 1728,
    "key": "mercadolivre:MLB68770277",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794357297
-  },
-  {
-   "n": 1669,
-   "key": "mercadolivre:MLB25925806",
-   "title": "Furadeira De Mourão Á Gasolina 0,6kw 23cc Tpd23 - Toyama",
-   "price": 1084.0,
-   "original": 1529.0,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_946040-MLA96208793020_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/furadeira-de-mourao-a-gasolina-0-6kw-23cc-tpd23-toyama/p/MLB25925806?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794356876
   }
  ]
 }
