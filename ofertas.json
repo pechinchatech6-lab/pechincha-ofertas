@@ -1,7 +1,21 @@
 {
- "updated": 1794434530,
+ "updated": 1794434951,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1838,
+   "key": "mercadolivre:MLB65312129",
+   "title": "Geladeira Brastemp Frost Free Inverse 500 Litros Branca - BRE66A",
+   "price": 3892.55,
+   "original": 5099.0,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_792259-MLA106662707437_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-brastemp-frost-free-inverse-500-litros-branca-bre66a/p/MLB65312129?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794434931
+  },
   {
    "n": 1837,
    "key": "mercadolivre:MLB50382362",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794407579
-  },
-  {
-   "n": 1778,
-   "key": "mercadolivre:MLB70449712",
-   "title": "Body Splash Masculino Vibration 200ml - Primacial Perfume Bergamota Fresco",
-   "price": 41.61,
-   "original": 69.9,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_617155-MLA118231595864_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/body-splash-masculino-vibration-200ml-primacial-perfume-bergamota-fresco/p/MLB70449712?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794407158
   }
  ]
 }
