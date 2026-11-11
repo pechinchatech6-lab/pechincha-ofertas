@@ -1,7 +1,21 @@
 {
- "updated": 1794374827,
+ "updated": 1794375248,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1708,
+   "key": "mercadolivre:MLB19465754",
+   "title": "Batom Líquido Vinyl Ink 16h Vegano 35 Cheeky SuperStay Maybelline 4,2ml",
+   "price": 63.69,
+   "original": 108.49,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_752720-MLA88033588370_072025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/batom-liquido-vinyl-ink-16h-vegano-35-cheeky-superstay-maybelline-4-2ml/p/MLB19465754?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794375228
+  },
   {
    "n": 1707,
    "key": "mercadolivre:MLB26826554",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794346919
-  },
-  {
-   "n": 1648,
-   "key": "mercadolivre:MLB77579125",
-   "title": "Caixa De Som Bluetooth Sem fio Inova Branco Com Despertador Rádio Fm Relógio Led Luz RGB",
-   "price": 68.53,
-   "original": 125.0,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_924392-MLA116356748095_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-sem-fio-inova-branco-com-despertador-radio-fm-relogio-led-luz-rgb/p/MLB77579125?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794346498
   }
  ]
 }
