@@ -1,7 +1,21 @@
 {
- "updated": 1794364397,
+ "updated": 1794364819,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1684,
+   "key": "mercadolivre:MLB53218854",
+   "title": "Webcam Full HD 1080p com Microfone USB Plug & Play Foco Automático Para PC Notebook Zoom Teams Meet Skype YouTube Discord e Mais – Ideal para Home Office Reuniõ",
+   "price": 29.9,
+   "original": 69.9,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_632903-MLA121207601925_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-full-hd-1080p-com-microfone-usb-plug-play-foco-automatico-para-pc-notebook-zoom-teams-meet-skype-youtube-discord-/p/MLB53218854?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794364798
+  },
   {
    "n": 1683,
    "key": "mercadolivre:MLB19140415",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794336537
-  },
-  {
-   "n": 1624,
-   "key": "mercadolivre:MLB66586631",
-   "title": "Sérum Leave-in Pantene Bambu Força Nutrição Controle de Frizz 95 ml",
-   "price": 23.38,
-   "original": 30.9,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_787381-MLA117877945461_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/serum-leave-in-pantene-bambu-forca-nutricao-controle-de-frizz-95-ml/p/MLB66586631?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794336115
   }
  ]
 }
