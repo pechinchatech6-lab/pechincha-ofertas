@@ -1,7 +1,21 @@
 {
- "updated": 1794428440,
+ "updated": 1794428861,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1824,
+   "key": "mercadolivre:MLB27341794",
+   "title": "Ventilador de Coluna 40cm Super Power VSP40C 6 Pás 3 Velocidades Mondial",
+   "price": 199.0,
+   "original": 289.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_911216-MLA114704223805_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-40cm-super-power-vsp40c-6-pas-3-velocidades-mondial/p/MLB27341794?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794428841
+  },
   {
    "n": 1823,
    "key": "mercadolivre:MLB62147878",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794400930
-  },
-  {
-   "n": 1764,
-   "key": "mercadolivre:MLB51065768",
-   "title": "Depilador Philips Satinelli Bre229/00 Bivolt - Rosa",
-   "price": 155.9,
-   "original": 324.88,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_776474-MLA85503831924_062025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-philips-satinelli-bre229-00-bivolt-rosa/p/MLB51065768?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794400509
   }
  ]
 }
