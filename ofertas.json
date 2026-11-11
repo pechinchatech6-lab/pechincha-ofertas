@@ -1,7 +1,21 @@
 {
- "updated": 1794430741,
+ "updated": 1794431162,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1829,
+   "key": "mercadolivre:MLB69966498",
+   "title": "Microfone Duplo Redução De Ruído Sem Fio Magnético Zcco J6 Cor Amarelo",
+   "price": 232.0,
+   "original": 359.13,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_662961-MLA111857199145_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microfone-duplo-reducao-de-ruido-sem-fio-magnetico-zcco-j6-cor-amarelo/p/MLB69966498?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794431142
+  },
   {
    "n": 1828,
    "key": "mercadolivre:MLB15238956",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794403790
-  },
-  {
-   "n": 1769,
-   "key": "mercadolivre:MLB62291004",
-   "title": "1500 N.m Chave De Impacto Profissional 48V Brushless 2 Baterias 4000ma War Shark Bivolt",
-   "price": 387.03,
-   "original": 999.0,
-   "pct": 61,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_887072-MLA116515153103_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/1500-n-m-chave-de-impacto-profissional-48v-brushless-2-baterias-4000ma-war-shark-bivolt/p/MLB62291004?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794403170
   }
  ]
 }
