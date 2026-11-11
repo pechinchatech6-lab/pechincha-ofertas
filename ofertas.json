@@ -1,7 +1,21 @@
 {
- "updated": 1794408862,
+ "updated": 1794409283,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1783,
+   "key": "mercadolivre:MLB75630201",
+   "title": "Parafusadeira 48 Volts Furadeira De Precisão C/ 2 Baterias Multifuncional Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Para Parafusos Telhados Man",
+   "price": 119.9,
+   "original": 236.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_980155-MLA116841046820_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-48-volts-furadeira-de-precisao-c-2-baterias-multifuncional-maleta-kit-completo-led-eixo-flexivel-varios-ni/p/MLB75630201?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794409263
+  },
   {
    "n": 1782,
    "key": "mercadolivre:MLB16030232",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794382957
-  },
-  {
-   "n": 1723,
-   "key": "mercadolivre:MLB23913684",
-   "title": "Trena Profissional 10 Metros 25mm Emborrachada Reforçada Fita de Aço Com Trava Manual Medição",
-   "price": 24.5,
-   "original": 34.99,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_813291-MLA117865477671_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/trena-profissional-10-metros-25mm-emborrachada-reforcada-fita-de-aco-com-trava-manual-medicao/p/MLB23913684?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794382536
   }
  ]
 }
