@@ -1,7 +1,21 @@
 {
- "updated": 1794403810,
+ "updated": 1794404231,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1771,
+   "key": "mercadolivre:MLB69204083",
+   "title": "Esmerilhadeira Lixadeira Angular 950w 6 Velocidades 115mm Amarelo 60hz",
+   "price": 139.0,
+   "original": 300.0,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_985186-MLA111238705441_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/esmerilhadeira-lixadeira-angular-950w-6-velocidades-115mm-amarelo-60hz/p/MLB69204083?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794404211
+  },
   {
    "n": 1770,
    "key": "mercadolivre:MLB72990342",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794377905
-  },
-  {
-   "n": 1711,
-   "key": "mercadolivre:MLB37927083",
-   "title": "Caixa de Som Philco Extreme 380W Flash Lights PCX4800",
-   "price": 479.0,
-   "original": 799.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_954643-MLA96761509429_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-philco-extreme-380w-flash-lights-pcx4800/p/MLB37927083?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794377484
   }
  ]
 }
