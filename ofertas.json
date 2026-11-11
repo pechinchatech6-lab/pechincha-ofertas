@@ -1,7 +1,21 @@
 {
- "updated": 1794400950,
+ "updated": 1794401371,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1766,
+   "key": "mercadolivre:MLB77331725",
+   "title": "Alicate Tesoura para Cortar Arame Vergalhão e Cabo de Aço 3,2mm para Construção Serralheria Oficina Ferramenta Manual 8 Polegadas",
+   "price": 29.75,
+   "original": 64.99,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_659601-MLA116194121551_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-tesoura-para-cortar-arame-vergalhao-e-cabo-de-aco-3-2mm-para-construcao-serralheria-oficina-ferramenta-manual-8-/p/MLB77331725?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794401351
+  },
   {
    "n": 1765,
    "key": "mercadolivre:MLB77356916",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794374807
-  },
-  {
-   "n": 1706,
-   "key": "mercadolivre:MLB39205913",
-   "title": "Smart Tv Lg 43 Ld Wifi Bluetooth Full Hd 43lr6700psa Hdr10 Pro",
-   "price": 1599.0,
-   "original": 2999.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_741946-MLA107875422514_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-lg-43-ld-wifi-bluetooth-full-hd-43lr6700psa-hdr10-pro/p/MLB39205913?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794374386
   }
  ]
 }
