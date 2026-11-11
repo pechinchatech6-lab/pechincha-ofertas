@@ -1,7 +1,21 @@
 {
- "updated": 1794409283,
+ "updated": 1794409704,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1784,
+   "key": "mercadolivre:MLB28407045",
+   "title": "Webcam Full HD Logitech Brio 100 - Grafite",
+   "price": 169.0,
+   "original": 225.0,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_874264-MLA106268664373_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-brio-100-grafite/p/MLB28407045?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794409684
+  },
   {
    "n": 1783,
    "key": "mercadolivre:MLB75630201",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794383378
-  },
-  {
-   "n": 1724,
-   "key": "mercadolivre:MLB48927245",
-   "title": "Prancha De Cabelo Bpr04 Linha Viih Tube 230c Britânia Bivolt Rosa",
-   "price": 110.31,
-   "original": 220.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_792912-MLA99972188759_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/prancha-de-cabelo-bpr04-linha-viih-tube-230c-britania-bivolt-rosa/p/MLB48927245?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794382957
   }
  ]
 }
