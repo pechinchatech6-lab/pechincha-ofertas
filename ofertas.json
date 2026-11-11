@@ -1,7 +1,21 @@
 {
- "updated": 1794416861,
+ "updated": 1794417282,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1802,
+   "key": "mercadolivre:MLB66421865",
+   "title": "Caixa de som torre Pulse Sp518 Bluetooth / LED - 2000w cor preto",
+   "price": 945.9,
+   "original": 1592.0,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_864633-MLA108802288953_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-torre-pulse-sp518-bluetooth-led-2000w-cor-preto/p/MLB66421865?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794417262
+  },
   {
    "n": 1801,
    "key": "mercadolivre:MLB19698479",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794391176
-  },
-  {
-   "n": 1742,
-   "key": "mercadolivre:MLB46189259",
-   "title": "Parafusadeira e Furadeira WF12K3.2 Bateria 12V WAP",
-   "price": 119.0,
-   "original": 196.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_804305-MLA119589286173_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-wf12k3-2-bateria-12v-wap/p/MLB46189259?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794390755
   }
  ]
 }
