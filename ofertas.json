@@ -1,7 +1,21 @@
 {
- "updated": 1794434951,
+ "updated": 1794435683,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1839,
+   "key": "mercadolivre:MLB28047478",
+   "title": "Corretivo Líquido Claro Concealer Edition Tom Light 15g Océane",
+   "price": 41.9,
+   "original": 76.36,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_835317-MLU72697942292_112023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/corretivo-liquido-claro-concealer-edition-tom-light-15g-oceane/p/MLB28047478?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794435663
+  },
   {
    "n": 1838,
    "key": "mercadolivre:MLB65312129",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794408000
-  },
-  {
-   "n": 1779,
-   "key": "mercadolivre:MLB23122766",
-   "title": "EMEET S600 4K Webcam 1080P 60Fps Camera Para Pc Streaming Con Microfone Automático Full HD Videoconferencia",
-   "price": 355.11,
-   "original": 399.0,
-   "pct": 11,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_639218-MLA112743784625_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/emeet-s600-4k-webcam-1080p-60fps-camera-para-pc-streaming-con-microfone-automatico-full-hd-videoconferencia/p/MLB23122766?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794407579
   }
  ]
 }
