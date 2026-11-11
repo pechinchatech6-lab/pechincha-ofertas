@@ -1,7 +1,21 @@
 {
- "updated": 1794391617,
+ "updated": 1794392038,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1745,
+   "key": "mercadolivre:MLB60948234",
+   "title": "Caixa De Som Bluetooth Caixinha Som Portátil Potente Tws Com Rádio Rgb Hifi Som À Prova D'água Ipx67 De Multimodo Bluetooth/Cartão Tf/Entrada Aux/Tws Para Inter",
+   "price": 169.0,
+   "original": 241.43,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_731403-MLA99979896537_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-caixinha-som-portatil-potente-tws-com-radio-rgb-hifi-som-a-prova-d-agua-ipx67-de-multimodo-blueto/p/MLB60948234?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794392018
+  },
   {
    "n": 1744,
    "key": "mercadolivre:MLB48196257",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794365640
-  },
-  {
-   "n": 1685,
-   "key": "mercadolivre:MLB48808732",
-   "title": "Smart Tv Tcl 55 Polegadas Qd-Mini Led 4k C6k Wifi Bluetooth Google Tv 4 Hdmi 144hz Hdr10+ 55c6k",
-   "price": 3119.0,
-   "original": 3599.0,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_976857-MLA114607312864_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-tcl-55-polegadas-qd-mini-led-4k-c6k-wifi-bluetooth-google-tv-4-hdmi-144hz-hdr10-55c6k/p/MLB48808732?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794365219
   }
  ]
 }
