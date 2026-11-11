@@ -1,7 +1,21 @@
 {
- "updated": 1794404231,
+ "updated": 1794404652,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1772,
+   "key": "mercadolivre:MLB66816327",
+   "title": "Batom Duo Matte E Gloss Longa Duração Double Layer Ruby Rose Dl40",
+   "price": 19.29,
+   "original": 28.12,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_618754-MLA108237761032_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/batom-duo-matte-e-gloss-longa-duracao-double-layer-ruby-rose-dl40/p/MLB66816327?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794404632
+  },
   {
    "n": 1771,
    "key": "mercadolivre:MLB69204083",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794378326
-  },
-  {
-   "n": 1712,
-   "key": "mercadolivre:MLB64641216",
-   "title": "Ventilador de Coluna Britânia 6 Pás de 40cm 160W BVC41A",
-   "price": 170.1,
-   "original": 189.0,
-   "pct": 10,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_702322-MLA105457895165_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-britania-6-pas-de-40cm-160w-bvc41a/p/MLB64641216?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794377905
   }
  ]
 }
