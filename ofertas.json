@@ -1,7 +1,21 @@
 {
- "updated": 1794363555,
+ "updated": 1794363976,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1682,
+   "key": "mercadolivre:MLB42037727",
+   "title": "Webcam Emeet C60e 4k 30Fps Uhd 8mp Foco Automático 1080P 60fps Camera Para PC 2 microfon VideoConferencia Preto",
+   "price": 195.99,
+   "original": 259.0,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612329-MLA105513922053_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-emeet-c60e-4k-30fps-uhd-8mp-foco-automatico-1080p-60fps-camera-para-pc-2-microfon-videoconferencia-preto/p/MLB42037727?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794363956
+  },
   {
    "n": 1681,
    "key": "mercadolivre:MLB80257068",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794335694
-  },
-  {
-   "n": 1622,
-   "key": "mercadolivre:MLB76151285",
-   "title": "Frigideira Cerâmica Antiaderente 24cm Compatível Com Indução Cooktop Fogão a Gás Não Gruda Sem Óleo Cabo Ergonomico Em Baquelite Cor Creme",
-   "price": 55.5,
-   "original": 149.9,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_851612-MLA115902375529_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/frigideira-ceramica-antiaderente-24cm-compativel-com-inducao-cooktop-fogao-a-gas-nao-gruda-sem-oleo-cabo-ergonomico-em-b/p/MLB76151285?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794335273
   }
  ]
 }
