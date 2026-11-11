@@ -1,7 +1,21 @@
 {
- "updated": 1794395406,
+ "updated": 1794395827,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1754,
+   "key": "mercadolivre:MLB36754311",
+   "title": "Conjunto Motor E Pinhão Paraf/furadeira Dcd776 Dewalt",
+   "price": 128.99,
+   "original": 157.31,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_957101-MLA99452129916_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/conjunto-motor-e-pinhao-paraf-furadeira-dcd776-dewalt/p/MLB36754311?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794395807
+  },
   {
    "n": 1753,
    "key": "mercadolivre:MLB27050983",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794369429
-  },
-  {
-   "n": 1694,
-   "key": "mercadolivre:MLB53816191",
-   "title": "Webcam Intelbras WCI-720p HD com Microfone e Tampa de Lente USB",
-   "price": 105.29,
-   "original": 139.0,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_864804-MLA100169344723_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-intelbras-wci-720p-hd-com-microfone-e-tampa-de-lente-usb/p/MLB53816191?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794369008
   }
  ]
 }
