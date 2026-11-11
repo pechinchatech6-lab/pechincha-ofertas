@@ -1,7 +1,21 @@
 {
- "updated": 1794412651,
+ "updated": 1794413072,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1792,
+   "key": "mercadolivre:MLB58519492",
+   "title": "Fone Ouvido Bluetooth 5.4 Sem Fio Portatil Estojo De Carregamento Anti Ruido Resistente a agua Compatível Com Ios Samsung Galaxy Android Tws Wireless Air Premiu",
+   "price": 49.7,
+   "original": 78.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646535-MLA113987983224_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-ouvido-bluetooth-5-4-sem-fio-portatil-estojo-de-carregamento-anti-ruido-resistente-a-agua-compativel-com-ios-samsun/p/MLB58519492?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794413052
+  },
   {
    "n": 1791,
    "key": "mercadolivre:MLB81526862",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794386966
-  },
-  {
-   "n": 1732,
-   "key": "mercadolivre:MLB29574189",
-   "title": "Escova Alisadora Black Rose, Mondial, 36W - EA-07",
-   "price": 105.28,
-   "original": 176.9,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_783377-MLA99937056217_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-alisadora-black-rose-mondial-36w-ea-07/p/MLB29574189?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794386545
   }
  ]
 }
