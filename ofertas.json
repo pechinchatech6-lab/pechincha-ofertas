@@ -1,7 +1,21 @@
 {
- "updated": 1794407599,
+ "updated": 1794408020,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1780,
+   "key": "mercadolivre:MLB25929487",
+   "title": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
+   "price": 69.99,
+   "original": 159.9,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-monohidratada-1kg-100-pura-dark-lab/p/MLB25929487?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794408000
+  },
   {
    "n": 1779,
    "key": "mercadolivre:MLB23122766",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794381694
-  },
-  {
-   "n": 1720,
-   "key": "mercadolivre:MLB19512139",
-   "title": "Secador de Cabelos Taiff Vulcan Diamante Íon Cerâmica Motor AC Profissional 2500W",
-   "price": 584.89,
-   "original": 961.43,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_905613-MLA99472146490_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-taiff-vulcan-diamante-ion-ceramica-motor-ac-profissional-2500w/p/MLB19512139?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794381273
   }
  ]
 }
