@@ -1,7 +1,21 @@
 {
- "updated": 1794406336,
+ "updated": 1794406757,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1777,
+   "key": "mercadolivre:MLB54961556",
+   "title": "Smartphone Samsung Galaxy A07 4G 256GB 8GB Preto 6,7\"",
+   "price": 969.0,
+   "original": 1399.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_895724-MLA91526198522_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a07-4g-256gb-8gb-preto-6-7/p/MLB54961556?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794406737
+  },
   {
    "n": 1776,
    "key": "mercadolivre:MLB62147806",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794380431
-  },
-  {
-   "n": 1717,
-   "key": "mercadolivre:MLB70378764",
-   "title": "Relógio de Parede Quartz Kasa Redondo, com 30 cm, para Cozinha",
-   "price": 33.78,
-   "original": 37.99,
-   "pct": 11,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_876061-MLA119342447875_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-quartz-kasa-redondo-com-30-cm-para-cozinha/p/MLB70378764?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794380010
   }
  ]
 }
