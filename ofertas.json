@@ -1,7 +1,21 @@
 {
- "updated": 1794362713,
+ "updated": 1794363134,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1680,
+   "key": "mercadolivre:MLB23743709",
+   "title": "Mouse sem fio Logitech Pebble 2 M350s - Branco",
+   "price": 79.9,
+   "original": 119.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_965045-MLA99481399148_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mouse-sem-fio-logitech-pebble-2-m350s-branco/p/MLB23743709?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794363114
+  },
   {
    "n": 1679,
    "key": "mercadolivre:MLB35587178",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794334852
-  },
-  {
-   "n": 1620,
-   "key": "mercadolivre:MLB6333687",
-   "title": "Geladeira Electrolux DC35A Cycle Defrost 260L Super Freezer Duplex Branca",
-   "price": 1899.0,
-   "original": 3699.0,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_946905-MLA114996170178_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-dc35a-cycle-defrost-260l-super-freezer-duplex-branca/p/MLB6333687?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794334431
   }
  ]
 }
