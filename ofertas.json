@@ -1,7 +1,21 @@
 {
- "updated": 1794370291,
+ "updated": 1794370712,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1698,
+   "key": "mercadolivre:MLB39962085",
+   "title": "Fone De Ouvido Sem Fio Xiaomi Redmi Buds 6 Play Preto",
+   "price": 60.0,
+   "original": 84.9,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_954504-MLA118603044502_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-xiaomi-redmi-buds-6-play-preto/p/MLB39962085?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794370692
+  },
   {
    "n": 1697,
    "key": "mercadolivre:MLB25834979",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794342431
-  },
-  {
-   "n": 1638,
-   "key": "mercadolivre:MLB57490795",
-   "title": "Mini Compressor Digital Portátil Bomba De Encher Pneus Bola Inflável Para Carro Moto Bicicleta Com Calibrador De Ar Preto",
-   "price": 65.0,
-   "original": 157.98,
-   "pct": 59,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_826381-MLA110944602250_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-compressor-digital-portatil-bomba-de-encher-pneus-bola-inflavel-para-carro-moto-bicicleta-com-calibrador-de-ar-pret/p/MLB57490795?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794342010
   }
  ]
 }
