@@ -1,7 +1,21 @@
 {
- "updated": 1794419808,
+ "updated": 1794420229,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1809,
+   "key": "mercadolivre:MLB19533185",
+   "title": "Creatina 100% Pura 60 Cápsulas Integralmédica",
+   "price": 16.55,
+   "original": 32.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_782298-MLA100076194863_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-100-pura-60-capsulas-integralmedica/p/MLB19533185?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794420209
+  },
   {
    "n": 1808,
    "key": "mercadolivre:MLB50916106",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794394123
-  },
-  {
-   "n": 1749,
-   "key": "mercadolivre:MLB74347854",
-   "title": "Nível Laser Davely Com Tripé Ajustável, de Linhas Horizontal e Vertical",
-   "price": 31.99,
-   "original": 60.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_784644-MLA117946819736_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivel-laser-davely-com-tripe-ajustavel-de-linhas-horizontal-e-vertical/p/MLB74347854?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794393702
   }
  ]
 }
