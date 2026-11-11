@@ -1,7 +1,21 @@
 {
- "updated": 1794381293,
+ "updated": 1794381714,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1721,
+   "key": "mercadolivre:MLB70228023",
+   "title": "Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente Prateado",
+   "price": 34.9,
+   "original": 49.9,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_907811-MLA112159861189_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-relogio-feminino-colar-brinco-pulseira-folheado-presente-prateado/p/MLB70228023?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794381694
+  },
   {
    "n": 1720,
    "key": "mercadolivre:MLB19512139",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794353928
-  },
-  {
-   "n": 1661,
-   "key": "mercadolivre:MLB72367910",
-   "title": "Haosin Escorredor Suporte Organizador De Louças E Pratos 2 Andares Aço Preto Para Pia De Cozinha Moderno",
-   "price": 99.99,
-   "original": 119.0,
-   "pct": 16,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_672135-MLA115722945598_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/haosin-escorredor-suporte-organizador-de-loucas-e-pratos-2-andares-aco-preto-para-pia-de-cozinha-moderno/p/MLB72367910?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794353507
   }
  ]
 }
