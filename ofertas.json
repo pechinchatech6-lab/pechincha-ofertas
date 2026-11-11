@@ -1,7 +1,21 @@
 {
- "updated": 1794389091,
+ "updated": 1794389512,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1739,
+   "key": "mercadolivre:MLB19617679",
+   "title": "Micro-ondas Electrolux Branco 23L Efficient ME23B",
+   "price": 484.03,
+   "original": 659.0,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_742060-MLA99449598594_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-electrolux-branco-23l-efficient-me23b/p/MLB19617679?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794389492
+  },
   {
    "n": 1738,
    "key": "mercadolivre:MLB50575630",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794363114
-  },
-  {
-   "n": 1679,
-   "key": "mercadolivre:MLB35587178",
-   "title": "Smart TV Box Aquário STV-3000 Plus Sistema Android TV 4K 16GB Cor Preto",
-   "price": 201.0,
-   "original": 261.5,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646607-MLA117112608354_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-box-aquario-stv-3000-plus-sistema-android-tv-4k-16gb-cor-preto/p/MLB35587178?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794362693
   }
  ]
 }
