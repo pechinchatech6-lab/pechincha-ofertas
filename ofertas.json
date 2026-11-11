@@ -1,7 +1,21 @@
 {
- "updated": 1794363976,
+ "updated": 1794364397,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1683,
+   "key": "mercadolivre:MLB19140415",
+   "title": "Suplemento Whey Isolate Protein Fuse 1,8kg sabor Morango Dark Lab",
+   "price": 179.9,
+   "original": 699.9,
+   "pct": 74,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_989007-MLA99405715766_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suplemento-whey-isolate-protein-fuse-1-8kg-sabor-morango-dark-lab/p/MLB19140415?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794364377
+  },
   {
    "n": 1682,
    "key": "mercadolivre:MLB42037727",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794336115
-  },
-  {
-   "n": 1623,
-   "key": "mercadolivre:MLB52859377",
-   "title": "Disco Serra Circular Widea Madeira 60 Dentes 7.1/4'' 180mm",
-   "price": 29.94,
-   "original": 37.9,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_917812-MLA107170788045_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/disco-serra-circular-widea-madeira-60-dentes-7-1-4-180mm/p/MLB52859377?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794335694
   }
  ]
 }
