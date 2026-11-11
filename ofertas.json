@@ -1,7 +1,21 @@
 {
- "updated": 1794362292,
+ "updated": 1794362713,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1679,
+   "key": "mercadolivre:MLB35587178",
+   "title": "Smart TV Box Aquário STV-3000 Plus Sistema Android TV 4K 16GB Cor Preto",
+   "price": 201.0,
+   "original": 261.5,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646607-MLA117112608354_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-box-aquario-stv-3000-plus-sistema-android-tv-4k-16gb-cor-preto/p/MLB35587178?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794362693
+  },
   {
    "n": 1678,
    "key": "mercadolivre:MLB46220824",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794334431
-  },
-  {
-   "n": 1619,
-   "key": "mercadolivre:MLB36753195",
-   "title": "Induzido P/ Esmerilhadeira GWS 700 Bosch 1619PB4412 220v",
-   "price": 77.88,
-   "original": 96.15,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_683043-MLA96418605274_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/induzido-p-esmerilhadeira-gws-700-bosch-1619pb4412-220v/p/MLB36753195?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794334010
   }
  ]
 }
