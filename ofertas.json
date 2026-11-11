@@ -1,7 +1,21 @@
 {
- "updated": 1794423501,
+ "updated": 1794423922,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1816,
+   "key": "mercadolivre:MLB70308697",
+   "title": "Rádio Caixa De Som Bluetooth Recarregável Led Beexcellent Azul",
+   "price": 75.99,
+   "original": 99.9,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_840105-MLA111245741562_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/radio-caixa-de-som-bluetooth-recarregavel-led-beexcellent-azul/p/MLB70308697?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794423902
+  },
   {
    "n": 1815,
    "key": "mercadolivre:MLB19716757",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794397070
-  },
-  {
-   "n": 1756,
-   "key": "mercadolivre:MLB57331529",
-   "title": "Creme Para Pentear Cachos Ostentação 1kg",
-   "price": 33.5,
-   "original": 41.5,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_937903-MLA99846026421_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-para-pentear-cachos-ostentacao-1kg/p/MLB57331529?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794396649
   }
  ]
 }
