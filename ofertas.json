@@ -1,7 +1,21 @@
 {
- "updated": 1794411388,
+ "updated": 1794411809,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1789,
+   "key": "mercadolivre:MLB75638604",
+   "title": "Smartphone Samsung Galaxy A27 5G 128GB 6GB, Super Amoled 6.7'', Câmera Tripla 50MP Selfie 12MP, 5000 mAh, Ip67, NFC, Dual Sim, Recursos IA - Rosa",
+   "price": 1362.39,
+   "original": 2399.0,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_984483-MLA113635672926_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a27-5g-128gb-6gb-super-amoled-6-7-camera-tripla-50mp-selfie-12mp-5000-mah-ip67-nfc-dual-sim-re/p/MLB75638604?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794411789
+  },
   {
    "n": 1788,
    "key": "mercadolivre:MLB41195234",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794385703
-  },
-  {
-   "n": 1729,
-   "key": "mercadolivre:MLB62445524",
-   "title": "Nível Laser Verde 16 Linhas War Shark 2 Bateria+1.2m Tripé",
-   "price": 259.0,
-   "original": 500.0,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_770451-MLA113890807023_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-2-bateria-1-2m-tripe/p/MLB62445524?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794385282
   }
  ]
 }
