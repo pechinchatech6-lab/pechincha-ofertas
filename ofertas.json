@@ -1,7 +1,21 @@
 {
- "updated": 1794438578,
+ "updated": 1794438999,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1844,
+   "key": "mercadolivre:MLB18085706",
+   "title": "Prancha Philco PPR10 Titanium Digital Bivolt 230°C",
+   "price": 109.9,
+   "original": 143.46,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_825823-MLA117835722728_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/prancha-philco-ppr10-titanium-digital-bivolt-230-c/p/MLB18085706?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794438979
+  },
   {
    "n": 1843,
    "key": "mercadolivre:MLB79751693",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794410105
-  },
-  {
-   "n": 1784,
-   "key": "mercadolivre:MLB28407045",
-   "title": "Webcam Full HD Logitech Brio 100 - Grafite",
-   "price": 169.0,
-   "original": 225.0,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_874264-MLA106268664373_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-brio-100-grafite/p/MLB28407045?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794409684
   }
  ]
 }
