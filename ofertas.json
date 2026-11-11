@@ -1,7 +1,21 @@
 {
- "updated": 1794383398,
+ "updated": 1794383819,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1726,
+   "key": "mercadolivre:MLB44784310",
+   "title": "Aparador de Pelos Super Groom 10 Mondial Preto/Azul Bivolt BG-03",
+   "price": 95.0,
+   "original": 202.9,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_716732-MLA99952834055_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-super-groom-10-mondial-preto-azul-bivolt-bg-03/p/MLB44784310?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794383799
+  },
   {
    "n": 1725,
    "key": "mercadolivre:MLB67714386",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794356034
-  },
-  {
-   "n": 1666,
-   "key": "mercadolivre:MLB34016199",
-   "title": "Microfone de Lapela Sem Fio Hollyland Lark M2 Combo (USB-C, Lightning e Câmera)",
-   "price": 598.5,
-   "original": 999.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_644387-MLA119786973369_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-de-lapela-sem-fio-hollyland-lark-m2-combo-usb-c-lightning-e-camera/p/MLB34016199?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794355612
   }
  ]
 }
