@@ -1,7 +1,21 @@
 {
- "updated": 1794430320,
+ "updated": 1794430741,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1828,
+   "key": "mercadolivre:MLB15238956",
+   "title": "Chapinha De Cabelo Mq Professional Titanium Pro 480 Cor Chumbo",
+   "price": 368.1,
+   "original": 577.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_614724-MLA99489875538_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-mq-professional-titanium-pro-480-cor-chumbo/p/MLB15238956?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794430721
+  },
   {
    "n": 1827,
    "key": "mercadolivre:MLB62870931",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794403170
-  },
-  {
-   "n": 1768,
-   "key": "mercadolivre:MLB69328828",
-   "title": "Fire Tv Stick Hd 2a Geração Ger 26 Preto De Voz",
-   "price": 235.0,
-   "original": 479.0,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_921847-MLA113725342133_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fire-tv-stick-hd-2a-geracao-ger-26-preto-de-voz/p/MLB69328828?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794402749
   }
  ]
 }
