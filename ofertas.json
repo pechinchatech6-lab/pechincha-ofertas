@@ -1,7 +1,21 @@
 {
- "updated": 1794383819,
+ "updated": 1794384241,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1727,
+   "key": "mercadolivre:MLB29360695",
+   "title": "Kit Multímetro Digital Minipa ET-1002 10A CAT I 600V Com 2 Conectores De Emenda Wago 221-2411",
+   "price": 86.9,
+   "original": 178.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_824408-MLA118643361088_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-multimetro-digital-minipa-et-1002-10a-cat-i-600v-com-2-conectores-de-emenda-wago-221-2411/p/MLB29360695?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794384220
+  },
   {
    "n": 1726,
    "key": "mercadolivre:MLB44784310",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794356455
-  },
-  {
-   "n": 1667,
-   "key": "mercadolivre:MLB25567458",
-   "title": "Organizador Giratório G - 015423",
-   "price": 46.88,
-   "original": 69.5,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_973279-MLA103235783772_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/organizador-giratorio-g-015423/p/MLB25567458?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794356034
   }
  ]
 }
