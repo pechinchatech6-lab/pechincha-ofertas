@@ -1,7 +1,21 @@
 {
- "updated": 1794413914,
+ "updated": 1794414335,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1795,
+   "key": "mercadolivre:MLB1040287790",
+   "title": "Apple iPhone 16 (256 GB) - Rosa - Distribuidor Autorizado",
+   "price": 5596.67,
+   "original": 8599.0,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_719634-MLA97473882481_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/apple-iphone-16-256-gb-rosa-distribuidor-autorizado/p/MLB1040287790?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794414315
+  },
   {
    "n": 1794,
    "key": "mercadolivre:MLB29099772",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794388229
-  },
-  {
-   "n": 1735,
-   "key": "mercadolivre:MLB56064567",
-   "title": "Short Cinta Modeladora Cós Alto Compressão Redutora Selene Cor Pó De Arroz Tamanho G",
-   "price": 21.83,
-   "original": 73.98,
-   "pct": 70,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_965925-MLA92022613418_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/short-cinta-modeladora-cos-alto-compressao-redutora-selene-cor-po-de-arroz-tamanho-g/p/MLB56064567?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794387808
   }
  ]
 }
