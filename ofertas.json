@@ -1,7 +1,21 @@
 {
- "updated": 1794393301,
+ "updated": 1794393722,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1749,
+   "key": "mercadolivre:MLB74347854",
+   "title": "Nível Laser Davely Com Tripé Ajustável, de Linhas Horizontal e Vertical",
+   "price": 31.99,
+   "original": 60.0,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_784644-MLA117946819736_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-davely-com-tripe-ajustavel-de-linhas-horizontal-e-vertical/p/MLB74347854?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794393702
+  },
   {
    "n": 1748,
    "key": "mercadolivre:MLB59322248",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794367324
-  },
-  {
-   "n": 1689,
-   "key": "mercadolivre:MLB65568637",
-   "title": "Geladeira Brastemp Inteligente 512L Bivolt - BRM62A",
-   "price": 3199.0,
-   "original": 3879.0,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_940707-MLA118254331193_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-brastemp-inteligente-512l-bivolt-brm62a/p/MLB65568637?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794366903
   }
  ]
 }
