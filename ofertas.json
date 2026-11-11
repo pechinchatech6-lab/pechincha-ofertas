@@ -1,7 +1,21 @@
 {
- "updated": 1794369028,
+ "updated": 1794369449,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1695,
+   "key": "mercadolivre:MLB6087971",
+   "title": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg",
+   "price": 78.9,
+   "original": 179.84,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_608162-MLA112813208483_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/proteina-max-titanium-whey-pro-concetrado-em-po-sabor-morango-x-1kg/p/MLB6087971?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794369429
+  },
   {
    "n": 1694,
    "key": "mercadolivre:MLB53816191",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794341168
-  },
-  {
-   "n": 1635,
-   "key": "mercadolivre:MLB50147982",
-   "title": "Caixa De Som Portátil Bluetooth Sabala 901 Tws 2200mah Cor Azul",
-   "price": 99.0,
-   "original": 139.0,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_795378-MLA99483618370_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-bluetooth-sabala-901-tws-2200mah-cor-azul/p/MLB50147982?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794340747
   }
  ]
 }
