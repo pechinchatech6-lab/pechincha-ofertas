@@ -1,7 +1,21 @@
 {
- "updated": 1794400529,
+ "updated": 1794400950,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1765,
+   "key": "mercadolivre:MLB77356916",
+   "title": "Boné Ny New York Unissex Yankees Fitão Trucker Masculino Feminino Moda Verão Marca Lemon Shark Cor Azul-marinho e Branco",
+   "price": 31.99,
+   "original": 44.99,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_772153-MLA116204648701_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bone-ny-new-york-unissex-yankees-fitao-trucker-masculino-feminino-moda-verao-marca-lemon-shark-cor-azul-marinho-e-branco/p/MLB77356916?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794400930
+  },
   {
    "n": 1764,
    "key": "mercadolivre:MLB51065768",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794374386
-  },
-  {
-   "n": 1705,
-   "key": "mercadolivre:MLB42164469",
-   "title": "Vitamina Always Fit Fit Hair para Cabelo e Unhas 30 Cápsulas",
-   "price": 34.9,
-   "original": 49.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_843897-MLA114342332614_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/vitamina-always-fit-fit-hair-para-cabelo-e-unhas-30-capsulas/p/MLB42164469?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794373965
   }
  ]
 }
