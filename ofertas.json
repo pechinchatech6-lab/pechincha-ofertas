@@ -1,7 +1,21 @@
 {
- "updated": 1794413072,
+ "updated": 1794413493,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1793,
+   "key": "mercadolivre:MLB29149224",
+   "title": "Pré-treino Evolution 300G Termogênico Melancia - Soldiers Nutrition",
+   "price": 45.9,
+   "original": 99.9,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_874204-MLA99607101834_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pre-treino-evolution-300g-termogenico-melancia-soldiers-nutrition/p/MLB29149224?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794413473
+  },
   {
    "n": 1792,
    "key": "mercadolivre:MLB58519492",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794387387
-  },
-  {
-   "n": 1733,
-   "key": "mercadolivre:MLB56094914",
-   "title": "Boné Trucker Masculino Liso com Aba Curva Preto",
-   "price": 18.68,
-   "original": 28.61,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_691796-MLA99611998710_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-trucker-masculino-liso-com-aba-curva-preto/p/MLB56094914?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794386966
   }
  ]
 }
