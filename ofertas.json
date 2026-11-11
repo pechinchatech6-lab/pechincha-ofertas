@@ -1,7 +1,21 @@
 {
- "updated": 1794432004,
+ "updated": 1794432425,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1832,
+   "key": "mercadolivre:MLB23182983",
+   "title": "Suplemento Tasty Whey Adaptogen Science Whey Protein 3w Gourmet Pote 900g Sabor Chocolate e Amendoim",
+   "price": 233.22,
+   "original": 299.0,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_821441-MLA107580329953_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suplemento-tasty-whey-adaptogen-science-whey-protein-3w-gourmet-pote-900g-sabor-chocolate-e-amendoim/p/MLB23182983?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794432405
+  },
   {
    "n": 1831,
    "key": "mercadolivre:MLB62593832",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794405053
-  },
-  {
-   "n": 1772,
-   "key": "mercadolivre:MLB66816327",
-   "title": "Batom Duo Matte E Gloss Longa Duração Double Layer Ruby Rose Dl40",
-   "price": 19.29,
-   "original": 28.12,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_618754-MLA108237761032_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/batom-duo-matte-e-gloss-longa-duracao-double-layer-ruby-rose-dl40/p/MLB66816327?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794404632
   }
  ]
 }
