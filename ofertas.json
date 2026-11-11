@@ -1,7 +1,21 @@
 {
- "updated": 1794425314,
+ "updated": 1794425735,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1819,
+   "key": "mercadolivre:MLB67291937",
+   "title": "Fone Ouvido Bluetooth Compatível Com Iphone X Xr 11 12 13 14 15 16 17 Xs Pro Max Plus Samsung S20 S23 S24 Xiaomi Motorola Android Ios Sem Fio Prova DAgua Wirele",
+   "price": 48.91,
+   "original": 78.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_793840-MLA109795835063_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-ouvido-bluetooth-compativel-com-iphone-x-xr-11-12-13-14-15-16-17-xs-pro-max-plus-samsung-s20-s23-s24-xiaomi-motorol/p/MLB67291937?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794425715
+  },
   {
    "n": 1818,
    "key": "mercadolivre:MLB18630341",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794398333
-  },
-  {
-   "n": 1759,
-   "key": "mercadolivre:MLB37258669",
-   "title": "Ferro De Passar Cadence 2 Em 1 iro215 Cor Cinza",
-   "price": 60.0,
-   "original": 89.9,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_729868-MLA99475311530_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ferro-de-passar-cadence-2-em-1-iro215-cor-cinza/p/MLB37258669?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794397912
   }
  ]
 }
