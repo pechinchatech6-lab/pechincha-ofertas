@@ -1,7 +1,21 @@
 {
- "updated": 1794405073,
+ "updated": 1794405494,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1774,
+   "key": "mercadolivre:MLB63467528",
+   "title": "Samsung Smart Tv 43 Qled Full Hd Q5f 2025, Xbox Cloud Gaming, Canais Gratuitos, Hdr, Som Em Movimento Virtual",
+   "price": 1607.9,
+   "original": 2769.99,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612999-MLA102412809695_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/samsung-smart-tv-43-qled-full-hd-q5f-2025-xbox-cloud-gaming-canais-gratuitos-hdr-som-em-movimento-virtual/p/MLB63467528?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794405474
+  },
   {
    "n": 1773,
    "key": "mercadolivre:MLB48928008",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794379168
-  },
-  {
-   "n": 1714,
-   "key": "mercadolivre:MLB70361842",
-   "title": "Soprador De Folhas Elétrico Turbo 1.050w Portátil 21v Super Potente 5700 Rpm Bateria Bivolt Sem Fio - Dewen",
-   "price": 112.49,
-   "original": 199.97,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_719419-MLA112318025645_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-de-folhas-eletrico-turbo-1-050w-portatil-21v-super-potente-5700-rpm-bateria-bivolt-sem-fio-dewen/p/MLB70361842?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794378747
   }
  ]
 }
