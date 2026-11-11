@@ -1,7 +1,21 @@
 {
- "updated": 1794386986,
+ "updated": 1794387407,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1734,
+   "key": "mercadolivre:MLB18311803",
+   "title": "NIVEA MEN Creme de Barbear Sensitive 2 em 1 65g, Protege a Pele, Previne Irritações, Deslizamento Suave, Extrato de Camomila, Pele Sensível",
+   "price": 10.02,
+   "original": 13.49,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_676332-MLA107578241667_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivea-men-creme-de-barbear-sensitive-2-em-1-65g-protege-a-pele-previne-irritacoes-deslizamento-suave-extrato-de-camomila/p/MLB18311803?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794387387
+  },
   {
    "n": 1733,
    "key": "mercadolivre:MLB56094914",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794361009
-  },
-  {
-   "n": 1674,
-   "key": "mercadolivre:MLB35556218",
-   "title": "Ventilador De Teto C/ Controle 6 Vel. Fenix Ventisol",
-   "price": 299.0,
-   "original": 339.0,
-   "pct": 12,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_963344-MLA96100910929_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-teto-c-controle-6-vel-fenix-ventisol/p/MLB35556218?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794360588
   }
  ]
 }
