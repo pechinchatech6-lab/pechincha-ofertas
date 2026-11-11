@@ -1,7 +1,21 @@
 {
- "updated": 1794373386,
+ "updated": 1794373985,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1705,
+   "key": "mercadolivre:MLB42164469",
+   "title": "Vitamina Always Fit Fit Hair para Cabelo e Unhas 30 Cápsulas",
+   "price": 34.9,
+   "original": 49.9,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_843897-MLA114342332614_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/vitamina-always-fit-fit-hair-para-cabelo-e-unhas-30-capsulas/p/MLB42164469?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794373965
+  },
   {
    "n": 1704,
    "key": "mercadolivre:MLB27218826",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794345656
-  },
-  {
-   "n": 1645,
-   "key": "mercadolivre:MLB15279367",
-   "title": "Lixadeira Profissional Orbital Bosch Professional Gss 140 Azul 127v",
-   "price": 235.5,
-   "original": 459.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_608335-MLA99937157039_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-profissional-orbital-bosch-professional-gss-140-azul-127v/p/MLB15279367?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794345235
   }
  ]
 }
