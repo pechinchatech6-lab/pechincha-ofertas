@@ -1,7 +1,21 @@
 {
- "updated": 1794415598,
+ "updated": 1794416019,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1799,
+   "key": "mercadolivre:MLB75465650",
+   "title": "Coletor Guia de Pó Furadeira Parafusadeira 4 a 12mm Dor Block",
+   "price": 19.0,
+   "original": 38.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_981968-MLA114526798003_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/coletor-guia-de-po-furadeira-parafusadeira-4-a-12mm-dor-block/p/MLB75465650?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794415999
+  },
   {
    "n": 1798,
    "key": "mercadolivre:MLB20662382",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794389913
-  },
-  {
-   "n": 1739,
-   "key": "mercadolivre:MLB19617679",
-   "title": "Micro-ondas Electrolux Branco 23L Efficient ME23B",
-   "price": 484.03,
-   "original": 659.0,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_742060-MLA99449598594_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-electrolux-branco-23l-efficient-me23b/p/MLB19617679?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794389492
   }
  ]
 }
