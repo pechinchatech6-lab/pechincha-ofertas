@@ -1,7 +1,21 @@
 {
- "updated": 1794385723,
+ "updated": 1794386144,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1731,
+   "key": "mercadolivre:MLB70336750",
+   "title": "Nivel Laser 16 Linhas Verde Profissional Autonivelante Com 2 Baterias + Suporte Magnético",
+   "price": 268.0,
+   "original": 593.01,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_657165-MLA118436890351_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-16-linhas-verde-profissional-autonivelante-com-2-baterias-suporte-magnetico/p/MLB70336750?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794386124
+  },
   {
    "n": 1730,
    "key": "mercadolivre:MLB24807108",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794358530
-  },
-  {
-   "n": 1671,
-   "key": "mercadolivre:MLB43534649",
-   "title": "Fone De Ouvido Bluetooth JBL Wave Buds 2 Fit Preto",
-   "price": 219.0,
-   "original": 369.0,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_705864-MLA99523953334_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-jbl-wave-buds-2-fit-preto/p/MLB43534649?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794357718
   }
  ]
 }
