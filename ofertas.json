@@ -1,7 +1,21 @@
 {
- "updated": 1794397511,
+ "updated": 1794397932,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1759,
+   "key": "mercadolivre:MLB37258669",
+   "title": "Ferro De Passar Cadence 2 Em 1 iro215 Cor Cinza",
+   "price": 60.0,
+   "original": 89.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_729868-MLA99475311530_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ferro-de-passar-cadence-2-em-1-iro215-cor-cinza/p/MLB37258669?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794397912
+  },
   {
    "n": 1758,
    "key": "mercadolivre:MLB24208936",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794371534
-  },
-  {
-   "n": 1699,
-   "key": "mercadolivre:MLB23903360",
-   "title": "Climatizador De Ar Oster Portátil 4 Em 1 Cor Branco",
-   "price": 479.0,
-   "original": 899.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_662412-MLA99979980071_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-oster-portatil-4-em-1-cor-branco/p/MLB23903360?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794371113
   }
  ]
 }
