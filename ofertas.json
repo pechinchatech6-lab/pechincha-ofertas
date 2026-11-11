@@ -1,7 +1,21 @@
 {
- "updated": 1794393722,
+ "updated": 1794394143,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1750,
+   "key": "mercadolivre:MLB66132984",
+   "title": "Máquina De Lavar Brastemp 13kg Branca Com Ciclo Tira Manchas Branco",
+   "price": 1729.0,
+   "original": 1921.0,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_896390-MLA107974605505_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-brastemp-13kg-branca-com-ciclo-tira-manchas-branco/p/MLB66132984?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794394123
+  },
   {
    "n": 1749,
    "key": "mercadolivre:MLB74347854",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794367745
-  },
-  {
-   "n": 1690,
-   "key": "mercadolivre:MLB27673874",
-   "title": "Creme Para Pentear Salon Line Gel Creme SOS Cachos Super Óleos 1kg",
-   "price": 29.64,
-   "original": 39.4,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_866240-MLA99924827189_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-para-pentear-salon-line-gel-creme-sos-cachos-super-oleos-1kg/p/MLB27673874?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794367324
   }
  ]
 }
