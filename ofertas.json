@@ -1,7 +1,21 @@
 {
- "updated": 1794408020,
+ "updated": 1794408441,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1781,
+   "key": "mercadolivre:MLB50181290",
+   "title": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Simake",
+   "price": 119.6,
+   "original": 299.0,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_835659-MLA116548375638_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-c-2-baterias-maleta-kit-completo-led-eixo-flexivel-varios-niveis-torque-simake/p/MLB50181290?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794408421
+  },
   {
    "n": 1780,
    "key": "mercadolivre:MLB25929487",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794382115
-  },
-  {
-   "n": 1721,
-   "key": "mercadolivre:MLB70228023",
-   "title": "Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente Prateado",
-   "price": 34.9,
-   "original": 49.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_907811-MLA112159861189_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-relogio-feminino-colar-brinco-pulseira-folheado-presente-prateado/p/MLB70228023?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794381694
   }
  ]
 }
