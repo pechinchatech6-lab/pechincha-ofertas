@@ -1,7 +1,21 @@
 {
- "updated": 1794384241,
+ "updated": 1794384661,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1728,
+   "key": "mercadolivre:MLB68770277",
+   "title": "Aparador De Pelos Nariz E Orelha Elétrico Recarregável Sem Fio Acemic Preto Cortador Nasal Portátil Masculino E Feminino Para Higiene Pessoal Remoção De Pelos C",
+   "price": 19.39,
+   "original": 39.99,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_674222-MLA110090137172_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-nariz-e-orelha-eletrico-recarregavel-sem-fio-acemic-preto-cortador-nasal-portatil-masculino-e-feminino/p/MLB68770277?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794384641
+  },
   {
    "n": 1727,
    "key": "mercadolivre:MLB29360695",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794356876
-  },
-  {
-   "n": 1668,
-   "key": "mercadolivre:MLB49851461",
-   "title": "Controle Gamepad Gamesir X5 Lite Usb-c Android iPhone 15/16 Mobile Hall Effect Turbo Leve Verde",
-   "price": 154.9,
-   "original": 249.0,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_718644-MLA99496654954_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamepad-gamesir-x5-lite-usb-c-android-iphone-15-16-mobile-hall-effect-turbo-leve-verde/p/MLB49851461?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794356455
   }
  ]
 }
