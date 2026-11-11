@@ -1,7 +1,21 @@
 {
- "updated": 1794407178,
+ "updated": 1794407599,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1779,
+   "key": "mercadolivre:MLB23122766",
+   "title": "EMEET S600 4K Webcam 1080P 60Fps Camera Para Pc Streaming Con Microfone Automático Full HD Videoconferencia",
+   "price": 355.11,
+   "original": 399.0,
+   "pct": 11,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_639218-MLA112743784625_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/emeet-s600-4k-webcam-1080p-60fps-camera-para-pc-streaming-con-microfone-automatico-full-hd-videoconferencia/p/MLB23122766?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794407579
+  },
   {
    "n": 1778,
    "key": "mercadolivre:MLB70449712",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794381273
-  },
-  {
-   "n": 1719,
-   "key": "mercadolivre:MLB60126432",
-   "title": "Relógio Chroma Masculino Preto Saint Germain Clássico Caixa Preta Detalhes Prata 42mm",
-   "price": 118.09,
-   "original": 259.9,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_682402-MLA99403901858_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-chroma-masculino-preto-saint-germain-classico-caixa-preta-detalhes-prata-42mm/p/MLB60126432?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794380852
   }
  ]
 }
