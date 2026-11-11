@@ -1,7 +1,21 @@
 {
- "updated": 1794379188,
+ "updated": 1794379609,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1716,
+   "key": "mercadolivre:MLB79735207",
+   "title": "Soprador Turbo Portátil Recarregável 48V 2 Baterias Com Maleta Sem Fio Para Folhas Jardim Limpeza De Carro Secagem Automotiva Poeira Garagem Quintal Assoprador ",
+   "price": 100.0,
+   "original": 186.0,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_943234-MLA117723762674_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-turbo-portatil-recarregavel-48v-2-baterias-com-maleta-sem-fio-para-folhas-jardim-limpeza-de-carro-secagem-autom/p/MLB79735207?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794379589
+  },
   {
    "n": 1715,
    "key": "mercadolivre:MLB20993983",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794351822
-  },
-  {
-   "n": 1656,
-   "key": "mercadolivre:MLB57689750",
-   "title": "Caixa de Som Basike Boombox Bluetooth 200W, Portátil e à Prova D'Água IPX6",
-   "price": 837.0,
-   "original": 1376.74,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_620090-MLA99986834815_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-basike-boombox-bluetooth-200w-portatil-e-a-prova-d-agua-ipx6/p/MLB57689750?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794351401
   }
  ]
 }
