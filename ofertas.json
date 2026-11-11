@@ -1,7 +1,21 @@
 {
- "updated": 1794370712,
+ "updated": 1794371133,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1699,
+   "key": "mercadolivre:MLB23903360",
+   "title": "Climatizador De Ar Oster Portátil 4 Em 1 Cor Branco",
+   "price": 479.0,
+   "original": 899.0,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_662412-MLA99979980071_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-oster-portatil-4-em-1-cor-branco/p/MLB23903360?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794371113
+  },
   {
    "n": 1698,
    "key": "mercadolivre:MLB39962085",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794343130
-  },
-  {
-   "n": 1639,
-   "key": "mercadolivre:MLB59870058",
-   "title": "Chaleira Com Apito Brinox 2,7 L Roma Areia",
-   "price": 78.4,
-   "original": 237.71,
-   "pct": 67,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_866805-MLA104654258057_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chaleira-com-apito-brinox-2-7-l-roma-areia/p/MLB59870058?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794342431
   }
  ]
 }
