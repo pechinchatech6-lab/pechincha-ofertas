@@ -1,7 +1,21 @@
 {
- "updated": 1794399687,
+ "updated": 1794400108,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1763,
+   "key": "mercadolivre:MLB6077911",
+   "title": "Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca RE31",
+   "price": 1578.8,
+   "original": 2399.0,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631165-MLA111827765025_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-cycle-defrost-240l-degelo-pratico-uma-porta-branca-re31/p/MLB6077911?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794400088
+  },
   {
    "n": 1762,
    "key": "mercadolivre:MLB73076144",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794373366
-  },
-  {
-   "n": 1703,
-   "key": "mercadolivre:MLB68089060",
-   "title": "Coqueteleira Academia Shaker Compartimentos Whey Suplementos Cor Branco",
-   "price": 34.47,
-   "original": 45.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_990003-MLA109631018622_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/coqueteleira-academia-shaker-compartimentos-whey-suplementos-cor-branco/p/MLB68089060?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794372945
   }
  ]
 }
