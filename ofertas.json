@@ -1,7 +1,21 @@
 {
- "updated": 1794397090,
+ "updated": 1794397511,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1758,
+   "key": "mercadolivre:MLB24208936",
+   "title": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+   "price": 31.1,
+   "original": 62.99,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-johnson-s-baby-glicerina-hipoalergenico-750ml/p/MLB24208936?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794397491
+  },
   {
    "n": 1757,
    "key": "mercadolivre:MLB16016316",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794371113
-  },
-  {
-   "n": 1698,
-   "key": "mercadolivre:MLB39962085",
-   "title": "Fone De Ouvido Sem Fio Xiaomi Redmi Buds 6 Play Preto",
-   "price": 60.0,
-   "original": 84.9,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_954504-MLA118603044502_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-xiaomi-redmi-buds-6-play-preto/p/MLB39962085?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794370692
   }
  ]
 }
