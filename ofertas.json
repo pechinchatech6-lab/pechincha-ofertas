@@ -1,7 +1,21 @@
 {
- "updated": 1794361450,
+ "updated": 1794361871,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1677,
+   "key": "mercadolivre:MLB67292186",
+   "title": "Gel Creme Hidratante Facial Hialurônico Toque Seco com Ácido Hialurônico, Niacinamida e Aloe Vera, Peles Mistas e Oleosas, 85g",
+   "price": 24.37,
+   "original": 44.59,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_763003-MLA110264577538_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/gel-creme-hidratante-facial-hialuronico-toque-seco-com-acido-hialuronico-niacinamida-e-aloe-vera-peles-mistas-e-oleosas-/p/MLB67292186?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794361851
+  },
   {
    "n": 1676,
    "key": "mercadolivre:MLB34233590",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794333588
-  },
-  {
-   "n": 1617,
-   "key": "mercadolivre:MLB56563800",
-   "title": "Bioré Óleo Demaquilante Facial Cleansing Oil Original 150ml",
-   "price": 49.9,
-   "original": 69.9,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_755988-MLA120725643229_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/biore-oleo-demaquilante-facial-cleansing-oil-original-150ml/p/MLB56563800?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794333167
   }
  ]
 }
