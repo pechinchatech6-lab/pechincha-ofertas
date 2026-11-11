@@ -1,7 +1,21 @@
 {
- "updated": 1794394985,
+ "updated": 1794395406,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1753,
+   "key": "mercadolivre:MLB27050983",
+   "title": "Aspirador De Pó E Líquido Portátil Wap Gtw Compact 1400w 5,5L 127V",
+   "price": 199.0,
+   "original": 381.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_775500-MLU77174207072_072024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aspirador-de-po-e-liquido-portatil-wap-gtw-compact-1400w-5-5l-127v/p/MLB27050983?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794395386
+  },
   {
    "n": 1752,
    "key": "mercadolivre:MLB40346127",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794369008
-  },
-  {
-   "n": 1693,
-   "key": "mercadolivre:MLB70211597",
-   "title": "Porta Suplemento Acoplável Multi Uso Whay Cápsula Prottector Cores Fumê, Preto e Rosa",
-   "price": 36.0,
-   "original": 49.0,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_740321-MLA112156785355_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/porta-suplemento-acoplavel-multi-uso-whay-capsula-prottector-cores-fume-preto-e-rosa/p/MLB70211597?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794368587
   }
  ]
 }
