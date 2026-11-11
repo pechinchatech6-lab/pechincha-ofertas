@@ -1,7 +1,21 @@
 {
- "updated": 1794386144,
+ "updated": 1794386565,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1732,
+   "key": "mercadolivre:MLB29574189",
+   "title": "Escova Alisadora Black Rose, Mondial, 36W - EA-07",
+   "price": 105.28,
+   "original": 176.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_783377-MLA99937056217_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-alisadora-black-rose-mondial-36w-ea-07/p/MLB29574189?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794386545
+  },
   {
    "n": 1731,
    "key": "mercadolivre:MLB70336750",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794359560
-  },
-  {
-   "n": 1672,
-   "key": "mercadolivre:MLB54440434",
-   "title": "Saída de Praia Calça Plus Size Branca B&B Tamanho G1 Algodão Tricô",
-   "price": 37.48,
-   "original": 49.55,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631555-MLA95520279052_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/saida-de-praia-calca-plus-size-branca-b-b-tamanho-g1-algodao-trico/p/MLB54440434?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794358530
   }
  ]
 }
