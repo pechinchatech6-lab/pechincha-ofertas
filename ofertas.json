@@ -1,7 +1,21 @@
 {
- "updated": 1794416440,
+ "updated": 1794416861,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1801,
+   "key": "mercadolivre:MLB19698479",
+   "title": "Creatina Dux Nutrition em pó Sem sabor x 300g",
+   "price": 31.09,
+   "original": 38.87,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_891287-MLA114656611130_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-dux-nutrition-em-po-sem-sabor-x-300g/p/MLB19698479?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794416841
+  },
   {
    "n": 1800,
    "key": "mercadolivre:MLB53250495",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794390755
-  },
-  {
-   "n": 1741,
-   "key": "mercadolivre:MLB57719746",
-   "title": "Lava Louças 8 Serviços Branco Touch Plus Midea",
-   "price": 1679.0,
-   "original": 1999.0,
-   "pct": 16,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_954836-MLA92889662154_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lava-loucas-8-servicos-branco-touch-plus-midea/p/MLB57719746?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794390334
   }
  ]
 }
