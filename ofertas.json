@@ -1,7 +1,21 @@
 {
- "updated": 1794413493,
+ "updated": 1794413914,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1794,
+   "key": "mercadolivre:MLB29099772",
+   "title": "Secador de Cabelos Mondial 2000W - SCN-11",
+   "price": 118.12,
+   "original": 204.9,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_915080-MLA99516675590_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-mondial-2000w-scn-11/p/MLB29099772?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794413894
+  },
   {
    "n": 1793,
    "key": "mercadolivre:MLB29149224",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794387808
-  },
-  {
-   "n": 1734,
-   "key": "mercadolivre:MLB18311803",
-   "title": "NIVEA MEN Creme de Barbear Sensitive 2 em 1 65g, Protege a Pele, Previne Irritações, Deslizamento Suave, Extrato de Camomila, Pele Sensível",
-   "price": 10.02,
-   "original": 13.49,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_676332-MLA107578241667_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivea-men-creme-de-barbear-sensitive-2-em-1-65g-protege-a-pele-previne-irritacoes-deslizamento-suave-extrato-de-camomila/p/MLB18311803?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794387387
   }
  ]
 }
