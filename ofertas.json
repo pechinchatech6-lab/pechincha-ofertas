@@ -1,7 +1,21 @@
 {
- "updated": 1794408441,
+ "updated": 1794408862,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1782,
+   "key": "mercadolivre:MLB16030232",
+   "title": "Aparador de Pelos Kemei KM-6776 Preto 3 em 1 Nariz e Barba Sem Fio",
+   "price": 48.9,
+   "original": 78.89,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_754437-MLA99453200484_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-kemei-km-6776-preto-3-em-1-nariz-e-barba-sem-fio/p/MLB16030232?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794408842
+  },
   {
    "n": 1781,
    "key": "mercadolivre:MLB50181290",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794382536
-  },
-  {
-   "n": 1722,
-   "key": "mercadolivre:MLB74221556",
-   "title": "BaByliss Profissional Fino 9mm Cerâmica Modelador de Cabelos",
-   "price": 44.55,
-   "original": 57.9,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_990797-MLA113553288977_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/babyliss-profissional-fino-9mm-ceramica-modelador-de-cabelos/p/MLB74221556?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794382115
   }
  ]
 }
