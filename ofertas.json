@@ -1,7 +1,21 @@
 {
- "updated": 1794366923,
+ "updated": 1794367344,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1690,
+   "key": "mercadolivre:MLB27673874",
+   "title": "Creme Para Pentear Salon Line Gel Creme SOS Cachos Super Óleos 1kg",
+   "price": 29.64,
+   "original": 39.4,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_866240-MLA99924827189_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-para-pentear-salon-line-gel-creme-sos-cachos-super-oleos-1kg/p/MLB27673874?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794367324
+  },
   {
    "n": 1689,
    "key": "mercadolivre:MLB65568637",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794339063
-  },
-  {
-   "n": 1630,
-   "key": "mercadolivre:MLB25295297",
-   "title": "Mini Mixer Elétrico Portátil Misturador De Bebidas Café Leite Cappuccino Whey Protein Shake Ovos Espumador Batedor Fouet Inox Compacto Cozinha Drinks Mackie Fer",
-   "price": 19.9,
-   "original": 44.9,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_938885-MLA117943518284_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-mixer-eletrico-portatil-misturador-de-bebidas-cafe-leite-cappuccino-whey-protein-shake-ovos-espumador-batedor-fouet/p/MLB25295297?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794338642
   }
  ]
 }
