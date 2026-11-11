@@ -1,7 +1,21 @@
 {
- "updated": 1794390775,
+ "updated": 1794391196,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1743,
+   "key": "mercadolivre:MLB79663696",
+   "title": "1 Par Meia Polaina Aeróbica Academia Esporte Fitness Premium Cor Roxo Desenho do tecido Lisa Tamanho Único",
+   "price": 20.29,
+   "original": 27.8,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_987354-MLA118009293495_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/1-par-meia-polaina-aerobica-academia-esporte-fitness-premium-cor-roxo-desenho-do-tecido-lisa-tamanho-unico/p/MLB79663696?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794391176
+  },
   {
    "n": 1742,
    "key": "mercadolivre:MLB46189259",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794364798
-  },
-  {
-   "n": 1683,
-   "key": "mercadolivre:MLB19140415",
-   "title": "Suplemento Whey Isolate Protein Fuse 1,8kg sabor Morango Dark Lab",
-   "price": 179.9,
-   "original": 699.9,
-   "pct": 74,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_989007-MLA99405715766_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suplemento-whey-isolate-protein-fuse-1-8kg-sabor-morango-dark-lab/p/MLB19140415?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794364377
   }
  ]
 }
