@@ -1,7 +1,21 @@
 {
- "updated": 1794411809,
+ "updated": 1794412230,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1790,
+   "key": "mercadolivre:MLB26085601",
+   "title": "Super Caixa De Som Completa Amplificada 200w 40 Cm De Altura Cor Preto",
+   "price": 145.0,
+   "original": 242.99,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_837631-MLA99983156149_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/super-caixa-de-som-completa-amplificada-200w-40-cm-de-altura-cor-preto/p/MLB26085601?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794412210
+  },
   {
    "n": 1789,
    "key": "mercadolivre:MLB75638604",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794386124
-  },
-  {
-   "n": 1730,
-   "key": "mercadolivre:MLB24807108",
-   "title": "Escova Prancha Para Alisar E Modelar Barba E Cabelo Bivolt Cerâmica Pente Anti Frizz Portátil Masculina Branca Branco Sngames",
-   "price": 26.3,
-   "original": 59.0,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_721748-MLA118279156332_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-prancha-para-alisar-e-modelar-barba-e-cabelo-bivolt-ceramica-pente-anti-frizz-portatil-masculina-branca-branco-sn/p/MLB24807108?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794385703
   }
  ]
 }
