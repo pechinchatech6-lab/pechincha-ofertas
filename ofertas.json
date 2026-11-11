@@ -1,7 +1,21 @@
 {
- "updated": 1794377925,
+ "updated": 1794378346,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1713,
+   "key": "mercadolivre:MLB28038505",
+   "title": "Caixa de Som Speaker Philco Extreme 220W PBS220BT",
+   "price": 359.0,
+   "original": 499.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_760667-MLA99822471815_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-speaker-philco-extreme-220w-pbs220bt/p/MLB28038505?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794378326
+  },
   {
    "n": 1712,
    "key": "mercadolivre:MLB64641216",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794349568
-  },
-  {
-   "n": 1653,
-   "key": "mercadolivre:MLB21801610",
-   "title": "Kérastase Densifique Bain Densité Shampoo Densificador para Cabelos Finos com Perda de Densidade, Fortalece e Dá Volume, Com Stemoxydine e Ácido Hialurônico, 25",
-   "price": 188.46,
-   "original": 259.9,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_635057-MLA99933798695_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kerastase-densifique-bain-densite-shampoo-densificador-para-cabelos-finos-com-perda-de-densidade-fortalece-e-da-volume-c/p/MLB21801610?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794349147
   }
  ]
 }
