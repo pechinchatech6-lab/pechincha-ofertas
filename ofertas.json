@@ -1,7 +1,21 @@
 {
- "updated": 1794358550,
+ "updated": 1794359580,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1673,
+   "key": "mercadolivre:MLB66911368",
+   "title": "Kit Alicate Crimpar Descascador 1200 Terminais Ilhós Tubular W&g",
+   "price": 74.59,
+   "original": 119.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_909617-MLA109112766975_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-alicate-crimpar-descascador-1200-terminais-ilhos-tubular-w-g/p/MLB66911368?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794359560
+  },
   {
    "n": 1672,
    "key": "mercadolivre:MLB54440434",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794331904
-  },
-  {
-   "n": 1613,
-   "key": "mercadolivre:MLB25074971",
-   "title": "Relógio Tommy Hilfiger 1791659 Cor de malha original: cor de moldura marrom, cor de fundo prateada, cor de fundo azul",
-   "price": 445.9,
-   "original": 990.0,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_796643-MLU70696783047_072023-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-tommy-hilfiger-1791659-cor-de-malha-original-cor-de-moldura-marrom-cor-de-fundo-prateada-cor-de-fundo-azul/p/MLB25074971?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794331483
   }
  ]
 }
