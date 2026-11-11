@@ -1,7 +1,21 @@
 {
- "updated": 1794375248,
+ "updated": 1794376040,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1709,
+   "key": "mercadolivre:MLB45436713",
+   "title": "Vedo HA400 Amplificador para Fones de Ouvido 4 Canais Compacto 6,35mm",
+   "price": 70.0,
+   "original": 78.0,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_968956-MLA100004958541_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/vedo-ha400-amplificador-para-fones-de-ouvido-4-canais-compacto-6-35mm/p/MLB45436713?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794376020
+  },
   {
    "n": 1708,
    "key": "mercadolivre:MLB19465754",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794347340
-  },
-  {
-   "n": 1649,
-   "key": "mercadolivre:MLB74606733",
-   "title": "Parafusadeira Furadeira De Impacto Brushless 2 Baterias",
-   "price": 279.0,
-   "original": 669.0,
-   "pct": 58,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_981504-MLA115611725759_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-brushless-2-baterias/p/MLB74606733?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794346919
   }
  ]
 }
