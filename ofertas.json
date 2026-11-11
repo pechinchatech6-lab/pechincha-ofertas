@@ -1,7 +1,21 @@
 {
- "updated": 1794389933,
+ "updated": 1794390354,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1741,
+   "key": "mercadolivre:MLB57719746",
+   "title": "Lava Louças 8 Serviços Branco Touch Plus Midea",
+   "price": 1679.0,
+   "original": 1999.0,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_954836-MLA92889662154_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lava-loucas-8-servicos-branco-touch-plus-midea/p/MLB57719746?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794390334
+  },
   {
    "n": 1740,
    "key": "mercadolivre:MLB18917848",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794363956
-  },
-  {
-   "n": 1681,
-   "key": "mercadolivre:MLB80257068",
-   "title": "Relógio de Parede Analógico Silencioso Redondo 30 cm, para Sala ou Cozinha, Prata com Fundo Preto - NANY PINK",
-   "price": 53.25,
-   "original": 89.9,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628653-MLA118801358299_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-analogico-silencioso-redondo-30-cm-para-sala-ou-cozinha-prata-com-fundo-preto-nany-pink/p/MLB80257068?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794363535
   }
  ]
 }
