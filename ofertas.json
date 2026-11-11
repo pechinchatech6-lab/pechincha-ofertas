@@ -1,7 +1,21 @@
 {
- "updated": 1794406757,
+ "updated": 1794407178,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1778,
+   "key": "mercadolivre:MLB70449712",
+   "title": "Body Splash Masculino Vibration 200ml - Primacial Perfume Bergamota Fresco",
+   "price": 41.61,
+   "original": 69.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_617155-MLA118231595864_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/body-splash-masculino-vibration-200ml-primacial-perfume-bergamota-fresco/p/MLB70449712?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794407158
+  },
   {
    "n": 1777,
    "key": "mercadolivre:MLB54961556",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794380852
-  },
-  {
-   "n": 1718,
-   "key": "mercadolivre:MLB77682099",
-   "title": "Soundbar 2.1 LED Bluetooth 5.3 Subwoofer 5.25 polegadas HDMI ARC AUX USB Hi Fi Extra Bass 3D EQ Controle Remoto Display LED Caixa de Som TV PC Projetor Gamer Ho",
-   "price": 308.44,
-   "original": 599.0,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_611083-MLA119222890978_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-2-1-led-bluetooth-5-3-subwoofer-5-25-polegadas-hdmi-arc-aux-usb-hi-fi-extra-bass-3d-eq-controle-remoto-display-/p/MLB77682099?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794380431
   }
  ]
 }
