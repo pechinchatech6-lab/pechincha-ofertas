@@ -1,7 +1,21 @@
 {
- "updated": 1794404652,
+ "updated": 1794405073,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1773,
+   "key": "mercadolivre:MLB48928008",
+   "title": "Esmerilhadeira Lixadeira Angular 4.1/2 11000rpm 780w The Black Tools Cor Amarelo Com 2 Discos De Corte",
+   "price": 142.74,
+   "original": 279.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_962825-MLA99558123062_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/esmerilhadeira-lixadeira-angular-4-1-2-11000rpm-780w-the-black-tools-cor-amarelo-com-2-discos-de-corte/p/MLB48928008?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794405053
+  },
   {
    "n": 1772,
    "key": "mercadolivre:MLB66816327",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794378747
-  },
-  {
-   "n": 1713,
-   "key": "mercadolivre:MLB28038505",
-   "title": "Caixa de Som Speaker Philco Extreme 220W PBS220BT",
-   "price": 359.0,
-   "original": 499.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_760667-MLA99822471815_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-speaker-philco-extreme-220w-pbs220bt/p/MLB28038505?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794378326
   }
  ]
 }
