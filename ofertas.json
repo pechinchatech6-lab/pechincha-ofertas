@@ -1,7 +1,21 @@
 {
- "updated": 1794414335,
+ "updated": 1794414756,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1796,
+   "key": "mercadolivre:MLB23373989",
+   "title": "Barbeador Kemei Shaver KM-1102 Sem Fio Cabeças Laváveis",
+   "price": 57.59,
+   "original": 198.9,
+   "pct": 71,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_777164-MLA99952832377_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/barbeador-kemei-shaver-km-1102-sem-fio-cabecas-lavaveis/p/MLB23373989?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794414736
+  },
   {
    "n": 1795,
    "key": "mercadolivre:MLB1040287790",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794388650
-  },
-  {
-   "n": 1736,
-   "key": "mercadolivre:MLB68988947",
-   "title": "Forno Elétrico 42l Family Ii Mondial Preto 1600w Frn-42-bi",
-   "price": 371.0,
-   "original": 512.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_717140-MLA110188232266_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/forno-eletrico-42l-family-ii-mondial-preto-1600w-frn-42-bi/p/MLB68988947?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794388229
   }
  ]
 }
