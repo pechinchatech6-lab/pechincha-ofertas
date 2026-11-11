@@ -1,7 +1,21 @@
 {
- "updated": 1794405915,
+ "updated": 1794406336,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1776,
+   "key": "mercadolivre:MLB62147806",
+   "title": "Soundbar JBL Cinema SB595 Bluetooth 220w 3.1.2 Canais - JBLSB595BLKBR",
+   "price": 1449.0,
+   "original": 1999.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_768031-MLA98365103819_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-jbl-cinema-sb595-bluetooth-220w-3-1-2-canais-jblsb595blkbr/p/MLB62147806?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794406316
+  },
   {
    "n": 1775,
    "key": "mercadolivre:MLB80167828",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794380010
-  },
-  {
-   "n": 1716,
-   "key": "mercadolivre:MLB79735207",
-   "title": "Soprador Turbo Portátil Recarregável 48V 2 Baterias Com Maleta Sem Fio Para Folhas Jardim Limpeza De Carro Secagem Automotiva Poeira Garagem Quintal Assoprador ",
-   "price": 100.0,
-   "original": 186.0,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_943234-MLA117723762674_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-turbo-portatil-recarregavel-48v-2-baterias-com-maleta-sem-fio-para-folhas-jardim-limpeza-de-carro-secagem-autom/p/MLB79735207?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794379589
   }
  ]
 }
