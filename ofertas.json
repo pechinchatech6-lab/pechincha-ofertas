@@ -1,7 +1,21 @@
 {
- "updated": 1794428861,
+ "updated": 1794429478,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1825,
+   "key": "mercadolivre:MLB19810227",
+   "title": "Creme Depilatório Veet Men Pele Normal 200ml",
+   "price": 39.9,
+   "original": 79.29,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_824173-MLA118163059710_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-depilatorio-veet-men-pele-normal-200ml/p/MLB19810227?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794429458
+  },
   {
    "n": 1824,
    "key": "mercadolivre:MLB27341794",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794401351
-  },
-  {
-   "n": 1765,
-   "key": "mercadolivre:MLB77356916",
-   "title": "Boné Ny New York Unissex Yankees Fitão Trucker Masculino Feminino Moda Verão Marca Lemon Shark Cor Azul-marinho e Branco",
-   "price": 31.99,
-   "original": 44.99,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_772153-MLA116204648701_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-ny-new-york-unissex-yankees-fitao-trucker-masculino-feminino-moda-verao-marca-lemon-shark-cor-azul-marinho-e-branco/p/MLB77356916?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794400930
   }
  ]
 }
