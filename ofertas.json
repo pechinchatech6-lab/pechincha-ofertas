@@ -1,7 +1,21 @@
 {
- "updated": 1794395827,
+ "updated": 1794396248,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1755,
+   "key": "mercadolivre:MLB44117615",
+   "title": "Fritadeira Elétrica AFON-12L-BG Forno Oven 12 Litros Preto Mondial",
+   "price": 417.93,
+   "original": 899.0,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_654188-MLA110122213881_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fritadeira-eletrica-afon-12l-bg-forno-oven-12-litros-preto-mondial/p/MLB44117615?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794396228
+  },
   {
    "n": 1754,
    "key": "mercadolivre:MLB36754311",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794369850
-  },
-  {
-   "n": 1695,
-   "key": "mercadolivre:MLB6087971",
-   "title": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg",
-   "price": 78.9,
-   "original": 179.84,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_608162-MLA112813208483_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/proteina-max-titanium-whey-pro-concetrado-em-po-sabor-morango-x-1kg/p/MLB6087971?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794369429
   }
  ]
 }
