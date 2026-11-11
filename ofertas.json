@@ -1,7 +1,21 @@
 {
- "updated": 1794378767,
+ "updated": 1794379188,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1715,
+   "key": "mercadolivre:MLB20993983",
+   "title": "Hidratante Facial Epidrat Calm B5 Para Pele Sensível 50ml Mantecorp",
+   "price": 69.9,
+   "original": 104.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_670612-MLB74162425659_012024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hidratante-facial-epidrat-calm-b5-para-pele-sensivel-50ml-mantecorp/p/MLB20993983?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794379168
+  },
   {
    "n": 1714,
    "key": "mercadolivre:MLB70361842",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794351401
-  },
-  {
-   "n": 1655,
-   "key": "mercadolivre:MLB75964600",
-   "title": "Escova Secadora Philco com Íons Tourmaline e Tecnologia Anti-frizz Bivolt",
-   "price": 138.9,
-   "original": 280.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_917271-MLA115687705498_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-philco-com-ions-tourmaline-e-tecnologia-anti-frizz-bivolt/p/MLB75964600?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794349989
   }
  ]
 }
