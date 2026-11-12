@@ -1,7 +1,21 @@
 {
- "updated": 1794453013,
+ "updated": 1794453434,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1871,
+   "key": "mercadolivre:MLB29187736",
+   "title": "Lavadora De Alta Pressão Vonder 1400w Lav 1600 Amarelo 127 V",
+   "price": 339.0,
+   "original": 560.74,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_674891-MLA118434008530_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-vonder-1400w-lav-1600-amarelo-127-v/p/MLB29187736?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794453414
+  },
   {
    "n": 1870,
    "key": "mercadolivre:MLB22327723",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794422218
-  },
-  {
-   "n": 1811,
-   "key": "mercadolivre:MLB19510151",
-   "title": "ISDIN Creme Corporal Woman Antiestrias Apto para Grávidas - 245g",
-   "price": 99.0,
-   "original": 159.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_668300-MLA88631934993_072025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/isdin-creme-corporal-woman-antiestrias-apto-para-gravidas-245g/p/MLB19510151?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794421619
   }
  ]
 }
