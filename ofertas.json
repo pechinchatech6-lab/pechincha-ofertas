@@ -1,7 +1,21 @@
 {
- "updated": 1794474063,
+ "updated": 1794474484,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1921,
+   "key": "mercadolivre:MLB75077260",
+   "title": "Soprador Térmico Pistola de Ar Quente MECOLOUR 1500W 600°C 6 Bocais para Insulfilm e Envelopamento",
+   "price": 94.49,
+   "original": 179.0,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_813731-MLA116699413648_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-termico-pistola-de-ar-quente-mecolour-1500w-600-c-6-bocais-para-insulfilm-e-envelopamento/p/MLB75077260?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794474464
+  },
   {
    "n": 1920,
    "key": "mercadolivre:MLB68347781",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794448720
-  },
-  {
-   "n": 1861,
-   "key": "mercadolivre:MLB18758278",
-   "title": "Elden Ring Standard Edition PlayStation 4 físico",
-   "price": 229.96,
-   "original": 291.1,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_786484-MLA99509325904_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/elden-ring-standard-edition-playstation-4-fisico/p/MLB18758278?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794448299
   }
  ]
 }
