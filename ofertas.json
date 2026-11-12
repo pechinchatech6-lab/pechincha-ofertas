@@ -1,7 +1,21 @@
 {
- "updated": 1794485308,
+ "updated": 1794485729,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1940,
+   "key": "mercadolivre:MLB24117280",
+   "title": "Fone de Ouvido Bluetooth Dapon H02D, Bluetooth 5.1, Modo Sem Fio e P2 3,5mm, Dobrável, Almofadas Macias,Microfone Integrado, Controle no Fone, Carregamento Tipo",
+   "price": 70.9,
+   "original": 149.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_871158-MLA99870084511_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-dapon-h02d-bluetooth-5-1-modo-sem-fio-e-p2-3-5mm-dobravel-almofadas-macias-microfone-integrado-/p/MLB24117280?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794485709
+  },
   {
    "n": 1939,
    "key": "mercadolivre:MLB27175663",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794457624
-  },
-  {
-   "n": 1880,
-   "key": "mercadolivre:MLB18725403",
-   "title": "Proteína Growth Supplements Basic Whey em pó sabor Chocolate x 1kg",
-   "price": 69.9,
-   "original": 104.9,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_819000-MLA101180020755_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/proteina-growth-supplements-basic-whey-em-po-sabor-chocolate-x-1kg/p/MLB18725403?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794457203
   }
  ]
 }
