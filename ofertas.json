@@ -1,7 +1,21 @@
 {
- "updated": 1794466485,
+ "updated": 1794466906,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1903,
+   "key": "mercadolivre:MLB49851699",
+   "title": "Controle GameSir Tegenaria T3 Lite Com Fio para PC Switch Android iOS Steam Celular Hall Effect USB-A Design Ergonômico Branco",
+   "price": 92.0,
+   "original": 159.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_667956-MLA100010532689_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamesir-tegenaria-t3-lite-com-fio-para-pc-switch-android-ios-steam-celular-hall-effect-usb-a-design-ergonomico-/p/MLB49851699?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794466886
+  },
   {
    "n": 1902,
    "key": "mercadolivre:MLB64038320",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794438979
-  },
-  {
-   "n": 1843,
-   "key": "mercadolivre:MLB79751693",
-   "title": "Climatizador de Ar Portátil Paboxin 15L com Umidificador, 6 Velocidades e Controle Remoto",
-   "price": 484.02,
-   "original": 1139.99,
-   "pct": 58,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_977581-MLA118112130083_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-portatil-paboxin-15l-com-umidificador-6-velocidades-e-controle-remoto/p/MLB79751693?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794438558
   }
  ]
 }
