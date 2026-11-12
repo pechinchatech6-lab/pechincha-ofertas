@@ -1,7 +1,21 @@
 {
- "updated": 1794506938,
+ "updated": 1794507359,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1984,
+   "key": "mercadolivre:MLB23894667",
+   "title": "Trena Curta De Aço Autotrava 10m X 25mm Vonder",
+   "price": 38.25,
+   "original": 48.0,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_811827-MLA100094898629_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/trena-curta-de-aco-autotrava-10m-x-25mm-vonder/p/MLB23894667?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794507339
+  },
   {
    "n": 1983,
    "key": "mercadolivre:MLB29328872",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794476148
-  },
-  {
-   "n": 1924,
-   "key": "mercadolivre:MLB42623138",
-   "title": "Barbeador Elétrico Pba08 À Prova Dágua Bivolt Philco Preto",
-   "price": 109.9,
-   "original": 217.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_661448-MLA100000128419_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/barbeador-eletrico-pba08-a-prova-dagua-bivolt-philco-preto/p/MLB42623138?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794475727
   }
  ]
 }
