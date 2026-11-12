@@ -1,7 +1,21 @@
 {
- "updated": 1794500781,
+ "updated": 1794501201,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1971,
+   "key": "mercadolivre:MLB52052995",
+   "title": "Air Fryer Philco 6,5L Visor Glass e Redstone 1700W PAF65A",
+   "price": 280.0,
+   "original": 485.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_761173-MLA99475995202_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/air-fryer-philco-6-5l-visor-glass-e-redstone-1700w-paf65a/p/MLB52052995?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794501181
+  },
   {
    "n": 1970,
    "key": "mercadolivre:MLB76972122",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794470675
-  },
-  {
-   "n": 1911,
-   "key": "mercadolivre:MLB75575414",
-   "title": "Politriz Polidora Automotiva Lixadeira 5 Polegadas (125 mm) Hilda Rosca M14",
-   "price": 96.12,
-   "original": 164.21,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_833486-MLA115396271563_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/politriz-polidora-automotiva-lixadeira-5-polegadas-125-mm-hilda-rosca-m14/p/MLB75575414?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794470254
   }
  ]
 }
