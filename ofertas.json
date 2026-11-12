@@ -1,7 +1,21 @@
 {
- "updated": 1794476168,
+ "updated": 1794476589,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1926,
+   "key": "mercadolivre:MLB26168813",
+   "title": "Relógio Para Enfermagem Medicina Silicone Broche Lapela Cor Azul",
+   "price": 24.0,
+   "original": 29.9,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822613-MLA99588507110_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-para-enfermagem-medicina-silicone-broche-lapela-cor-azul/p/MLB26168813?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794476569
+  },
   {
    "n": 1925,
    "key": "mercadolivre:MLB1055308835",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794451522
-  },
-  {
-   "n": 1866,
-   "key": "mercadolivre:MLB19764150",
-   "title": "Creamy Skincare Calming Cream 40g | Creme Hidratante Facial Calmante para Pele Sensível, Reduz Vermelhidão, Hidratação Leve, Rápida Absorção | Todos os Tipos de",
-   "price": 47.49,
-   "original": 66.9,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_639951-MLA118299456453_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creamy-skincare-calming-cream-40g-creme-hidratante-facial-calmante-para-pele-sensivel-reduz-vermelhidao-hidratacao-leve-/p/MLB19764150?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794451101
   }
  ]
 }
