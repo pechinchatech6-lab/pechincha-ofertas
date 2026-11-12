@@ -1,7 +1,21 @@
 {
- "updated": 1794484045,
+ "updated": 1794484466,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1937,
+   "key": "mercadolivre:MLB19717528",
+   "title": "Creme facial Neutrogena Moisturizing Matte 3 em 1 - 100g",
+   "price": 24.6,
+   "original": 48.99,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_856077-MLU74218922451_012024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-facial-neutrogena-moisturizing-matte-3-em-1-100g/p/MLB19717528?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794484446
+  },
   {
    "n": 1936,
    "key": "mercadolivre:MLB74598488",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794456361
-  },
-  {
-   "n": 1877,
-   "key": "mercadolivre:MLB58382190",
-   "title": "Mochila Notebook 17 Impermeável Reforçada Grande Masculina USB Escolar Trabalho Rincostar Preta Preto Liso",
-   "price": 37.99,
-   "original": 52.99,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_937893-MLA114680295948_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-notebook-17-impermeavel-reforcada-grande-masculina-usb-escolar-trabalho-rincostar-preta-preto-liso/p/MLB58382190?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794455940
   }
  ]
 }
