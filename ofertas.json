@@ -1,7 +1,21 @@
 {
- "updated": 1794498254,
+ "updated": 1794498675,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1965,
+   "key": "mercadolivre:MLB75994421",
+   "title": "Samsung Smart TV 50\" Mini LED 4K M75H 26/2027",
+   "price": 2489.0,
+   "original": 3548.16,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_829406-MLA116062248430_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/samsung-smart-tv-50-mini-led-4k-m75h-26-2027/p/MLB75994421?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794498655
+  },
   {
    "n": 1964,
    "key": "mercadolivre:MLB20689534",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794468149
-  },
-  {
-   "n": 1905,
-   "key": "mercadolivre:MLB63980306",
-   "title": "Pokémon Pokopia - Nintendo Switch 2",
-   "price": 439.89,
-   "original": 556.83,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_877218-MLA104113006671_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pokemon-pokopia-nintendo-switch-2/p/MLB63980306?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794467728
   }
  ]
 }
