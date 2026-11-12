@@ -1,7 +1,21 @@
 {
- "updated": 1794452592,
+ "updated": 1794453013,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1870,
+   "key": "mercadolivre:MLB22327723",
+   "title": "Creme Reparador Protetor Avène Cicalfate+ Pele Sensível 20ml",
+   "price": 36.9,
+   "original": 52.99,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_902417-MLA99263357268_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-reparador-protetor-avene-cicalfate-pele-sensivel-20ml/p/MLB22327723?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794452993
+  },
   {
    "n": 1869,
    "key": "mercadolivre:MLB19109935",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794421619
-  },
-  {
-   "n": 1810,
-   "key": "mercadolivre:MLB78840757",
-   "title": "Caixa De Som Sound Bar Home Theater Bluetooth Para Tv Cinema 80w Cor Preto Bivolt Boyu Cell",
-   "price": 262.2,
-   "original": 360.9,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_857992-MLA118377893890_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-sound-bar-home-theater-bluetooth-para-tv-cinema-80w-cor-preto-bivolt-boyu-cell/p/MLB78840757?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794421198
   }
  ]
 }
