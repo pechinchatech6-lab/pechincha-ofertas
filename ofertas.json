@@ -1,7 +1,21 @@
 {
- "updated": 1794453434,
+ "updated": 1794453855,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1872,
+   "key": "mercadolivre:MLB51340616",
+   "title": "Smartphone Motorola Moto G86 5G Tela 6.7 pOLED 256GB 8GB RAM Câmera 50MP 4K IP69 Desbloqueado",
+   "price": 1602.44,
+   "original": 2999.0,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_814913-MLA99969880153_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g86-5g-tela-6-7-poled-256gb-8gb-ram-camera-50mp-4k-ip69-desbloqueado/p/MLB51340616?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794453835
+  },
   {
    "n": 1871,
    "key": "mercadolivre:MLB29187736",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794422639
-  },
-  {
-   "n": 1812,
-   "key": "mercadolivre:MLB64609999",
-   "title": "Alicate Crimpar Prensa Terminal Tubular Decapar Descascador Crimpador Ilhós 0,25 Até 10mm Kit Eletricista Profissional",
-   "price": 78.9,
-   "original": 125.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_776563-MLA116261039568_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alicate-crimpar-prensa-terminal-tubular-decapar-descascador-crimpador-ilhos-0-25-ate-10mm-kit-eletricista-profissional/p/MLB64609999?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794422218
   }
  ]
 }
