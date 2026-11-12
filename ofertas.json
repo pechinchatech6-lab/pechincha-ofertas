@@ -1,7 +1,21 @@
 {
- "updated": 1794457223,
+ "updated": 1794457644,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1881,
+   "key": "mercadolivre:MLB53769483",
+   "title": "Micro-ondas 20l Branco Mastercook Midea",
+   "price": 399.0,
+   "original": 569.0,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_628160-MLA99466162342_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-20l-branco-mastercook-midea/p/MLB53769483?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794457624
+  },
   {
    "n": 1880,
    "key": "mercadolivre:MLB18725403",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794427165
-  },
-  {
-   "n": 1821,
-   "key": "mercadolivre:MLB70508079",
-   "title": "Rebitador Manual Tipo Alicate Com 4 Bicos E 100 Rebites Para Metal Alumínio Madeira E Plástico Universal Profissional",
-   "price": 26.99,
-   "original": 47.7,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_883900-MLA112439073103_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/rebitador-manual-tipo-alicate-com-4-bicos-e-100-rebites-para-metal-aluminio-madeira-e-plastico-universal-profissional/p/MLB70508079?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794426744
   }
  ]
 }
