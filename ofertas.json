@@ -1,7 +1,21 @@
 {
- "updated": 1794493623,
+ "updated": 1794494044,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1956,
+   "key": "mercadolivre:MLB38176139",
+   "title": "Fone de Ouvido Bluetooth 5.4 soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celu",
+   "price": 196.0,
+   "original": 389.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_760745-MLA95700724020_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-5-4-soundcore-p30i-da-anker-cancelamento-de-ruido-adaptativo-graves-poderosos-45h-de-reproducao/p/MLB38176139?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794494024
+  },
   {
    "n": 1955,
    "key": "mercadolivre:MLB79072272",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794464360
-  },
-  {
-   "n": 1896,
-   "key": "mercadolivre:MLB54016038",
-   "title": "LG Soundbar SH5A 600W (4.1 canais) com AI Sound Pro e WOW Interface – Som Imersivo, Voz Clara e Sincronização Total com sua TV",
-   "price": 1159.0,
-   "original": 1799.0,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_911029-MLA100231909230_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lg-soundbar-sh5a-600w-4-1-canais-com-ai-sound-pro-e-wow-interface-som-imersivo-voz-clara-e-sincronizacao-total-com-sua-t/p/MLB54016038?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794463939
   }
  ]
 }
