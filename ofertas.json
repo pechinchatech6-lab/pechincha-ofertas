@@ -1,7 +1,21 @@
 {
- "updated": 1794526868,
+ "updated": 1794527289,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2022,
+   "key": "mercadolivre:MLB47887434",
+   "title": "Relógio Parede LED Digital Grande 46x22cm Hall Entrada Academia Hospital Igreja Comércio Recepção Calendário Termômetro Data Hora 12/24h Temperatura Dia Mês Ano",
+   "price": 123.89,
+   "original": 214.28,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_656466-MLA112698128142_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-parede-led-digital-grande-46x22cm-hall-entrada-academia-hospital-igreja-comercio-recepcao-calendario-termometro-/p/MLB47887434?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794527269
+  },
   {
    "n": 2021,
    "key": "mercadolivre:MLB19086162",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794497813
-  },
-  {
-   "n": 1962,
-   "key": "mercadolivre:MLB45160657",
-   "title": "Mouse Gamer M711 Cobra Chroma Redragon Com fio Para Jogos 12.400 DPI Com Led RGB Preto",
-   "price": 74.9,
-   "original": 143.43,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_898286-MLA95664298408_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-gamer-m711-cobra-chroma-redragon-com-fio-para-jogos-12-400-dpi-com-led-rgb-preto/p/MLB45160657?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794497392
   }
  ]
 }
