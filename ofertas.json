@@ -1,7 +1,21 @@
 {
- "updated": 1794462275,
+ "updated": 1794462696,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1893,
+   "key": "mercadolivre:MLB54472324",
+   "title": "Aspirador de Pó Vertical Midea, 1350W, 2 em 1, cabo de 5M, Preto e Azul",
+   "price": 127.9,
+   "original": 257.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_742597-MLA95523059142_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-midea-1350w-2-em-1-cabo-de-5m-preto-e-azul/p/MLB54472324?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794462676
+  },
   {
    "n": 1892,
    "key": "mercadolivre:MLB54160969",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794433247
-  },
-  {
-   "n": 1833,
-   "key": "mercadolivre:MLB78863823",
-   "title": "Retífica Pneumática Profissional Naisieka KMJ de Alta Rotação, com Maleta e Kit de Ponteiras para Lixar e Polir Metal",
-   "price": 100.0,
-   "original": 260.0,
-   "pct": 62,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_784959-MLA117115580949_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/retifica-pneumatica-profissional-naisieka-kmj-de-alta-rotacao-com-maleta-e-kit-de-ponteiras-para-lixar-e-polir-metal/p/MLB78863823?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794432826
   }
  ]
 }
