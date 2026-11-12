@@ -1,7 +1,21 @@
 {
- "updated": 1794524585,
+ "updated": 1794525184,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2017,
+   "key": "mercadolivre:MLB77363281",
+   "title": "Kit de Brilho Labial Hidratante Fran by Franciny Ehlke com Gloss Lip Bunny e Franboesa",
+   "price": 39.82,
+   "original": 104.7,
+   "pct": 62,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_842770-MLA116205993339_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-de-brilho-labial-hidratante-fran-by-franciny-ehlke-com-gloss-lip-bunny-e-franboesa/p/MLB77363281?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794525164
+  },
   {
    "n": 2016,
    "key": "mercadolivre:MLB44898096",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794494866
-  },
-  {
-   "n": 1957,
-   "key": "mercadolivre:MLB25685239",
-   "title": "Kit Completo Aerografia Mini Compressor Ar + Aerógrafo 0,3mm",
-   "price": 285.9,
-   "original": 397.48,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_670452-MLA99483709052_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-completo-aerografia-mini-compressor-ar-aerografo-0-3mm/p/MLB25685239?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794494445
   }
  ]
 }
