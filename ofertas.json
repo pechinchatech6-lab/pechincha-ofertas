@@ -1,7 +1,21 @@
 {
- "updated": 1794499517,
+ "updated": 1794499938,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1968,
+   "key": "mercadolivre:MLB56461322",
+   "title": "Micro-ondas 20L Preto MasterCook Midea MHP20P2",
+   "price": 472.39,
+   "original": 569.0,
+   "pct": 17,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_615418-MLA92205811532_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-20l-preto-mastercook-midea-mhp20p2/p/MLB56461322?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794499918
+  },
   {
    "n": 1967,
    "key": "mercadolivre:MLB25327723",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794469412
-  },
-  {
-   "n": 1908,
-   "key": "mercadolivre:MLB24044937",
-   "title": "Philco geladeira inverter frost free PRF535I inox com freezer 437l",
-   "price": 3599.99,
-   "original": 5634.88,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_717199-MLA100035736549_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/philco-geladeira-inverter-frost-free-prf535i-inox-com-freezer-437l/p/MLB24044937?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794468991
   }
  ]
 }
