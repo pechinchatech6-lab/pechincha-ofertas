@@ -1,7 +1,21 @@
 {
- "updated": 1794446635,
+ "updated": 1794447056,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1858,
+   "key": "mercadolivre:MLB20570214",
+   "title": "Escova Secadora Stylish Keration Brush 3d Bivolt",
+   "price": 134.89,
+   "original": 164.0,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_767793-MLA99568255858_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-stylish-keration-brush-3d-bivolt/p/MLB20570214?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794447036
+  },
   {
    "n": 1857,
    "key": "mercadolivre:MLB19728006",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794415999
-  },
-  {
-   "n": 1798,
-   "key": "mercadolivre:MLB20662382",
-   "title": "Smart TV AIWA 43” Android Full HD Borda Ultrafina HDR10 Dolby Áudio AWS-TV-43-BL-02-A",
-   "price": 1247.22,
-   "original": 1599.0,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_994322-MLA99533174096_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-aiwa-43-android-full-hd-borda-ultrafina-hdr10-dolby-audio-aws-tv-43-bl-02-a/p/MLB20662382?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794415578
   }
  ]
 }
