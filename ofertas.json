@@ -1,7 +1,21 @@
 {
- "updated": 1794494465,
+ "updated": 1794494886,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1958,
+   "key": "mercadolivre:MLB1046215784",
+   "title": "iPhone 16e (128 GB) - Preto - Distribuidor Autorizado",
+   "price": 3443.33,
+   "original": 5799.0,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794494866
+  },
   {
    "n": 1957,
    "key": "mercadolivre:MLB25685239",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794465202
-  },
-  {
-   "n": 1898,
-   "key": "mercadolivre:MLB35276826",
-   "title": "Sanduicheira Grill 2 Em 1 Kian Preta Elétrica 750w Cor Preto,Seu Mixto Quente Ultra Rápido, e Outros Petiscos",
-   "price": 54.0,
-   "original": 79.0,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_811189-MLA117367368715_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/sanduicheira-grill-2-em-1-kian-preta-eletrica-750w-cor-preto-seu-mixto-quente-ultra-rapido-e-outros-petiscos/p/MLB35276826?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794464781
   }
  ]
 }
