@@ -1,7 +1,21 @@
 {
- "updated": 1794448319,
+ "updated": 1794448740,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1862,
+   "key": "mercadolivre:MLB75898900",
+   "title": "Nível Laser Verde 16 Linhas War Shark 360° Autonivelante + 2 Baterias",
+   "price": 199.0,
+   "original": 400.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612772-MLA117503682685_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-360-autonivelante-2-baterias/p/MLB75898900?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794448720
+  },
   {
    "n": 1861,
    "key": "mercadolivre:MLB18758278",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794417683
-  },
-  {
-   "n": 1802,
-   "key": "mercadolivre:MLB66421865",
-   "title": "Caixa de som torre Pulse Sp518 Bluetooth / LED - 2000w cor preto",
-   "price": 945.9,
-   "original": 1592.0,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_864633-MLA108802288953_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-torre-pulse-sp518-bluetooth-led-2000w-cor-preto/p/MLB66421865?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794417262
   }
  ]
 }
