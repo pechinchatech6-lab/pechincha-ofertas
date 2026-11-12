@@ -1,7 +1,21 @@
 {
- "updated": 1794460591,
+ "updated": 1794461012,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1889,
+   "key": "mercadolivre:MLB76467562",
+   "title": "Lamina Serra Multi-corte Oscilante Kit 5 Pçs Para Wesco Makita",
+   "price": 27.35,
+   "original": 75.99,
+   "pct": 64,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_607957-MLA119667530665_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lamina-serra-multi-corte-oscilante-kit-5-pcs-para-wesco-makita/p/MLB76467562?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794460992
+  },
   {
    "n": 1888,
    "key": "mercadolivre:MLB79380541",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794431563
-  },
-  {
-   "n": 1829,
-   "key": "mercadolivre:MLB69966498",
-   "title": "Microfone Duplo Redução De Ruído Sem Fio Magnético Zcco J6 Cor Amarelo",
-   "price": 232.0,
-   "original": 359.13,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_662961-MLA111857199145_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-duplo-reducao-de-ruido-sem-fio-magnetico-zcco-j6-cor-amarelo/p/MLB69966498?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794431142
   }
  ]
 }
