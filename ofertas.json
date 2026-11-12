@@ -1,7 +1,21 @@
 {
- "updated": 1794461433,
+ "updated": 1794461854,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1891,
+   "key": "mercadolivre:MLB79371322",
+   "title": "Depilador Aparador Elétrico Feminino Indolor 4 Em 1 Pelos Íntimo Facial Nariz Orelha Sobrancelha - Crowley",
+   "price": 35.49,
+   "original": 54.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_993413-MLA116209048116_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-aparador-eletrico-feminino-indolor-4-em-1-pelos-intimo-facial-nariz-orelha-sobrancelha-crowley/p/MLB79371322?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794461834
+  },
   {
    "n": 1890,
    "key": "mercadolivre:MLB77715277",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794432405
-  },
-  {
-   "n": 1831,
-   "key": "mercadolivre:MLB62593832",
-   "title": "Depilador Luz Pulsada Intensa (IPL) Basike Sensacao Gelo Indolor Depilacao Definitiva 999999 Disparos 9 Niveis Rosto Corpo aparelho depilacao feminino depilação",
-   "price": 310.0,
-   "original": 569.82,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_680245-MLA100075970499_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-luz-pulsada-intensa-ipl-basike-sensacao-gelo-indolor-depilacao-definitiva-999999-disparos-9-niveis-rosto-corpo/p/MLB62593832?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794431984
   }
  ]
 }
