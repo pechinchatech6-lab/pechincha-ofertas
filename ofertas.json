@@ -1,7 +1,21 @@
 {
- "updated": 1794526026,
+ "updated": 1794526447,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2020,
+   "key": "mercadolivre:MLB18610706",
+   "title": "Logitech Mk235 ABNT2 Português Teclado E Mouse Grafite Preto",
+   "price": 145.99,
+   "original": 219.0,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_735713-MLA99973706633_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/logitech-mk235-abnt2-portugues-teclado-e-mouse-grafite-preto/p/MLB18610706?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794526427
+  },
   {
    "n": 2019,
    "key": "mercadolivre:MLB23532969",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794496346
-  },
-  {
-   "n": 1960,
-   "key": "mercadolivre:MLB18555054",
-   "title": "Lixadeira Pneumática Roto Orbital PDR PRO-406 6'' 12,000 RPM",
-   "price": 228.0,
-   "original": 320.2,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_701812-MLA99872457571_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-roto-orbital-pdr-pro-406-6-12-000-rpm/p/MLB18555054?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794495738
   }
  ]
 }
