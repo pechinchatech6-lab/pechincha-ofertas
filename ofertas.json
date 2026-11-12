@@ -1,7 +1,21 @@
 {
- "updated": 1794459328,
+ "updated": 1794459749,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1886,
+   "key": "mercadolivre:MLB32387819",
+   "title": "Kit Eudora Siage Cica-Therapy Shampoo 250ml + Máscara 250g",
+   "price": 63.8,
+   "original": 78.0,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_658406-MLA117339689810_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-eudora-siage-cica-therapy-shampoo-250ml-mascara-250g/p/MLB32387819?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794459729
+  },
   {
    "n": 1885,
    "key": "mercadolivre:MLB65411803",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794430300
-  },
-  {
-   "n": 1826,
-   "key": "mercadolivre:MLB52162585",
-   "title": "Chapinha Taiff Gloss Rose Bivolt 230°C Prancha Alisadora Profissional",
-   "price": 199.74,
-   "original": 330.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_776804-MLA99452091560_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chapinha-taiff-gloss-rose-bivolt-230-c-prancha-alisadora-profissional/p/MLB52162585?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794429879
   }
  ]
 }
