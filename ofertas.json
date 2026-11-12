@@ -1,7 +1,21 @@
 {
- "updated": 1794470274,
+ "updated": 1794470695,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1912,
+   "key": "mercadolivre:MLB80245753",
+   "title": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6\" E À Prova D'Água",
+   "price": 69.59,
+   "original": 79.99,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680341-MLA118784298481_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-reforcada-jiesipote-para-viagem-com-compartimento-para-notebook-15-6-e-a-prova-d-agua/p/MLB80245753?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794470675
+  },
   {
    "n": 1911,
    "key": "mercadolivre:MLB75575414",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794444931
-  },
-  {
-   "n": 1852,
-   "key": "mercadolivre:MLB24620782",
-   "title": "Escova Secadora Britânia 4 em 1 Cerâmica 1300W BES26SR Bivolt",
-   "price": 92.9,
-   "original": 139.9,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_654500-MLA99956258605_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-britania-4-em-1-ceramica-1300w-bes26sr-bivolt/p/MLB24620782?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794442891
   }
  ]
 }
