@@ -1,7 +1,21 @@
 {
- "updated": 1794509464,
+ "updated": 1794509885,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1990,
+   "key": "mercadolivre:MLB19932033",
+   "title": "Óleo Lubrificante Para Lâminas De Máquinas 118.3ml - Wahl",
+   "price": 24.09,
+   "original": 34.5,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_748738-MLU74247860795_012024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/oleo-lubrificante-para-laminas-de-maquinas-118-3ml-wahl/p/MLB19932033?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794509865
+  },
   {
    "n": 1989,
    "key": "mercadolivre:MLB47886720",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794478674
-  },
-  {
-   "n": 1930,
-   "key": "mercadolivre:MLB67338975",
-   "title": "Kit Barba De Macho Shampoo Condicionador Balm Óleo + Pente",
-   "price": 162.44,
-   "original": 324.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_762419-MLA109681534325_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-barba-de-macho-shampoo-condicionador-balm-oleo-pente/p/MLB67338975?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794478253
   }
  ]
 }
