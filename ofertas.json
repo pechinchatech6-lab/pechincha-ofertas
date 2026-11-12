@@ -1,7 +1,21 @@
 {
- "updated": 1794463959,
+ "updated": 1794464380,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1897,
+   "key": "mercadolivre:MLB66373729",
+   "title": "Relógio De Mesa Compacto Led Com Projetor De Parede Data Temperatura Despertador Hora Led Verde - Aero Home",
+   "price": 44.74,
+   "original": 72.47,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_953599-MLA108374286237_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-mesa-compacto-led-com-projetor-de-parede-data-temperatura-despertador-hora-led-verde-aero-home/p/MLB66373729?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794464360
+  },
   {
    "n": 1896,
    "key": "mercadolivre:MLB54016038",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794434931
-  },
-  {
-   "n": 1837,
-   "key": "mercadolivre:MLB50382362",
-   "title": "Fone de Ouvido Pares F-9 Bluetooth, In-ear Sem Fio com Powerbank e Som Imersivo",
-   "price": 21.9,
-   "original": 29.9,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_962707-MLA89992907158_082025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-pares-f-9-bluetooth-in-ear-sem-fio-com-powerbank-e-som-imersivo/p/MLB50382362?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794434510
   }
  ]
 }
