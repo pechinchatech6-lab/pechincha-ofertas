@@ -1,7 +1,21 @@
 {
- "updated": 1794482433,
+ "updated": 1794484045,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1936,
+   "key": "mercadolivre:MLB74598488",
+   "title": "Kit Alicate Crimpador e Desencapador de Fios Hexon Profissional com 1200 Ilhós",
+   "price": 69.9,
+   "original": 120.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_866702-MLA113979534319_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-alicate-crimpador-e-desencapador-de-fios-hexon-profissional-com-1200-ilhos/p/MLB74598488?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794484025
+  },
   {
    "n": 1935,
    "key": "mercadolivre:MLB70047782",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794455940
-  },
-  {
-   "n": 1876,
-   "key": "mercadolivre:MLB73418954",
-   "title": "Soprador De Ar Turbo Automotivo Limpeza Profunda Portatil Sem Fio Multifuncional Churrasqueira Janelas Poeiras Landara",
-   "price": 43.55,
-   "original": 78.99,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_855518-MLA118434888446_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-de-ar-turbo-automotivo-limpeza-profunda-portatil-sem-fio-multifuncional-churrasqueira-janelas-poeiras-landara/p/MLB73418954?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794455519
   }
  ]
 }
