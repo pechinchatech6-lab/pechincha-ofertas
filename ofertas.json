@@ -1,7 +1,21 @@
 {
- "updated": 1794449161,
+ "updated": 1794449582,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1864,
+   "key": "mercadolivre:MLB78894494",
+   "title": "Relógio Smartwatch Xiaomi Redmi Watch 6 Lite Amoled 1,96” Gps 5atm Preto",
+   "price": 390.15,
+   "original": 459.0,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_875045-MLA117800788327_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-smartwatch-xiaomi-redmi-watch-6-lite-amoled-1-96-gps-5atm-preto/p/MLB78894494?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794449562
+  },
   {
    "n": 1863,
    "key": "mercadolivre:MLB63950169",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794418525
-  },
-  {
-   "n": 1804,
-   "key": "mercadolivre:MLB65764004",
-   "title": "Fones De Ouvido Usb-c Tipo C Com Microfone Integrado Som Estéreo Alta Qualidade Controle Chamadas Compatível Com iPhone 15 16 17 18 Android Samsung Xiaomi Motor",
-   "price": 22.3,
-   "original": 59.99,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_693659-MLA113618776783_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fones-de-ouvido-usb-c-tipo-c-com-microfone-integrado-som-estereo-alta-qualidade-controle-chamadas-compativel-com-iphone-/p/MLB65764004?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794418104
   }
  ]
 }
