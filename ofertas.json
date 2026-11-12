@@ -1,7 +1,21 @@
 {
- "updated": 1794475326,
+ "updated": 1794475747,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1924,
+   "key": "mercadolivre:MLB42623138",
+   "title": "Barbeador Elétrico Pba08 À Prova Dágua Bivolt Philco Preto",
+   "price": 109.9,
+   "original": 217.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_661448-MLA100000128419_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/barbeador-eletrico-pba08-a-prova-dagua-bivolt-philco-preto/p/MLB42623138?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794475727
+  },
   {
    "n": 1923,
    "key": "mercadolivre:MLB75536994",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794450055
-  },
-  {
-   "n": 1864,
-   "key": "mercadolivre:MLB78894494",
-   "title": "Relógio Smartwatch Xiaomi Redmi Watch 6 Lite Amoled 1,96” Gps 5atm Preto",
-   "price": 390.15,
-   "original": 459.0,
-   "pct": 15,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_875045-MLA117800788327_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-smartwatch-xiaomi-redmi-watch-6-lite-amoled-1-96-gps-5atm-preto/p/MLB78894494?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794449562
   }
  ]
 }
