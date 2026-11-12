@@ -1,7 +1,21 @@
 {
- "updated": 1794463538,
+ "updated": 1794463959,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1896,
+   "key": "mercadolivre:MLB54016038",
+   "title": "LG Soundbar SH5A 600W (4.1 canais) com AI Sound Pro e WOW Interface – Som Imersivo, Voz Clara e Sincronização Total com sua TV",
+   "price": 1159.0,
+   "original": 1799.0,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_911029-MLA100231909230_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lg-soundbar-sh5a-600w-4-1-canais-com-ai-sound-pro-e-wow-interface-som-imersivo-voz-clara-e-sincronizacao-total-com-sua-t/p/MLB54016038?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794463939
+  },
   {
    "n": 1895,
    "key": "mercadolivre:MLB62021470",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794434510
-  },
-  {
-   "n": 1836,
-   "key": "mercadolivre:MLB53283915",
-   "title": "Lixadeira Pneumática Orbital 6 Rokit Roquite Hookit",
-   "price": 145.56,
-   "original": 210.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_820674-MLA99527117808_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-orbital-6-rokit-roquite-hookit/p/MLB53283915?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794434089
   }
  ]
 }
