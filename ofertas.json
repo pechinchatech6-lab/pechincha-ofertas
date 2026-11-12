@@ -1,7 +1,21 @@
 {
- "updated": 1794509885,
+ "updated": 1794510306,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1991,
+   "key": "mercadolivre:MLB67420932",
+   "title": "Nível A Laser Verde 2 Linhas Esquadro + Suporte + Tripé Profissional Prumo 20m Autonivelante Pilhas W&g",
+   "price": 116.3,
+   "original": 219.9,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_873744-MLA117485875143_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-a-laser-verde-2-linhas-esquadro-suporte-tripe-profissional-prumo-20m-autonivelante-pilhas-w-g/p/MLB67420932?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794510286
+  },
   {
    "n": 1990,
    "key": "mercadolivre:MLB19932033",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794479095
-  },
-  {
-   "n": 1931,
-   "key": "mercadolivre:MLB78318283",
-   "title": "Frigideira Cerâmica Antiaderente Grande 24cm Acompanha Espátula Para Fogão A Gás Indução Cooktop Sem Óleo Não Gruda Profissional PÍTIA",
-   "price": 48.49,
-   "original": 129.99,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_840680-MLA117132218899_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/frigideira-ceramica-antiaderente-grande-24cm-acompanha-espatula-para-fogao-a-gas-inducao-cooktop-sem-oleo-nao-gruda-prof/p/MLB78318283?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794478674
   }
  ]
 }
