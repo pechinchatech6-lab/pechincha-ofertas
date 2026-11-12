@@ -1,7 +1,21 @@
 {
- "updated": 1794491097,
+ "updated": 1794491518,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1950,
+   "key": "mercadolivre:MLB24820394",
+   "title": "Creme Depilatório Corporal Peles Delicadas 100ml - Veet",
+   "price": 34.0,
+   "original": 52.09,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_754338-MLA110034890716_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-depilatorio-corporal-peles-delicadas-100ml-veet/p/MLB24820394?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794491498
+  },
   {
    "n": 1949,
    "key": "mercadolivre:MLB27405748",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794461834
-  },
-  {
-   "n": 1890,
-   "key": "mercadolivre:MLB77715277",
-   "title": "Máquina De Lavar Consul 9kg Branca Com Dosagem - C Branco",
-   "price": 1499.0,
-   "original": 1666.0,
-   "pct": 10,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_731826-MLA115041949846_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-consul-9kg-branca-com-dosagem-c-branco/p/MLB77715277?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794461413
   }
  ]
 }
