@@ -1,7 +1,21 @@
 {
- "updated": 1794469853,
+ "updated": 1794470274,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1911,
+   "key": "mercadolivre:MLB75575414",
+   "title": "Politriz Polidora Automotiva Lixadeira 5 Polegadas (125 mm) Hilda Rosca M14",
+   "price": 96.12,
+   "original": 164.21,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_833486-MLA115396271563_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/politriz-polidora-automotiva-lixadeira-5-polegadas-125-mm-hilda-rosca-m14/p/MLB75575414?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794470254
+  },
   {
    "n": 1910,
    "key": "mercadolivre:MLB65066499",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794442891
-  },
-  {
-   "n": 1851,
-   "key": "mercadolivre:MLB69013896",
-   "title": "Caixa de Som Amplificada Philco Extreme Bluetooth 5.3 480W 2 Microfones TWS Flash Light Bateria Recarregável PCX4801",
-   "price": 699.0,
-   "original": 1212.86,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_680616-MLA116669244073_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-amplificada-philco-extreme-bluetooth-5-3-480w-2-microfones-tws-flash-light-bateria-recarregavel-pcx4801/p/MLB69013896?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794442470
   }
  ]
 }
