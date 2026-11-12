@@ -1,7 +1,21 @@
 {
- "updated": 1794447477,
+ "updated": 1794447898,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1860,
+   "key": "mercadolivre:MLB32101995",
+   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Branco MICGEEK",
+   "price": 23.95,
+   "original": 40.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_785462-MLA110586324994_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-branco-micgeek/p/MLB32101995?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794447878
+  },
   {
    "n": 1859,
    "key": "mercadolivre:MLB80562853",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794416841
-  },
-  {
-   "n": 1800,
-   "key": "mercadolivre:MLB53250495",
-   "title": "Caixa De Som Bluetooth Potente Amplificada 1000w PMPO Grande Potencia Microfone P10 10w-Saida Karaoke Usb Pendrive",
-   "price": 160.0,
-   "original": 429.89,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_782932-MLA99490697473_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-potente-amplificada-1000w-pmpo-grande-potencia-microfone-p10-10w-saida-karaoke-usb-pendrive/p/MLB53250495?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794416420
   }
  ]
 }
