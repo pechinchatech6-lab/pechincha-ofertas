@@ -1,7 +1,21 @@
 {
- "updated": 1794467748,
+ "updated": 1794468169,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1906,
+   "key": "mercadolivre:MLB42162174",
+   "title": "Parafusadeira E Furadeira Sem Fio Bateria 3/8 10mm Com Maleta E Acessorios The Black Tools",
+   "price": 99.9,
+   "original": 209.9,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_649121-MLA108633953017_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-sem-fio-bateria-3-8-10mm-com-maleta-e-acessorios-the-black-tools/p/MLB42162174?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794468149
+  },
   {
    "n": 1905,
    "key": "mercadolivre:MLB63980306",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794440786
-  },
-  {
-   "n": 1846,
-   "key": "mercadolivre:MLB26080271",
-   "title": "L'Oréal Paris Elseve Óleo Extraordinário 100ml - Leave In Anti Frizz Protetor Térmico Tratamento Reconstrutor Para Todos Os Tipos De Cabelo",
-   "price": 28.9,
-   "original": 64.19,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_605503-MLA114497234356_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/l-oreal-paris-elseve-oleo-extraordinario-100ml-leave-in-anti-frizz-protetor-termico-tratamento-reconstrutor-para-todos-o/p/MLB26080271?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794439821
   }
  ]
 }
