@@ -1,7 +1,21 @@
 {
- "updated": 1794525184,
+ "updated": 1794525605,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2018,
+   "key": "mercadolivre:MLB80592699",
+   "title": "Kit 2 Alicates Tesoura de Corte 8\" para Arame e Vergalhão",
+   "price": 49.99,
+   "original": 64.99,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_688490-MLA119589035897_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-2-alicates-tesoura-de-corte-8-para-arame-e-vergalhao/p/MLB80592699?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794525585
+  },
   {
    "n": 2017,
    "key": "mercadolivre:MLB77363281",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794495317
-  },
-  {
-   "n": 1958,
-   "key": "mercadolivre:MLB1046215784",
-   "title": "iPhone 16e (128 GB) - Preto - Distribuidor Autorizado",
-   "price": 3443.33,
-   "original": 5799.0,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794494866
   }
  ]
 }
