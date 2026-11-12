@@ -1,7 +1,21 @@
 {
- "updated": 1794506517,
+ "updated": 1794506938,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1983,
+   "key": "mercadolivre:MLB29328872",
+   "title": "Climatizador de Ar Portátil NOHARA 600mL com Umidificador e LED RGB, 3 Velocidades e Timer",
+   "price": 41.9,
+   "original": 59.9,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_755167-MLA111138620187_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-portatil-nohara-600ml-com-umidificador-e-led-rgb-3-velocidades-e-timer/p/MLB29328872?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794506918
+  },
   {
    "n": 1982,
    "key": "mercadolivre:MLB39167899",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794475727
-  },
-  {
-   "n": 1923,
-   "key": "mercadolivre:MLB75536994",
-   "title": "Controle GameSir G7 Pro Sem Fio para Xbox Series X|S, PC e Android com Gatilhos Hall Effect",
-   "price": 482.98,
-   "original": 671.25,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_797885-MLA113442770934_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-pro-sem-fio-para-xbox-series-x-s-pc-e-android-com-gatilhos-hall-effect/p/MLB75536994?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794475306
   }
  ]
 }
