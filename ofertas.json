@@ -1,7 +1,21 @@
 {
- "updated": 1794479995,
+ "updated": 1794482012,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1934,
+   "key": "mercadolivre:MLB77579126",
+   "title": "Caixa De Som Bluetooth Sem fio inova Com Despertador Rádio Fm Relógio Led Luz RGB",
+   "price": 68.0,
+   "original": 125.0,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_653031-MLA116357189717_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-sem-fio-inova-com-despertador-radio-fm-relogio-led-luz-rgb/p/MLB77579126?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794481992
+  },
   {
    "n": 1933,
    "key": "mercadolivre:MLB24993224",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794455098
-  },
-  {
-   "n": 1874,
-   "key": "mercadolivre:MLB57714599",
-   "title": "Celular Samsung Galaxy S25 Fe 5g, 256gb, 8gb Ram, Câmera Tripla De 50+12+8, Tela Grande De 6.7 Azul Marinho",
-   "price": 3663.0,
-   "original": 4299.0,
-   "pct": 15,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_759416-MLA95390813276_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s25-fe-5g-256gb-8gb-ram-camera-tripla-de-50-12-8-tela-grande-de-6-7-azul-marinho/p/MLB57714599?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794454677
   }
  ]
 }
