@@ -1,7 +1,21 @@
 {
- "updated": 1794485729,
+ "updated": 1794486150,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1941,
+   "key": "mercadolivre:MLB19782244",
+   "title": "Mantecorp Protetor Solar Facial Episol Fps 70 Tom 2 Claro",
+   "price": 62.9,
+   "original": 99.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_604484-MLA99833162607_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mantecorp-protetor-solar-facial-episol-fps-70-tom-2-claro/p/MLB19782244?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794486130
+  },
   {
    "n": 1940,
    "key": "mercadolivre:MLB24117280",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794458045
-  },
-  {
-   "n": 1881,
-   "key": "mercadolivre:MLB53769483",
-   "title": "Micro-ondas 20l Branco Mastercook Midea",
-   "price": 399.0,
-   "original": 569.0,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628160-MLA99466162342_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-20l-branco-mastercook-midea/p/MLB53769483?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794457624
   }
  ]
 }
