@@ -1,7 +1,21 @@
 {
- "updated": 1794447898,
+ "updated": 1794448319,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1861,
+   "key": "mercadolivre:MLB18758278",
+   "title": "Elden Ring Standard Edition PlayStation 4 físico",
+   "price": 229.96,
+   "original": 291.1,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_786484-MLA99509325904_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/elden-ring-standard-edition-playstation-4-fisico/p/MLB18758278?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794448299
+  },
   {
    "n": 1860,
    "key": "mercadolivre:MLB32101995",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794417262
-  },
-  {
-   "n": 1801,
-   "key": "mercadolivre:MLB19698479",
-   "title": "Creatina Dux Nutrition em pó Sem sabor x 300g",
-   "price": 31.09,
-   "original": 38.87,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_891287-MLA114656611130_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-dux-nutrition-em-po-sem-sabor-x-300g/p/MLB19698479?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794416841
   }
  ]
 }
