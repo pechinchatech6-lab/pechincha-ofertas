@@ -1,7 +1,21 @@
 {
- "updated": 1794445372,
+ "updated": 1794445793,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1855,
+   "key": "mercadolivre:MLB61322333",
+   "title": "Projetor Magcubic Mini Smart HY300PRO+ FULL HD 8K Android 14 com Wi-Fi 6 Controle remoto por voz",
+   "price": 275.99,
+   "original": 479.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_685520-MLA113902322205_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-magcubic-mini-smart-hy300pro-full-hd-8k-android-14-com-wi-fi-6-controle-remoto-por-voz/p/MLB61322333?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794445773
+  },
   {
    "n": 1854,
    "key": "mercadolivre:MLB65526763",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794414736
-  },
-  {
-   "n": 1795,
-   "key": "mercadolivre:MLB1040287790",
-   "title": "Apple iPhone 16 (256 GB) - Rosa - Distribuidor Autorizado",
-   "price": 5596.67,
-   "original": 8599.0,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_719634-MLA97473882481_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/apple-iphone-16-256-gb-rosa-distribuidor-autorizado/p/MLB1040287790?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794414315
   }
  ]
 }
