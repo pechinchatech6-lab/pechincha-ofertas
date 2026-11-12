@@ -1,7 +1,21 @@
 {
- "updated": 1794471116,
+ "updated": 1794471537,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1914,
+   "key": "mercadolivre:MLB74159344",
+   "title": "Parafusadeira Com 2 Baterias e Maleta de Acessórios Mackie Sem Fio Recarregável Com Luz De Led Uso Doméstico",
+   "price": 117.9,
+   "original": 219.9,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_986305-MLA118860738856_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-com-2-baterias-e-maleta-de-acessorios-mackie-sem-fio-recarregavel-com-luz-de-led-uso-domestico/p/MLB74159344?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794471517
+  },
   {
    "n": 1913,
    "key": "mercadolivre:MLB37257779",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794445773
-  },
-  {
-   "n": 1854,
-   "key": "mercadolivre:MLB65526763",
-   "title": "Relógio de Parede Digital Armstrong Quadrado, com Data, Temperatura e Alarme",
-   "price": 109.0,
-   "original": 216.5,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_712820-MLA114927673134_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-digital-armstrong-quadrado-com-data-temperatura-e-alarme/p/MLB65526763?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794445352
   }
  ]
 }
