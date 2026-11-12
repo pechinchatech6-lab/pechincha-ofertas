@@ -1,7 +1,21 @@
 {
- "updated": 1794471958,
+ "updated": 1794472379,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1916,
+   "key": "mercadolivre:MLB36576672",
+   "title": "Parafusadeira e Furadeira de Impacto WAP WF 700FE Mandril de 3/8'' 700W Cinza e Amarela",
+   "price": 122.47,
+   "original": 185.0,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_818602-MLA99932761929_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-de-impacto-wap-wf-700fe-mandril-de-3-8-700w-cinza-e-amarela/p/MLB36576672?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794472359
+  },
   {
    "n": 1915,
    "key": "mercadolivre:MLB29450079",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794446615
-  },
-  {
-   "n": 1856,
-   "key": "mercadolivre:MLB53878745",
-   "title": "Caixa de som Boombox Philco Extreme Bluetooth V.5.4 300W PBX01",
-   "price": 879.0,
-   "original": 1399.0,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628373-MLA99520261698_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-boombox-philco-extreme-bluetooth-v-5-4-300w-pbx01/p/MLB53878745?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794446194
   }
  ]
 }
