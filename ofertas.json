@@ -1,7 +1,21 @@
 {
- "updated": 1794501201,
+ "updated": 1794501622,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1972,
+   "key": "mercadolivre:MLB19685656",
+   "title": "Chapinha de cabelo MQ Professional Hair Styling Max480 Slim Titanium preta",
+   "price": 360.0,
+   "original": 692.38,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_780323-MLA100054765763_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-mq-professional-hair-styling-max480-slim-titanium-preta/p/MLB19685656?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794501602
+  },
   {
    "n": 1971,
    "key": "mercadolivre:MLB52052995",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794471096
-  },
-  {
-   "n": 1912,
-   "key": "mercadolivre:MLB80245753",
-   "title": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6\" E À Prova D'Água",
-   "price": 69.59,
-   "original": 79.99,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_680341-MLA118784298481_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-reforcada-jiesipote-para-viagem-com-compartimento-para-notebook-15-6-e-a-prova-d-agua/p/MLB80245753?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794470675
   }
  ]
 }
