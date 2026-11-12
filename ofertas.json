@@ -1,7 +1,21 @@
 {
- "updated": 1794453855,
+ "updated": 1794454276,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1873,
+   "key": "mercadolivre:MLB57689857",
+   "title": "Caixa de Som Basike Boombox Bluetooth 200W, Portátil com Bass Boost e LED RGB",
+   "price": 853.57,
+   "original": 1376.74,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_683446-MLA99368336406_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-basike-boombox-bluetooth-200w-portatil-com-bass-boost-e-led-rgb/p/MLB57689857?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794454256
+  },
   {
    "n": 1872,
    "key": "mercadolivre:MLB51340616",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794423060
-  },
-  {
-   "n": 1813,
-   "key": "mercadolivre:MLB73436853",
-   "title": "Organizador Multiuso Mesa Maquiagem Pincel Skincare Banheiro Cristal",
-   "price": 28.0,
-   "original": 36.99,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_947433-MLA113158137831_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/organizador-multiuso-mesa-maquiagem-pincel-skincare-banheiro-cristal/p/MLB73436853?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794422639
   }
  ]
 }
