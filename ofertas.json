@@ -1,7 +1,21 @@
 {
- "updated": 1794526447,
+ "updated": 1794526868,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2021,
+   "key": "mercadolivre:MLB19086162",
+   "title": "Redragon Adiemus GS560 Soundbar Gamer RGB com Iluminação Chroma e Design Compacto",
+   "price": 177.0,
+   "original": 299.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_644830-MLA96135217083_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/redragon-adiemus-gs560-soundbar-gamer-rgb-com-iluminacao-chroma-e-design-compacto/p/MLB19086162?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794526848
+  },
   {
    "n": 2020,
    "key": "mercadolivre:MLB18610706",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794497392
-  },
-  {
-   "n": 1961,
-   "key": "mercadolivre:MLB62661747",
-   "title": "Ventilador De Parede Ventisol New Azul 3 Velocidades Estrutura Preto Diâmetro 50 Cm Material Das Pás Plástico",
-   "price": 198.99,
-   "original": 499.0,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_623474-MLA99869153411_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-parede-ventisol-new-azul-3-velocidades-estrutura-preto-diametro-50-cm-material-das-pas-plastico/p/MLB62661747?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794496346
   }
  ]
 }
