@@ -1,7 +1,21 @@
 {
- "updated": 1794518266,
+ "updated": 1794518687,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2006,
+   "key": "mercadolivre:MLB28268215",
+   "title": "Webcam Full HD Logitech Brio 100 - Branco",
+   "price": 189.9,
+   "original": 299.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_814652-MLA106269275729_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-brio-100-branco/p/MLB28268215?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794518667
+  },
   {
    "n": 2005,
    "key": "mercadolivre:MLB53155512",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794490235
-  },
-  {
-   "n": 1946,
-   "key": "mercadolivre:MLB24028629",
-   "title": "Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Chamadas Claras Personal",
-   "price": 129.0,
-   "original": 299.0,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_730568-MLA99983575997_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-soundcore-by-anker-p20i-graves-poderosos-e-impactantes-bluetooth-5-3-30h-de-reproducao-resistencia-a-agua/p/MLB24028629?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794489201
   }
  ]
 }
