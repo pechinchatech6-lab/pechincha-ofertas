@@ -1,7 +1,21 @@
 {
- "updated": 1794509043,
+ "updated": 1794509464,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1989,
+   "key": "mercadolivre:MLB47886720",
+   "title": "Webcam Wci1080p Full Hd 60 Fps Intelbras",
+   "price": 194.0,
+   "original": 294.36,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_890587-MLA99850901199_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-wci1080p-full-hd-60-fps-intelbras/p/MLB47886720?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794509444
+  },
   {
    "n": 1988,
    "key": "mercadolivre:MLB67840670",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794478253
-  },
-  {
-   "n": 1929,
-   "key": "mercadolivre:MLB77739989",
-   "title": "Cafeteira Italiana Moka inox 6 Xícaras Café Expresso Espresso Para Fogão Manual Tradicional Resistente 300 Ml Casa Premium Sólar",
-   "price": 62.86,
-   "original": 99.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_806693-MLA115059833664_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cafeteira-italiana-moka-inox-6-xicaras-cafe-expresso-espresso-para-fogao-manual-tradicional-resistente-300-ml-casa-premi/p/MLB77739989?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794477832
   }
  ]
 }
