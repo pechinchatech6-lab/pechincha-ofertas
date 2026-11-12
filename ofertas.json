@@ -1,7 +1,21 @@
 {
- "updated": 1794465222,
+ "updated": 1794465643,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1900,
+   "key": "mercadolivre:MLB47100887",
+   "title": "Kit Maquiagem Infantil Kalon Lashes Maleta 8 Peças Com Batom e Acessórios",
+   "price": 49.99,
+   "original": 78.99,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_758173-MLA112465206752_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-maquiagem-infantil-kalon-lashes-maleta-8-pecas-com-batom-e-acessorios/p/MLB47100887?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794465623
+  },
   {
    "n": 1899,
    "key": "mercadolivre:MLB76394503",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794437716
-  },
-  {
-   "n": 1840,
-   "key": "mercadolivre:MLB57723873",
-   "title": "Caixa de Som Bluetooth Portátil - JBL Go Essential 2 - JBL Original Pro Sound, IP67, até 5h de Bateria, USB-C e Design Ultracompacto - Preta",
-   "price": 172.2,
-   "original": 219.0,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_828055-MLA93305570205_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-portatil-jbl-go-essential-2-jbl-original-pro-sound-ip67-ate-5h-de-bateria-usb-c-e-design-ultracom/p/MLB57723873?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794436679
   }
  ]
 }
