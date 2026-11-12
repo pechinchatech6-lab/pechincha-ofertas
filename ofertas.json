@@ -1,7 +1,21 @@
 {
- "updated": 1794492781,
+ "updated": 1794493202,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1954,
+   "key": "mercadolivre:MLB19772622",
+   "title": "Suplemento Alimentar Whey Fort 3W Sabor Frutas Vermelhas 900g Vitafor",
+   "price": 200.51,
+   "original": 373.0,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_900386-MLU75143558182_032024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suplemento-alimentar-whey-fort-3w-sabor-frutas-vermelhas-900g-vitafor/p/MLB19772622?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794493182
+  },
   {
    "n": 1953,
    "key": "mercadolivre:MLB78730229",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794463518
-  },
-  {
-   "n": 1894,
-   "key": "mercadolivre:MLB19721946",
-   "title": "Relógio Casio Unissex Vintage Prata Aq-230a-1dmq",
-   "price": 101.96,
-   "original": 299.9,
-   "pct": 66,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_633473-MLA115741902361_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-casio-unissex-vintage-prata-aq-230a-1dmq/p/MLB19721946?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794463097
   }
  ]
 }
