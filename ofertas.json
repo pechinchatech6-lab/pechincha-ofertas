@@ -1,7 +1,21 @@
 {
- "updated": 1794457644,
+ "updated": 1794458065,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1882,
+   "key": "mercadolivre:MLB75237915",
+   "title": "Boné Masculino Trucker Country Rendinha Aba Curva Telinha Cor Preto Tamanho Único",
+   "price": 33.0,
+   "original": 39.59,
+   "pct": 17,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822285-MLA114300477059_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bone-masculino-trucker-country-rendinha-aba-curva-telinha-cor-preto-tamanho-unico/p/MLB75237915?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794458045
+  },
   {
    "n": 1881,
    "key": "mercadolivre:MLB53769483",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794428420
-  },
-  {
-   "n": 1822,
-   "key": "mercadolivre:MLB19514465",
-   "title": "Argan Óleo Reparador 50ml , Lola from Rio",
-   "price": 13.16,
-   "original": 39.9,
-   "pct": 67,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_960905-MLA114016777742_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/argan-oleo-reparador-50ml-lola-from-rio/p/MLB19514465?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794427165
   }
  ]
 }
