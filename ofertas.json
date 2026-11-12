@@ -1,7 +1,21 @@
 {
- "updated": 1794503416,
+ "updated": 1794503837,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1976,
+   "key": "mercadolivre:MLB81237173",
+   "title": "Mini Soprador Turbo Ar Potente Portátil Elétrico Sem Fio USB-C 3 Velocidades Até 130km/h Assoprador Ventilador Para Limpeza Teclado Carro PC Notebook Multiuso C",
+   "price": 38.99,
+   "original": 69.9,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_637173-MLA118736808392_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-soprador-turbo-ar-potente-portatil-eletrico-sem-fio-usb-c-3-velocidades-ate-130km-h-assoprador-ventilador-para-limp/p/MLB81237173?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794503817
+  },
   {
    "n": 1975,
    "key": "mercadolivre:MLB59251129",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794472780
-  },
-  {
-   "n": 1916,
-   "key": "mercadolivre:MLB36576672",
-   "title": "Parafusadeira e Furadeira de Impacto WAP WF 700FE Mandril de 3/8'' 700W Cinza e Amarela",
-   "price": 122.47,
-   "original": 185.0,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_818602-MLA99932761929_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-de-impacto-wap-wf-700fe-mandril-de-3-8-700w-cinza-e-amarela/p/MLB36576672?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794472359
   }
  ]
 }
