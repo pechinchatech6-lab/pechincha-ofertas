@@ -1,7 +1,21 @@
 {
- "updated": 1794477010,
+ "updated": 1794477431,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1928,
+   "key": "mercadolivre:MLB32419427",
+   "title": "Creme De Barbear Natura Essencial Masculino 75g",
+   "price": 33.76,
+   "original": 68.9,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_705845-MLA99361907550_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-de-barbear-natura-essencial-masculino-75g/p/MLB32419427?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794477411
+  },
   {
    "n": 1927,
    "key": "mercadolivre:MLB23162056",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794452572
-  },
-  {
-   "n": 1868,
-   "key": "mercadolivre:MLB18391232",
-   "title": "NIVEA Loção Deo-Hidratante Corporal Milk 400ml, 72h de hidratação, Cuidado Intensivo",
-   "price": 18.9,
-   "original": 26.99,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_974841-MLA121137466497_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivea-locao-deo-hidratante-corporal-milk-400ml-72h-de-hidratacao-cuidado-intensivo/p/MLB18391232?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794452151
   }
  ]
 }
