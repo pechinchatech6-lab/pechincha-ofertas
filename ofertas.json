@@ -1,7 +1,21 @@
 {
- "updated": 1794482012,
+ "updated": 1794482433,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1935,
+   "key": "mercadolivre:MLB70047782",
+   "title": "Smartwatch Garmin Forerunner 170 branco/azul Amoled Gps branco cinza esportivo",
+   "price": 2229.0,
+   "original": 2499.0,
+   "pct": 11,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_670926-MLA110981866158_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartwatch-garmin-forerunner-170-branco-azul-amoled-gps-branco-cinza-esportivo/p/MLB70047782?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794482413
+  },
   {
    "n": 1934,
    "key": "mercadolivre:MLB77579126",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794455519
-  },
-  {
-   "n": 1875,
-   "key": "mercadolivre:MLB23357332",
-   "title": "Controle joystick sem fio Nintendo Switch Pro Controller Pro monster hunter rise sunbreak edition",
-   "price": 272.07,
-   "original": 339.26,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_822752-MLA99446264030_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-joystick-sem-fio-nintendo-switch-pro-controller-pro-monster-hunter-rise-sunbreak-edition/p/MLB23357332?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794455098
   }
  ]
 }
