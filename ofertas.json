@@ -1,7 +1,21 @@
 {
- "updated": 1794504258,
+ "updated": 1794504679,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1978,
+   "key": "mercadolivre:MLB62254615",
+   "title": "Alicate Tesoura Poda Profissional Aço Inox Corte Galhos Duros Jardim Frutíferas Cabo Confortável Ergonômico Resistente - Marca: Smart Tools®",
+   "price": 14.99,
+   "original": 29.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_751362-MLA98648349039_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-tesoura-poda-profissional-aco-inox-corte-galhos-duros-jardim-frutiferas-cabo-confortavel-ergonomico-resistente-m/p/MLB62254615?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794504659
+  },
   {
    "n": 1977,
    "key": "mercadolivre:MLB80713504",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794473622
-  },
-  {
-   "n": 1918,
-   "key": "mercadolivre:MLB58338157",
-   "title": "Cinta Modelador Short Cirurgia Plástica Biobela Cor Marrom Tamanho Egg-50",
-   "price": 159.0,
-   "original": 230.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_926715-MLA93303764654_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cinta-modelador-short-cirurgia-plastica-biobela-cor-marrom-tamanho-egg-50/p/MLB58338157?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794473201
   }
  ]
 }
