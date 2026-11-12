@@ -1,7 +1,21 @@
 {
- "updated": 1794450075,
+ "updated": 1794451121,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1866,
+   "key": "mercadolivre:MLB19764150",
+   "title": "Creamy Skincare Calming Cream 40g | Creme Hidratante Facial Calmante para Pele Sensível, Reduz Vermelhidão, Hidratação Leve, Rápida Absorção | Todos os Tipos de",
+   "price": 47.49,
+   "original": 66.9,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_639951-MLA118299456453_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creamy-skincare-calming-cream-40g-creme-hidratante-facial-calmante-para-pele-sensivel-reduz-vermelhidao-hidratacao-leve-/p/MLB19764150?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794451101
+  },
   {
    "n": 1865,
    "key": "mercadolivre:MLB15502351",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794419367
-  },
-  {
-   "n": 1806,
-   "key": "mercadolivre:MLB19506691",
-   "title": "Creatina Dark Lab Premium Pure em pó Sem sabor x 300g",
-   "price": 36.64,
-   "original": 78.9,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_830138-MLA116668021755_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-dark-lab-premium-pure-em-po-sem-sabor-x-300g/p/MLB19506691?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794418946
   }
  ]
 }
