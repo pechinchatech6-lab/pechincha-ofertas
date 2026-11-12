@@ -1,7 +1,21 @@
 {
- "updated": 1794448740,
+ "updated": 1794449161,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1863,
+   "key": "mercadolivre:MLB63950169",
+   "title": "Projetor HY320 390 ANSI Full HD WiFi 6 4K Android Bluetooth 150 Polegadas HDMI USB Controle Remoto Bivolt Portátil Smart TV Cinema em Casa Filmes Séries Jogos S",
+   "price": 204.99,
+   "original": 329.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_611561-MLA118558817253_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-hy320-390-ansi-full-hd-wifi-6-4k-android-bluetooth-150-polegadas-hdmi-usb-controle-remoto-bivolt-portatil-smart/p/MLB63950169?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794449141
+  },
   {
    "n": 1862,
    "key": "mercadolivre:MLB75898900",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794418104
-  },
-  {
-   "n": 1803,
-   "key": "mercadolivre:MLB67708763",
-   "title": "Relógio inteligente Amazfit Active 3 Amoled Preto",
-   "price": 860.35,
-   "original": 1199.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_813605-MLA109309782328_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-inteligente-amazfit-active-3-amoled-preto/p/MLB67708763?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794417683
   }
  ]
 }
