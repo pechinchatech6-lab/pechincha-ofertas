@@ -1,7 +1,21 @@
 {
- "updated": 1794505675,
+ "updated": 1794506096,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1981,
+   "key": "mercadolivre:MLB30996900",
+   "title": "Ventilador De Mesa Portátil Com Iluminação Umidificador Climatizador Com Reservatório USB com Luz LED HW",
+   "price": 43.29,
+   "original": 71.99,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_784436-MLA120879909545_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-mesa-portatil-com-iluminacao-umidificador-climatizador-com-reservatorio-usb-com-luz-led-hw/p/MLB30996900?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794506076
+  },
   {
    "n": 1980,
    "key": "mercadolivre:MLB45151298",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794474885
-  },
-  {
-   "n": 1921,
-   "key": "mercadolivre:MLB75077260",
-   "title": "Soprador Térmico Pistola de Ar Quente MECOLOUR 1500W 600°C 6 Bocais para Insulfilm e Envelopamento",
-   "price": 94.49,
-   "original": 179.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_813731-MLA116699413648_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-termico-pistola-de-ar-quente-mecolour-1500w-600-c-6-bocais-para-insulfilm-e-envelopamento/p/MLB75077260?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794474464
   }
  ]
 }
