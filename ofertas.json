@@ -1,7 +1,21 @@
 {
- "updated": 1794507780,
+ "updated": 1794508201,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1986,
+   "key": "mercadolivre:MLB77828327",
+   "title": "Trena Laser 40m Digital Recarregável USB Medidor Distância Área Volume Profissional Nível a Laser",
+   "price": 99.9,
+   "original": 189.9,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_861117-MLA116486172473_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/trena-laser-40m-digital-recarregavel-usb-medidor-distancia-area-volume-profissional-nivel-a-laser/p/MLB77828327?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794508181
+  },
   {
    "n": 1985,
    "key": "mercadolivre:MLB59090080",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794476990
-  },
-  {
-   "n": 1926,
-   "key": "mercadolivre:MLB26168813",
-   "title": "Relógio Para Enfermagem Medicina Silicone Broche Lapela Cor Azul",
-   "price": 24.0,
-   "original": 29.9,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_822613-MLA99588507110_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-para-enfermagem-medicina-silicone-broche-lapela-cor-azul/p/MLB26168813?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794476569
   }
  ]
 }
