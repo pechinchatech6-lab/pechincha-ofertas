@@ -1,7 +1,21 @@
 {
- "updated": 1794503837,
+ "updated": 1794504258,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1977,
+   "key": "mercadolivre:MLB80713504",
+   "title": "Caixa De Som Bluetooth6.0 Sabala Dr500 Tws 3 Mais Estéreo 46H 500w 81000mah Portátil Boombox karaoke App ipx6 Potente Hifi EQ 35hz - 20khz cor preto",
+   "price": 2287.0,
+   "original": 3999.0,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_726286-MLA119814720109_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth6-0-sabala-dr500-tws-3-mais-estereo-46h-500w-81000mah-portatil-boombox-karaoke-app-ipx6-potente-hi/p/MLB80713504?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794504238
+  },
   {
    "n": 1976,
    "key": "mercadolivre:MLB81237173",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794473201
-  },
-  {
-   "n": 1917,
-   "key": "mercadolivre:MLB26578445",
-   "title": "Secador De Cabelo Taiff Profissional Style Vermelho Clássico",
-   "price": 194.0,
-   "original": 447.36,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_895859-MLA99858387669_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-taiff-profissional-style-vermelho-classico/p/MLB26578445?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794472780
   }
  ]
 }
