@@ -1,7 +1,21 @@
 {
- "updated": 1794510306,
+ "updated": 1794511794,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1992,
+   "key": "mercadolivre:MLB23347882",
+   "title": "Relógio Mondaine Masculino 32549g0mvne1 Aco Inox Prata Fundo Preto Analogico Prova Dágua 50m",
+   "price": 168.0,
+   "original": 398.51,
+   "pct": 58,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_863482-MLA119362122519_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-mondaine-masculino-32549g0mvne1-aco-inox-prata-fundo-preto-analogico-prova-dagua-50m/p/MLB23347882?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794511774
+  },
   {
    "n": 1991,
    "key": "mercadolivre:MLB67420932",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794479975
-  },
-  {
-   "n": 1932,
-   "key": "mercadolivre:MLB17822924",
-   "title": "Relógio de pulso Casio GA-2100 com corria de resina cor vermelho - fondo bordô",
-   "price": 409.99,
-   "original": 998.0,
-   "pct": 59,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_884312-MLA99489775726_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-ga-2100-com-corria-de-resina-cor-vermelho-fondo-bordo/p/MLB17822924?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794479095
   }
  ]
 }
