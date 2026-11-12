@@ -1,7 +1,21 @@
 {
- "updated": 1794517424,
+ "updated": 1794517845,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2004,
+   "key": "mercadolivre:MLB20288453",
+   "title": "Shampoo Tonalizante Color Change Castanho Escuro Kissnewyork",
+   "price": 26.94,
+   "original": 43.23,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_909365-MLA112260486831_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-color-change-castanho-escuro-kissnewyork/p/MLB20288453?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794517825
+  },
   {
    "n": 2003,
    "key": "mercadolivre:MLB50969758",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794488406
-  },
-  {
-   "n": 1944,
-   "key": "mercadolivre:MLB29837494",
-   "title": "Carrinho Organizador Multiuso 3 Prateleiras Aço Com Rodinha Cor Rosa",
-   "price": 124.0,
-   "original": 249.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_632931-MLA95700758744_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/carrinho-organizador-multiuso-3-prateleiras-aco-com-rodinha-cor-rosa/p/MLB29837494?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794487985
   }
  ]
 }
