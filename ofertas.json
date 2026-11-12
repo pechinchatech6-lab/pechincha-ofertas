@@ -1,7 +1,21 @@
 {
- "updated": 1794461854,
+ "updated": 1794462275,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1892,
+   "key": "mercadolivre:MLB54160969",
+   "title": "Relógio De Parede Silencioso Sala De Estar Moderno E Simples Estrutura Dourado-escuro Fundo Branco",
+   "price": 29.99,
+   "original": 46.8,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_864557-MLA91287927765_082025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-silencioso-sala-de-estar-moderno-e-simples-estrutura-dourado-escuro-fundo-branco/p/MLB54160969?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794462255
+  },
   {
    "n": 1891,
    "key": "mercadolivre:MLB79371322",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794432826
-  },
-  {
-   "n": 1832,
-   "key": "mercadolivre:MLB23182983",
-   "title": "Suplemento Tasty Whey Adaptogen Science Whey Protein 3w Gourmet Pote 900g Sabor Chocolate e Amendoim",
-   "price": 233.22,
-   "original": 299.0,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_821441-MLA107580329953_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suplemento-tasty-whey-adaptogen-science-whey-protein-3w-gourmet-pote-900g-sabor-chocolate-e-amendoim/p/MLB23182983?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794432405
   }
  ]
 }
