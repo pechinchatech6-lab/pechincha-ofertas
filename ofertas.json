@@ -1,7 +1,21 @@
 {
- "updated": 1794462696,
+ "updated": 1794463117,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1894,
+   "key": "mercadolivre:MLB19721946",
+   "title": "Relógio Casio Unissex Vintage Prata Aq-230a-1dmq",
+   "price": 101.96,
+   "original": 299.9,
+   "pct": 66,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_633473-MLA115741902361_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-casio-unissex-vintage-prata-aq-230a-1dmq/p/MLB19721946?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794463097
+  },
   {
    "n": 1893,
    "key": "mercadolivre:MLB54472324",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794433668
-  },
-  {
-   "n": 1834,
-   "key": "mercadolivre:MLB80240441",
-   "title": "Novo Smartwatch Microwear W12 Pro Prateado Séries 12 Amoled 47mm 2027 SMARTWATCH ADVANCED PRO",
-   "price": 208.0,
-   "original": 349.9,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_642329-MLA118773721445_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/novo-smartwatch-microwear-w12-pro-prateado-series-12-amoled-47mm-2027-smartwatch-advanced-pro/p/MLB80240441?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794433247
   }
  ]
 }
