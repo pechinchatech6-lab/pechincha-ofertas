@@ -1,7 +1,21 @@
 {
- "updated": 1794464380,
+ "updated": 1794464801,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1898,
+   "key": "mercadolivre:MLB35276826",
+   "title": "Sanduicheira Grill 2 Em 1 Kian Preta Elétrica 750w Cor Preto,Seu Mixto Quente Ultra Rápido, e Outros Petiscos",
+   "price": 54.0,
+   "original": 79.0,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_811189-MLA117367368715_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/sanduicheira-grill-2-em-1-kian-preta-eletrica-750w-cor-preto-seu-mixto-quente-ultra-rapido-e-outros-petiscos/p/MLB35276826?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794464781
+  },
   {
    "n": 1897,
    "key": "mercadolivre:MLB66373729",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794435663
-  },
-  {
-   "n": 1838,
-   "key": "mercadolivre:MLB65312129",
-   "title": "Geladeira Brastemp Frost Free Inverse 500 Litros Branca - BRE66A",
-   "price": 3892.55,
-   "original": 5099.0,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_792259-MLA106662707437_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-brastemp-frost-free-inverse-500-litros-branca-bre66a/p/MLB65312129?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794434931
   }
  ]
 }
