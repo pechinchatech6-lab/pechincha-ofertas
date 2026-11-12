@@ -1,7 +1,21 @@
 {
- "updated": 1794467327,
+ "updated": 1794467748,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1905,
+   "key": "mercadolivre:MLB63980306",
+   "title": "Pokémon Pokopia - Nintendo Switch 2",
+   "price": 439.89,
+   "original": 556.83,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_877218-MLA104113006671_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pokemon-pokopia-nintendo-switch-2/p/MLB63980306?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794467728
+  },
   {
    "n": 1904,
    "key": "mercadolivre:MLB53670907",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794439821
-  },
-  {
-   "n": 1845,
-   "key": "mercadolivre:MLB66383541",
-   "title": "Projetor Full HD 5200 Lúmens PFL5211 Intelbras Preto",
-   "price": 1149.9,
-   "original": 1828.05,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_998643-MLA111348136047_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-full-hd-5200-lumens-pfl5211-intelbras-preto/p/MLB66383541?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794439400
   }
  ]
 }
