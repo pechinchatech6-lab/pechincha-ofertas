@@ -1,7 +1,21 @@
 {
- "updated": 1794466064,
+ "updated": 1794466485,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1902,
+   "key": "mercadolivre:MLB64038320",
+   "title": "Tenis Vizzano Napa Floather",
+   "price": 130.0,
+   "original": 179.99,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_723725-MLA103666469826_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/tenis-vizzano-napa-floather/p/MLB64038320?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794466465
+  },
   {
    "n": 1901,
    "key": "mercadolivre:MLB69968487",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794438558
-  },
-  {
-   "n": 1842,
-   "key": "mercadolivre:MLB23888631",
-   "title": "Secador Taiff Tourmaline Íon 2100W – Alta Performance Preto",
-   "price": 307.04,
-   "original": 499.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_899500-MLA100080591947_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-taiff-tourmaline-ion-2100w-alta-performance-preto/p/MLB23888631?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794438137
   }
  ]
 }
