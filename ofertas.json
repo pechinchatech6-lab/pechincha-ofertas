@@ -1,7 +1,21 @@
 {
- "updated": 1794458486,
+ "updated": 1794458907,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1884,
+   "key": "mercadolivre:MLB19160770",
+   "title": "Shampoo Para Bebê Johnson's Baby De Glicerina, 400ml",
+   "price": 19.49,
+   "original": 34.99,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631466-MLA109737821200_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-para-bebe-johnson-s-baby-de-glicerina-400ml/p/MLB19160770?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794458887
+  },
   {
    "n": 1883,
    "key": "mercadolivre:MLB31059498",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794429458
-  },
-  {
-   "n": 1824,
-   "key": "mercadolivre:MLB27341794",
-   "title": "Ventilador de Coluna 40cm Super Power VSP40C 6 Pás 3 Velocidades Mondial",
-   "price": 199.0,
-   "original": 289.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_911216-MLA114704223805_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-40cm-super-power-vsp40c-6-pas-3-velocidades-mondial/p/MLB27341794?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794428841
   }
  ]
 }
