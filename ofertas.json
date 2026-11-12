@@ -1,7 +1,21 @@
 {
- "updated": 1794523153,
+ "updated": 1794523574,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2014,
+   "key": "mercadolivre:MLB37552867",
+   "title": "Forno Elétrico Mondial FR-09 Pratic Cook 6l 650w",
+   "price": 208.0,
+   "original": 335.98,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_755228-MLA100072592203_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/forno-eletrico-mondial-fr-09-pratic-cook-6l-650w/p/MLB37552867?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794523554
+  },
   {
    "n": 2013,
    "key": "mercadolivre:MLB47044981",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794493603
-  },
-  {
-   "n": 1954,
-   "key": "mercadolivre:MLB19772622",
-   "title": "Suplemento Alimentar Whey Fort 3W Sabor Frutas Vermelhas 900g Vitafor",
-   "price": 200.51,
-   "original": 373.0,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_900386-MLU75143558182_032024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suplemento-alimentar-whey-fort-3w-sabor-frutas-vermelhas-900g-vitafor/p/MLB19772622?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794493182
   }
  ]
 }
