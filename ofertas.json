@@ -1,7 +1,21 @@
 {
- "updated": 1794486150,
+ "updated": 1794487163,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1942,
+   "key": "mercadolivre:MLB56107835",
+   "title": "Shorts Modelador Selene 9815 Cor Pó De Arroz/pele Tamanho Eg Manequim 48/50",
+   "price": 22.93,
+   "original": 73.98,
+   "pct": 69,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_604225-MLA99556864646_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shorts-modelador-selene-9815-cor-po-de-arroz-pele-tamanho-eg-manequim-48-50/p/MLB56107835?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794487143
+  },
   {
    "n": 1941,
    "key": "mercadolivre:MLB19782244",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794458466
-  },
-  {
-   "n": 1882,
-   "key": "mercadolivre:MLB75237915",
-   "title": "Boné Masculino Trucker Country Rendinha Aba Curva Telinha Cor Preto Tamanho Único",
-   "price": 33.0,
-   "original": 39.59,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_822285-MLA114300477059_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-masculino-trucker-country-rendinha-aba-curva-telinha-cor-preto-tamanho-unico/p/MLB75237915?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794458045
   }
  ]
 }
