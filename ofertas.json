@@ -1,7 +1,21 @@
 {
- "updated": 1794451121,
+ "updated": 1794451542,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1867,
+   "key": "mercadolivre:MLB79377107",
+   "title": "Jogo Serra Copo 16 Peças 19mm A 127mm Para Madeira Gesso Pvc Mdf Compensado Kit Completo Para Furadeira Conjunto De Serras Para Perfuração E Corte Circular Em O",
+   "price": 41.59,
+   "original": 69.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_980754-MLA116700635380_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/jogo-serra-copo-16-pecas-19mm-a-127mm-para-madeira-gesso-pvc-mdf-compensado-kit-completo-para-furadeira-conjunto-de-serr/p/MLB79377107?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794451522
+  },
   {
    "n": 1866,
    "key": "mercadolivre:MLB19764150",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794419788
-  },
-  {
-   "n": 1807,
-   "key": "mercadolivre:MLB80743912",
-   "title": "Caixa De Som Bluetooth Potente 140w Basike Boombox Portátil Sem Fio Bateria 12000mAh Com A Prova D'agua,Luz Led Rgb, Bass Graves Potentes Para Festa Churrasco P",
-   "price": 479.97,
-   "original": 741.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_603413-MLA118246232754_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-potente-140w-basike-boombox-portatil-sem-fio-bateria-12000mah-com-a-prova-d-agua-luz-led-rgb-bass/p/MLB80743912?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794419367
   }
  ]
 }
