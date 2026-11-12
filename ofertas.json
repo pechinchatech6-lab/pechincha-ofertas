@@ -1,7 +1,21 @@
 {
- "updated": 1794502574,
+ "updated": 1794502995,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1974,
+   "key": "mercadolivre:MLB72671928",
+   "title": "Aquecedor Elétrico Aq100 Com Ventilador Potência De 1800w Função Turbo Warm Branco Kian",
+   "price": 43.98,
+   "original": 180.0,
+   "pct": 76,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_634424-MLA112333780238_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aquecedor-eletrico-aq100-com-ventilador-potencia-de-1800w-funcao-turbo-warm-branco-kian/p/MLB72671928?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794502975
+  },
   {
    "n": 1973,
    "key": "mercadolivre:MLB79489063",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794471938
-  },
-  {
-   "n": 1914,
-   "key": "mercadolivre:MLB74159344",
-   "title": "Parafusadeira Com 2 Baterias e Maleta de Acessórios Mackie Sem Fio Recarregável Com Luz De Led Uso Doméstico",
-   "price": 117.9,
-   "original": 219.9,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_986305-MLA118860738856_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-com-2-baterias-e-maleta-de-acessorios-mackie-sem-fio-recarregavel-com-luz-de-led-uso-domestico/p/MLB74159344?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794471517
   }
  ]
 }
