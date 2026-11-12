@@ -1,7 +1,21 @@
 {
- "updated": 1794517845,
+ "updated": 1794518266,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2005,
+   "key": "mercadolivre:MLB53155512",
+   "title": "Multimetro Digital Portátil Profissional Com Bateria Inclusa Para Teste Medição Tensão Personalized View",
+   "price": 24.99,
+   "original": 29.99,
+   "pct": 17,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_863906-MLA110244293958_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/multimetro-digital-portatil-profissional-com-bateria-inclusa-para-teste-medicao-tensao-personalized-view/p/MLB53155512?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794518246
+  },
   {
    "n": 2004,
    "key": "mercadolivre:MLB20288453",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794489201
-  },
-  {
-   "n": 1945,
-   "key": "mercadolivre:MLB19174981",
-   "title": "Clear Men Shampoo Anticaspa Ice Cool Menthol 400 ml",
-   "price": 21.49,
-   "original": 42.19,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_744485-MLA102304585523_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/clear-men-shampoo-anticaspa-ice-cool-menthol-400-ml/p/MLB19174981?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794488406
   }
  ]
 }
