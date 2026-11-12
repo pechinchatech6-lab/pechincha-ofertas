@@ -1,7 +1,21 @@
 {
- "updated": 1794512828,
+ "updated": 1794513249,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1994,
+   "key": "mercadolivre:MLB18991672",
+   "title": "Ventilador de mesa 30cm 6 pás 3 velocidades Mondial Ultra",
+   "price": 112.9,
+   "original": 180.69,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_626397-MLU77328182637_062024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-mesa-30cm-6-pas-3-velocidades-mondial-ultra/p/MLB18991672?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794513229
+  },
   {
    "n": 1993,
    "key": "mercadolivre:MLB24432654",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794482413
-  },
-  {
-   "n": 1934,
-   "key": "mercadolivre:MLB77579126",
-   "title": "Caixa De Som Bluetooth Sem fio inova Com Despertador Rádio Fm Relógio Led Luz RGB",
-   "price": 68.0,
-   "original": 125.0,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_653031-MLA116357189717_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-sem-fio-inova-com-despertador-radio-fm-relogio-led-luz-rgb/p/MLB77579126?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794481992
   }
  ]
 }
