@@ -1,7 +1,21 @@
 {
- "updated": 1794514729,
+ "updated": 1794515150,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1998,
+   "key": "mercadolivre:MLB79475250",
+   "title": "Soundbar Com Subwoofer Desmontável 420W 5.1 Canais Home Theater Subwoofer Maizhelun Som Imersivo Conectividade Aux/HDMI (ARC)/USB/Óptico/Coaxial/Antena FM Bluet",
+   "price": 483.06,
+   "original": 998.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_831721-MLA116440066636_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-com-subwoofer-desmontavel-420w-5-1-canais-home-theater-subwoofer-maizhelun-som-imersivo-conectividade-aux-hdmi-/p/MLB79475250?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794515130
+  },
   {
    "n": 1997,
    "key": "mercadolivre:MLB22307702",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794485288
-  },
-  {
-   "n": 1938,
-   "key": "mercadolivre:MLB70063359",
-   "title": "Alicate Crimpar Prensa Terminais 1200 Ilhós Tubular W&g",
-   "price": 41.98,
-   "original": 78.9,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_984860-MLA112698871104_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alicate-crimpar-prensa-terminais-1200-ilhos-tubular-w-g/p/MLB70063359?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794484867
   }
  ]
 }
