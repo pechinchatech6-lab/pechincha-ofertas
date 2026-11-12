@@ -1,7 +1,21 @@
 {
- "updated": 1794465643,
+ "updated": 1794466064,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1901,
+   "key": "mercadolivre:MLB69968487",
+   "title": "Chave De Impacto Potente 800n Portátil 2 Bateria Brushless",
+   "price": 317.89,
+   "original": 699.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_819120-MLA119108856846_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chave-de-impacto-potente-800n-portatil-2-bateria-brushless/p/MLB69968487?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794466044
+  },
   {
    "n": 1900,
    "key": "mercadolivre:MLB47100887",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794438137
-  },
-  {
-   "n": 1841,
-   "key": "mercadolivre:MLB50939549",
-   "title": "Controle 8BitDo Ultimate 2 Bluetooth Preto",
-   "price": 359.9,
-   "original": 499.99,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_679491-MLA112992355209_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-8bitdo-ultimate-2-bluetooth-preto/p/MLB50939549?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794437716
   }
  ]
 }
