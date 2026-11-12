@@ -1,7 +1,21 @@
 {
- "updated": 1794479115,
+ "updated": 1794479995,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1933,
+   "key": "mercadolivre:MLB24993224",
+   "title": "Furadeira À Gasolina Para Mourão 25,4cc Vf500 Vulcan",
+   "price": 963.0,
+   "original": 1399.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_967086-MLA99904070781_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/furadeira-a-gasolina-para-mourao-25-4cc-vf500-vulcan/p/MLB24993224?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794479975
+  },
   {
    "n": 1932,
    "key": "mercadolivre:MLB17822924",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794454677
-  },
-  {
-   "n": 1873,
-   "key": "mercadolivre:MLB57689857",
-   "title": "Caixa de Som Basike Boombox Bluetooth 200W, Portátil com Bass Boost e LED RGB",
-   "price": 853.57,
-   "original": 1376.74,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_683446-MLA99368336406_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-basike-boombox-bluetooth-200w-portatil-com-bass-boost-e-led-rgb/p/MLB57689857?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794454256
   }
  ]
 }
