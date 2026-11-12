@@ -1,7 +1,21 @@
 {
- "updated": 1794463117,
+ "updated": 1794463538,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1895,
+   "key": "mercadolivre:MLB62021470",
+   "title": "Aspirador Vertical WAP POWER SPEED MAX CI10 3 EM 1 1600W 220V",
+   "price": 229.9,
+   "original": 357.0,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_999820-MLA106647489933_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aspirador-vertical-wap-power-speed-max-ci10-3-em-1-1600w-220v/p/MLB62021470?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794463518
+  },
   {
    "n": 1894,
    "key": "mercadolivre:MLB19721946",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794434089
-  },
-  {
-   "n": 1835,
-   "key": "mercadolivre:MLB65113053",
-   "title": "Chaleira Jarra Elétrica 1,8L Litros Em Inox Desligamento Automático Aquecimento Rápido Segura Café Chá Fácil Abertura Tampa Alça Ergométrica",
-   "price": 39.99,
-   "original": 78.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_877555-MLA114973407743_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chaleira-jarra-eletrica-1-8l-litros-em-inox-desligamento-automatico-aquecimento-rapido-segura-cafe-cha-facil-abertura-ta/p/MLB65113053?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794433668
   }
  ]
 }
