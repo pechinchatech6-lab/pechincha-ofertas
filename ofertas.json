@@ -1,7 +1,21 @@
 {
- "updated": 1794490255,
+ "updated": 1794490676,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1948,
+   "key": "mercadolivre:MLB65041642",
+   "title": "Smartphone Motorola Moto G17 4g - 128gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia 600, Tela Fhd+ 60hz, Bateria 5200 Mah - Azul",
+   "price": 887.0,
+   "original": 1599.0,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_773592-MLA105493148200_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g17-4g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-fhd-60hz-bateria-5200-mah-az/p/MLB65041642?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794490656
+  },
   {
    "n": 1947,
    "key": "mercadolivre:MLB59019868",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794460992
-  },
-  {
-   "n": 1888,
-   "key": "mercadolivre:MLB79380541",
-   "title": "Caixa Caixinha De Som Bluetooth Pendrive Fm Sd Portátil 50W",
-   "price": 59.9,
-   "original": 86.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_882937-MLA116430422614_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-caixinha-de-som-bluetooth-pendrive-fm-sd-portatil-50w/p/MLB79380541?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794460571
   }
  ]
 }
