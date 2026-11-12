@@ -1,7 +1,21 @@
 {
- "updated": 1794495337,
+ "updated": 1794495758,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1960,
+   "key": "mercadolivre:MLB18555054",
+   "title": "Lixadeira Pneumática Roto Orbital PDR PRO-406 6'' 12,000 RPM",
+   "price": 228.0,
+   "original": 320.2,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_701812-MLA99872457571_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-roto-orbital-pdr-pro-406-6-12-000-rpm/p/MLB18555054?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794495738
+  },
   {
    "n": 1959,
    "key": "mercadolivre:MLB48947564",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794466044
-  },
-  {
-   "n": 1900,
-   "key": "mercadolivre:MLB47100887",
-   "title": "Kit Maquiagem Infantil Kalon Lashes Maleta 8 Peças Com Batom e Acessórios",
-   "price": 49.99,
-   "original": 78.99,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_758173-MLA112465206752_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-maquiagem-infantil-kalon-lashes-maleta-8-pecas-com-batom-e-acessorios/p/MLB47100887?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794465623
   }
  ]
 }
