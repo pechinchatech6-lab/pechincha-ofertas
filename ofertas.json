@@ -1,7 +1,21 @@
 {
- "updated": 1794477431,
+ "updated": 1794477852,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1929,
+   "key": "mercadolivre:MLB77739989",
+   "title": "Cafeteira Italiana Moka inox 6 Xícaras Café Expresso Espresso Para Fogão Manual Tradicional Resistente 300 Ml Casa Premium Sólar",
+   "price": 62.86,
+   "original": 99.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_806693-MLA115059833664_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cafeteira-italiana-moka-inox-6-xicaras-cafe-expresso-espresso-para-fogao-manual-tradicional-resistente-300-ml-casa-premi/p/MLB77739989?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794477832
+  },
   {
    "n": 1928,
    "key": "mercadolivre:MLB32419427",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794452993
-  },
-  {
-   "n": 1869,
-   "key": "mercadolivre:MLB19109935",
-   "title": "Esmerilhadeira Bosch 4,5\" 220V 710W GWS 700 06013A30E0",
-   "price": 259.0,
-   "original": 413.5,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_670719-MLA99986706915_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/esmerilhadeira-bosch-4-5-220v-710w-gws-700-06013a30e0/p/MLB19109935?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794452572
   }
  ]
 }
