@@ -1,7 +1,21 @@
 {
- "updated": 1794472800,
+ "updated": 1794473221,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1918,
+   "key": "mercadolivre:MLB58338157",
+   "title": "Cinta Modelador Short Cirurgia Plástica Biobela Cor Marrom Tamanho Egg-50",
+   "price": 159.0,
+   "original": 230.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_926715-MLA93303764654_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cinta-modelador-short-cirurgia-plastica-biobela-cor-marrom-tamanho-egg-50/p/MLB58338157?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794473201
+  },
   {
    "n": 1917,
    "key": "mercadolivre:MLB26578445",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794447457
-  },
-  {
-   "n": 1858,
-   "key": "mercadolivre:MLB20570214",
-   "title": "Escova Secadora Stylish Keration Brush 3d Bivolt",
-   "price": 134.89,
-   "original": 164.0,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_767793-MLA99568255858_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-stylish-keration-brush-3d-bivolt/p/MLB20570214?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794447036
   }
  ]
 }
