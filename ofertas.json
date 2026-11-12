@@ -1,7 +1,21 @@
 {
- "updated": 1794515992,
+ "updated": 1794516413,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2001,
+   "key": "mercadolivre:MLB19745358",
+   "title": "ISDIN Protetor Solar Facial Fusion Water Magic Color FPS 50 – Cor Clara - 50ml",
+   "price": 94.9,
+   "original": 105.0,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_705809-MLA99442043664_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/isdin-protetor-solar-facial-fusion-water-magic-color-fps-50-cor-clara-50ml/p/MLB19745358?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794516393
+  },
   {
    "n": 2000,
    "key": "mercadolivre:MLB54782093",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794487143
-  },
-  {
-   "n": 1941,
-   "key": "mercadolivre:MLB19782244",
-   "title": "Mantecorp Protetor Solar Facial Episol Fps 70 Tom 2 Claro",
-   "price": 62.9,
-   "original": 99.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_604484-MLA99833162607_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mantecorp-protetor-solar-facial-episol-fps-70-tom-2-claro/p/MLB19782244?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794486130
   }
  ]
 }
