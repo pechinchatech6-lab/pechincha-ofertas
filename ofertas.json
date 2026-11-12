@@ -1,7 +1,21 @@
 {
- "updated": 1794478273,
+ "updated": 1794478694,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1931,
+   "key": "mercadolivre:MLB78318283",
+   "title": "Frigideira Cerâmica Antiaderente Grande 24cm Acompanha Espátula Para Fogão A Gás Indução Cooktop Sem Óleo Não Gruda Profissional PÍTIA",
+   "price": 48.49,
+   "original": 129.99,
+   "pct": 63,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_840680-MLA117132218899_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/frigideira-ceramica-antiaderente-grande-24cm-acompanha-espatula-para-fogao-a-gas-inducao-cooktop-sem-oleo-nao-gruda-prof/p/MLB78318283?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794478674
+  },
   {
    "n": 1930,
    "key": "mercadolivre:MLB67338975",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794453835
-  },
-  {
-   "n": 1871,
-   "key": "mercadolivre:MLB29187736",
-   "title": "Lavadora De Alta Pressão Vonder 1400w Lav 1600 Amarelo 127 V",
-   "price": 339.0,
-   "original": 560.74,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674891-MLA118434008530_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-vonder-1400w-lav-1600-amarelo-127-v/p/MLB29187736?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794453414
   }
  ]
 }
