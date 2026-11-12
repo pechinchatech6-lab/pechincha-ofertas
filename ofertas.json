@@ -1,7 +1,21 @@
 {
- "updated": 1794521133,
+ "updated": 1794522140,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2012,
+   "key": "mercadolivre:MLB44030620",
+   "title": "Lâmina De Serra Fita 1,46m Açougue Carnes Ossos Delta Grill",
+   "price": 36.99,
+   "original": 48.99,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_701034-MLA99141000907_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lamina-de-serra-fita-1-46m-acougue-carnes-ossos-delta-grill/p/MLB44030620?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794522120
+  },
   {
    "n": 2011,
    "key": "mercadolivre:MLB45828425",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794492761
-  },
-  {
-   "n": 1952,
-   "key": "mercadolivre:MLB69302975",
-   "title": "Guarda Roupa Dobrável Organizador Portátil Armário Grande",
-   "price": 87.31,
-   "original": 129.99,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_913545-MLA110406258238_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/guarda-roupa-dobravel-organizador-portatil-armario-grande/p/MLB69302975?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794492340
   }
  ]
 }
