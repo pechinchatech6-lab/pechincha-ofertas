@@ -1,7 +1,21 @@
 {
- "updated": 1794505100,
+ "updated": 1794505675,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1980,
+   "key": "mercadolivre:MLB45151298",
+   "title": "Mouse Sem Fio Logitech M196 Com Conexão Bluetooth - Rosa Rosa",
+   "price": 49.9,
+   "original": 79.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_862174-MLA99480177236_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mouse-sem-fio-logitech-m196-com-conexao-bluetooth-rosa-rosa/p/MLB45151298?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794505655
+  },
   {
    "n": 1979,
    "key": "mercadolivre:MLB8736693",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794474464
-  },
-  {
-   "n": 1920,
-   "key": "mercadolivre:MLB68347781",
-   "title": "Cinto Duplo Masculino Couro Dupla Face 2 Em 1 Preto Marrom Social 120CM",
-   "price": 26.09,
-   "original": 29.9,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_943212-MLA112119025356_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cinto-duplo-masculino-couro-dupla-face-2-em-1-preto-marrom-social-120cm/p/MLB68347781?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794474043
   }
  ]
 }
