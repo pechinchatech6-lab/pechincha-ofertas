@@ -1,7 +1,21 @@
 {
- "updated": 1794446214,
+ "updated": 1794446635,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1857,
+   "key": "mercadolivre:MLB19728006",
+   "title": "Alicate Amperímetro Minipa ET-3155 Digital True RMS 600A CAT III 600V NCV",
+   "price": 268.0,
+   "original": 556.5,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_740352-MLU74536933527_022024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-amperimetro-minipa-et-3155-digital-true-rms-600a-cat-iii-600v-ncv/p/MLB19728006?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794446615
+  },
   {
    "n": 1856,
    "key": "mercadolivre:MLB53878745",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794415578
-  },
-  {
-   "n": 1797,
-   "key": "mercadolivre:MLB61072496",
-   "title": "Caixa De Som Pc Notebook Gamer Soundbar Usb 6w Estéreo P2",
-   "price": 52.19,
-   "original": 78.9,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_644552-MLA120792015981_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-pc-notebook-gamer-soundbar-usb-6w-estereo-p2/p/MLB61072496?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794415157
   }
  ]
 }
