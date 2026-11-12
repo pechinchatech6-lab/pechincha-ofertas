@@ -1,7 +1,21 @@
 {
- "updated": 1794458907,
+ "updated": 1794459328,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1885,
+   "key": "mercadolivre:MLB65411803",
+   "title": "Saida De Praia Mini Saia Plus Size Regulagem Cor Preto Desenho Do Tecido Lisa Tamanho G3 Veste 52 Ao 56",
+   "price": 31.93,
+   "original": 49.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_692735-MLA118181129729_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/saida-de-praia-mini-saia-plus-size-regulagem-cor-preto-desenho-do-tecido-lisa-tamanho-g3-veste-52-ao-56/p/MLB65411803?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794459308
+  },
   {
    "n": 1884,
    "key": "mercadolivre:MLB19160770",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794429879
-  },
-  {
-   "n": 1825,
-   "key": "mercadolivre:MLB19810227",
-   "title": "Creme Depilatório Veet Men Pele Normal 200ml",
-   "price": 39.9,
-   "original": 79.29,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_824173-MLA118163059710_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatorio-veet-men-pele-normal-200ml/p/MLB19810227?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794429458
   }
  ]
 }
