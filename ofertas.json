@@ -1,7 +1,21 @@
 {
- "updated": 1794476589,
+ "updated": 1794477010,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1927,
+   "key": "mercadolivre:MLB23162056",
+   "title": "Chaleira Mor 2,5L Wood Preto 7715",
+   "price": 60.0,
+   "original": 110.39,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_679547-MLA95691984446_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chaleira-mor-2-5l-wood-preto-7715/p/MLB23162056?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794476990
+  },
   {
    "n": 1926,
    "key": "mercadolivre:MLB26168813",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794452151
-  },
-  {
-   "n": 1867,
-   "key": "mercadolivre:MLB79377107",
-   "title": "Jogo Serra Copo 16 Peças 19mm A 127mm Para Madeira Gesso Pvc Mdf Compensado Kit Completo Para Furadeira Conjunto De Serras Para Perfuração E Corte Circular Em O",
-   "price": 41.59,
-   "original": 69.9,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_980754-MLA116700635380_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/jogo-serra-copo-16-pecas-19mm-a-127mm-para-madeira-gesso-pvc-mdf-compensado-kit-completo-para-furadeira-conjunto-de-serr/p/MLB79377107?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794451522
   }
  ]
 }
