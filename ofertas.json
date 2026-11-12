@@ -1,7 +1,21 @@
 {
- "updated": 1794454697,
+ "updated": 1794455118,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1875,
+   "key": "mercadolivre:MLB23357332",
+   "title": "Controle joystick sem fio Nintendo Switch Pro Controller Pro monster hunter rise sunbreak edition",
+   "price": 272.07,
+   "original": 339.26,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822752-MLA99446264030_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-joystick-sem-fio-nintendo-switch-pro-controller-pro-monster-hunter-rise-sunbreak-edition/p/MLB23357332?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794455098
+  },
   {
    "n": 1874,
    "key": "mercadolivre:MLB57714599",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794423902
-  },
-  {
-   "n": 1815,
-   "key": "mercadolivre:MLB19716757",
-   "title": "Hidratante Corporal Intensivo Neutrogena Norwegian com fragrância, 400mL",
-   "price": 59.1,
-   "original": 122.9,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_749806-MLA53986261246_022023-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hidratante-corporal-intensivo-neutrogena-norwegian-com-fragrancia-400ml/p/MLB19716757?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794423481
   }
  ]
 }
