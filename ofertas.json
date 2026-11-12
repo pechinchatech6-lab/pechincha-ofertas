@@ -1,7 +1,21 @@
 {
- "updated": 1794501622,
+ "updated": 1794502574,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1973,
+   "key": "mercadolivre:MLB79489063",
+   "title": "Soprador de Ar sem Fio Portátil 48V com 2 Baterias e Potência Turbo para Limpeza",
+   "price": 87.9,
+   "original": 250.0,
+   "pct": 65,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_779614-MLA117823377369_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-de-ar-sem-fio-portatil-48v-com-2-baterias-e-potencia-turbo-para-limpeza/p/MLB79489063?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794502554
+  },
   {
    "n": 1972,
    "key": "mercadolivre:MLB19685656",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794471517
-  },
-  {
-   "n": 1913,
-   "key": "mercadolivre:MLB37257779",
-   "title": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 300g",
-   "price": 94.99,
-   "original": 153.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646464-MLA112810161826_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-anticaspa-cabelos-normais-a-oleosos-dercos-ds-vichy-300g/p/MLB37257779?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794471096
   }
  ]
 }
