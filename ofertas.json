@@ -1,7 +1,21 @@
 {
- "updated": 1794478694,
+ "updated": 1794479115,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1932,
+   "key": "mercadolivre:MLB17822924",
+   "title": "Relógio de pulso Casio GA-2100 com corria de resina cor vermelho - fondo bordô",
+   "price": 409.99,
+   "original": 998.0,
+   "pct": 59,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_884312-MLA99489775726_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-ga-2100-com-corria-de-resina-cor-vermelho-fondo-bordo/p/MLB17822924?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794479095
+  },
   {
    "n": 1931,
    "key": "mercadolivre:MLB78318283",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794454256
-  },
-  {
-   "n": 1872,
-   "key": "mercadolivre:MLB51340616",
-   "title": "Smartphone Motorola Moto G86 5G Tela 6.7 pOLED 256GB 8GB RAM Câmera 50MP 4K IP69 Desbloqueado",
-   "price": 1602.44,
-   "original": 2999.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_814913-MLA99969880153_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g86-5g-tela-6-7-poled-256gb-8gb-ram-camera-50mp-4k-ip69-desbloqueado/p/MLB51340616?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794453835
   }
  ]
 }
