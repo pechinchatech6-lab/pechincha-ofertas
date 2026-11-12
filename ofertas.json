@@ -1,7 +1,21 @@
 {
- "updated": 1794471537,
+ "updated": 1794471958,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1915,
+   "key": "mercadolivre:MLB29450079",
+   "title": "Escova Secadora By Juliette ES-JU-01 3 em 1 1300W Mondial Bivolt",
+   "price": 135.0,
+   "original": 219.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_688828-MLA99989849581_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-by-juliette-es-ju-01-3-em-1-1300w-mondial-bivolt/p/MLB29450079?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794471938
+  },
   {
    "n": 1914,
    "key": "mercadolivre:MLB74159344",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794446194
-  },
-  {
-   "n": 1855,
-   "key": "mercadolivre:MLB61322333",
-   "title": "Projetor Magcubic Mini Smart HY300PRO+ FULL HD 8K Android 14 com Wi-Fi 6 Controle remoto por voz",
-   "price": 275.99,
-   "original": 479.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_685520-MLA113902322205_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-magcubic-mini-smart-hy300pro-full-hd-8k-android-14-com-wi-fi-6-controle-remoto-por-voz/p/MLB61322333?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794445773
   }
  ]
 }
