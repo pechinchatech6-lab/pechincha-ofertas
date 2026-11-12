@@ -1,7 +1,21 @@
 {
- "updated": 1794506096,
+ "updated": 1794506517,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1982,
+   "key": "mercadolivre:MLB39167899",
+   "title": "Óleo para Barba Natura Homem, 30 ml",
+   "price": 49.14,
+   "original": 81.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_877552-MLU78029615962_082024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/oleo-para-barba-natura-homem-30-ml/p/MLB39167899?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794506497
+  },
   {
    "n": 1981,
    "key": "mercadolivre:MLB30996900",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794475306
-  },
-  {
-   "n": 1922,
-   "key": "mercadolivre:MLB61910691",
-   "title": "Enssu Aparador de Pelos com Lâmina de Cerâmica e Recarga Rápida",
-   "price": 159.0,
-   "original": 318.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_761397-MLA111846748613_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/enssu-aparador-de-pelos-com-lamina-de-ceramica-e-recarga-rapida/p/MLB61910691?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794474885
   }
  ]
 }
