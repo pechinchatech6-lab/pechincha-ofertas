@@ -1,7 +1,21 @@
 {
- "updated": 1794484887,
+ "updated": 1794485308,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1939,
+   "key": "mercadolivre:MLB27175663",
+   "title": "NIVEA Hidratante Labial Hidra Color 2 em 1 Nude 4,8g, Hidratação Duradoura, Cor Intensa, Lábios Protegidos",
+   "price": 19.01,
+   "original": 30.99,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_962354-MLU73694960294_012024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivea-hidratante-labial-hidra-color-2-em-1-nude-4-8g-hidratacao-duradoura-cor-intensa-labios-protegidos/p/MLB27175663?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794485288
+  },
   {
    "n": 1938,
    "key": "mercadolivre:MLB70063359",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794457203
-  },
-  {
-   "n": 1879,
-   "key": "mercadolivre:MLB67949109",
-   "title": "Forno Elétrico 52l Family Grill Inox Mondial 1800w Frn-52-bi",
-   "price": 434.58,
-   "original": 596.9,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_921149-MLA112261101800_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/forno-eletrico-52l-family-grill-inox-mondial-1800w-frn-52-bi/p/MLB67949109?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794456782
   }
  ]
 }
