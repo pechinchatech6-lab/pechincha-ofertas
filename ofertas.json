@@ -1,7 +1,21 @@
 {
- "updated": 1794459749,
+ "updated": 1794460170,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1887,
+   "key": "mercadolivre:MLB79059013",
+   "title": "Projetor Basike Inteligente Telescópico com Wi-Fi e Bluetooth, Full HD 4K para Cinema e Jogos",
+   "price": 331.0,
+   "original": 600.0,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_744903-MLA117388510265_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-basike-inteligente-telescopico-com-wi-fi-e-bluetooth-full-hd-4k-para-cinema-e-jogos/p/MLB79059013?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794460150
+  },
   {
    "n": 1886,
    "key": "mercadolivre:MLB32387819",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794430721
-  },
-  {
-   "n": 1827,
-   "key": "mercadolivre:MLB62870931",
-   "title": "Creme Depilatório Corporal 3 em 1 Avon Care 125g",
-   "price": 26.99,
-   "original": 39.99,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_805756-MLA118808717809_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatorio-corporal-3-em-1-avon-care-125g/p/MLB62870931?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794430300
   }
  ]
 }
