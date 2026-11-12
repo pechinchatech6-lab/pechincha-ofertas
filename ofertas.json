@@ -1,7 +1,21 @@
 {
- "updated": 1794508201,
+ "updated": 1794508622,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 1987,
+   "key": "mercadolivre:MLB59221401",
+   "title": "Creme de Barbear Gillette para Rosto e Corpo para Homens com Aloe 150mL",
+   "price": 22.04,
+   "original": 26.9,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_717816-MLA119483033044_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-de-barbear-gillette-para-rosto-e-corpo-para-homens-com-aloe-150ml/p/MLB59221401?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794508602
+  },
   {
    "n": 1986,
    "key": "mercadolivre:MLB77828327",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794477411
-  },
-  {
-   "n": 1927,
-   "key": "mercadolivre:MLB23162056",
-   "title": "Chaleira Mor 2,5L Wood Preto 7715",
-   "price": 60.0,
-   "original": 110.39,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_679547-MLA95691984446_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chaleira-mor-2-5l-wood-preto-7715/p/MLB23162056?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794476990
   }
  ]
 }
