@@ -1,7 +1,21 @@
 {
- "updated": 1794528973,
+ "updated": 1794529394,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2027,
+   "key": "mercadolivre:MLB32162099",
+   "title": "Relógio Unissex Casio Digital Esportivo A158wa-1df Prata Retrô Vintage Pulseira em Aço Inoxidável",
+   "price": 120.88,
+   "original": 156.99,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_723628-MLA118260371869_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-unissex-casio-digital-esportivo-a158wa-1df-prata-retro-vintage-pulseira-em-aco-inoxidavel/p/MLB32162099?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794529374
+  },
   {
    "n": 2026,
    "key": "mercadolivre:MLB26607995",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794499918
-  },
-  {
-   "n": 1967,
-   "key": "mercadolivre:MLB25327723",
-   "title": "Escova Secadora Philco PES19SG BIVOLT",
-   "price": 143.9,
-   "original": 193.48,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_663277-MLA91956845965_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-philco-pes19sg-bivolt/p/MLB25327723?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794499497
   }
  ]
 }
