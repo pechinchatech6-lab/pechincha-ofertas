@@ -1,7 +1,21 @@
 {
- "updated": 1794551950,
+ "updated": 1794552371,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2071,
+   "key": "mercadolivre:MLB62925370",
+   "title": "Depilador Elétrico Feminino de Sobrancelhas Black Raipe, Caneta Recarregável e Indolor",
+   "price": 21.99,
+   "original": 29.99,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_713881-MLA112707674461_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-de-sobrancelhas-black-raipe-caneta-recarregavel-e-indolor/p/MLB62925370?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794552351
+  },
   {
    "n": 2070,
    "key": "mercadolivre:MLB27157886",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794522120
-  },
-  {
-   "n": 2011,
-   "key": "mercadolivre:MLB45828425",
-   "title": "Kit 2 Unidades Creme Depilatório Corpo Skin So Soft - Avon",
-   "price": 49.0,
-   "original": 69.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_922264-MLA104350766453_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-2-unidades-creme-depilatorio-corpo-skin-so-soft-avon/p/MLB45828425?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794521113
   }
  ]
 }
