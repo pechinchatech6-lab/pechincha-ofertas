@@ -1,7 +1,21 @@
 {
- "updated": 1794592954,
+ "updated": 1794593375,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2144,
+   "key": "mercadolivre:MLB24807116",
+   "title": "Escova Secadora Mondial Keratin - Es-11-bi Grafite/golden Rose",
+   "price": 116.0,
+   "original": 199.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822745-MLA99966514757_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-mondial-keratin-es-11-bi-grafite-golden-rose/p/MLB24807116?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794593355
+  },
   {
    "n": 2143,
    "key": "mercadolivre:MLB77843005",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794562210
-  },
-  {
-   "n": 2084,
-   "key": "mercadolivre:MLB51763024",
-   "title": "Moto Serra Elétrica 12 Polegadas 2 Baterias 48v Portátil Recarregável Profissional Kamare",
-   "price": 291.93,
-   "original": 499.99,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_945631-MLA115520669241_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/moto-serra-eletrica-12-polegadas-2-baterias-48v-portatil-recarregavel-profissional-kamare/p/MLB51763024?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794561789
   }
  ]
 }
