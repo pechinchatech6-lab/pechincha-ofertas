@@ -1,7 +1,21 @@
 {
- "updated": 1794579559,
+ "updated": 1794579980,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2117,
+   "key": "mercadolivre:MLB79865645",
+   "title": "Webcam Camera Full Hd Zoom 1080p 360 Graus Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone-Wizbo",
+   "price": 29.0,
+   "original": 78.0,
+   "pct": 63,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_744706-MLA120325049445_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-360-graus-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-wizbo/p/MLB79865645?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794579960
+  },
   {
    "n": 2116,
    "key": "mercadolivre:MLB24208936",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794543194
-  },
-  {
-   "n": 2057,
-   "key": "mercadolivre:MLB62549311",
-   "title": "Furadeira Mourão A Gasolina 26cc 2t Reversão 2 Brocas Evald",
-   "price": 899.0,
-   "original": 1162.38,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_849913-MLA99614240951_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/furadeira-mourao-a-gasolina-26cc-2t-reversao-2-brocas-evald/p/MLB62549311?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794542773
   }
  ]
 }
