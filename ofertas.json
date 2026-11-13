@@ -1,7 +1,21 @@
 {
- "updated": 1794595480,
+ "updated": 1794595901,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2150,
+   "key": "mercadolivre:MLB50181290",
+   "title": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Simake",
+   "price": 119.6,
+   "original": 299.0,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_835659-MLA116548375638_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-c-2-baterias-maleta-kit-completo-led-eixo-flexivel-varios-niveis-torque-simake/p/MLB50181290?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794595881
+  },
   {
    "n": 2149,
    "key": "mercadolivre:MLB18351904",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794565279
-  },
-  {
-   "n": 2090,
-   "key": "mercadolivre:MLB18572379",
-   "title": "Secador De Cabelos Style Azul Tiffany 2000w Taiff Azul",
-   "price": 194.06,
-   "original": 299.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_612568-MLA113216391522_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-style-azul-tiffany-2000w-taiff-azul/p/MLB18572379?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794564650
   }
  ]
 }
