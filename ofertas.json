@@ -1,7 +1,21 @@
 {
- "updated": 1794567769,
+ "updated": 1794568190,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2097,
+   "key": "mercadolivre:MLB24807108",
+   "title": "Escova Prancha Para Alisar E Modelar Barba E Cabelo Bivolt Cerâmica Pente Anti Frizz Portátil Masculina Branca Branco Sngames",
+   "price": 26.3,
+   "original": 59.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_721748-MLA118279156332_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-prancha-para-alisar-e-modelar-barba-e-cabelo-bivolt-ceramica-pente-anti-frizz-portatil-masculina-branca-branco-sn/p/MLB24807108?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794568170
+  },
   {
    "n": 2096,
    "key": "mercadolivre:MLB50374755",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794534005
-  },
-  {
-   "n": 2037,
-   "key": "mercadolivre:MLB10312333",
-   "title": "Controle Joystick Playstation Dualshock 4 Magma Red Sony",
-   "price": 132.0,
-   "original": 299.9,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_986319-MLA99471058764_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-joystick-playstation-dualshock-4-magma-red-sony/p/MLB10312333?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794533584
   }
  ]
 }
