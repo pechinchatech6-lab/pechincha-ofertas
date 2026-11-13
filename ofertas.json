@@ -1,7 +1,21 @@
 {
- "updated": 1794565299,
+ "updated": 1794565720,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2092,
+   "key": "mercadolivre:MLB38714294",
+   "title": "Aparador de Pelos Philco Multigroom 8 Em 1 Pap16 Cor Chumbo",
+   "price": 109.9,
+   "original": 169.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_999787-MLA100009174297_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-philco-multigroom-8-em-1-pap16-cor-chumbo/p/MLB38714294?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794565700
+  },
   {
    "n": 2091,
    "key": "mercadolivre:MLB65549139",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794531900
-  },
-  {
-   "n": 2032,
-   "key": "mercadolivre:MLB32161367",
-   "title": "Lixadeira Teto E Parede Telescópica Profissional Com Led E Saco Coletor The Black Tools Btl750 750w",
-   "price": 656.9,
-   "original": 1106.16,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_708031-MLA119774852057_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-teto-e-parede-telescopica-profissional-com-led-e-saco-coletor-the-black-tools-btl750-750w/p/MLB32161367?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794531479
   }
  ]
 }
