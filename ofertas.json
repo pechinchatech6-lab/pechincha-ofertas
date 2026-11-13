@@ -1,7 +1,21 @@
 {
- "updated": 1794583891,
+ "updated": 1794584312,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2126,
+   "key": "mercadolivre:MLB26082979",
+   "title": "Lâmina para Serra Circular Vonder 185mm 24 Dentes 46.50.185.024",
+   "price": 33.5,
+   "original": 45.99,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_601892-MLA99568254928_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lamina-para-serra-circular-vonder-185mm-24-dentes-46-50-185-024/p/MLB26082979?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794584292
+  },
   {
    "n": 2125,
    "key": "mercadolivre:MLB12839570",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794546983
-  },
-  {
-   "n": 2066,
-   "key": "mercadolivre:MLB28463712",
-   "title": "Relógio Digital Mesa Despertador Inteligente Cabeceira Quarto Idoso Com Sensor De Temperatura Micgeek",
-   "price": 23.33,
-   "original": 40.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_824487-MLA116332700754_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-digital-mesa-despertador-inteligente-cabeceira-quarto-idoso-com-sensor-de-temperatura-micgeek/p/MLB28463712?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794546562
   }
  ]
 }
