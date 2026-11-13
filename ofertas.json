@@ -1,7 +1,21 @@
 {
- "updated": 1794552371,
+ "updated": 1794554990,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2072,
+   "key": "mercadolivre:MLB54549630",
+   "title": "Basike Caixa de Som Boombox Plus 80W 8000Mah Portátil Bluetooth 5.3 Sem fio IPX6 À Prova D'água Com Luz RGB Hifi TWS Bass Forte Amplificada Alto falante Bombox ",
+   "price": 337.0,
+   "original": 599.98,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_675598-MLA99455853026_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/basike-caixa-de-som-boombox-plus-80w-8000mah-portatil-bluetooth-5-3-sem-fio-ipx6-a-prova-d-agua-com-luz-rgb-hifi-tws-bas/p/MLB54549630?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794554970
+  },
   {
    "n": 2071,
    "key": "mercadolivre:MLB62925370",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794523133
-  },
-  {
-   "n": 2012,
-   "key": "mercadolivre:MLB44030620",
-   "title": "Lâmina De Serra Fita 1,46m Açougue Carnes Ossos Delta Grill",
-   "price": 36.99,
-   "original": 48.99,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_701034-MLA99141000907_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lamina-de-serra-fita-1-46m-acougue-carnes-ossos-delta-grill/p/MLB44030620?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794522120
   }
  ]
 }
