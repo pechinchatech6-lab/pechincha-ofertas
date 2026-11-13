@@ -1,7 +1,21 @@
 {
- "updated": 1794591270,
+ "updated": 1794591691,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2140,
+   "key": "mercadolivre:MLB27731058",
+   "title": "Shampoo Antiqueda Estimulante com Aminexil, Dercos Energy+ Vichy, 200g",
+   "price": 61.69,
+   "original": 98.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_728026-MLA117488225821_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-antiqueda-estimulante-com-aminexil-dercos-energy-vichy-200g/p/MLB27731058?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794591671
+  },
   {
    "n": 2139,
    "key": "mercadolivre:MLB57490795",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794560526
-  },
-  {
-   "n": 2080,
-   "key": "mercadolivre:MLB70378764",
-   "title": "Relógio de Parede Quartz Kasa Redondo, com 30 cm, para Cozinha",
-   "price": 33.78,
-   "original": 37.99,
-   "pct": 11,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_876061-MLA119342447875_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-quartz-kasa-redondo-com-30-cm-para-cozinha/p/MLB70378764?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794560105
   }
  ]
 }
