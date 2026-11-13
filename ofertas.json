@@ -1,7 +1,21 @@
 {
- "updated": 1794583470,
+ "updated": 1794583891,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2125,
+   "key": "mercadolivre:MLB12839570",
+   "title": "Chapinha/Prancha de cabelo Gama Italy X-Wide Keration Pro",
+   "price": 189.0,
+   "original": 339.9,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_744113-MLA100029157777_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-prancha-de-cabelo-gama-italy-x-wide-keration-pro/p/MLB12839570?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794583871
+  },
   {
    "n": 2124,
    "key": "mercadolivre:MLB53466314",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794546562
-  },
-  {
-   "n": 2065,
-   "key": "mercadolivre:MLB18643725",
-   "title": "Hidratante Labial Nivea Med Repair FPS15 4,8g",
-   "price": 16.1,
-   "original": 30.99,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_771056-MLA104010765404_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hidratante-labial-nivea-med-repair-fps15-4-8g/p/MLB18643725?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794546141
   }
  ]
 }
