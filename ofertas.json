@@ -1,7 +1,21 @@
 {
- "updated": 1794562651,
+ "updated": 1794563072,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2087,
+   "key": "mercadolivre:MLB15144095",
+   "title": "Logitech Mouse Sem Fio M170 Preto Cinza USB 2.4GHz Ambidestro Compacto para Notebook PC Computador com Nano Receptor USB Conexão Sem Fio Tecnologia Wireless Com",
+   "price": 44.9,
+   "original": 69.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_956180-MLA99964568593_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/logitech-mouse-sem-fio-m170-preto-cinza-usb-2-4ghz-ambidestro-compacto-para-notebook-pc-computador-com-nano-receptor-usb/p/MLB15144095?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794563052
+  },
   {
    "n": 2086,
    "key": "mercadolivre:MLB75964600",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794529795
-  },
-  {
-   "n": 2027,
-   "key": "mercadolivre:MLB32162099",
-   "title": "Relógio Unissex Casio Digital Esportivo A158wa-1df Prata Retrô Vintage Pulseira em Aço Inoxidável",
-   "price": 120.88,
-   "original": 156.99,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_723628-MLA118260371869_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-unissex-casio-digital-esportivo-a158wa-1df-prata-retro-vintage-pulseira-em-aco-inoxidavel/p/MLB32162099?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794529374
   }
  ]
 }
