@@ -1,7 +1,21 @@
 {
- "updated": 1794572932,
+ "updated": 1794573353,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2104,
+   "key": "mercadolivre:MLB62445524",
+   "title": "Nível Laser Verde 16 Linhas War Shark 2 Bateria+1.2m Tripé",
+   "price": 259.0,
+   "original": 500.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_770451-MLA113890807023_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-2-bateria-1-2m-tripe/p/MLB62445524?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794573333
+  },
   {
    "n": 2103,
    "key": "mercadolivre:MLB38659083",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794536952
-  },
-  {
-   "n": 2044,
-   "key": "mercadolivre:MLB46220824",
-   "title": "Webcam Camera Full Hd Zoom 1080p 360 Graus Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone- GoodVision",
-   "price": 36.7,
-   "original": 78.0,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_807092-MLA100966388363_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-360-graus-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-goodvision/p/MLB46220824?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794536531
   }
  ]
 }
