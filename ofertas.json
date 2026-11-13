@@ -1,7 +1,21 @@
 {
- "updated": 1794593796,
+ "updated": 1794594217,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2146,
+   "key": "mercadolivre:MLB53905228",
+   "title": "Lixadeira De Parede E Teto 1000w Profissional 5 Velocidades 360° Com Led 6 Lixas Saco Coletor Tlt900 The Black Tools",
+   "price": 418.9,
+   "original": 649.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_777026-MLA116987590778_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lixadeira-de-parede-e-teto-1000w-profissional-5-velocidades-360-com-led-6-lixas-saco-coletor-tlt900-the-black-tools/p/MLB53905228?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794594197
+  },
   {
    "n": 2145,
    "key": "mercadolivre:MLB19506691",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794563052
-  },
-  {
-   "n": 2086,
-   "key": "mercadolivre:MLB75964600",
-   "title": "Escova Secadora Philco com Íons Tourmaline e Tecnologia Anti-frizz Bivolt",
-   "price": 138.9,
-   "original": 280.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_917271-MLA115687705498_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-philco-com-ions-tourmaline-e-tecnologia-anti-frizz-bivolt/p/MLB75964600?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794562631
   }
  ]
 }
