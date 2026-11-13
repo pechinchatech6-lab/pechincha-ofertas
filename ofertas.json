@@ -1,7 +1,21 @@
 {
- "updated": 1794537814,
+ "updated": 1794538235,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2048,
+   "key": "mercadolivre:MLB80498643",
+   "title": "Alaxe Caixa De Som Inteligente Comando Voz Portátil Bluetooth LED RGB Compatível Com Aplicativo Alexa No Celular Som Sem Fio Compacta Para Casa Quarto Escritóri",
+   "price": 59.9,
+   "original": 175.0,
+   "pct": 66,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_605157-MLA117596016824_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alaxe-caixa-de-som-inteligente-comando-voz-portatil-bluetooth-led-rgb-compativel-com-aplicativo-alexa-no-celular-som-sem/p/MLB80498643?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794538215
+  },
   {
    "n": 2047,
    "key": "mercadolivre:MLB66454860",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794509444
-  },
-  {
-   "n": 1988,
-   "key": "mercadolivre:MLB67840670",
-   "title": "Trena Nível Laser Profissional 2,5m 3 Linhas Horizontal Vertical Cruzado Nível De Bolha Prático E Preciso Para Quadros Prateleiras Painéis Instalações Residenci",
-   "price": 27.99,
-   "original": 49.99,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_794741-MLA109737854070_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/trena-nivel-laser-profissional-2-5m-3-linhas-horizontal-vertical-cruzado-nivel-de-bolha-pratico-e-preciso-para-quadros-p/p/MLB67840670?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794509023
   }
  ]
 }
