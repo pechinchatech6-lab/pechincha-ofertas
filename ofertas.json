@@ -1,7 +1,21 @@
 {
- "updated": 1794590007,
+ "updated": 1794590428,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2137,
+   "key": "mercadolivre:MLB21801939",
+   "title": "Secador de cabelo dobrável Mondial Max Travel 1200w Sc-10",
+   "price": 74.39,
+   "original": 85.5,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_990387-MLA99524078136_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-dobravel-mondial-max-travel-1200w-sc-10/p/MLB21801939?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794590408
+  },
   {
    "n": 2136,
    "key": "mercadolivre:MLB47104607",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794558701
-  },
-  {
-   "n": 2077,
-   "key": "mercadolivre:MLB37930434",
-   "title": "Par de Microfones Sem Fio JBL PartyBox Wireless Mic, Padrão Cardioide, Filtro de Respiração, Sistema Antichoque, Conexão 2,4 GHz, Alcance de até 30 m, até 20h d",
-   "price": 474.0,
-   "original": 1050.0,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_883202-MLU77972528419_072024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/par-de-microfones-sem-fio-jbl-partybox-wireless-mic-padrao-cardioide-filtro-de-respiracao-sistema-antichoque-conexao-2-4/p/MLB37930434?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794558280
   }
  ]
 }
