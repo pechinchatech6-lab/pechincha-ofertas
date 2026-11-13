@@ -1,7 +1,21 @@
 {
- "updated": 1794599471,
+ "updated": 1794599892,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2159,
+   "key": "mercadolivre:MLB50376945",
+   "title": "Fritadeira Elétrica Air Fryer Quad Fry Elgin 4,2 L, 1400w",
+   "price": 145.0,
+   "original": 299.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_927559-MLA99450788218_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fritadeira-eletrica-air-fryer-quad-fry-elgin-4-2-l-1400w/p/MLB50376945?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794599872
+  },
   {
    "n": 2158,
    "key": "mercadolivre:MLB78840757",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794569433
-  },
-  {
-   "n": 2099,
-   "key": "mercadolivre:MLB18311803",
-   "title": "NIVEA MEN Creme de Barbear Sensitive 2 em 1 65g, Protege a Pele, Previne Irritações, Deslizamento Suave, Extrato de Camomila, Pele Sensível",
-   "price": 10.02,
-   "original": 13.49,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_676332-MLA107578241667_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivea-men-creme-de-barbear-sensitive-2-em-1-65g-protege-a-pele-previne-irritacoes-deslizamento-suave-extrato-de-camomila/p/MLB18311803?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794569012
   }
  ]
 }
