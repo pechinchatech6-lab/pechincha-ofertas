@@ -1,7 +1,21 @@
 {
- "updated": 1794600734,
+ "updated": 1794601155,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2162,
+   "key": "mercadolivre:MLB53979422",
+   "title": "Microfone Lapela Sem Fio Kaidi Tipo-C",
+   "price": 44.34,
+   "original": 99.59,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_681459-MLA99623098811_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microfone-lapela-sem-fio-kaidi-tipo-c/p/MLB53979422?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794601135
+  },
   {
    "n": 2161,
    "key": "mercadolivre:MLB18630341",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794572912
-  },
-  {
-   "n": 2102,
-   "key": "mercadolivre:MLB58934113",
-   "title": "Caixa De Som Bluetooth Portátil Go Essencial 2 Jbl - Azul",
-   "price": 172.19,
-   "original": 219.0,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_812536-MLA99507278724_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-portatil-go-essencial-2-jbl-azul/p/MLB58934113?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794572491
   }
  ]
 }
