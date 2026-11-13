@@ -1,7 +1,21 @@
 {
- "updated": 1794569874,
+ "updated": 1794572511,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2102,
+   "key": "mercadolivre:MLB58934113",
+   "title": "Caixa De Som Bluetooth Portátil Go Essencial 2 Jbl - Azul",
+   "price": 172.19,
+   "original": 219.0,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_812536-MLA99507278724_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-portatil-go-essencial-2-jbl-azul/p/MLB58934113?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794572491
+  },
   {
    "n": 2101,
    "key": "mercadolivre:MLB69291584",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794536110
-  },
-  {
-   "n": 2042,
-   "key": "mercadolivre:MLB74243177",
-   "title": "Pistola De Pintura Com Compressor Elétrico 650w",
-   "price": 117.91,
-   "original": 199.85,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_720353-MLA113556068871_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pistola-de-pintura-com-compressor-eletrico-650w/p/MLB74243177?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794535689
   }
  ]
 }
