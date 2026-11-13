@@ -1,7 +1,21 @@
 {
- "updated": 1794587902,
+ "updated": 1794588323,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2132,
+   "key": "mercadolivre:MLB28572551",
+   "title": "Smart Tv Stick Full Hd Intelbras Preto Padrão",
+   "price": 245.28,
+   "original": 434.9,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_978515-MLA99506607420_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-stick-full-hd-intelbras-preto-padrao/p/MLB28572551?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794588303
+  },
   {
    "n": 2131,
    "key": "mercadolivre:MLB1040287790",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794555391
-  },
-  {
-   "n": 2072,
-   "key": "mercadolivre:MLB54549630",
-   "title": "Basike Caixa de Som Boombox Plus 80W 8000Mah Portátil Bluetooth 5.3 Sem fio IPX6 À Prova D'água Com Luz RGB Hifi TWS Bass Forte Amplificada Alto falante Bombox ",
-   "price": 337.0,
-   "original": 599.98,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_675598-MLA99455853026_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/basike-caixa-de-som-boombox-plus-80w-8000mah-portatil-bluetooth-5-3-sem-fio-ipx6-a-prova-d-agua-com-luz-rgb-hifi-tws-bas/p/MLB54549630?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794554970
   }
  ]
 }
