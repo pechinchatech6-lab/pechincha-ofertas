@@ -1,7 +1,21 @@
 {
- "updated": 1794543214,
+ "updated": 1794543635,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2059,
+   "key": "mercadolivre:MLB24326256",
+   "title": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 40ml",
+   "price": 71.52,
+   "original": 109.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_695558-MLA119937437423_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-multirreparador-pele-sensivel-cicaplast-baume-b5-la-roche-posay-40ml/p/MLB24326256?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794543615
+  },
   {
    "n": 2058,
    "key": "mercadolivre:MLB70211597",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794515972
-  },
-  {
-   "n": 1999,
-   "key": "mercadolivre:MLB19472441",
-   "title": "Chapinha De Cabelo Taiff Style Pro Titanium Preta Cor Preto",
-   "price": 166.0,
-   "original": 309.9,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_962693-MLA99881819447_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-taiff-style-pro-titanium-preta-cor-preto/p/MLB19472441?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794515551
   }
  ]
 }
