@@ -1,7 +1,21 @@
 {
- "updated": 1794575879,
+ "updated": 1794576300,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2111,
+   "key": "mercadolivre:MLB70308700",
+   "title": "Rádio Caixa De Som Bluetooth Recarregável Led Beexcellent Vermelho",
+   "price": 75.99,
+   "original": 99.9,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_745672-MLA111246179304_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/radio-caixa-de-som-bluetooth-recarregavel-led-beexcellent-vermelho/p/MLB70308700?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794576280
+  },
   {
    "n": 2110,
    "key": "mercadolivre:MLB77732728",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794540668
-  },
-  {
-   "n": 2051,
-   "key": "mercadolivre:MLB19140415",
-   "title": "Suplemento Whey Isolate Protein Fuse 1,8kg sabor Morango Dark Lab",
-   "price": 179.9,
-   "original": 699.9,
-   "pct": 74,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_989007-MLA99405715766_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suplemento-whey-isolate-protein-fuse-1-8kg-sabor-morango-dark-lab/p/MLB19140415?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794539478
   }
  ]
 }
