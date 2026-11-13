@@ -1,7 +1,21 @@
 {
- "updated": 1794544056,
+ "updated": 1794544477,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2061,
+   "key": "mercadolivre:MLB30917968",
+   "title": "Caixa de Som Amplificada Amvox ACA 1101 Duplo 8 Black 1100W Woofer 8\"",
+   "price": 795.4,
+   "original": 1299.0,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_664631-MLA99508571080_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-amplificada-amvox-aca-1101-duplo-8-black-1100w-woofer-8/p/MLB30917968?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794544457
+  },
   {
    "n": 2060,
    "key": "mercadolivre:MLB80257068",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794516983
-  },
-  {
-   "n": 2001,
-   "key": "mercadolivre:MLB19745358",
-   "title": "ISDIN Protetor Solar Facial Fusion Water Magic Color FPS 50 – Cor Clara - 50ml",
-   "price": 94.9,
-   "original": 105.0,
-   "pct": 10,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_705809-MLA99442043664_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/isdin-protetor-solar-facial-fusion-water-magic-color-fps-50-cor-clara-50ml/p/MLB19745358?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794516393
   }
  ]
 }
