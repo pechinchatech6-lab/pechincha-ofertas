@@ -1,7 +1,21 @@
 {
- "updated": 1794562230,
+ "updated": 1794562651,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2086,
+   "key": "mercadolivre:MLB75964600",
+   "title": "Escova Secadora Philco com Íons Tourmaline e Tecnologia Anti-frizz Bivolt",
+   "price": 138.9,
+   "original": 280.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_917271-MLA115687705498_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-philco-com-ions-tourmaline-e-tecnologia-anti-frizz-bivolt/p/MLB75964600?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794562631
+  },
   {
    "n": 2085,
    "key": "mercadolivre:MLB53218854",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794529374
-  },
-  {
-   "n": 2026,
-   "key": "mercadolivre:MLB26607995",
-   "title": "Saia Pareô Canga Preta Marujá Beach Viscose Pompom Tamanho 42-46",
-   "price": 39.8,
-   "original": 54.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_918425-MLA99582022534_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/saia-pareo-canga-preta-maruja-beach-viscose-pompom-tamanho-42-46/p/MLB26607995?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794528953
   }
  ]
 }
