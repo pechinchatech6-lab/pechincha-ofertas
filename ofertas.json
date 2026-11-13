@@ -1,7 +1,21 @@
 {
- "updated": 1794574195,
+ "updated": 1794574616,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2107,
+   "key": "mercadolivre:MLB47245501",
+   "title": "Smartphone Motorola Edge 60 Fusion 5g - 256gb 8gb Ram+8gb Ram Boost, 50mp Sony Ai Camera Ip68 Nfc - Cinza Vegan Leather",
+   "price": 1999.0,
+   "original": 3299.0,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631624-MLA99926713059_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-fusion-5g-256gb-8gb-ram-8gb-ram-boost-50mp-sony-ai-camera-ip68-nfc-cinza-vegan-leather/p/MLB47245501?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794574596
+  },
   {
    "n": 2106,
    "key": "mercadolivre:MLB80744090",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794538215
-  },
-  {
-   "n": 2047,
-   "key": "mercadolivre:MLB66454860",
-   "title": "Geladeira Electrolux Frost Free 380L AutoSense Inverter Duplex Branca (IF41)",
-   "price": 2570.61,
-   "original": 3399.0,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_952475-MLA108569273143_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-frost-free-380l-autosense-inverter-duplex-branca-if41/p/MLB66454860?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794537794
   }
  ]
 }
