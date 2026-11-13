@@ -1,7 +1,21 @@
 {
- "updated": 1794535709,
+ "updated": 1794536130,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2043,
+   "key": "mercadolivre:MLB54944960",
+   "title": "Aparador de Pelos Super Groom 06 Mondial Bivolt - BG-04",
+   "price": 83.8,
+   "original": 184.9,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_828128-MLA119650276072_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-super-groom-06-mondial-bivolt-bg-04/p/MLB54944960?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794536110
+  },
   {
    "n": 2042,
    "key": "mercadolivre:MLB74243177",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794507339
-  },
-  {
-   "n": 1983,
-   "key": "mercadolivre:MLB29328872",
-   "title": "Climatizador de Ar Portátil NOHARA 600mL com Umidificador e LED RGB, 3 Velocidades e Timer",
-   "price": 41.9,
-   "original": 59.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_755167-MLA111138620187_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-portatil-nohara-600ml-com-umidificador-e-led-rgb-3-velocidades-e-timer/p/MLB29328872?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794506918
   }
  ]
 }
