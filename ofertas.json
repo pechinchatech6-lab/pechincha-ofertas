@@ -1,7 +1,21 @@
 {
- "updated": 1794574616,
+ "updated": 1794575037,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2108,
+   "key": "mercadolivre:MLB79663696",
+   "title": "1 Par Meia Polaina Aeróbica Academia Esporte Fitness Premium Cor Roxo Desenho do tecido Lisa Tamanho Único",
+   "price": 19.48,
+   "original": 27.8,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_987354-MLA118009293495_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/1-par-meia-polaina-aerobica-academia-esporte-fitness-premium-cor-roxo-desenho-do-tecido-lisa-tamanho-unico/p/MLB79663696?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794575017
+  },
   {
    "n": 2107,
    "key": "mercadolivre:MLB47245501",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794538636
-  },
-  {
-   "n": 2048,
-   "key": "mercadolivre:MLB80498643",
-   "title": "Alaxe Caixa De Som Inteligente Comando Voz Portátil Bluetooth LED RGB Compatível Com Aplicativo Alexa No Celular Som Sem Fio Compacta Para Casa Quarto Escritóri",
-   "price": 59.9,
-   "original": 175.0,
-   "pct": 66,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_605157-MLA117596016824_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alaxe-caixa-de-som-inteligente-comando-voz-portatil-bluetooth-led-rgb-compativel-com-aplicativo-alexa-no-celular-som-sem/p/MLB80498643?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794538215
   }
  ]
 }
