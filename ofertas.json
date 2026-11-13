@@ -1,7 +1,21 @@
 {
- "updated": 1794584814,
+ "updated": 1794585836,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2128,
+   "key": "mercadolivre:MLB74325668",
+   "title": "Secador de Tênis Elétrico Portátil para Calçados Sapatos Chuteiras Botas e Sapatilhas Aparelho Secador de Calçados Compacto para Secagem de Tênis e Sapatos AQPI",
+   "price": 73.0,
+   "original": 91.99,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_613438-MLA115543723862_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-tenis-eletrico-portatil-para-calcados-sapatos-chuteiras-botas-e-sapatilhas-aparelho-secador-de-calcados-compa/p/MLB74325668?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794585816
+  },
   {
    "n": 2127,
    "key": "mercadolivre:MLB77356916",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794547867
-  },
-  {
-   "n": 2068,
-   "key": "mercadolivre:MLB66911368",
-   "title": "Kit Alicate Crimpar Descascador 1200 Terminais Ilhós Tubular W&g",
-   "price": 74.59,
-   "original": 119.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_909617-MLA109112766975_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-alicate-crimpar-descascador-1200-terminais-ilhos-tubular-w-g/p/MLB66911368?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794547404
   }
  ]
 }
