@@ -1,7 +1,21 @@
 {
- "updated": 1794596743,
+ "updated": 1794597164,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2153,
+   "key": "mercadolivre:MLB23373989",
+   "title": "Barbeador Kemei Shaver KM-1102 Sem Fio Cabeças Laváveis",
+   "price": 55.86,
+   "original": 198.9,
+   "pct": 72,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_777164-MLA99952832377_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/barbeador-kemei-shaver-km-1102-sem-fio-cabecas-lavaveis/p/MLB23373989?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794597144
+  },
   {
    "n": 2152,
    "key": "mercadolivre:MLB19457512",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794566542
-  },
-  {
-   "n": 2093,
-   "key": "mercadolivre:MLB41234257",
-   "title": "LG Soundbar S60tr 440w Rms, 5.1 Canais, Bluetooth 5.3, Dol Preto 120 Hz",
-   "price": 1521.09,
-   "original": 2199.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_610679-MLA79349332342_092024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lg-soundbar-s60tr-440w-rms-5-1-canais-bluetooth-5-3-dol-preto-120-hz/p/MLB41234257?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794566121
   }
  ]
 }
