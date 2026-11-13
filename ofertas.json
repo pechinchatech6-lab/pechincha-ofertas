@@ -1,7 +1,21 @@
 {
- "updated": 1794588323,
+ "updated": 1794588744,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2133,
+   "key": "mercadolivre:MLB77331725",
+   "title": "Alicate Tesoura para Cortar Arame Vergalhão e Cabo de Aço 3,2mm para Construção Serralheria Oficina Ferramenta Manual 8 Polegadas",
+   "price": 29.75,
+   "original": 64.99,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_659601-MLA116194121551_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-tesoura-para-cortar-arame-vergalhao-e-cabo-de-aco-3-2mm-para-construcao-serralheria-oficina-ferramenta-manual-8-/p/MLB77331725?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794588724
+  },
   {
    "n": 2132,
    "key": "mercadolivre:MLB28572551",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794557017
-  },
-  {
-   "n": 2073,
-   "key": "mercadolivre:MLB45605255",
-   "title": "Carrinho Organizador Multiuso de Aço Carbono com 3 Prateleiras e Rodinhas",
-   "price": 96.99,
-   "original": 191.18,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_980207-MLA109378707739_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/carrinho-organizador-multiuso-de-aco-carbono-com-3-prateleiras-e-rodinhas/p/MLB45605255?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794555391
   }
  ]
 }
