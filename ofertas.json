@@ -1,7 +1,21 @@
 {
- "updated": 1794557879,
+ "updated": 1794558300,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2077,
+   "key": "mercadolivre:MLB37930434",
+   "title": "Par de Microfones Sem Fio JBL PartyBox Wireless Mic, Padrão Cardioide, Filtro de Respiração, Sistema Antichoque, Conexão 2,4 GHz, Alcance de até 30 m, até 20h d",
+   "price": 474.0,
+   "original": 1050.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_883202-MLU77972528419_072024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/par-de-microfones-sem-fio-jbl-partybox-wireless-mic-padrao-cardioide-filtro-de-respiracao-sistema-antichoque-conexao-2-4/p/MLB37930434?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794558280
+  },
   {
    "n": 2076,
    "key": "mercadolivre:MLB47890206",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794525585
-  },
-  {
-   "n": 2017,
-   "key": "mercadolivre:MLB77363281",
-   "title": "Kit de Brilho Labial Hidratante Fran by Franciny Ehlke com Gloss Lip Bunny e Franboesa",
-   "price": 39.82,
-   "original": 104.7,
-   "pct": 62,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_842770-MLA116205993339_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-de-brilho-labial-hidratante-fran-by-franciny-ehlke-com-gloss-lip-bunny-e-franboesa/p/MLB77363281?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794525164
   }
  ]
 }
