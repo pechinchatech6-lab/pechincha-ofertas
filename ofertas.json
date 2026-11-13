@@ -1,7 +1,21 @@
 {
- "updated": 1794577673,
+ "updated": 1794578094,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2113,
+   "key": "mercadolivre:MLB73076144",
+   "title": "Caixa de Som Basike Bluetooth Portátil 200W com Subwoofer e IPX6 Azul-Marinho",
+   "price": 678.38,
+   "original": 1128.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_924378-MLA111904555764_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-basike-bluetooth-portatil-200w-com-subwoofer-e-ipx6-azul-marinho/p/MLB73076144?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794578074
+  },
   {
    "n": 2112,
    "key": "mercadolivre:MLB37926038",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794541510
-  },
-  {
-   "n": 2053,
-   "key": "mercadolivre:MLB18725308",
-   "title": "Creatina Soldiers Nutrition em pó Sem sabor x 500g",
-   "price": 44.99,
-   "original": 78.9,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_784236-MLA119862530715_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-soldiers-nutrition-em-po-sem-sabor-x-500g/p/MLB18725308?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794541089
   }
  ]
 }
