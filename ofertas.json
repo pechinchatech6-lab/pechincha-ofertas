@@ -1,7 +1,21 @@
 {
- "updated": 1794547424,
+ "updated": 1794547887,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2069,
+   "key": "mercadolivre:MLB66586631",
+   "title": "Sérum Leave-in Pantene Bambu Força Nutrição Controle de Frizz 95 ml",
+   "price": 19.73,
+   "original": 30.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_787381-MLA117877945461_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/serum-leave-in-pantene-bambu-forca-nutricao-controle-de-frizz-95-ml/p/MLB66586631?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794547867
+  },
   {
    "n": 2068,
    "key": "mercadolivre:MLB66911368",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794520351
-  },
-  {
-   "n": 2009,
-   "key": "mercadolivre:MLB28525979",
-   "title": "Aquecedor Roll-on Cera Quente Depilador Elétrico Mega Bell Bivolt Automático - 110v/220v",
-   "price": 65.77,
-   "original": 131.65,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_747384-MLA85612694472_062025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aquecedor-roll-on-cera-quente-depilador-eletrico-mega-bell-bivolt-automatico-110v-220v/p/MLB28525979?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794519930
   }
  ]
 }
