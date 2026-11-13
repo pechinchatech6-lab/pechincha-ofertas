@@ -1,7 +1,21 @@
 {
- "updated": 1794594217,
+ "updated": 1794594638,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2147,
+   "key": "mercadolivre:MLB19533185",
+   "title": "Creatina 100% Pura 60 Cápsulas Integralmédica",
+   "price": 16.62,
+   "original": 32.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_782298-MLA100076194863_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-100-pura-60-capsulas-integralmedica/p/MLB19533185?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794594618
+  },
   {
    "n": 2146,
    "key": "mercadolivre:MLB53905228",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794563473
-  },
-  {
-   "n": 2087,
-   "key": "mercadolivre:MLB15144095",
-   "title": "Logitech Mouse Sem Fio M170 Preto Cinza USB 2.4GHz Ambidestro Compacto para Notebook PC Computador com Nano Receptor USB Conexão Sem Fio Tecnologia Wireless Com",
-   "price": 44.9,
-   "original": 69.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_956180-MLA99964568593_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/logitech-mouse-sem-fio-m170-preto-cinza-usb-2-4ghz-ambidestro-compacto-para-notebook-pc-computador-com-nano-receptor-usb/p/MLB15144095?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794563052
   }
  ]
 }
