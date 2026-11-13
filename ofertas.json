@@ -1,7 +1,21 @@
 {
- "updated": 1794572511,
+ "updated": 1794572932,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2103,
+   "key": "mercadolivre:MLB38659083",
+   "title": "Pulseira Compatível Com Relógio Skmei 1251 Silicone Cor Preto",
+   "price": 28.99,
+   "original": 32.21,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_825000-MLA99618517036_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pulseira-compativel-com-relogio-skmei-1251-silicone-cor-preto/p/MLB38659083?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794572912
+  },
   {
    "n": 2102,
    "key": "mercadolivre:MLB58934113",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794536531
-  },
-  {
-   "n": 2043,
-   "key": "mercadolivre:MLB54944960",
-   "title": "Aparador de Pelos Super Groom 06 Mondial Bivolt - BG-04",
-   "price": 83.8,
-   "original": 184.9,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_828128-MLA119650276072_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-super-groom-06-mondial-bivolt-bg-04/p/MLB54944960?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794536110
   }
  ]
 }
