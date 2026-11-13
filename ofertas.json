@@ -1,7 +1,21 @@
 {
- "updated": 1794531078,
+ "updated": 1794531499,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2032,
+   "key": "mercadolivre:MLB32161367",
+   "title": "Lixadeira Teto E Parede Telescópica Profissional Com Led E Saco Coletor The Black Tools Btl750 750w",
+   "price": 656.9,
+   "original": 1106.16,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_708031-MLA119774852057_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lixadeira-teto-e-parede-telescopica-profissional-com-led-e-saco-coletor-the-black-tools-btl750-750w/p/MLB32161367?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794531479
+  },
   {
    "n": 2031,
    "key": "mercadolivre:MLB22511808",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794502554
-  },
-  {
-   "n": 1972,
-   "key": "mercadolivre:MLB19685656",
-   "title": "Chapinha de cabelo MQ Professional Hair Styling Max480 Slim Titanium preta",
-   "price": 360.0,
-   "original": 692.38,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_780323-MLA100054765763_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-mq-professional-hair-styling-max480-slim-titanium-preta/p/MLB19685656?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794501602
   }
  ]
 }
