@@ -1,7 +1,21 @@
 {
- "updated": 1794593375,
+ "updated": 1794593796,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2145,
+   "key": "mercadolivre:MLB19506691",
+   "title": "Creatina Dark Lab Premium Pure em pó Sem sabor x 300g",
+   "price": 36.64,
+   "original": 78.9,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_830138-MLA116668021755_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-dark-lab-premium-pure-em-po-sem-sabor-x-300g/p/MLB19506691?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794593776
+  },
   {
    "n": 2144,
    "key": "mercadolivre:MLB24807116",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794562631
-  },
-  {
-   "n": 2085,
-   "key": "mercadolivre:MLB53218854",
-   "title": "Webcam Full HD 1080p com Microfone USB Plug & Play Foco Automático Para PC Notebook Zoom Teams Meet Skype YouTube Discord e Mais – Ideal para Home Office Reuniõ",
-   "price": 29.9,
-   "original": 69.9,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_632903-MLA121207601925_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-full-hd-1080p-com-microfone-usb-plug-play-foco-automatico-para-pc-notebook-zoom-teams-meet-skype-youtube-discord-/p/MLB53218854?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794562210
   }
  ]
 }
