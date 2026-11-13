@@ -1,7 +1,21 @@
 {
- "updated": 1794573353,
+ "updated": 1794573774,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2105,
+   "key": "mercadolivre:MLB14748197",
+   "title": "EUCERIN Dual Sérum Facial Antimanchas e Anti-idade 30ml, Anti-Pigment, Clareador, Thiamidol, Ácido Hialurônico",
+   "price": 209.0,
+   "original": 339.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_771909-MLA103879690815_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/eucerin-dual-serum-facial-antimanchas-e-anti-idade-30ml-anti-pigment-clareador-thiamidol-acido-hialuronico/p/MLB14748197?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794573754
+  },
   {
    "n": 2104,
    "key": "mercadolivre:MLB62445524",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794537373
-  },
-  {
-   "n": 2045,
-   "key": "mercadolivre:MLB42064366",
-   "title": "Caixa De Som Philips Tax5509 Party Speaker - Preta",
-   "price": 1239.99,
-   "original": 2115.0,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_933349-MLA99498688278_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-philips-tax5509-party-speaker-preta/p/MLB42064366?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794536952
   }
  ]
 }
