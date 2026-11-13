@@ -1,7 +1,21 @@
 {
- "updated": 1794605190,
+ "updated": 1794605611,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2169,
+   "key": "mercadolivre:MLB29527654",
+   "title": "Hidratante Labial Nivea Ultra Hialurônico 5,2g",
+   "price": 23.0,
+   "original": 36.89,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_683043-MLA117370206881_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hidratante-labial-nivea-ultra-hialuronico-5-2g/p/MLB29527654?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794605591
+  },
   {
    "n": 2168,
    "key": "mercadolivre:MLB59798252",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794575859
-  },
-  {
-   "n": 2109,
-   "key": "mercadolivre:MLB63950827",
-   "title": "Soundbar Tcl Com Subwoofer Sem Fio Bluetooth 5.1 Canais 580w Rms Hdmi Arc Q65h",
-   "price": 1559.0,
-   "original": 1899.0,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_851472-MLA103999262107_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-tcl-com-subwoofer-sem-fio-bluetooth-5-1-canais-580w-rms-hdmi-arc-q65h/p/MLB63950827?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794575438
   }
  ]
 }
