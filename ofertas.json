@@ -1,7 +1,21 @@
 {
- "updated": 1794564249,
+ "updated": 1794564670,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2090,
+   "key": "mercadolivre:MLB18572379",
+   "title": "Secador De Cabelos Style Azul Tiffany 2000w Taiff Azul",
+   "price": 194.06,
+   "original": 299.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612568-MLA113216391522_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-style-azul-tiffany-2000w-taiff-azul/p/MLB18572379?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794564650
+  },
   {
    "n": 2089,
    "key": "mercadolivre:MLB14896780",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794531058
-  },
-  {
-   "n": 2030,
-   "key": "mercadolivre:MLB40832800",
-   "title": "Furadeira De Impacto Bosch GSB 450 RE 450W 10mm Com Brocas e Buchas",
-   "price": 319.9,
-   "original": 492.74,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_806562-MLA99989597483_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/furadeira-de-impacto-bosch-gsb-450-re-450w-10mm-com-brocas-e-buchas/p/MLB40832800?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794530637
   }
  ]
 }
