@@ -1,7 +1,21 @@
 {
- "updated": 1794557037,
+ "updated": 1794557458,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2075,
+   "key": "mercadolivre:MLB10481238",
+   "title": "Máscara de Cílios Maybelline Lash Sensational à Prova d'Água para Volume e Definição",
+   "price": 26.25,
+   "original": 59.17,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_645424-MLU72821012247_112023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mascara-de-cilios-maybelline-lash-sensational-a-prova-d-agua-para-volume-e-definicao/p/MLB10481238?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794557438
+  },
   {
    "n": 2074,
    "key": "mercadolivre:MLB77682099",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794524565
-  },
-  {
-   "n": 2015,
-   "key": "mercadolivre:MLB69966291",
-   "title": "Microfone Duplo Redução De Ruído Sem Fio Magnético Zcco J6 Cor Preto",
-   "price": 240.0,
-   "original": 359.13,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_601613-MLA111857457095_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-duplo-reducao-de-ruido-sem-fio-magnetico-zcco-j6-cor-preto/p/MLB69966291?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794524144
   }
  ]
 }
