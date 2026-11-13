@@ -1,7 +1,21 @@
 {
- "updated": 1794580822,
+ "updated": 1794581786,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2120,
+   "key": "mercadolivre:MLB25929487",
+   "title": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
+   "price": 69.99,
+   "original": 159.9,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_603981-MLA115262802698_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-monohidratada-1kg-100-pura-dark-lab/p/MLB25929487?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794581766
+  },
   {
    "n": 2119,
    "key": "mercadolivre:MLB70449712",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794544457
-  },
-  {
-   "n": 2060,
-   "key": "mercadolivre:MLB80257068",
-   "title": "Relógio de Parede Analógico Silencioso Redondo 30 cm, para Sala ou Cozinha, Prata com Fundo Preto - NANY PINK",
-   "price": 53.25,
-   "original": 89.9,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628653-MLA118801358299_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-analogico-silencioso-redondo-30-cm-para-sala-ou-cozinha-prata-com-fundo-preto-nany-pink/p/MLB80257068?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794544036
   }
  ]
 }
