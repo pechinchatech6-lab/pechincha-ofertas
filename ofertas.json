@@ -1,7 +1,21 @@
 {
- "updated": 1794545319,
+ "updated": 1794545740,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2064,
+   "key": "mercadolivre:MLB25834979",
+   "title": "Cor de fundo do relógio masculino Opk 6010 Quartz original: preto",
+   "price": 79.0,
+   "original": 119.0,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_684260-MLU70909697639_082023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cor-de-fundo-do-relogio-masculino-opk-6010-quartz-original-preto/p/MLB25834979?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794545720
+  },
   {
    "n": 2063,
    "key": "mercadolivre:MLB65541449",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794518246
-  },
-  {
-   "n": 2004,
-   "key": "mercadolivre:MLB20288453",
-   "title": "Shampoo Tonalizante Color Change Castanho Escuro Kissnewyork",
-   "price": 26.94,
-   "original": 43.23,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_909365-MLA112260486831_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-color-change-castanho-escuro-kissnewyork/p/MLB20288453?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794517825
   }
  ]
 }
