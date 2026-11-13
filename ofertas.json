@@ -1,7 +1,21 @@
 {
- "updated": 1794537393,
+ "updated": 1794537814,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2047,
+   "key": "mercadolivre:MLB66454860",
+   "title": "Geladeira Electrolux Frost Free 380L AutoSense Inverter Duplex Branca (IF41)",
+   "price": 2570.61,
+   "original": 3399.0,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_952475-MLA108569273143_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-frost-free-380l-autosense-inverter-duplex-branca-if41/p/MLB66454860?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794537794
+  },
   {
    "n": 2046,
    "key": "mercadolivre:MLB66140783",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794509023
-  },
-  {
-   "n": 1987,
-   "key": "mercadolivre:MLB59221401",
-   "title": "Creme de Barbear Gillette para Rosto e Corpo para Homens com Aloe 150mL",
-   "price": 22.04,
-   "original": 26.9,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_717816-MLA119483033044_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-de-barbear-gillette-para-rosto-e-corpo-para-homens-com-aloe-150ml/p/MLB59221401?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794508602
   }
  ]
 }
