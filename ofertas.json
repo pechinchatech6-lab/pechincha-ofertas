@@ -1,7 +1,21 @@
 {
- "updated": 1794547887,
+ "updated": 1794551950,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2070,
+   "key": "mercadolivre:MLB27157886",
+   "title": "Kit Alicate Tramontina (Bico, Corte e Universal) 43409107",
+   "price": 82.38,
+   "original": 100.53,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_861759-MLA99467985726_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-alicate-tramontina-bico-corte-e-universal-43409107/p/MLB27157886?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794551930
+  },
   {
    "n": 2069,
    "key": "mercadolivre:MLB66586631",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794521113
-  },
-  {
-   "n": 2010,
-   "key": "mercadolivre:MLB29490023",
-   "title": "Par De Escova P/ Esmerilhadeira G650 Black E Decker",
-   "price": 15.87,
-   "original": 25.4,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_989594-MLA118205074267_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/par-de-escova-p-esmerilhadeira-g650-black-e-decker/p/MLB29490023?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794520351
   }
  ]
 }
