@@ -1,7 +1,21 @@
 {
- "updated": 1794541109,
+ "updated": 1794541530,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2054,
+   "key": "mercadolivre:MLB73059325",
+   "title": "Controle Gamer Bluetooth Pc/notebook + Adaptador Usb Sem Fio Preto",
+   "price": 87.2,
+   "original": 129.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_693351-MLA111880508398_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamer-bluetooth-pc-notebook-adaptador-usb-sem-fio-preto/p/MLB73059325?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794541510
+  },
   {
    "n": 2053,
    "key": "mercadolivre:MLB18725308",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794513867
-  },
-  {
-   "n": 1994,
-   "key": "mercadolivre:MLB18991672",
-   "title": "Ventilador de mesa 30cm 6 pás 3 velocidades Mondial Ultra",
-   "price": 112.9,
-   "original": 180.69,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_626397-MLU77328182637_062024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-mesa-30cm-6-pas-3-velocidades-mondial-ultra/p/MLB18991672?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794513229
   }
  ]
 }
