@@ -1,7 +1,21 @@
 {
- "updated": 1794533183,
+ "updated": 1794533604,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2037,
+   "key": "mercadolivre:MLB10312333",
+   "title": "Controle Joystick Playstation Dualshock 4 Magma Red Sony",
+   "price": 132.0,
+   "original": 299.9,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_986319-MLA99471058764_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-joystick-playstation-dualshock-4-magma-red-sony/p/MLB10312333?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794533584
+  },
   {
    "n": 2036,
    "key": "mercadolivre:MLB18580665",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794504659
-  },
-  {
-   "n": 1977,
-   "key": "mercadolivre:MLB80713504",
-   "title": "Caixa De Som Bluetooth6.0 Sabala Dr500 Tws 3 Mais Estéreo 46H 500w 81000mah Portátil Boombox karaoke App ipx6 Potente Hifi EQ 35hz - 20khz cor preto",
-   "price": 2287.0,
-   "original": 3999.0,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_726286-MLA119814720109_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth6-0-sabala-dr500-tws-3-mais-estereo-46h-500w-81000mah-portatil-boombox-karaoke-app-ipx6-potente-hi/p/MLB80713504?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794504238
   }
  ]
 }
