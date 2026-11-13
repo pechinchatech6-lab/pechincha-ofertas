@@ -1,7 +1,21 @@
 {
- "updated": 1794611910,
+ "updated": 1794612331,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2183,
+   "key": "mercadolivre:MLB19810227",
+   "title": "Creme Depilatório Veet Men Pele Normal 200ml",
+   "price": 38.7,
+   "original": 79.29,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_824173-MLA118163059710_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-depilatorio-veet-men-pele-normal-200ml/p/MLB19810227?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794612311
+  },
   {
    "n": 2182,
    "key": "mercadolivre:MLB47892578",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794583450
-  },
-  {
-   "n": 2123,
-   "key": "mercadolivre:MLB43398945",
-   "title": "Rotor Induzido Menegotti P/ Lixadeira Mlp750 Profissional",
-   "price": 101.78,
-   "original": 158.34,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_616880-MLA95664378756_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/rotor-induzido-menegotti-p-lixadeira-mlp750-profissional/p/MLB43398945?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794583029
   }
  ]
 }
