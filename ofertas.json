@@ -1,7 +1,21 @@
 {
- "updated": 1794589586,
+ "updated": 1794590007,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2136,
+   "key": "mercadolivre:MLB47104607",
+   "title": "Parafusadeira Chave De Impacto A Bateria Lítio 21v Motor Brushless 800nm 80kgf.m Tb21ix The Black Tools",
+   "price": 399.9,
+   "original": 799.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_793824-MLA118387664379_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-chave-de-impacto-a-bateria-litio-21v-motor-brushless-800nm-80kgf-m-tb21ix-the-black-tools/p/MLB47104607?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794589987
+  },
   {
    "n": 2135,
    "key": "mercadolivre:MLB62309973",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794558280
-  },
-  {
-   "n": 2076,
-   "key": "mercadolivre:MLB47890206",
-   "title": "Lixadeira Pneumática Roto Orbital 6pol Ch O-10 Chiaperini",
-   "price": 228.99,
-   "original": 426.9,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_704005-MLA111956336055_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-roto-orbital-6pol-ch-o-10-chiaperini/p/MLB47890206?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794557859
   }
  ]
 }
