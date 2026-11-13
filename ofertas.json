@@ -1,7 +1,21 @@
 {
- "updated": 1794595059,
+ "updated": 1794595480,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2149,
+   "key": "mercadolivre:MLB18351904",
+   "title": "Webcam Full HD Logitech C920s com Microfone Embutido, Proteção de Privacidade, Widescreen 1080p e Conexão USB",
+   "price": 307.02,
+   "original": 449.9,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_800356-MLA115968610141_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-c920s-com-microfone-embutido-protecao-de-privacidade-widescreen-1080p-e-conexao-usb/p/MLB18351904?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794595460
+  },
   {
    "n": 2148,
    "key": "mercadolivre:MLB59016225",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794564650
-  },
-  {
-   "n": 2089,
-   "key": "mercadolivre:MLB14896780",
-   "title": "Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto",
-   "price": 211.25,
-   "original": 307.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_754389-MLA119103956430_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-oscilante-de-parede-ventisol-steel-6-pas-50cm-preto/p/MLB14896780?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794564229
   }
  ]
 }
