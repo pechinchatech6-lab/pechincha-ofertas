@@ -1,7 +1,21 @@
 {
- "updated": 1794569453,
+ "updated": 1794569874,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2101,
+   "key": "mercadolivre:MLB69291584",
+   "title": "Trena Laser Philco Force 80m Medidor de Distância Digital Profissional Display LED IP54 PTL02",
+   "price": 139.9,
+   "original": 199.0,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_993370-MLA110404682396_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/trena-laser-philco-force-80m-medidor-de-distancia-digital-profissional-display-led-ip54-ptl02/p/MLB69291584?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794569854
+  },
   {
    "n": 2100,
    "key": "mercadolivre:MLB23913684",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794535689
-  },
-  {
-   "n": 2041,
-   "key": "mercadolivre:MLB65184709",
-   "title": "Caixa Maleta Porta Relógio Estojo Organizadora 2 Lugares Preto",
-   "price": 37.0,
-   "original": 59.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_950245-MLA105750028358_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-maleta-porta-relogio-estojo-organizadora-2-lugares-preto/p/MLB65184709?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794535268
   }
  ]
 }
