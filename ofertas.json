@@ -1,7 +1,21 @@
 {
- "updated": 1794534867,
+ "updated": 1794535288,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2041,
+   "key": "mercadolivre:MLB65184709",
+   "title": "Caixa Maleta Porta Relógio Estojo Organizadora 2 Lugares Preto",
+   "price": 37.0,
+   "original": 59.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_950245-MLA105750028358_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-maleta-porta-relogio-estojo-organizadora-2-lugares-preto/p/MLB65184709?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794535268
+  },
   {
    "n": 2040,
    "key": "mercadolivre:MLB61378528",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794506497
-  },
-  {
-   "n": 1981,
-   "key": "mercadolivre:MLB30996900",
-   "title": "Ventilador De Mesa Portátil Com Iluminação Umidificador Climatizador Com Reservatório USB com Luz LED HW",
-   "price": 43.29,
-   "original": 71.99,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_784436-MLA120879909545_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-mesa-portatil-com-iluminacao-umidificador-climatizador-com-reservatorio-usb-com-luz-led-hw/p/MLB30996900?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794506076
   }
  ]
 }
