@@ -1,7 +1,21 @@
 {
- "updated": 1794565720,
+ "updated": 1794566141,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2093,
+   "key": "mercadolivre:MLB41234257",
+   "title": "LG Soundbar S60tr 440w Rms, 5.1 Canais, Bluetooth 5.3, Dol Preto 120 Hz",
+   "price": 1521.09,
+   "original": 2199.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_610679-MLA79349332342_092024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lg-soundbar-s60tr-440w-rms-5-1-canais-bluetooth-5-3-dol-preto-120-hz/p/MLB41234257?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794566121
+  },
   {
    "n": 2092,
    "key": "mercadolivre:MLB38714294",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794532321
-  },
-  {
-   "n": 2033,
-   "key": "mercadolivre:MLB19731776",
-   "title": "Robô aspirador Robot W90 varre aspira e passa pano 30w Wap cor preto",
-   "price": 333.22,
-   "original": 514.14,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_748103-MLA99906601653_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/robo-aspirador-robot-w90-varre-aspira-e-passa-pano-30w-wap-cor-preto/p/MLB19731776?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794531900
   }
  ]
 }
