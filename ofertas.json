@@ -1,7 +1,21 @@
 {
- "updated": 1794591691,
+ "updated": 1794592112,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2141,
+   "key": "mercadolivre:MLB18640232",
+   "title": "Forno Elétrico De Bancada 110v Nardelli Top60 60litros Black",
+   "price": 385.45,
+   "original": 631.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_892018-MLA99513575620_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/forno-eletrico-de-bancada-110v-nardelli-top60-60litros-black/p/MLB18640232?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794592092
+  },
   {
    "n": 2140,
    "key": "mercadolivre:MLB27731058",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794560947
-  },
-  {
-   "n": 2081,
-   "key": "mercadolivre:MLB25708528",
-   "title": "Shampoo Tonalizante Grecin Control GX Reduz Grisalho 118ml",
-   "price": 74.0,
-   "original": 111.9,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631595-MLA99350047876_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-grecin-control-gx-reduz-grisalho-118ml/p/MLB25708528?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794560526
   }
  ]
 }
