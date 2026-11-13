@@ -1,7 +1,21 @@
 {
- "updated": 1794611489,
+ "updated": 1794611910,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2182,
+   "key": "mercadolivre:MLB47892578",
+   "title": "Kit Sds Plus Martelete Ponteiro E Talhadeiras Jogo 3 Peças 20mm E 40mm Profissional",
+   "price": 30.9,
+   "original": 49.99,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_874075-MLA109554428598_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-sds-plus-martelete-ponteiro-e-talhadeiras-jogo-3-pecas-20mm-e-40mm-profissional/p/MLB47892578?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794611890
+  },
   {
    "n": 2181,
    "key": "mercadolivre:MLB51380242",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794583029
-  },
-  {
-   "n": 2122,
-   "key": "mercadolivre:MLB17196481",
-   "title": "Creme depilatório Depimiel Men Íntimo 95gr",
-   "price": 38.32,
-   "original": 55.49,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_897582-MLA109760815989_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatorio-depimiel-men-intimo-95gr/p/MLB17196481?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794582608
   }
  ]
 }
