@@ -1,7 +1,21 @@
 {
- "updated": 1794590428,
+ "updated": 1794590849,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2138,
+   "key": "mercadolivre:MLB55762063",
+   "title": "Smartphone Motorola Moto G06 - 256gb 4gb Ram e Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9 - Bege",
+   "price": 869.9,
+   "original": 969.9,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_793349-MLA91806774304_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g06-256gb-4gb-ram-e-camera-50mp-com-ai-bateria-de-5200-mah-tela-6-9-bege/p/MLB55762063?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794590829
+  },
   {
    "n": 2137,
    "key": "mercadolivre:MLB21801939",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794559122
-  },
-  {
-   "n": 2078,
-   "key": "mercadolivre:MLB51233234",
-   "title": "Organizador Acrílico Para Cosméticos 2 Prateleiras Multiuso",
-   "price": 52.27,
-   "original": 78.56,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_981635-MLA112391937773_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/organizador-acrilico-para-cosmeticos-2-prateleiras-multiuso/p/MLB51233234?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794558701
   }
  ]
 }
