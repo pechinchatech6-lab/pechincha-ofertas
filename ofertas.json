@@ -1,7 +1,21 @@
 {
- "updated": 1794547003,
+ "updated": 1794547424,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2068,
+   "key": "mercadolivre:MLB66911368",
+   "title": "Kit Alicate Crimpar Descascador 1200 Terminais Ilhós Tubular W&g",
+   "price": 74.59,
+   "original": 119.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_909617-MLA109112766975_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-alicate-crimpar-descascador-1200-terminais-ilhos-tubular-w-g/p/MLB66911368?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794547404
+  },
   {
    "n": 2067,
    "key": "mercadolivre:MLB70041763",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794519930
-  },
-  {
-   "n": 2008,
-   "key": "mercadolivre:MLB68022040",
-   "title": "Caixa de Som Gamer Soundbar Redragon Neo RGB Cinza USB Tipo-C",
-   "price": 169.9,
-   "original": 256.9,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_762816-MLA110467482115_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-gamer-soundbar-redragon-neo-rgb-cinza-usb-tipo-c/p/MLB68022040?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794519509
   }
  ]
 }
