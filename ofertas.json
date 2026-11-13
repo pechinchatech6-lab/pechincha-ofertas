@@ -1,7 +1,21 @@
 {
- "updated": 1794575458,
+ "updated": 1794575879,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2110,
+   "key": "mercadolivre:MLB77732728",
+   "title": "NIVEA Hidratante Labial Melancia Ariel Disney® 4,8g",
+   "price": 16.11,
+   "original": 26.29,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_728092-MLA116437923811_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivea-hidratante-labial-melancia-ariel-disney-4-8g/p/MLB77732728?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794575859
+  },
   {
    "n": 2109,
    "key": "mercadolivre:MLB63950827",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794539478
-  },
-  {
-   "n": 2050,
-   "key": "mercadolivre:MLB54482689",
-   "title": "Webcam Hd Full 1080p Com Microfone Usb Plug Play Para Pc Notebook",
-   "price": 36.9,
-   "original": 80.0,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_678031-MLA118747452756_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-hd-full-1080p-com-microfone-usb-plug-play-para-pc-notebook/p/MLB54482689?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794539057
   }
  ]
 }
