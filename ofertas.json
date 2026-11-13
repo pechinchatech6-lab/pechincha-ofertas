@@ -1,7 +1,21 @@
 {
- "updated": 1794599892,
+ "updated": 1794600313,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2160,
+   "key": "mercadolivre:MLB15345937",
+   "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
+   "price": 136.8,
+   "original": 169.9,
+   "pct": 19,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_759854-MLA99487952684_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-headset-gamer-havit-h2002d-p3-para-ps3-ps4-ps5-xbox-pc-cor-preto/p/MLB15345937?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794600293
+  },
   {
    "n": 2159,
    "key": "mercadolivre:MLB50376945",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794569854
-  },
-  {
-   "n": 2100,
-   "key": "mercadolivre:MLB23913684",
-   "title": "Trena Profissional 10 Metros 25mm Emborrachada Reforçada Fita de Aço Com Trava Manual Medição",
-   "price": 24.5,
-   "original": 34.99,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_813291-MLA117865477671_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/trena-profissional-10-metros-25mm-emborrachada-reforcada-fita-de-aco-com-trava-manual-medicao/p/MLB23913684?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794569433
   }
  ]
 }
