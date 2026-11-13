@@ -1,7 +1,21 @@
 {
- "updated": 1794596322,
+ "updated": 1794596743,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2152,
+   "key": "mercadolivre:MLB19457512",
+   "title": "Martelete Wap Empr 900k Sds Plus Com Maleta 900w",
+   "price": 323.1,
+   "original": 870.0,
+   "pct": 63,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680544-MLA99458972342_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/martelete-wap-empr-900k-sds-plus-com-maleta-900w/p/MLB19457512?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794596723
+  },
   {
    "n": 2151,
    "key": "mercadolivre:MLB29099772",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794566121
-  },
-  {
-   "n": 2092,
-   "key": "mercadolivre:MLB38714294",
-   "title": "Aparador de Pelos Philco Multigroom 8 Em 1 Pap16 Cor Chumbo",
-   "price": 109.9,
-   "original": 169.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_999787-MLA100009174297_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-philco-multigroom-8-em-1-pap16-cor-chumbo/p/MLB38714294?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794565700
   }
  ]
 }
