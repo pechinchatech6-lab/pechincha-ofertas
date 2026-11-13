@@ -1,7 +1,21 @@
 {
- "updated": 1794582207,
+ "updated": 1794582628,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2122,
+   "key": "mercadolivre:MLB17196481",
+   "title": "Creme depilatório Depimiel Men Íntimo 95gr",
+   "price": 38.32,
+   "original": 55.49,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_897582-MLA109760815989_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-depilatorio-depimiel-men-intimo-95gr/p/MLB17196481?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794582608
+  },
   {
    "n": 2121,
    "key": "mercadolivre:MLB36823493",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794545299
-  },
-  {
-   "n": 2062,
-   "key": "mercadolivre:MLB56563800",
-   "title": "Bioré Óleo Demaquilante Facial Cleansing Oil Original 150ml",
-   "price": 49.9,
-   "original": 69.9,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_755988-MLA120725643229_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/biore-oleo-demaquilante-facial-cleansing-oil-original-150ml/p/MLB56563800?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794544878
   }
  ]
 }
