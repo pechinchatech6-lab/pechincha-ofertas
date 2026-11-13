@@ -1,7 +1,21 @@
 {
- "updated": 1794559142,
+ "updated": 1794560125,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2080,
+   "key": "mercadolivre:MLB70378764",
+   "title": "Relógio de Parede Quartz Kasa Redondo, com 30 cm, para Cozinha",
+   "price": 33.78,
+   "original": 37.99,
+   "pct": 11,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_876061-MLA119342447875_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-quartz-kasa-redondo-com-30-cm-para-cozinha/p/MLB70378764?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794560105
+  },
   {
    "n": 2079,
    "key": "mercadolivre:MLB50507430",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794526848
-  },
-  {
-   "n": 2020,
-   "key": "mercadolivre:MLB18610706",
-   "title": "Logitech Mk235 ABNT2 Português Teclado E Mouse Grafite Preto",
-   "price": 145.99,
-   "original": 219.0,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_735713-MLA99973706633_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/logitech-mk235-abnt2-portugues-teclado-e-mouse-grafite-preto/p/MLB18610706?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794526427
   }
  ]
 }
