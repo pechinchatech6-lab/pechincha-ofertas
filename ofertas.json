@@ -1,7 +1,21 @@
 {
- "updated": 1794585836,
+ "updated": 1794586257,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2129,
+   "key": "mercadolivre:MLB56064567",
+   "title": "Short Cinta Modeladora Cós Alto Compressão Redutora Selene Cor Pó De Arroz Tamanho G",
+   "price": 21.24,
+   "original": 73.98,
+   "pct": 71,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_965925-MLA92022613418_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/short-cinta-modeladora-cos-alto-compressao-redutora-selene-cor-po-de-arroz-tamanho-g/p/MLB56064567?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794586237
+  },
   {
    "n": 2128,
    "key": "mercadolivre:MLB74325668",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794551930
-  },
-  {
-   "n": 2069,
-   "key": "mercadolivre:MLB66586631",
-   "title": "Sérum Leave-in Pantene Bambu Força Nutrição Controle de Frizz 95 ml",
-   "price": 19.73,
-   "original": 30.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_787381-MLA117877945461_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/serum-leave-in-pantene-bambu-forca-nutricao-controle-de-frizz-95-ml/p/MLB66586631?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794547867
   }
  ]
 }
