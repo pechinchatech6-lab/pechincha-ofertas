@@ -1,7 +1,21 @@
 {
- "updated": 1794566562,
+ "updated": 1794567348,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2095,
+   "key": "mercadolivre:MLB51958382",
+   "title": "Mochila Tática Masculina Militar 50L Impermeável Reforçada Grande Molle Viagem Camping Trilha Airsoft Pesca Caça Forpak",
+   "price": 114.4,
+   "original": 199.9,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_979881-MLA118394313839_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-tatica-masculina-militar-50l-impermeavel-reforcada-grande-molle-viagem-camping-trilha-airsoft-pesca-caca-forpak/p/MLB51958382?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794567328
+  },
   {
    "n": 2094,
    "key": "mercadolivre:MLB80376121",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794533163
-  },
-  {
-   "n": 2035,
-   "key": "mercadolivre:MLB81483994",
-   "title": "Soundbar 350W XINGWON com 4 alto-falantes e 4.0 canais, Home Theater destacável com Dolby e DTS, Caixa De Som Bluetooth 5.3 , entradas Aux/HDMI(ARC)/USB/Óptica/",
-   "price": 316.59,
-   "original": 700.0,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_757334-MLA119069939232_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-350w-xingwon-com-4-alto-falantes-e-4-0-canais-home-theater-destacavel-com-dolby-e-dts-caixa-de-som-bluetooth-5-/p/MLB81483994?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794532742
   }
  ]
 }
