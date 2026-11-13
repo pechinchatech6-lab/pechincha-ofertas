@@ -1,7 +1,21 @@
 {
- "updated": 1794542793,
+ "updated": 1794543214,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2058,
+   "key": "mercadolivre:MLB70211597",
+   "title": "Porta Suplemento Acoplável Multi Uso Whay Cápsula Prottector Cores Fumê, Preto e Rosa",
+   "price": 36.0,
+   "original": 49.0,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_740321-MLA112156785355_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/porta-suplemento-acoplavel-multi-uso-whay-capsula-prottector-cores-fume-preto-e-rosa/p/MLB70211597?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794543194
+  },
   {
    "n": 2057,
    "key": "mercadolivre:MLB62549311",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794515551
-  },
-  {
-   "n": 1998,
-   "key": "mercadolivre:MLB79475250",
-   "title": "Soundbar Com Subwoofer Desmontável 420W 5.1 Canais Home Theater Subwoofer Maizhelun Som Imersivo Conectividade Aux/HDMI (ARC)/USB/Óptico/Coaxial/Antena FM Bluet",
-   "price": 483.06,
-   "original": 998.0,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_831721-MLA116440066636_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-com-subwoofer-desmontavel-420w-5-1-canais-home-theater-subwoofer-maizhelun-som-imersivo-conectividade-aux-hdmi-/p/MLB79475250?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794515130
   }
  ]
 }
