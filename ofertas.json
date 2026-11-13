@@ -1,7 +1,21 @@
 {
- "updated": 1794612752,
+ "updated": 1794613173,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2185,
+   "key": "mercadolivre:MLB62593832",
+   "title": "Depilador Luz Pulsada Intensa (IPL) Basike Sensacao Gelo Indolor Depilacao Definitiva 999999 Disparos 9 Niveis Rosto Corpo aparelho depilacao feminino depilação",
+   "price": 310.0,
+   "original": 569.82,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680245-MLA100075970499_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-luz-pulsada-intensa-ipl-basike-sensacao-gelo-indolor-depilacao-definitiva-999999-disparos-9-niveis-rosto-corpo/p/MLB62593832?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794613153
+  },
   {
    "n": 2184,
    "key": "mercadolivre:MLB59870058",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794584292
-  },
-  {
-   "n": 2125,
-   "key": "mercadolivre:MLB12839570",
-   "title": "Chapinha/Prancha de cabelo Gama Italy X-Wide Keration Pro",
-   "price": 189.0,
-   "original": 339.9,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_744113-MLA100029157777_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chapinha-prancha-de-cabelo-gama-italy-x-wide-keration-pro/p/MLB12839570?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794583871
   }
  ]
 }
