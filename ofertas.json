@@ -1,7 +1,21 @@
 {
- "updated": 1794600313,
+ "updated": 1794600734,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2161,
+   "key": "mercadolivre:MLB18630341",
+   "title": "Creatina Monohidratada Max Titanium Sem Sabor 100g",
+   "price": 21.69,
+   "original": 30.13,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_697835-MLA117269994412_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-monohidratada-max-titanium-sem-sabor-100g/p/MLB18630341?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794600714
+  },
   {
    "n": 2160,
    "key": "mercadolivre:MLB15345937",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794572491
-  },
-  {
-   "n": 2101,
-   "key": "mercadolivre:MLB69291584",
-   "title": "Trena Laser Philco Force 80m Medidor de Distância Digital Profissional Display LED IP54 PTL02",
-   "price": 139.9,
-   "original": 199.0,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_993370-MLA110404682396_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/trena-laser-philco-force-80m-medidor-de-distancia-digital-profissional-display-led-ip54-ptl02/p/MLB69291584?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794569854
   }
  ]
 }
