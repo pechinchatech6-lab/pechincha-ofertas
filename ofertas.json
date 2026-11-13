@@ -1,7 +1,21 @@
 {
- "updated": 1794545740,
+ "updated": 1794546161,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2065,
+   "key": "mercadolivre:MLB18643725",
+   "title": "Hidratante Labial Nivea Med Repair FPS15 4,8g",
+   "price": 16.1,
+   "original": 30.99,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_771056-MLA104010765404_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hidratante-labial-nivea-med-repair-fps15-4-8g/p/MLB18643725?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794546141
+  },
   {
    "n": 2064,
    "key": "mercadolivre:MLB25834979",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794518667
-  },
-  {
-   "n": 2005,
-   "key": "mercadolivre:MLB53155512",
-   "title": "Multimetro Digital Portátil Profissional Com Bateria Inclusa Para Teste Medição Tensão Personalized View",
-   "price": 24.99,
-   "original": 29.99,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_863906-MLA110244293958_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/multimetro-digital-portatil-profissional-com-bateria-inclusa-para-teste-medicao-tensao-personalized-view/p/MLB53155512?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794518246
   }
  ]
 }
