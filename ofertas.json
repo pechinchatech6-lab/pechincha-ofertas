@@ -1,7 +1,21 @@
 {
- "updated": 1794604769,
+ "updated": 1794605190,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2168,
+   "key": "mercadolivre:MLB59798252",
+   "title": "Geladeira Consul Frost Free 455 Litros Duplex Branca - CRM56MB",
+   "price": 3149.0,
+   "original": 3499.0,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_878326-MLA96422855606_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-consul-frost-free-455-litros-duplex-branca-crm56mb/p/MLB59798252?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794605170
+  },
   {
    "n": 2167,
    "key": "mercadolivre:MLB19716757",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794575438
-  },
-  {
-   "n": 2108,
-   "key": "mercadolivre:MLB79663696",
-   "title": "1 Par Meia Polaina Aeróbica Academia Esporte Fitness Premium Cor Roxo Desenho do tecido Lisa Tamanho Único",
-   "price": 19.48,
-   "original": 27.8,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_987354-MLA118009293495_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/1-par-meia-polaina-aerobica-academia-esporte-fitness-premium-cor-roxo-desenho-do-tecido-lisa-tamanho-unico/p/MLB79663696?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794575017
   }
  ]
 }
