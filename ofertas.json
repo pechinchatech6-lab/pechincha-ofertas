@@ -1,7 +1,21 @@
 {
- "updated": 1794602295,
+ "updated": 1794603341,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2165,
+   "key": "mercadolivre:MLB21598769",
+   "title": "NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa 48h, Pele Firme e Elasticidade, Corporal, Todos os Tipos de Pele",
+   "price": 23.45,
+   "original": 43.19,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_897148-MLA118073430459_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-48h-pele-firme-e-elasticidade-corporal-todos-os-/p/MLB21598769?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794603321
+  },
   {
    "n": 2164,
    "key": "mercadolivre:MLB75465650",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794574175
-  },
-  {
-   "n": 2105,
-   "key": "mercadolivre:MLB14748197",
-   "title": "EUCERIN Dual Sérum Facial Antimanchas e Anti-idade 30ml, Anti-Pigment, Clareador, Thiamidol, Ácido Hialurônico",
-   "price": 209.0,
-   "original": 339.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_771909-MLA103879690815_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/eucerin-dual-serum-facial-antimanchas-e-anti-idade-30ml-anti-pigment-clareador-thiamidol-acido-hialuronico/p/MLB14748197?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794573754
   }
  ]
 }
