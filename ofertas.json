@@ -1,7 +1,21 @@
 {
- "updated": 1794608439,
+ "updated": 1794608859,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2176,
+   "key": "mercadolivre:MLB65197027",
+   "title": "Mini Mixer Homeroarte Elétrico de Bebidas 2 em 1 Portátil para Café e Ovos – Preto",
+   "price": 26.4,
+   "original": 39.97,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_679144-MLA112251524662_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-mixer-homeroarte-eletrico-de-bebidas-2-em-1-portatil-para-cafe-e-ovos-preto/p/MLB65197027?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794608839
+  },
   {
    "n": 2175,
    "key": "mercadolivre:MLB26849268",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794579960
-  },
-  {
-   "n": 2116,
-   "key": "mercadolivre:MLB24208936",
-   "title": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
-   "price": 31.1,
-   "original": 62.99,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-johnson-s-baby-glicerina-hipoalergenico-750ml/p/MLB24208936?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794579539
   }
  ]
 }
