@@ -1,7 +1,21 @@
 {
- "updated": 1794592533,
+ "updated": 1794592954,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2143,
+   "key": "mercadolivre:MLB77843005",
+   "title": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser ",
+   "price": 109.9,
+   "original": 199.0,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_900627-MLA119928676927_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-vap-portatil-sem-fio-bateria-lava-jato-eletrica-recarregavel-p-lavar-carro-moto-quintal-c-2-bat/p/MLB77843005?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794592934
+  },
   {
    "n": 2142,
    "key": "mercadolivre:MLB64102825",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794561789
-  },
-  {
-   "n": 2083,
-   "key": "mercadolivre:MLB70228023",
-   "title": "Kit Relógio Feminino Colar Brinco Pulseira Folheado Presente Prateado",
-   "price": 34.9,
-   "original": 49.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_907811-MLA112159861189_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-relogio-feminino-colar-brinco-pulseira-folheado-presente-prateado/p/MLB70228023?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794561368
   }
  ]
 }
