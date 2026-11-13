@@ -1,7 +1,21 @@
 {
- "updated": 1794605611,
+ "updated": 1794606032,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2170,
+   "key": "mercadolivre:MLB19976500",
+   "title": "Panela De Pressão Panelux Alumínio Polido 7 Litros Cor Cinza",
+   "price": 99.0,
+   "original": 169.0,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_844741-MLA100054735233_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/panela-de-pressao-panelux-aluminio-polido-7-litros-cor-cinza/p/MLB19976500?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794606012
+  },
   {
    "n": 2169,
    "key": "mercadolivre:MLB29527654",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794576280
-  },
-  {
-   "n": 2110,
-   "key": "mercadolivre:MLB77732728",
-   "title": "NIVEA Hidratante Labial Melancia Ariel Disney® 4,8g",
-   "price": 16.11,
-   "original": 26.29,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_728092-MLA116437923811_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivea-hidratante-labial-melancia-ariel-disney-4-8g/p/MLB77732728?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794575859
   }
  ]
 }
