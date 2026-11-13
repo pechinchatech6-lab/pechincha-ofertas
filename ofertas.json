@@ -1,7 +1,21 @@
 {
- "updated": 1794598208,
+ "updated": 1794598629,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2156,
+   "key": "mercadolivre:MLB29574189",
+   "title": "Escova Alisadora Black Rose, Mondial, 36W - EA-07",
+   "price": 91.0,
+   "original": 149.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_783377-MLA99937056217_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-alisadora-black-rose-mondial-36w-ea-07/p/MLB29574189?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794598609
+  },
   {
    "n": 2155,
    "key": "mercadolivre:MLB15977315",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794568170
-  },
-  {
-   "n": 2096,
-   "key": "mercadolivre:MLB50374755",
-   "title": "Máquina De Lavar Electrolux 14,5kg Cesto Inox Lep15 Preto",
-   "price": 1995.14,
-   "original": 2679.0,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_899028-MLA85766474233_062025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-electrolux-14-5kg-cesto-inox-lep15-preto/p/MLB50374755?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794567749
   }
  ]
 }
