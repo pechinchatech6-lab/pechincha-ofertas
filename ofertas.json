@@ -1,7 +1,21 @@
 {
- "updated": 1794608859,
+ "updated": 1794609280,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2177,
+   "key": "mercadolivre:MLB65225066",
+   "title": "Alicate De Pressão 250mm 10 Pol 3301832 Gedore Red",
+   "price": 37.21,
+   "original": 49.9,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_905379-MLA105890161190_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-de-pressao-250mm-10-pol-3301832-gedore-red/p/MLB65225066?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794609260
+  },
   {
    "n": 2176,
    "key": "mercadolivre:MLB65197027",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794580381
-  },
-  {
-   "n": 2117,
-   "key": "mercadolivre:MLB79865645",
-   "title": "Webcam Camera Full Hd Zoom 1080p 360 Graus Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone-Wizbo",
-   "price": 29.0,
-   "original": 78.0,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_744706-MLA120325049445_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-360-graus-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-wizbo/p/MLB79865645?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794579960
   }
  ]
 }
