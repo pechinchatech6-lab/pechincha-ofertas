@@ -1,7 +1,21 @@
 {
- "updated": 1794582628,
+ "updated": 1794583049,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2123,
+   "key": "mercadolivre:MLB43398945",
+   "title": "Rotor Induzido Menegotti P/ Lixadeira Mlp750 Profissional",
+   "price": 101.78,
+   "original": 158.34,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_616880-MLA95664378756_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/rotor-induzido-menegotti-p-lixadeira-mlp750-profissional/p/MLB43398945?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794583029
+  },
   {
    "n": 2122,
    "key": "mercadolivre:MLB17196481",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794545720
-  },
-  {
-   "n": 2063,
-   "key": "mercadolivre:MLB65541449",
-   "title": "Fone de Ouvido JBL Tune 530BT Bluetooth Sem Fio Preto Headphone com Microfone Wireless Estéreo Graves Potentes Confortável",
-   "price": 140.0,
-   "original": 309.99,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_608030-MLA106478715282_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-jbl-tune-530bt-bluetooth-sem-fio-preto-headphone-com-microfone-wireless-estereo-graves-potentes-confortav/p/MLB65541449?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794545299
   }
  ]
 }
