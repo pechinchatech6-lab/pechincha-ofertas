@@ -1,7 +1,21 @@
 {
- "updated": 1794531499,
+ "updated": 1794531920,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2033,
+   "key": "mercadolivre:MLB19731776",
+   "title": "Robô aspirador Robot W90 varre aspira e passa pano 30w Wap cor preto",
+   "price": 333.22,
+   "original": 514.14,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_748103-MLA99906601653_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/robo-aspirador-robot-w90-varre-aspira-e-passa-pano-30w-wap-cor-preto/p/MLB19731776?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794531900
+  },
   {
    "n": 2032,
    "key": "mercadolivre:MLB32161367",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794502975
-  },
-  {
-   "n": 1973,
-   "key": "mercadolivre:MLB79489063",
-   "title": "Soprador de Ar sem Fio Portátil 48V com 2 Baterias e Potência Turbo para Limpeza",
-   "price": 87.9,
-   "original": 250.0,
-   "pct": 65,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_779614-MLA117823377369_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-de-ar-sem-fio-portatil-48v-com-2-baterias-e-potencia-turbo-para-limpeza/p/MLB79489063?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794502554
   }
  ]
 }
