@@ -1,7 +1,21 @@
 {
- "updated": 1794540688,
+ "updated": 1794541109,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2053,
+   "key": "mercadolivre:MLB18725308",
+   "title": "Creatina Soldiers Nutrition em pó Sem sabor x 500g",
+   "price": 44.99,
+   "original": 78.9,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_784236-MLA119862530715_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-soldiers-nutrition-em-po-sem-sabor-x-500g/p/MLB18725308?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794541089
+  },
   {
    "n": 2052,
    "key": "mercadolivre:MLB49851461",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794513229
-  },
-  {
-   "n": 1993,
-   "key": "mercadolivre:MLB24432654",
-   "title": "Creme Reparador Protetor Avène Cicalfate+ Pele Sensível 100ml",
-   "price": 100.99,
-   "original": 132.99,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_726787-MLA94671270402_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-reparador-protetor-avene-cicalfate-pele-sensivel-100ml/p/MLB24432654?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794512808
   }
  ]
 }
