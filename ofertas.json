@@ -1,7 +1,21 @@
 {
- "updated": 1794563072,
+ "updated": 1794563493,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2088,
+   "key": "mercadolivre:MLB42495263",
+   "title": "Escova Secadora Taiff Easy Oval 1200W Green",
+   "price": 175.83,
+   "original": 315.5,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_862049-MLA100043992077_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-taiff-easy-oval-1200w-green/p/MLB42495263?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794563473
+  },
   {
    "n": 2087,
    "key": "mercadolivre:MLB15144095",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794530216
-  },
-  {
-   "n": 2028,
-   "key": "mercadolivre:MLB66484708",
-   "title": "Máquina de Lavar Consul 14Kg Branca com Modo Eco - CWN14AB",
-   "price": 1575.5,
-   "original": 2302.68,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_799132-MLA108582680591_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-consul-14kg-branca-com-modo-eco-cwn14ab/p/MLB66484708?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794529795
   }
  ]
 }
