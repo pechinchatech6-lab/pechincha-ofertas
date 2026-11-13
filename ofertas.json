@@ -1,7 +1,21 @@
 {
- "updated": 1794532762,
+ "updated": 1794533183,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2036,
+   "key": "mercadolivre:MLB18580665",
+   "title": "Taiff Black Ion Secador De Cabelo Profissional 2000w Cor Preto",
+   "price": 199.89,
+   "original": 349.88,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_742671-MLU78597786812_082024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/taiff-black-ion-secador-de-cabelo-profissional-2000w-cor-preto/p/MLB18580665?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794533163
+  },
   {
    "n": 2035,
    "key": "mercadolivre:MLB81483994",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794504238
-  },
-  {
-   "n": 1976,
-   "key": "mercadolivre:MLB81237173",
-   "title": "Mini Soprador Turbo Ar Potente Portátil Elétrico Sem Fio USB-C 3 Velocidades Até 130km/h Assoprador Ventilador Para Limpeza Teclado Carro PC Notebook Multiuso C",
-   "price": 38.99,
-   "original": 69.9,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_637173-MLA118736808392_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-soprador-turbo-ar-potente-portatil-eletrico-sem-fio-usb-c-3-velocidades-ate-130km-h-assoprador-ventilador-para-limp/p/MLB81237173?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794503817
   }
  ]
 }
