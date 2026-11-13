@@ -1,7 +1,21 @@
 {
- "updated": 1794609701,
+ "updated": 1794610122,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2179,
+   "key": "mercadolivre:MLB32265367",
+   "title": "Relógio De Parede Digital LT-1970",
+   "price": 67.08,
+   "original": 126.58,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_633293-MLA99445948004_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-digital-lt-1970/p/MLB32265367?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794610102
+  },
   {
    "n": 2178,
    "key": "mercadolivre:MLB75829537",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794581766
-  },
-  {
-   "n": 2119,
-   "key": "mercadolivre:MLB70449712",
-   "title": "Body Splash Masculino Vibration 200ml - Primacial Perfume Bergamota Fresco",
-   "price": 41.19,
-   "original": 69.9,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_617155-MLA118231595864_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/body-splash-masculino-vibration-200ml-primacial-perfume-bergamota-fresco/p/MLB70449712?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794580802
   }
  ]
 }
