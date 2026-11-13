@@ -1,7 +1,21 @@
 {
- "updated": 1794606453,
+ "updated": 1794606874,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2172,
+   "key": "mercadolivre:MLB62147878",
+   "title": "Caixa De Som Speaker Aiwa AWS-SP-07-B 7w Bluetooth Ipx6 Preto",
+   "price": 123.75,
+   "original": 259.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_903303-MLA98366195301_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-speaker-aiwa-aws-sp-07-b-7w-bluetooth-ipx6-preto/p/MLB62147878?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794606854
+  },
   {
    "n": 2171,
    "key": "mercadolivre:MLB28407045",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794578074
-  },
-  {
-   "n": 2112,
-   "key": "mercadolivre:MLB37926038",
-   "title": "Óleo Capilar Pantene Pro-V Queratina Milagroso Finalizador Leave-in 95 ml",
-   "price": 19.73,
-   "original": 30.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_956773-MLA118115522181_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/oleo-capilar-pantene-pro-v-queratina-milagroso-finalizador-leave-in-95-ml/p/MLB37926038?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794577653
   }
  ]
 }
