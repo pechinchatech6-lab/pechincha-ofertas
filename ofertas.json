@@ -1,7 +1,21 @@
 {
- "updated": 1794539077,
+ "updated": 1794539498,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2051,
+   "key": "mercadolivre:MLB19140415",
+   "title": "Suplemento Whey Isolate Protein Fuse 1,8kg sabor Morango Dark Lab",
+   "price": 179.9,
+   "original": 699.9,
+   "pct": 74,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_989007-MLA99405715766_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suplemento-whey-isolate-protein-fuse-1-8kg-sabor-morango-dark-lab/p/MLB19140415?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794539478
+  },
   {
    "n": 2050,
    "key": "mercadolivre:MLB54482689",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794511774
-  },
-  {
-   "n": 1991,
-   "key": "mercadolivre:MLB67420932",
-   "title": "Nível A Laser Verde 2 Linhas Esquadro + Suporte + Tripé Profissional Prumo 20m Autonivelante Pilhas W&g",
-   "price": 116.3,
-   "original": 219.9,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_873744-MLA117485875143_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivel-a-laser-verde-2-linhas-esquadro-suporte-tripe-profissional-prumo-20m-autonivelante-pilhas-w-g/p/MLB67420932?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794510286
   }
  ]
 }
