@@ -1,7 +1,21 @@
 {
- "updated": 1794586257,
+ "updated": 1794586678,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2130,
+   "key": "mercadolivre:MLB69634337",
+   "title": "Secador De Tenis Sapato Eletrico Calçado Bota Previne Odor Branco",
+   "price": 135.89,
+   "original": 153.72,
+   "pct": 12,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_946001-MLA111652157347_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-tenis-sapato-eletrico-calcado-bota-previne-odor-branco/p/MLB69634337?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794586658
+  },
   {
    "n": 2129,
    "key": "mercadolivre:MLB56064567",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794552351
-  },
-  {
-   "n": 2070,
-   "key": "mercadolivre:MLB27157886",
-   "title": "Kit Alicate Tramontina (Bico, Corte e Universal) 43409107",
-   "price": 82.38,
-   "original": 100.53,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_861759-MLA99467985726_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-alicate-tramontina-bico-corte-e-universal-43409107/p/MLB27157886?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794551930
   }
  ]
 }
