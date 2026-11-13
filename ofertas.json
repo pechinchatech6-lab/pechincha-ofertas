@@ -1,7 +1,21 @@
 {
- "updated": 1794543635,
+ "updated": 1794544056,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2060,
+   "key": "mercadolivre:MLB80257068",
+   "title": "Relógio de Parede Analógico Silencioso Redondo 30 cm, para Sala ou Cozinha, Prata com Fundo Preto - NANY PINK",
+   "price": 53.25,
+   "original": 89.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_628653-MLA118801358299_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-analogico-silencioso-redondo-30-cm-para-sala-ou-cozinha-prata-com-fundo-preto-nany-pink/p/MLB80257068?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794544036
+  },
   {
    "n": 2059,
    "key": "mercadolivre:MLB24326256",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794516393
-  },
-  {
-   "n": 2000,
-   "key": "mercadolivre:MLB54782093",
-   "title": "Soundbar Subwoofer Get 2.1 240w Rms Bluetooth Usb Hdmi Preto",
-   "price": 559.0,
-   "original": 619.0,
-   "pct": 10,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_764877-MLA99508673360_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-subwoofer-get-2-1-240w-rms-bluetooth-usb-hdmi-preto/p/MLB54782093?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794515972
   }
  ]
 }
