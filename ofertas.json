@@ -1,7 +1,21 @@
 {
- "updated": 1794568190,
+ "updated": 1794568611,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2098,
+   "key": "mercadolivre:MLB66132984",
+   "title": "Máquina De Lavar Brastemp 13kg Branca Com Ciclo Tira Manchas Branco",
+   "price": 1729.0,
+   "original": 1921.0,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_896390-MLA107974605505_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-brastemp-13kg-branca-com-ciclo-tira-manchas-branco/p/MLB66132984?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794568591
+  },
   {
    "n": 2097,
    "key": "mercadolivre:MLB24807108",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794534426
-  },
-  {
-   "n": 2038,
-   "key": "mercadolivre:MLB41452761",
-   "title": "Geladeira Expositora Vertical Imbera 485L Preto Modelo VRS16",
-   "price": 4499.9,
-   "original": 5549.9,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_880600-MLA99963743901_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-expositora-vertical-imbera-485l-preto-modelo-vrs16/p/MLB41452761?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794534005
   }
  ]
 }
