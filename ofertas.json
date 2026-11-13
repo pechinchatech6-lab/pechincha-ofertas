@@ -1,7 +1,21 @@
 {
- "updated": 1794579138,
+ "updated": 1794579559,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2116,
+   "key": "mercadolivre:MLB24208936",
+   "title": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+   "price": 31.1,
+   "original": 62.99,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_973923-MLA99918118901_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-johnson-s-baby-glicerina-hipoalergenico-750ml/p/MLB24208936?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794579539
+  },
   {
    "n": 2115,
    "key": "mercadolivre:MLB70516181",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794542773
-  },
-  {
-   "n": 2056,
-   "key": "mercadolivre:MLB66062610",
-   "title": "Boné Gucci Luxo Aba Curva Ajustável Influencer Cor Cinza Desenho Do Tecido Lisa Tamanho Un",
-   "price": 42.1,
-   "original": 48.4,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_905365-MLA119028247109_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-gucci-luxo-aba-curva-ajustavel-influencer-cor-cinza-desenho-do-tecido-lisa-tamanho-un/p/MLB66062610?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794542352
   }
  ]
 }
