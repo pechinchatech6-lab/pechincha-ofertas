@@ -1,7 +1,21 @@
 {
- "updated": 1794530236,
+ "updated": 1794530657,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2030,
+   "key": "mercadolivre:MLB40832800",
+   "title": "Furadeira De Impacto Bosch GSB 450 RE 450W 10mm Com Brocas e Buchas",
+   "price": 319.9,
+   "original": 492.74,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_806562-MLA99989597483_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/furadeira-de-impacto-bosch-gsb-450-re-450w-10mm-com-brocas-e-buchas/p/MLB40832800?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794530637
+  },
   {
    "n": 2029,
    "key": "mercadolivre:MLB60085379",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794501181
-  },
-  {
-   "n": 1970,
-   "key": "mercadolivre:MLB76972122",
-   "title": "Boné Ny New York Yankees Unissex Blogueira Fitão Regulável Cor Preto/Branco Desenho do tecido Lisa Tamanho Único",
-   "price": 34.9,
-   "original": 49.99,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_889380-MLA114634635694_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-ny-new-york-yankees-unissex-blogueira-fitao-regulavel-cor-preto-branco-desenho-do-tecido-lisa-tamanho-unico/p/MLB76972122?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794500760
   }
  ]
 }
