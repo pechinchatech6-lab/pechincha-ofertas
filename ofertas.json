@@ -1,7 +1,21 @@
 {
- "updated": 1794610543,
+ "updated": 1794611489,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2181,
+   "key": "mercadolivre:MLB51380242",
+   "title": "Caixa de Som Portátil - JBL PartyBox 520 - 400W RMS, AI Sound Boost, Show de Luzes, até 15h de Bateria, Auracast, IPX4, Bluetooth 5.4 e Entradas XLR - Preta",
+   "price": 3585.0,
+   "original": 5699.0,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_750325-MLA116970202608_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-jbl-partybox-520-400w-rms-ai-sound-boost-show-de-luzes-ate-15h-de-bateria-auracast-ipx4-bluetooth-/p/MLB51380242?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794611469
+  },
   {
    "n": 2180,
    "key": "mercadolivre:MLB38919855",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794582608
-  },
-  {
-   "n": 2121,
-   "key": "mercadolivre:MLB36823493",
-   "title": "Induzido Rotor Esmerilhadeira Makita M9510 515548-4",
-   "price": 89.0,
-   "original": 132.0,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_614259-MLA106975292850_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/induzido-rotor-esmerilhadeira-makita-m9510-515548-4/p/MLB36823493?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794582187
   }
  ]
 }
