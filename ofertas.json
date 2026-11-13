@@ -1,7 +1,21 @@
 {
- "updated": 1794594638,
+ "updated": 1794595059,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2148,
+   "key": "mercadolivre:MLB59016225",
+   "title": "Prancha Lizze Fusion 480 Preto 220 V",
+   "price": 442.34,
+   "original": 549.0,
+   "pct": 19,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_741984-MLA99463328904_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/prancha-lizze-fusion-480-preto-220-v/p/MLB59016225?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794595039
+  },
   {
    "n": 2147,
    "key": "mercadolivre:MLB19533185",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794564229
-  },
-  {
-   "n": 2088,
-   "key": "mercadolivre:MLB42495263",
-   "title": "Escova Secadora Taiff Easy Oval 1200W Green",
-   "price": 175.83,
-   "original": 315.5,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_862049-MLA100043992077_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-taiff-easy-oval-1200w-green/p/MLB42495263?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794563473
   }
  ]
 }
