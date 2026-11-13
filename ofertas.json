@@ -1,7 +1,21 @@
 {
- "updated": 1794530657,
+ "updated": 1794531078,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2031,
+   "key": "mercadolivre:MLB22511808",
+   "title": "Aspirador de Pó Vertical e Portátil WAP High Speed Plus 1350W 3 em 1",
+   "price": 142.9,
+   "original": 207.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_887734-MLA99375017938_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-e-portatil-wap-high-speed-plus-1350w-3-em-1/p/MLB22511808?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794531058
+  },
   {
    "n": 2030,
    "key": "mercadolivre:MLB40832800",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794501602
-  },
-  {
-   "n": 1971,
-   "key": "mercadolivre:MLB52052995",
-   "title": "Air Fryer Philco 6,5L Visor Glass e Redstone 1700W PAF65A",
-   "price": 280.0,
-   "original": 485.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_761173-MLA99475995202_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/air-fryer-philco-6-5l-visor-glass-e-redstone-1700w-paf65a/p/MLB52052995?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794501181
   }
  ]
 }
