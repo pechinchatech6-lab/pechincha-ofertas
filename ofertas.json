@@ -1,7 +1,21 @@
 {
- "updated": 1794601576,
+ "updated": 1794602295,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2164,
+   "key": "mercadolivre:MLB75465650",
+   "title": "Coletor Guia de Pó Furadeira Parafusadeira 4 a 12mm Dor Block",
+   "price": 19.0,
+   "original": 38.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_981968-MLA114526798003_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/coletor-guia-de-po-furadeira-parafusadeira-4-a-12mm-dor-block/p/MLB75465650?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794602275
+  },
   {
    "n": 2163,
    "key": "mercadolivre:MLB19788006",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794573754
-  },
-  {
-   "n": 2104,
-   "key": "mercadolivre:MLB62445524",
-   "title": "Nível Laser Verde 16 Linhas War Shark 2 Bateria+1.2m Tripé",
-   "price": 259.0,
-   "original": 500.0,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_770451-MLA113890807023_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-2-bateria-1-2m-tripe/p/MLB62445524?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794573333
   }
  ]
 }
