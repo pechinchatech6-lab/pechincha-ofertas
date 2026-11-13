@@ -1,7 +1,21 @@
 {
- "updated": 1794590849,
+ "updated": 1794591270,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2139,
+   "key": "mercadolivre:MLB57490795",
+   "title": "Mini Compressor Digital Portátil Bomba De Encher Pneus Bola Inflável Para Carro Moto Bicicleta Com Calibrador De Ar Preto",
+   "price": 65.0,
+   "original": 157.98,
+   "pct": 59,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_826381-MLA110944602250_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-compressor-digital-portatil-bomba-de-encher-pneus-bola-inflavel-para-carro-moto-bicicleta-com-calibrador-de-ar-pret/p/MLB57490795?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794591250
+  },
   {
    "n": 2138,
    "key": "mercadolivre:MLB55762063",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794560105
-  },
-  {
-   "n": 2079,
-   "key": "mercadolivre:MLB50507430",
-   "title": "Philips Aparador e Barbeador Elétrico All-in-One Série 3000 12 em 1 12 acessórios para o visual completo | Lâminas com pontas arredondadas | 60 min sem fio | MG",
-   "price": 209.89,
-   "original": 262.37,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_608894-MLA115895780710_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/philips-aparador-e-barbeador-eletrico-all-in-one-serie-3000-12-em-1-12-acessorios-para-o-visual-completo-laminas-com-pon/p/MLB50507430?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794559122
   }
  ]
 }
