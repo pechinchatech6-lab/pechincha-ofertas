@@ -1,7 +1,21 @@
 {
- "updated": 1794528131,
+ "updated": 1794528552,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2025,
+   "key": "mercadolivre:MLB50147982",
+   "title": "Caixa De Som Portátil Bluetooth Sabala 901 Tws 2200mah Cor Azul",
+   "price": 99.0,
+   "original": 139.0,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_795378-MLA99483618370_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-bluetooth-sabala-901-tws-2200mah-cor-azul/p/MLB50147982?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794528532
+  },
   {
    "n": 2024,
    "key": "mercadolivre:MLB77950516",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794499076
-  },
-  {
-   "n": 1965,
-   "key": "mercadolivre:MLB75994421",
-   "title": "Samsung Smart TV 50\" Mini LED 4K M75H 26/2027",
-   "price": 2489.0,
-   "original": 3548.16,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_829406-MLA116062248430_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/samsung-smart-tv-50-mini-led-4k-m75h-26-2027/p/MLB75994421?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794498655
   }
  ]
 }
