@@ -1,7 +1,21 @@
 {
- "updated": 1794557458,
+ "updated": 1794557879,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2076,
+   "key": "mercadolivre:MLB47890206",
+   "title": "Lixadeira Pneumática Roto Orbital 6pol Ch O-10 Chiaperini",
+   "price": 228.99,
+   "original": 426.9,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_704005-MLA111956336055_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-roto-orbital-6pol-ch-o-10-chiaperini/p/MLB47890206?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794557859
+  },
   {
    "n": 2075,
    "key": "mercadolivre:MLB10481238",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794525164
-  },
-  {
-   "n": 2016,
-   "key": "mercadolivre:MLB44898096",
-   "title": "Micro-ondas 33l Philco Teclas Fáceis Limpa Fácil 1400w Pm36 220V",
-   "price": 506.9,
-   "original": 689.9,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_821650-MLA99991748727_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-33l-philco-teclas-faceis-limpa-facil-1400w-pm36-220v/p/MLB44898096?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794524565
   }
  ]
 }
