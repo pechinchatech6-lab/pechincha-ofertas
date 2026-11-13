@@ -1,7 +1,21 @@
 {
- "updated": 1794613594,
+ "updated": 1794614015,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2187,
+   "key": "mercadolivre:MLB79287290",
+   "title": "Relógio Inteligente Xiaomi Redmi Watch 6 Active Preto",
+   "price": 311.0,
+   "original": 622.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_965138-MLA117575256419_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-inteligente-xiaomi-redmi-watch-6-active-preto/p/MLB79287290?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794613995
+  },
   {
    "n": 2186,
    "key": "mercadolivre:MLB50415617",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794585816
-  },
-  {
-   "n": 2127,
-   "key": "mercadolivre:MLB77356916",
-   "title": "Boné Ny New York Unissex Yankees Fitão Trucker Masculino Feminino Moda Verão Marca Lemon Shark Cor Azul-marinho e Branco",
-   "price": 31.99,
-   "original": 44.99,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_772153-MLA116204648701_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-ny-new-york-unissex-yankees-fitao-trucker-masculino-feminino-moda-verao-marca-lemon-shark-cor-azul-marinho-e-branco/p/MLB77356916?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794584794
   }
  ]
 }
