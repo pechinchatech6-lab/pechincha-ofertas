@@ -1,7 +1,21 @@
 {
- "updated": 1794534446,
+ "updated": 1794534867,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2040,
+   "key": "mercadolivre:MLB61378528",
+   "title": "Chapinha Prancha Profissional Titanium Para Cabelo Modela E Alisa - Crowley Azul",
+   "price": 36.3,
+   "original": 59.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_770058-MLA98406375258_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-prancha-profissional-titanium-para-cabelo-modela-e-alisa-crowley-azul/p/MLB61378528?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794534847
+  },
   {
    "n": 2039,
    "key": "mercadolivre:MLB76467981",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794506076
-  },
-  {
-   "n": 1980,
-   "key": "mercadolivre:MLB45151298",
-   "title": "Mouse Sem Fio Logitech M196 Com Conexão Bluetooth - Rosa Rosa",
-   "price": 49.9,
-   "original": 79.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_862174-MLA99480177236_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-sem-fio-logitech-m196-com-conexao-bluetooth-rosa-rosa/p/MLB45151298?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794505655
   }
  ]
 }
