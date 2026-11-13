@@ -1,7 +1,21 @@
 {
- "updated": 1794566141,
+ "updated": 1794566562,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2094,
+   "key": "mercadolivre:MLB80376121",
+   "title": "Chapinha Kive KV-864 Profissional 3 Em 1 Alisa e Faz Cachos Vapor Infravermelho Íons Negativos Anti Frizz Bivolt,Cabelos Grossos e Volumosos",
+   "price": 198.0,
+   "original": 342.72,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_949600-MLA117461477450_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-kive-kv-864-profissional-3-em-1-alisa-e-faz-cachos-vapor-infravermelho-ions-negativos-anti-frizz-bivolt-cabelos/p/MLB80376121?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794566542
+  },
   {
    "n": 2093,
    "key": "mercadolivre:MLB41234257",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794532742
-  },
-  {
-   "n": 2034,
-   "key": "mercadolivre:MLB67678831",
-   "title": "Smartwatch Microwear S11 47mm Metal com GPS, NFC e Tela Amoled para Android e iOS Faz Ligaçoes",
-   "price": 96.5,
-   "original": 249.99,
-   "pct": 61,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_970885-MLA115253781654_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartwatch-microwear-s11-47mm-metal-com-gps-nfc-e-tela-amoled-para-android-e-ios-faz-ligacoes/p/MLB67678831?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794532321
   }
  ]
 }
