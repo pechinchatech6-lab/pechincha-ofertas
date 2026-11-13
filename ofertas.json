@@ -1,7 +1,21 @@
 {
- "updated": 1794563493,
+ "updated": 1794564249,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2089,
+   "key": "mercadolivre:MLB14896780",
+   "title": "Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto",
+   "price": 211.25,
+   "original": 307.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_754389-MLA119103956430_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-oscilante-de-parede-ventisol-steel-6-pas-50cm-preto/p/MLB14896780?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794564229
+  },
   {
    "n": 2088,
    "key": "mercadolivre:MLB42495263",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794530637
-  },
-  {
-   "n": 2029,
-   "key": "mercadolivre:MLB60085379",
-   "title": "Caixa de som inteligente Amazon Echo Dot Max",
-   "price": 607.27,
-   "original": 887.78,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_954177-MLA112214181672_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-inteligente-amazon-echo-dot-max/p/MLB60085379?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794530216
   }
  ]
 }
