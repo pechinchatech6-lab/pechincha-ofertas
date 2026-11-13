@@ -1,7 +1,21 @@
 {
- "updated": 1794529394,
+ "updated": 1794529815,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2028,
+   "key": "mercadolivre:MLB66484708",
+   "title": "Máquina de Lavar Consul 14Kg Branca com Modo Eco - CWN14AB",
+   "price": 1575.5,
+   "original": 2302.68,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_799132-MLA108582680591_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-consul-14kg-branca-com-modo-eco-cwn14ab/p/MLB66484708?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794529795
+  },
   {
    "n": 2027,
    "key": "mercadolivre:MLB32162099",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794500339
-  },
-  {
-   "n": 1968,
-   "key": "mercadolivre:MLB56461322",
-   "title": "Micro-ondas 20L Preto MasterCook Midea MHP20P2",
-   "price": 472.39,
-   "original": 569.0,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_615418-MLA92205811532_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-20l-preto-mastercook-midea-mhp20p2/p/MLB56461322?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794499918
   }
  ]
 }
