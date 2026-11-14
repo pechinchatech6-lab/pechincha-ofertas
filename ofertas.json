@@ -1,7 +1,21 @@
 {
- "updated": 1794614436,
+ "updated": 1794615605,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2189,
+   "key": "mercadolivre:MLB58519492",
+   "title": "Fone Ouvido Bluetooth 5.4 Sem Fio Portatil Estojo De Carregamento Anti Ruido Resistente a agua Compatível Com Ios Samsung Galaxy Android Tws Wireless Air Premiu",
+   "price": 49.7,
+   "original": 78.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646535-MLA113987983224_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-ouvido-bluetooth-5-4-sem-fio-portatil-estojo-de-carregamento-anti-ruido-resistente-a-agua-compativel-com-ios-samsun/p/MLB58519492?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794615585
+  },
   {
    "n": 2188,
    "key": "mercadolivre:MLB32717965",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794586658
-  },
-  {
-   "n": 2129,
-   "key": "mercadolivre:MLB56064567",
-   "title": "Short Cinta Modeladora Cós Alto Compressão Redutora Selene Cor Pó De Arroz Tamanho G",
-   "price": 21.24,
-   "original": 73.98,
-   "pct": 71,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_965925-MLA92022613418_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/short-cinta-modeladora-cos-alto-compressao-redutora-selene-cor-po-de-arroz-tamanho-g/p/MLB56064567?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794586237
   }
  ]
 }
