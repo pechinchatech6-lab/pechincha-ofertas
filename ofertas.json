@@ -1,7 +1,21 @@
 {
- "updated": 1794640615,
+ "updated": 1794641036,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2228,
+   "key": "mercadolivre:MLB47809248",
+   "title": "Caixa de Som Bluetooth, JBL Flip 7, JBL Pro Sound com AI Sound Boost, IP68, Auracast, até 16h de Reprodução, Playtime Boost, PushLock e Áudio sem Perdas USB-C, ",
+   "price": 569.0,
+   "original": 759.0,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_874417-MLA99590930790_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-jbl-flip-7-jbl-pro-sound-com-ai-sound-boost-ip68-auracast-ate-16h-de-reproducao-playtime-boost-pu/p/MLB47809248?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794641016
+  },
   {
    "n": 2227,
    "key": "mercadolivre:MLB73418954",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794605591
-  },
-  {
-   "n": 2168,
-   "key": "mercadolivre:MLB59798252",
-   "title": "Geladeira Consul Frost Free 455 Litros Duplex Branca - CRM56MB",
-   "price": 3149.0,
-   "original": 3499.0,
-   "pct": 10,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_878326-MLA96422855606_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-consul-frost-free-455-litros-duplex-branca-crm56mb/p/MLB59798252?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794605170
   }
  ]
 }
