@@ -1,7 +1,21 @@
 {
- "updated": 1794642720,
+ "updated": 1794643286,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2233,
+   "key": "mercadolivre:MLB49851699",
+   "title": "Controle GameSir Tegenaria T3 Lite Com Fio para PC Switch Android iOS Steam Celular Hall Effect USB-A Design Ergonômico Branco",
+   "price": 92.0,
+   "original": 159.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_667956-MLA100010532689_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamesir-tegenaria-t3-lite-com-fio-para-pc-switch-android-ios-steam-celular-hall-effect-usb-a-design-ergonomico-/p/MLB49851699?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794643266
+  },
   {
    "n": 2232,
    "key": "mercadolivre:MLB79371322",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794607696
-  },
-  {
-   "n": 2173,
-   "key": "mercadolivre:MLB19508984",
-   "title": "ISDIN Protetor Solar Facial Fusion Water 5 Stars Sem Cor FPS 60 - 50ml",
-   "price": 77.43,
-   "original": 114.9,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_980727-MLA119667556620_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/isdin-protetor-solar-facial-fusion-water-5-stars-sem-cor-fps-60-50ml/p/MLB19508984?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794607275
   }
  ]
 }
