@@ -1,7 +1,21 @@
 {
- "updated": 1794659489,
+ "updated": 1794659910,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2259,
+   "key": "mercadolivre:MLB17822924",
+   "title": "Relógio de pulso Casio GA-2100 com corria de resina cor vermelho - fondo bordô",
+   "price": 409.99,
+   "original": 998.0,
+   "pct": 59,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_884312-MLA99489775726_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-ga-2100-com-corria-de-resina-cor-vermelho-fondo-bordo/p/MLB17822924?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794659890
+  },
   {
    "n": 2258,
    "key": "mercadolivre:MLB68988947",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794623987
-  },
-  {
-   "n": 2199,
-   "key": "mercadolivre:MLB18572392",
-   "title": "Secador De Cabelo 2000 Watts - Style Pro Taiff",
-   "price": 204.26,
-   "original": 336.36,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_889216-MLA99506441392_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-2000-watts-style-pro-taiff/p/MLB18572392?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794623566
   }
  ]
 }
