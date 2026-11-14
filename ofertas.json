@@ -1,7 +1,21 @@
 {
- "updated": 1794698718,
+ "updated": 1794699142,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2311,
+   "key": "mercadolivre:MLB20288453",
+   "title": "Shampoo Tonalizante Color Change Castanho Escuro Kissnewyork",
+   "price": 26.94,
+   "original": 43.23,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_909365-MLA112260486831_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-color-change-castanho-escuro-kissnewyork/p/MLB20288453?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794699122
+  },
   {
    "n": 2310,
    "key": "mercadolivre:MLB28894895",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794656638
-  },
-  {
-   "n": 2251,
-   "key": "mercadolivre:MLB61910691",
-   "title": "Enssu Aparador de Pelos com Lâmina de Cerâmica e Recarga Rápida",
-   "price": 159.0,
-   "original": 318.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_761397-MLA111846748613_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/enssu-aparador-de-pelos-com-lamina-de-ceramica-e-recarga-rapida/p/MLB61910691?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794656217
   }
  ]
 }
