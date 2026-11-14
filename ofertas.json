@@ -1,7 +1,21 @@
 {
- "updated": 1794690782,
+ "updated": 1794691203,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2301,
+   "key": "mercadolivre:MLB19932033",
+   "title": "Óleo Lubrificante Para Lâminas De Máquinas 118.3ml - Wahl",
+   "price": 24.09,
+   "original": 34.5,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_748738-MLU74247860795_012024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/oleo-lubrificante-para-laminas-de-maquinas-118-3ml-wahl/p/MLB19932033?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794691183
+  },
   {
    "n": 2300,
    "key": "mercadolivre:MLB20940529",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794652428
-  },
-  {
-   "n": 2241,
-   "key": "mercadolivre:MLB67406797",
-   "title": "Compressor De Ar Digital Portátil Mini Multiuso Elétrico Potente Branco Para Viagem E Enchimento Infláveis Branco",
-   "price": 56.0,
-   "original": 157.98,
-   "pct": 65,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_871266-MLA109109644562_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/compressor-de-ar-digital-portatil-mini-multiuso-eletrico-potente-branco-para-viagem-e-enchimento-inflaveis-branco/p/MLB67406797?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794651412
   }
  ]
 }
