@@ -1,7 +1,21 @@
 {
- "updated": 1794640194,
+ "updated": 1794640615,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2227,
+   "key": "mercadolivre:MLB73418954",
+   "title": "Soprador De Ar Turbo Automotivo Limpeza Profunda Portatil Sem Fio Multifuncional Churrasqueira Janelas Poeiras Landara",
+   "price": 43.55,
+   "original": 78.99,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_855518-MLA118434888446_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-de-ar-turbo-automotivo-limpeza-profunda-portatil-sem-fio-multifuncional-churrasqueira-janelas-poeiras-landara/p/MLB73418954?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794640595
+  },
   {
    "n": 2226,
    "key": "mercadolivre:MLB37927083",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794605170
-  },
-  {
-   "n": 2167,
-   "key": "mercadolivre:MLB19716757",
-   "title": "Hidratante Corporal Intensivo Neutrogena Norwegian com fragrância, 400mL",
-   "price": 59.64,
-   "original": 122.9,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_749806-MLA53986261246_022023-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hidratante-corporal-intensivo-neutrogena-norwegian-com-fragrancia-400ml/p/MLB19716757?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794604749
   }
  ]
 }
