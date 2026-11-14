@@ -1,7 +1,21 @@
 {
- "updated": 1794629107,
+ "updated": 1794630953,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2210,
+   "key": "mercadolivre:MLB18725403",
+   "title": "Proteína Growth Supplements Basic Whey em pó sabor Chocolate x 1kg",
+   "price": 69.9,
+   "original": 104.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_819000-MLA101180020755_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/proteina-growth-supplements-basic-whey-em-po-sabor-chocolate-x-1kg/p/MLB18725403?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794630933
+  },
   {
    "n": 2209,
    "key": "mercadolivre:MLB69328828",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794596302
-  },
-  {
-   "n": 2150,
-   "key": "mercadolivre:MLB50181290",
-   "title": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Simake",
-   "price": 119.6,
-   "original": 299.0,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_835659-MLA116548375638_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-c-2-baterias-maleta-kit-completo-led-eixo-flexivel-varios-niveis-torque-simake/p/MLB50181290?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794595881
   }
  ]
 }
