@@ -1,7 +1,21 @@
 {
- "updated": 1794632833,
+ "updated": 1794633254,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2215,
+   "key": "mercadolivre:MLB69274486",
+   "title": "Multímetro Digital Com Iluminação Bip Profissional Portátil Md-180l B Basto Com Bateria",
+   "price": 34.29,
+   "original": 49.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_722130-MLA110446246164_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/multimetro-digital-com-iluminacao-bip-profissional-portatil-md-180l-b-basto-com-bateria/p/MLB69274486?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794633234
+  },
   {
    "n": 2214,
    "key": "mercadolivre:MLB66128181",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794598609
-  },
-  {
-   "n": 2155,
-   "key": "mercadolivre:MLB15977315",
-   "title": "Philco PAS4000V aspirador de pó cor preto 127 V",
-   "price": 286.9,
-   "original": 405.31,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_944895-MLA120019063981_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/philco-pas4000v-aspirador-de-po-cor-preto-127-v/p/MLB15977315?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794598188
   }
  ]
 }
