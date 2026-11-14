@@ -1,7 +1,21 @@
 {
- "updated": 1794657500,
+ "updated": 1794657921,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2255,
+   "key": "mercadolivre:MLB46208531",
+   "title": "Parafusadeira e Furadeira de Impacto Wap Wf 12k4.2 com Indicador de Nível de Bateria e Maleta",
+   "price": 199.0,
+   "original": 490.0,
+   "pct": 59,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_821967-MLA116028609907_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-de-impacto-wap-wf-12k4-2-com-indicador-de-nivel-de-bateria-e-maleta/p/MLB46208531?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794657901
+  },
   {
    "n": 2254,
    "key": "mercadolivre:MLB68347781",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794622180
-  },
-  {
-   "n": 2195,
-   "key": "mercadolivre:MLB21801610",
-   "title": "Kérastase Densifique Bain Densité Shampoo Densificador para Cabelos Finos com Perda de Densidade, Fortalece e Dá Volume, Com Stemoxydine e Ácido Hialurônico, 25",
-   "price": 187.9,
-   "original": 259.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_635057-MLA99933798695_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kerastase-densifique-bain-densite-shampoo-densificador-para-cabelos-finos-com-perda-de-densidade-fortalece-e-da-volume-c/p/MLB21801610?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794621759
   }
  ]
 }
