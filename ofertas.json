@@ -1,7 +1,21 @@
 {
- "updated": 1794673295,
+ "updated": 1794673716,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2285,
+   "key": "mercadolivre:MLB78730229",
+   "title": "Depilador Elétrico Feminino VB Vetka Beauty 4 em 1 com Cabeças para Rosto, Nariz, Sobrancelha e corporal Indolor Portátil",
+   "price": 39.99,
+   "original": 65.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_740093-MLA115548829984_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-vb-vetka-beauty-4-em-1-com-cabecas-para-rosto-nariz-sobrancelha-e-corporal-indolor-portatil/p/MLB78730229?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794673696
+  },
   {
    "n": 2284,
    "key": "mercadolivre:MLB80498643",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794640174
-  },
-  {
-   "n": 2225,
-   "key": "mercadolivre:MLB19160770",
-   "title": "Shampoo Para Bebê Johnson's Baby De Glicerina, 400ml",
-   "price": 19.49,
-   "original": 34.99,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631466-MLA109737821200_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-para-bebe-johnson-s-baby-de-glicerina-400ml/p/MLB19160770?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794639572
   }
  ]
 }
