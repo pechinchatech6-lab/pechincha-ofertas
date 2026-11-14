@@ -1,7 +1,21 @@
 {
- "updated": 1794667885,
+ "updated": 1794668306,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2274,
+   "key": "mercadolivre:MLB65113053",
+   "title": "Chaleira Jarra Elétrica 1,8L Litros Em Inox Desligamento Automático Aquecimento Rápido Segura Café Chá Fácil Abertura Tampa Alça Ergométrica",
+   "price": 39.99,
+   "original": 78.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_877555-MLA114973407743_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chaleira-jarra-eletrica-1-8l-litros-em-inox-desligamento-automatico-aquecimento-rapido-segura-cafe-cha-facil-abertura-ta/p/MLB65113053?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794668286
+  },
   {
    "n": 2273,
    "key": "mercadolivre:MLB19772622",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794633234
-  },
-  {
-   "n": 2214,
-   "key": "mercadolivre:MLB66128181",
-   "title": "Ventilador de Teto 60W Silencioso Lâmpada Forte com LED, Controle e 6 Pás Soquete E27 Para Residencial Comercial Interno Externo Quarto Sala Cozinha Escritório ",
-   "price": 52.9,
-   "original": 59.9,
-   "pct": 12,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_695332-MLA118292636431_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-teto-60w-silencioso-lampada-forte-com-led-controle-e-6-pas-soquete-e27-para-residencial-comercial-interno-/p/MLB66128181?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794632813
   }
  ]
 }
