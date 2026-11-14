@@ -1,7 +1,21 @@
 {
- "updated": 1794654553,
+ "updated": 1794654974,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2248,
+   "key": "mercadolivre:MLB69328684",
+   "title": "Lavadora De Alta Pressão Aqua Power Mondial Preto 1400w Lap-04-gy",
+   "price": 299.0,
+   "original": 479.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_650927-MLA120371414079_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-aqua-power-mondial-preto-1400w-lap-04-gy/p/MLB69328684?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794654954
+  },
   {
    "n": 2247,
    "key": "mercadolivre:MLB18572393",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794615585
-  },
-  {
-   "n": 2188,
-   "key": "mercadolivre:MLB32717965",
-   "title": "Conj de Panelas 8 Peças Ceramic Life Smart Plus Vanilla - Brinox",
-   "price": 479.99,
-   "original": 1099.99,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_911575-MLA115299730288_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/conj-de-panelas-8-pecas-ceramic-life-smart-plus-vanilla-brinox/p/MLB32717965?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794614416
   }
  ]
 }
