@@ -1,7 +1,21 @@
 {
- "updated": 1794695995,
+ "updated": 1794696416,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2305,
+   "key": "mercadolivre:MLB67714382",
+   "title": "Smartwatch HUAWEI WATCH FIT 5 AMOLED de 182\" Design Leve Mini Treino Bateria com Até 10 Dias 64 GB Gerenciamento Avançado da Saúde Monitor do Sono SpO2 GPS Comp",
+   "price": 699.0,
+   "original": 1499.0,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_888241-MLA110593054037_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartwatch-huawei-watch-fit-5-amoled-de-182-design-leve-mini-treino-bateria-com-ate-10-dias-64-gb-gerenciamento-avancado/p/MLB67714382?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794696396
+  },
   {
    "n": 2304,
    "key": "mercadolivre:MLB61372830",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794654112
-  },
-  {
-   "n": 2245,
-   "key": "mercadolivre:MLB26578445",
-   "title": "Secador De Cabelo Taiff Profissional Style Vermelho Clássico",
-   "price": 194.0,
-   "original": 447.36,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_895859-MLA99858387669_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-taiff-profissional-style-vermelho-classico/p/MLB26578445?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794653691
   }
  ]
 }
