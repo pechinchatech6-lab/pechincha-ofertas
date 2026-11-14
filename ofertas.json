@@ -1,7 +1,21 @@
 {
- "updated": 1794633675,
+ "updated": 1794634096,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2217,
+   "key": "mercadolivre:MLB18964467",
+   "title": "Principia Sérum Vitamina C-10",
+   "price": 32.0,
+   "original": 39.87,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_614742-MLA98385730409_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/principia-serum-vitamina-c-10/p/MLB18964467?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794634076
+  },
   {
    "n": 2216,
    "key": "mercadolivre:MLB68020736",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794599451
-  },
-  {
-   "n": 2157,
-   "key": "mercadolivre:MLB18781058",
-   "title": "Aspirador de Pó Vertical Electrolux 1.100W STK12 cabo de 5m portátil de mão 2 em 1 potente com capacidade 1,2L filtro HEPA preto",
-   "price": 154.3,
-   "original": 219.0,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_828339-MLA113316490513_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-electrolux-1-100w-stk12-cabo-de-5m-portatil-de-mao-2-em-1-potente-com-capacidade-1-2l-filtro-he/p/MLB18781058?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794599030
   }
  ]
 }
