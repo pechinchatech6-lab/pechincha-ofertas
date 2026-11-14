@@ -1,7 +1,21 @@
 {
- "updated": 1794654132,
+ "updated": 1794654553,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2247,
+   "key": "mercadolivre:MLB18572393",
+   "title": "Secador De Cabelos Taiff Style Pro 2000w Prata",
+   "price": 217.22,
+   "original": 337.38,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_811448-MLA99465155192_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-taiff-style-pro-2000w-prata/p/MLB18572393?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794654533
+  },
   {
    "n": 2246,
    "key": "mercadolivre:MLB42162174",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794614416
-  },
-  {
-   "n": 2187,
-   "key": "mercadolivre:MLB79287290",
-   "title": "Relógio Inteligente Xiaomi Redmi Watch 6 Active Preto",
-   "price": 311.0,
-   "original": 622.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_965138-MLA117575256419_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-inteligente-xiaomi-redmi-watch-6-active-preto/p/MLB79287290?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794613995
   }
  ]
 }
