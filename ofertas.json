@@ -1,7 +1,21 @@
 {
- "updated": 1794697034,
+ "updated": 1794697455,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2307,
+   "key": "mercadolivre:MLB70336750",
+   "title": "Nivel Laser 16 Linhas Verde Profissional Autonivelante Com 2 Baterias + Suporte Magnético",
+   "price": 258.0,
+   "original": 593.01,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_657165-MLA118436890351_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-16-linhas-verde-profissional-autonivelante-com-2-baterias-suporte-magnetico/p/MLB70336750?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794697435
+  },
   {
    "n": 2306,
    "key": "mercadolivre:MLB40346127",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794654954
-  },
-  {
-   "n": 2247,
-   "key": "mercadolivre:MLB18572393",
-   "title": "Secador De Cabelos Taiff Style Pro 2000w Prata",
-   "price": 217.22,
-   "original": 337.38,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_811448-MLA99465155192_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-taiff-style-pro-2000w-prata/p/MLB18572393?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794654533
   }
  ]
 }
