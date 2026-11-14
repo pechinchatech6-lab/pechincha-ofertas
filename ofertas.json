@@ -1,7 +1,21 @@
 {
- "updated": 1794621358,
+ "updated": 1794621779,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2195,
+   "key": "mercadolivre:MLB21801610",
+   "title": "Kérastase Densifique Bain Densité Shampoo Densificador para Cabelos Finos com Perda de Densidade, Fortalece e Dá Volume, Com Stemoxydine e Ácido Hialurônico, 25",
+   "price": 187.9,
+   "original": 259.9,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_635057-MLA99933798695_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kerastase-densifique-bain-densite-shampoo-densificador-para-cabelos-finos-com-perda-de-densidade-fortalece-e-da-volume-c/p/MLB21801610?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794621759
+  },
   {
    "n": 2194,
    "key": "mercadolivre:MLB70308697",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794589987
-  },
-  {
-   "n": 2135,
-   "key": "mercadolivre:MLB62309973",
-   "title": "Controle Gamesir G7 Pro Trimodo Para Xbox Series S/x, Xbox One, Pc Windows E Android Com Dock Magnética, Sensor Hall Anti-drift, Botões Personalizáveis, Rgb, Áu",
-   "price": 433.41,
-   "original": 566.94,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_633535-MLA98780126119_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-pro-trimodo-para-xbox-series-s-x-xbox-one-pc-windows-e-android-com-dock-magnetica-sensor-hall-anti-d/p/MLB62309973?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794589566
   }
  ]
 }
