@@ -1,7 +1,21 @@
 {
- "updated": 1794690159,
+ "updated": 1794690782,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2300,
+   "key": "mercadolivre:MLB20940529",
+   "title": "Webcam Full HD Logitech Brio 500 - Branco",
+   "price": 499.9,
+   "original": 799.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_833979-MLA106269030987_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-brio-500-branco/p/MLB20940529?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794690762
+  },
   {
    "n": 2299,
    "key": "mercadolivre:MLB79489063",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794651412
-  },
-  {
-   "n": 2240,
-   "key": "mercadolivre:MLB68818837",
-   "title": "Chapinha Profissional Kive KV-864 A Vapor Bivolt 220°C Com Íons Negativos Prancha Alisadora Infravermelho Anti Frizz",
-   "price": 188.0,
-   "original": 342.72,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_640818-MLA118010129786_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chapinha-profissional-kive-kv-864-a-vapor-bivolt-220-c-com-ions-negativos-prancha-alisadora-infravermelho-anti-frizz/p/MLB68818837?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794650393
   }
  ]
 }
