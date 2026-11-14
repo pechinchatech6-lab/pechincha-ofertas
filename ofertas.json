@@ -1,7 +1,21 @@
 {
- "updated": 1794622200,
+ "updated": 1794622744,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2197,
+   "key": "mercadolivre:MLB42037727",
+   "title": "Webcam Emeet C60e 4k 30Fps Uhd 8mp Foco Automático 1080P 60fps Camera Para PC 2 microfon VideoConferencia Preto",
+   "price": 195.99,
+   "original": 259.0,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612329-MLA105513922053_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-emeet-c60e-4k-30fps-uhd-8mp-foco-automatico-1080p-60fps-camera-para-pc-2-microfon-videoconferencia-preto/p/MLB42037727?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794622724
+  },
   {
    "n": 2196,
    "key": "mercadolivre:MLB27208726",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794590829
-  },
-  {
-   "n": 2137,
-   "key": "mercadolivre:MLB21801939",
-   "title": "Secador de cabelo dobrável Mondial Max Travel 1200w Sc-10",
-   "price": 74.39,
-   "original": 85.5,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_990387-MLA99524078136_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-dobravel-mondial-max-travel-1200w-sc-10/p/MLB21801939?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794590408
   }
  ]
 }
