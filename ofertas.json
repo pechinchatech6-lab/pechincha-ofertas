@@ -1,7 +1,21 @@
 {
- "updated": 1794689738,
+ "updated": 1794690159,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2299,
+   "key": "mercadolivre:MLB79489063",
+   "title": "Soprador de Ar sem Fio Portátil 48V com 2 Baterias e Potência Turbo para Limpeza",
+   "price": 87.9,
+   "original": 250.0,
+   "pct": 65,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_779614-MLA117823377369_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-de-ar-sem-fio-portatil-48v-com-2-baterias-e-potencia-turbo-para-limpeza/p/MLB79489063?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794690139
+  },
   {
    "n": 2298,
    "key": "mercadolivre:MLB65442354",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794650393
-  },
-  {
-   "n": 2239,
-   "key": "mercadolivre:MLB23888631",
-   "title": "Secador Taiff Tourmaline Íon 2100W – Alta Performance Preto",
-   "price": 307.04,
-   "original": 499.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_656647-MLA119750623728_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-taiff-tourmaline-ion-2100w-alta-performance-preto/p/MLB23888631?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794649779
   }
  ]
 }
