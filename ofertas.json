@@ -1,7 +1,21 @@
 {
- "updated": 1794653290,
+ "updated": 1794653711,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2245,
+   "key": "mercadolivre:MLB26578445",
+   "title": "Secador De Cabelo Taiff Profissional Style Vermelho Clássico",
+   "price": 194.0,
+   "original": 447.36,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_895859-MLA99858387669_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-taiff-profissional-style-vermelho-classico/p/MLB26578445?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794653691
+  },
   {
    "n": 2244,
    "key": "mercadolivre:MLB69204083",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794613574
-  },
-  {
-   "n": 2185,
-   "key": "mercadolivre:MLB62593832",
-   "title": "Depilador Luz Pulsada Intensa (IPL) Basike Sensacao Gelo Indolor Depilacao Definitiva 999999 Disparos 9 Niveis Rosto Corpo aparelho depilacao feminino depilação",
-   "price": 310.0,
-   "original": 569.82,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_680245-MLA100075970499_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-luz-pulsada-intensa-ipl-basike-sensacao-gelo-indolor-depilacao-definitiva-999999-disparos-9-niveis-rosto-corpo/p/MLB62593832?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794613153
   }
  ]
 }
