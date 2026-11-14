@@ -1,7 +1,21 @@
 {
- "updated": 1794660331,
+ "updated": 1794660752,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2261,
+   "key": "mercadolivre:MLB75077260",
+   "title": "Soprador Térmico Pistola de Ar Quente MECOLOUR 1500W 600°C 6 Bocais para Insulfilm e Envelopamento",
+   "price": 94.49,
+   "original": 179.0,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_813731-MLA116699413648_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-termico-pistola-de-ar-quente-mecolour-1500w-600-c-6-bocais-para-insulfilm-e-envelopamento/p/MLB75077260?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794660732
+  },
   {
    "n": 2260,
    "key": "mercadolivre:MLB19790746",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794625772
-  },
-  {
-   "n": 2201,
-   "key": "mercadolivre:MLB19590448",
-   "title": "Secador De Cabelo Titanium Travel 1000w Philco Bivolt Vermelho",
-   "price": 69.24,
-   "original": 125.9,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_964730-MLA99531400156_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-titanium-travel-1000w-philco-bivolt-vermelho/p/MLB19590448?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794624768
   }
  ]
 }
