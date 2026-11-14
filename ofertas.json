@@ -1,7 +1,21 @@
 {
- "updated": 1794678244,
+ "updated": 1794679294,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2291,
+   "key": "mercadolivre:MLB53250495",
+   "title": "Caixa De Som Bluetooth Potente Amplificada 1000w PMPO Grande Potencia Microfone P10 10w-Saida Karaoke Usb Pendrive",
+   "price": 144.0,
+   "original": 469.89,
+   "pct": 69,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_782932-MLA99490697473_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-potente-amplificada-1000w-pmpo-grande-potencia-microfone-p10-10w-saida-karaoke-usb-pendrive/p/MLB53250495?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794679274
+  },
   {
    "n": 2290,
    "key": "mercadolivre:MLB61852968",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794642700
-  },
-  {
-   "n": 2231,
-   "key": "mercadolivre:MLB10107928",
-   "title": "Climatizador portátil frio Ventisol CLI 70 PRO Branco Cinza",
-   "price": 1281.93,
-   "original": 2699.7,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_605132-MLA99466490342_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/climatizador-portatil-frio-ventisol-cli-70-pro-branco-cinza/p/MLB10107928?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794642279
   }
  ]
 }
