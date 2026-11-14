@@ -1,7 +1,21 @@
 {
- "updated": 1794627239,
+ "updated": 1794627844,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2206,
+   "key": "mercadolivre:MLB32101995",
+   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Branco MICGEEK",
+   "price": 23.95,
+   "original": 40.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_785462-MLA110586324994_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-branco-micgeek/p/MLB32101995?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794627824
+  },
   {
    "n": 2205,
    "key": "mercadolivre:MLB55024225",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794594618
-  },
-  {
-   "n": 2146,
-   "key": "mercadolivre:MLB53905228",
-   "title": "Lixadeira De Parede E Teto 1000w Profissional 5 Velocidades 360° Com Led 6 Lixas Saco Coletor Tlt900 The Black Tools",
-   "price": 418.9,
-   "original": 649.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_777026-MLA116987590778_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-de-parede-e-teto-1000w-profissional-5-velocidades-360-com-led-6-lixas-saco-coletor-tlt900-the-black-tools/p/MLB53905228?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794594197
   }
  ]
 }
