@@ -1,7 +1,21 @@
 {
- "updated": 1794671611,
+ "updated": 1794672032,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2281,
+   "key": "mercadolivre:MLB64609999",
+   "title": "Alicate Crimpar Prensa Terminal Tubular Decapar Descascador Crimpador Ilhós 0,25 Até 10mm Kit Eletricista Profissional",
+   "price": 78.9,
+   "original": 125.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_776563-MLA116261039568_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-crimpar-prensa-terminal-tubular-decapar-descascador-crimpador-ilhos-0-25-ate-10mm-kit-eletricista-profissional/p/MLB64609999?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794672012
+  },
   {
    "n": 2280,
    "key": "mercadolivre:MLB6077911",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794638107
-  },
-  {
-   "n": 2221,
-   "key": "mercadolivre:MLB79380541",
-   "title": "Caixa Caixinha De Som Bluetooth Pendrive Fm Sd Portátil 50W",
-   "price": 59.9,
-   "original": 86.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_882937-MLA116430422614_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-caixinha-de-som-bluetooth-pendrive-fm-sd-portatil-50w/p/MLB79380541?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794637080
   }
  ]
 }
