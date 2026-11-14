@@ -1,7 +1,21 @@
 {
- "updated": 1794632412,
+ "updated": 1794632833,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2214,
+   "key": "mercadolivre:MLB66128181",
+   "title": "Ventilador de Teto 60W Silencioso Lâmpada Forte com LED, Controle e 6 Pás Soquete E27 Para Residencial Comercial Interno Externo Quarto Sala Cozinha Escritório ",
+   "price": 52.9,
+   "original": 59.9,
+   "pct": 12,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_695332-MLA118292636431_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-teto-60w-silencioso-lampada-forte-com-led-controle-e-6-pas-soquete-e27-para-residencial-comercial-interno-/p/MLB66128181?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794632813
+  },
   {
    "n": 2213,
    "key": "mercadolivre:MLB80562853",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794598188
-  },
-  {
-   "n": 2154,
-   "key": "mercadolivre:MLB79738105",
-   "title": "Pistola De Pintura Com Compressor Elétrico 650w Belffe - 110V",
-   "price": 118.03,
-   "original": 199.85,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_634665-MLA116565183062_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pistola-de-pintura-com-compressor-eletrico-650w-belffe-110v/p/MLB79738105?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794597565
   }
  ]
 }
