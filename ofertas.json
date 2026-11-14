@@ -1,7 +1,21 @@
 {
- "updated": 1794668306,
+ "updated": 1794668879,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2275,
+   "key": "mercadolivre:MLB19314356",
+   "title": "Creme Alisante Vintage Girls 100g Lola Cosmetics",
+   "price": 24.89,
+   "original": 35.0,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_647156-MLA112798121105_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-alisante-vintage-girls-100g-lola-cosmetics/p/MLB19314356?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794668859
+  },
   {
    "n": 2274,
    "key": "mercadolivre:MLB65113053",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794633655
-  },
-  {
-   "n": 2215,
-   "key": "mercadolivre:MLB69274486",
-   "title": "Multímetro Digital Com Iluminação Bip Profissional Portátil Md-180l B Basto Com Bateria",
-   "price": 34.29,
-   "original": 49.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_722130-MLA110446246164_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/multimetro-digital-com-iluminacao-bip-profissional-portatil-md-180l-b-basto-com-bateria/p/MLB69274486?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794633234
   }
  ]
 }
