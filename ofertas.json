@@ -1,7 +1,21 @@
 {
- "updated": 1794652448,
+ "updated": 1794652869,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2243,
+   "key": "mercadolivre:MLB19750535",
+   "title": "Escova Secadora de Cabelos Soft Beauty Cherry Philco Pec13 1300w 4 em 1 seca, alisa, modela e dá volume",
+   "price": 98.34,
+   "original": 124.32,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_653169-MLA99851166997_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-de-cabelos-soft-beauty-cherry-philco-pec13-1300w-4-em-1-seca-alisa-modela-e-da-volume/p/MLB19750535?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794652849
+  },
   {
    "n": 2242,
    "key": "mercadolivre:MLB80245753",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794612732
-  },
-  {
-   "n": 2183,
-   "key": "mercadolivre:MLB19810227",
-   "title": "Creme Depilatório Veet Men Pele Normal 200ml",
-   "price": 38.7,
-   "original": 79.29,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_824173-MLA118163059710_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatorio-veet-men-pele-normal-200ml/p/MLB19810227?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794612311
   }
  ]
 }
