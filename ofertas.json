@@ -1,7 +1,21 @@
 {
- "updated": 1794649378,
+ "updated": 1794649799,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2239,
+   "key": "mercadolivre:MLB23888631",
+   "title": "Secador Taiff Tourmaline Íon 2100W – Alta Performance Preto",
+   "price": 307.04,
+   "original": 499.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_656647-MLA119750623728_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-taiff-tourmaline-ion-2100w-alta-performance-preto/p/MLB23888631?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794649779
+  },
   {
    "n": 2238,
    "key": "mercadolivre:MLB1055308835",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794610523
-  },
-  {
-   "n": 2179,
-   "key": "mercadolivre:MLB32265367",
-   "title": "Relógio De Parede Digital LT-1970",
-   "price": 67.08,
-   "original": 126.58,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_633293-MLA99445948004_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-digital-lt-1970/p/MLB32265367?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794610102
   }
  ]
 }
