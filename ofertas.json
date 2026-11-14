@@ -1,7 +1,21 @@
 {
- "updated": 1794630953,
+ "updated": 1794631374,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2211,
+   "key": "mercadolivre:MLB26110011",
+   "title": "Trena Standard 5 Metros Com Trava Iw13947 Irwin",
+   "price": 23.0,
+   "original": 45.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_996028-MLA99620936002_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/trena-standard-5-metros-com-trava-iw13947-irwin/p/MLB26110011?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794631354
+  },
   {
    "n": 2210,
    "key": "mercadolivre:MLB18725403",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794596723
-  },
-  {
-   "n": 2151,
-   "key": "mercadolivre:MLB29099772",
-   "title": "Secador de Cabelos Mondial 2000W - SCN-11",
-   "price": 118.12,
-   "original": 204.9,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_915080-MLA99516675590_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-mondial-2000w-scn-11/p/MLB29099772?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794596302
   }
  ]
 }
