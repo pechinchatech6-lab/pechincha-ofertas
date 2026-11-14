@@ -1,7 +1,21 @@
 {
- "updated": 1794624007,
+ "updated": 1794624788,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2201,
+   "key": "mercadolivre:MLB19590448",
+   "title": "Secador De Cabelo Titanium Travel 1000w Philco Bivolt Vermelho",
+   "price": 69.24,
+   "original": 125.9,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_964730-MLA99531400156_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-titanium-travel-1000w-philco-bivolt-vermelho/p/MLB19590448?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794624768
+  },
   {
    "n": 2200,
    "key": "mercadolivre:MLB51115132",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794592513
-  },
-  {
-   "n": 2141,
-   "key": "mercadolivre:MLB18640232",
-   "title": "Forno Elétrico De Bancada 110v Nardelli Top60 60litros Black",
-   "price": 385.45,
-   "original": 631.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_892018-MLA99513575620_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/forno-eletrico-de-bancada-110v-nardelli-top60-60litros-black/p/MLB18640232?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794592092
   }
  ]
 }
