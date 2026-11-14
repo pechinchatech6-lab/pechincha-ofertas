@@ -1,7 +1,21 @@
 {
- "updated": 1794682445,
+ "updated": 1794683492,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2294,
+   "key": "mercadolivre:MLB76972122",
+   "title": "Boné Ny New York Yankees Unissex Blogueira Fitão Regulável Cor Preto/Branco Desenho do tecido Lisa Tamanho Único",
+   "price": 34.9,
+   "original": 49.99,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_889380-MLA114634635694_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bone-ny-new-york-yankees-unissex-blogueira-fitao-regulavel-cor-preto-branco-desenho-do-tecido-lisa-tamanho-unico/p/MLB76972122?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794683472
+  },
   {
    "n": 2293,
    "key": "mercadolivre:MLB80743912",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794646731
-  },
-  {
-   "n": 2234,
-   "key": "mercadolivre:MLB47100887",
-   "title": "Kit Maquiagem Infantil Kalon Lashes Maleta 8 Peças Com Batom e Acessórios",
-   "price": 49.99,
-   "original": 78.99,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_758173-MLA112465206752_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-maquiagem-infantil-kalon-lashes-maleta-8-pecas-com-batom-e-acessorios/p/MLB47100887?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794646310
   }
  ]
 }
