@@ -1,7 +1,21 @@
 {
- "updated": 1794648349,
+ "updated": 1794648770,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2237,
+   "key": "mercadolivre:MLB64641216",
+   "title": "Ventilador de Coluna Britânia 6 Pás de 40cm 160W BVC41A",
+   "price": 170.1,
+   "original": 189.0,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_702322-MLA105457895165_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-britania-6-pas-de-40cm-160w-bvc41a/p/MLB64641216?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794648750
+  },
   {
    "n": 2236,
    "key": "mercadolivre:MLB28038505",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794609681
-  },
-  {
-   "n": 2177,
-   "key": "mercadolivre:MLB65225066",
-   "title": "Alicate De Pressão 250mm 10 Pol 3301832 Gedore Red",
-   "price": 37.21,
-   "original": 49.9,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_905379-MLA105890161190_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alicate-de-pressao-250mm-10-pol-3301832-gedore-red/p/MLB65225066?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794609260
   }
  ]
 }
