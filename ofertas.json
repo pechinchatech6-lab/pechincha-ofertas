@@ -1,7 +1,21 @@
 {
- "updated": 1794634938,
+ "updated": 1794635359,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2220,
+   "key": "mercadolivre:MLB75898900",
+   "title": "Nível Laser Verde 16 Linhas War Shark 360° Autonivelante + 2 Baterias",
+   "price": 199.0,
+   "original": 400.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612772-MLA117503682685_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-360-autonivelante-2-baterias/p/MLB75898900?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794635339
+  },
   {
    "n": 2219,
    "key": "mercadolivre:MLB50026187",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794600714
-  },
-  {
-   "n": 2160,
-   "key": "mercadolivre:MLB15345937",
-   "title": "Fone De Ouvido Headset Gamer Havit H2002d P3 Para PS3/PS4/PS5/XBOX/PC Cor Preto",
-   "price": 136.8,
-   "original": 169.9,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_759854-MLA99487952684_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-headset-gamer-havit-h2002d-p3-para-ps3-ps4-ps5-xbox-pc-cor-preto/p/MLB15345937?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794600293
   }
  ]
 }
