@@ -1,7 +1,21 @@
 {
- "updated": 1794664583,
+ "updated": 1794665780,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2268,
+   "key": "mercadolivre:MLB79843944",
+   "title": "Webcam Camera Full Hd Zoom 1080p Plug and Play Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone Pc Notebook Kateluo",
+   "price": 28.39,
+   "original": 44.57,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_754165-MLA119925151331_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-plug-and-play-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-pc-noteb/p/MLB79843944?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794665760
+  },
   {
    "n": 2267,
    "key": "mercadolivre:MLB77715277",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794629087
-  },
-  {
-   "n": 2208,
-   "key": "mercadolivre:MLB66469973",
-   "title": "Tesoura Poda Galhos Jardinagem Alicate Profissional Aço Inox - Bondu",
-   "price": 20.12,
-   "original": 39.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_931262-MLA114541575774_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/tesoura-poda-galhos-jardinagem-alicate-profissional-aco-inox-bondu/p/MLB66469973?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794628666
   }
  ]
 }
