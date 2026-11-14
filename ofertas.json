@@ -1,7 +1,21 @@
 {
- "updated": 1794631374,
+ "updated": 1794631991,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2212,
+   "key": "mercadolivre:MLB26208174",
+   "title": "Climatizador de Ar Ventisol Clin-16 16L Evaporativo Cinza/Branco",
+   "price": 379.0,
+   "original": 523.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_665541-MLA91981620699_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-ventisol-clin-16-16l-evaporativo-cinza-branco/p/MLB26208174?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794631971
+  },
   {
    "n": 2211,
    "key": "mercadolivre:MLB26110011",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794597144
-  },
-  {
-   "n": 2152,
-   "key": "mercadolivre:MLB19457512",
-   "title": "Martelete Wap Empr 900k Sds Plus Com Maleta 900w",
-   "price": 323.1,
-   "original": 870.0,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_680544-MLA99458972342_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/martelete-wap-empr-900k-sds-plus-com-maleta-900w/p/MLB19457512?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794596723
   }
  ]
 }
