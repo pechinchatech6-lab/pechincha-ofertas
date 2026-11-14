@@ -1,7 +1,21 @@
 {
- "updated": 1794628686,
+ "updated": 1794629107,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2209,
+   "key": "mercadolivre:MLB69328828",
+   "title": "Fire Tv Stick Hd 2a Geração Ger 26 Preto De Voz",
+   "price": 237.0,
+   "original": 479.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_921847-MLA113725342133_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fire-tv-stick-hd-2a-geracao-ger-26-preto-de-voz/p/MLB69328828?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794629087
+  },
   {
    "n": 2208,
    "key": "mercadolivre:MLB66469973",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794595881
-  },
-  {
-   "n": 2149,
-   "key": "mercadolivre:MLB18351904",
-   "title": "Webcam Full HD Logitech C920s com Microfone Embutido, Proteção de Privacidade, Widescreen 1080p e Conexão USB",
-   "price": 307.02,
-   "original": 449.9,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_800356-MLA115968610141_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-c920s-com-microfone-embutido-protecao-de-privacidade-widescreen-1080p-e-conexao-usb/p/MLB18351904?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794595460
   }
  ]
 }
