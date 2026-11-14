@@ -1,7 +1,21 @@
 {
- "updated": 1794643286,
+ "updated": 1794646331,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2234,
+   "key": "mercadolivre:MLB47100887",
+   "title": "Kit Maquiagem Infantil Kalon Lashes Maleta 8 Peças Com Batom e Acessórios",
+   "price": 49.99,
+   "original": 78.99,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_758173-MLA112465206752_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-maquiagem-infantil-kalon-lashes-maleta-8-pecas-com-batom-e-acessorios/p/MLB47100887?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794646310
+  },
   {
    "n": 2233,
    "key": "mercadolivre:MLB49851699",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794608419
-  },
-  {
-   "n": 2174,
-   "key": "mercadolivre:MLB63356070",
-   "title": "Relógio De Bolso Masculino Vintage Quartz Antigo Cor Preto",
-   "price": 38.0,
-   "original": 99.0,
-   "pct": 62,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_756597-MLA101922004765_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-bolso-masculino-vintage-quartz-antigo-cor-preto/p/MLB63356070?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794607696
   }
  ]
 }
