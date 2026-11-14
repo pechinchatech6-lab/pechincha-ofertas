@@ -1,7 +1,21 @@
 {
- "updated": 1794635359,
+ "updated": 1794637100,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2221,
+   "key": "mercadolivre:MLB79380541",
+   "title": "Caixa Caixinha De Som Bluetooth Pendrive Fm Sd Portátil 50W",
+   "price": 59.9,
+   "original": 86.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_882937-MLA116430422614_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-caixinha-de-som-bluetooth-pendrive-fm-sd-portatil-50w/p/MLB79380541?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794637080
+  },
   {
    "n": 2220,
    "key": "mercadolivre:MLB75898900",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794601135
-  },
-  {
-   "n": 2161,
-   "key": "mercadolivre:MLB18630341",
-   "title": "Creatina Monohidratada Max Titanium Sem Sabor 100g",
-   "price": 21.69,
-   "original": 30.13,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_697835-MLA117269994412_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-monohidratada-max-titanium-sem-sabor-100g/p/MLB18630341?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794600714
   }
  ]
 }
