@@ -1,7 +1,21 @@
 {
- "updated": 1794652869,
+ "updated": 1794653290,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2244,
+   "key": "mercadolivre:MLB69204083",
+   "title": "Esmerilhadeira Lixadeira Angular 950w 6 Velocidades 115mm Amarelo 60hz",
+   "price": 139.0,
+   "original": 300.0,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_985186-MLA111238705441_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/esmerilhadeira-lixadeira-angular-950w-6-velocidades-115mm-amarelo-60hz/p/MLB69204083?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794653270
+  },
   {
    "n": 2243,
    "key": "mercadolivre:MLB19750535",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794613153
-  },
-  {
-   "n": 2184,
-   "key": "mercadolivre:MLB59870058",
-   "title": "Chaleira Com Apito Brinox 2,7 L Roma Areia",
-   "price": 78.4,
-   "original": 237.71,
-   "pct": 67,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_866805-MLA104654258057_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chaleira-com-apito-brinox-2-7-l-roma-areia/p/MLB59870058?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794612732
   }
  ]
 }
