@@ -1,7 +1,21 @@
 {
- "updated": 1794653711,
+ "updated": 1794654132,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2246,
+   "key": "mercadolivre:MLB42162174",
+   "title": "Parafusadeira E Furadeira Sem Fio Bateria 3/8 10mm Com Maleta E Acessorios The Black Tools",
+   "price": 99.9,
+   "original": 209.9,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_649121-MLA108633953017_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-sem-fio-bateria-3-8-10mm-com-maleta-e-acessorios-the-black-tools/p/MLB42162174?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794654112
+  },
   {
    "n": 2245,
    "key": "mercadolivre:MLB26578445",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794613995
-  },
-  {
-   "n": 2186,
-   "key": "mercadolivre:MLB50415617",
-   "title": "Chaleira Inox 2 Litros Com Apito - Aço Inox Cor Vermelho",
-   "price": 37.0,
-   "original": 44.0,
-   "pct": 16,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_753964-MLA100080029219_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chaleira-inox-2-litros-com-apito-aco-inox-cor-vermelho/p/MLB50415617?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794613574
   }
  ]
 }
