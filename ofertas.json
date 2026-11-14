@@ -1,7 +1,21 @@
 {
- "updated": 1794614015,
+ "updated": 1794614436,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2188,
+   "key": "mercadolivre:MLB32717965",
+   "title": "Conj de Panelas 8 Peças Ceramic Life Smart Plus Vanilla - Brinox",
+   "price": 479.99,
+   "original": 1099.99,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_911575-MLA115299730288_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/conj-de-panelas-8-pecas-ceramic-life-smart-plus-vanilla-brinox/p/MLB32717965?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794614416
+  },
   {
    "n": 2187,
    "key": "mercadolivre:MLB79287290",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794586237
-  },
-  {
-   "n": 2128,
-   "key": "mercadolivre:MLB74325668",
-   "title": "Secador de Tênis Elétrico Portátil para Calçados Sapatos Chuteiras Botas e Sapatilhas Aparelho Secador de Calçados Compacto para Secagem de Tênis e Sapatos AQPI",
-   "price": 73.0,
-   "original": 91.99,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_613438-MLA115543723862_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-tenis-eletrico-portatil-para-calcados-sapatos-chuteiras-botas-e-sapatilhas-aparelho-secador-de-calcados-compa/p/MLB74325668?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794585816
   }
  ]
 }
