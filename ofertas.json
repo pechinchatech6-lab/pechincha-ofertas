@@ -1,7 +1,21 @@
 {
- "updated": 1794628265,
+ "updated": 1794628686,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2208,
+   "key": "mercadolivre:MLB66469973",
+   "title": "Tesoura Poda Galhos Jardinagem Alicate Profissional Aço Inox - Bondu",
+   "price": 20.12,
+   "original": 39.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_931262-MLA114541575774_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/tesoura-poda-galhos-jardinagem-alicate-profissional-aco-inox-bondu/p/MLB66469973?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794628666
+  },
   {
    "n": 2207,
    "key": "mercadolivre:MLB68833324",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794595460
-  },
-  {
-   "n": 2148,
-   "key": "mercadolivre:MLB59016225",
-   "title": "Prancha Lizze Fusion 480 Preto 220 V",
-   "price": 442.34,
-   "original": 549.0,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_741984-MLA99463328904_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/prancha-lizze-fusion-480-preto-220-v/p/MLB59016225?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794595039
   }
  ]
 }
