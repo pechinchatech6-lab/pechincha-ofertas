@@ -1,7 +1,21 @@
 {
- "updated": 1794674137,
+ "updated": 1794676200,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2287,
+   "key": "mercadolivre:MLB65394114",
+   "title": "Kit 2 Microfone Sem Fio Profissional Uhf Led Com Receptor Ec Cinza",
+   "price": 114.99,
+   "original": 199.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_763236-MLA106765474327_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-2-microfone-sem-fio-profissional-uhf-led-com-receptor-ec-cinza/p/MLB65394114?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794676180
+  },
   {
    "n": 2286,
    "key": "mercadolivre:MLB67146264",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794641016
-  },
-  {
-   "n": 2227,
-   "key": "mercadolivre:MLB73418954",
-   "title": "Soprador De Ar Turbo Automotivo Limpeza Profunda Portatil Sem Fio Multifuncional Churrasqueira Janelas Poeiras Landara",
-   "price": 43.55,
-   "original": 78.99,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_855518-MLA118434888446_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-de-ar-turbo-automotivo-limpeza-profunda-portatil-sem-fio-multifuncional-churrasqueira-janelas-poeiras-landara/p/MLB73418954?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794640595
   }
  ]
 }
