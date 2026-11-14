@@ -1,7 +1,21 @@
 {
- "updated": 1794650413,
+ "updated": 1794651432,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2241,
+   "key": "mercadolivre:MLB67406797",
+   "title": "Compressor De Ar Digital Portátil Mini Multiuso Elétrico Potente Branco Para Viagem E Enchimento Infláveis Branco",
+   "price": 56.0,
+   "original": 157.98,
+   "pct": 65,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_871266-MLA109109644562_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/compressor-de-ar-digital-portatil-mini-multiuso-eletrico-potente-branco-para-viagem-e-enchimento-inflaveis-branco/p/MLB67406797?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794651412
+  },
   {
    "n": 2240,
    "key": "mercadolivre:MLB68818837",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794611890
-  },
-  {
-   "n": 2181,
-   "key": "mercadolivre:MLB51380242",
-   "title": "Caixa de Som Portátil - JBL PartyBox 520 - 400W RMS, AI Sound Boost, Show de Luzes, até 15h de Bateria, Auracast, IPX4, Bluetooth 5.4 e Entradas XLR - Preta",
-   "price": 3585.0,
-   "original": 5699.0,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_750325-MLA116970202608_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-jbl-partybox-520-400w-rms-ai-sound-boost-show-de-luzes-ate-15h-de-bateria-auracast-ipx4-bluetooth-/p/MLB51380242?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794611469
   }
  ]
 }
