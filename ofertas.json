@@ -1,7 +1,21 @@
 {
- "updated": 1794620937,
+ "updated": 1794621358,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2194,
+   "key": "mercadolivre:MLB70308697",
+   "title": "Rádio Caixa De Som Bluetooth Recarregável Led Beexcellent Azul",
+   "price": 75.99,
+   "original": 99.9,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_840105-MLA111245741562_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/radio-caixa-de-som-bluetooth-recarregavel-led-beexcellent-azul/p/MLB70308697?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794621338
+  },
   {
    "n": 2193,
    "key": "mercadolivre:MLB68770277",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794589566
-  },
-  {
-   "n": 2134,
-   "key": "mercadolivre:MLB61072496",
-   "title": "Caixa De Som Pc Notebook Gamer Soundbar Usb 6w Estéreo P2",
-   "price": 49.88,
-   "original": 78.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_644552-MLA120792015981_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-pc-notebook-gamer-soundbar-usb-6w-estereo-p2/p/MLB61072496?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794589145
   }
  ]
 }
