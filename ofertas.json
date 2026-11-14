@@ -1,7 +1,21 @@
 {
- "updated": 1794651432,
+ "updated": 1794652448,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2242,
+   "key": "mercadolivre:MLB80245753",
+   "title": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6\" E À Prova D'Água",
+   "price": 69.59,
+   "original": 79.99,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680341-MLA118784298481_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-reforcada-jiesipote-para-viagem-com-compartimento-para-notebook-15-6-e-a-prova-d-agua/p/MLB80245753?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794652428
+  },
   {
    "n": 2241,
    "key": "mercadolivre:MLB67406797",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794612311
-  },
-  {
-   "n": 2182,
-   "key": "mercadolivre:MLB47892578",
-   "title": "Kit Sds Plus Martelete Ponteiro E Talhadeiras Jogo 3 Peças 20mm E 40mm Profissional",
-   "price": 30.9,
-   "original": 49.99,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_874075-MLA109554428598_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-sds-plus-martelete-ponteiro-e-talhadeiras-jogo-3-pecas-20mm-e-40mm-profissional/p/MLB47892578?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794611890
   }
  ]
 }
