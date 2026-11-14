@@ -1,7 +1,21 @@
 {
- "updated": 1794662015,
+ "updated": 1794663741,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2265,
+   "key": "mercadolivre:MLB66430893",
+   "title": "Coletor De Pó P/ Serra Circular Makita Sp6000",
+   "price": 37.18,
+   "original": 44.3,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822957-MLA108509910251_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/coletor-de-po-p-serra-circular-makita-sp6000/p/MLB66430893?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794663721
+  },
   {
    "n": 2264,
    "key": "mercadolivre:MLB57719746",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794627824
-  },
-  {
-   "n": 2205,
-   "key": "mercadolivre:MLB55024225",
-   "title": "Soprador De Ar Turbo 21v Portátil Bateria Recarregável Potente Para Folhas Pó Limpeza Carro Tso-21a The Black Tools",
-   "price": 99.99,
-   "original": 199.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_987154-MLA116188035225_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-de-ar-turbo-21v-portatil-bateria-recarregavel-potente-para-folhas-po-limpeza-carro-tso-21a-the-black-tools/p/MLB55024225?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794627219
   }
  ]
 }
