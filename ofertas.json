@@ -1,7 +1,21 @@
 {
- "updated": 1794683492,
+ "updated": 1794685595,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2295,
+   "key": "mercadolivre:MLB25246255",
+   "title": "Prancha De Cabelo Mq Pro 480°f Titânio Automatico Chumbo 127/220v",
+   "price": 398.04,
+   "original": 577.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_711920-MLA99988151489_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/prancha-de-cabelo-mq-pro-480-f-titanio-automatico-chumbo-127-220v/p/MLB25246255?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794685575
+  },
   {
    "n": 2294,
    "key": "mercadolivre:MLB76972122",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794648329
-  },
-  {
-   "n": 2235,
-   "key": "mercadolivre:MLB76467562",
-   "title": "Lamina Serra Multi-corte Oscilante Kit 5 Pçs Para Wesco Makita",
-   "price": 27.35,
-   "original": 75.99,
-   "pct": 64,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_607957-MLA119667530665_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lamina-serra-multi-corte-oscilante-kit-5-pcs-para-wesco-makita/p/MLB76467562?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794646731
   }
  ]
 }
