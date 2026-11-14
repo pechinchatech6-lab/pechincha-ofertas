@@ -1,7 +1,21 @@
 {
- "updated": 1794626213,
+ "updated": 1794626818,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2204,
+   "key": "mercadolivre:MLB29043746",
+   "title": "Webcam Emeet C960 4k Videoconferência Para Pc 1080p 60fps Preto",
+   "price": 242.99,
+   "original": 374.99,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_617398-MLA99988184761_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-emeet-c960-4k-videoconferencia-para-pc-1080p-60fps-preto/p/MLB29043746?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794626798
+  },
   {
    "n": 2203,
    "key": "mercadolivre:MLB73436853",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794593776
-  },
-  {
-   "n": 2144,
-   "key": "mercadolivre:MLB24807116",
-   "title": "Escova Secadora Mondial Keratin - Es-11-bi Grafite/golden Rose",
-   "price": 116.0,
-   "original": 199.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_822745-MLA99966514757_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-mondial-keratin-es-11-bi-grafite-golden-rose/p/MLB24807116?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794593355
   }
  ]
 }
