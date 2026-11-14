@@ -1,7 +1,21 @@
 {
- "updated": 1794657921,
+ "updated": 1794658647,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2256,
+   "key": "mercadolivre:MLB67949109",
+   "title": "Forno Elétrico 52l Family Grill Inox Mondial 1800w Frn-52-bi",
+   "price": 434.58,
+   "original": 596.9,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_921149-MLA112261101800_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/forno-eletrico-52l-family-grill-inox-mondial-1800w-frn-52-bi/p/MLB67949109?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794658627
+  },
   {
    "n": 2255,
    "key": "mercadolivre:MLB46208531",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794622724
-  },
-  {
-   "n": 2196,
-   "key": "mercadolivre:MLB27208726",
-   "title": "Pulseira Relógio Smartwatch Aço Inox Cor Preto Largura 18 mm",
-   "price": 33.45,
-   "original": 42.14,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_652168-MLA100118350771_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/pulseira-relogio-smartwatch-aco-inox-cor-preto-largura-18-mm/p/MLB27208726?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794622180
   }
  ]
 }
