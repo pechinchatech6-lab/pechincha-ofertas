@@ -1,7 +1,21 @@
 {
- "updated": 1794671190,
+ "updated": 1794671611,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2280,
+   "key": "mercadolivre:MLB6077911",
+   "title": "Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca RE31",
+   "price": 1578.8,
+   "original": 2399.0,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631165-MLA111827765025_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-cycle-defrost-240l-degelo-pratico-uma-porta-branca-re31/p/MLB6077911?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794671591
+  },
   {
    "n": 2279,
    "key": "mercadolivre:MLB74598488",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794637080
-  },
-  {
-   "n": 2220,
-   "key": "mercadolivre:MLB75898900",
-   "title": "Nível Laser Verde 16 Linhas War Shark 360° Autonivelante + 2 Baterias",
-   "price": 199.0,
-   "original": 400.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_612772-MLA117503682685_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-360-autonivelante-2-baterias/p/MLB75898900?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794635339
   }
  ]
 }
