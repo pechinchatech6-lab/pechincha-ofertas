@@ -1,7 +1,21 @@
 {
- "updated": 1794633254,
+ "updated": 1794633675,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2216,
+   "key": "mercadolivre:MLB68020736",
+   "title": "Caixa De Som Soundbar RMS 200W Home Theater Tv Sound Bar Com Subwoofer Bluetooth Som Cinema, Com HDMI ARC, óptico, AUX e Coaxial",
+   "price": 642.51,
+   "original": 1299.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_823006-MLA118820005541_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-soundbar-rms-200w-home-theater-tv-sound-bar-com-subwoofer-bluetooth-som-cinema-com-hdmi-arc-optico-aux-e-co/p/MLB68020736?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794633655
+  },
   {
    "n": 2215,
    "key": "mercadolivre:MLB69274486",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794599030
-  },
-  {
-   "n": 2156,
-   "key": "mercadolivre:MLB29574189",
-   "title": "Escova Alisadora Black Rose, Mondial, 36W - EA-07",
-   "price": 91.0,
-   "original": 149.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_783377-MLA99937056217_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-alisadora-black-rose-mondial-36w-ea-07/p/MLB29574189?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794598609
   }
  ]
 }
