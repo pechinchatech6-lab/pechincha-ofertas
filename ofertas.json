@@ -1,7 +1,21 @@
 {
- "updated": 1794670769,
+ "updated": 1794671190,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2279,
+   "key": "mercadolivre:MLB74598488",
+   "title": "Kit Alicate Crimpador e Desencapador de Fios Hexon Profissional com 1200 Ilhós",
+   "price": 69.9,
+   "original": 120.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_866702-MLA113979534319_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-alicate-crimpador-e-desencapador-de-fios-hexon-profissional-com-1200-ilhos/p/MLB74598488?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794671170
+  },
   {
    "n": 2278,
    "key": "mercadolivre:MLB37257779",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794635339
-  },
-  {
-   "n": 2219,
-   "key": "mercadolivre:MLB50026187",
-   "title": "Kit Skincare Gel de Limpeza e Hidratante com Vitamina C, Ação Antioleosidade e Uniformizadora, Pele Iluminada e Hidratada, Uniform & Matte Garnier 150g",
-   "price": 41.55,
-   "original": 67.7,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_994620-MLA84725346069_052025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-skincare-gel-de-limpeza-e-hidratante-com-vitamina-c-acao-antioleosidade-e-uniformizadora-pele-iluminada-e-hidratada-/p/MLB50026187?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794634918
   }
  ]
 }
