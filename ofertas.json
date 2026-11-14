@@ -1,7 +1,21 @@
 {
- "updated": 1794673716,
+ "updated": 1794674137,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2286,
+   "key": "mercadolivre:MLB67146264",
+   "title": "Mini Mixer Misturador De Bebidas Elétrico 2 Em 1 Portátil Recarregável Mexedor De Ovos Leite Whey Café Espuma Shake Drinks Capuccino Suco Blackbom",
+   "price": 19.99,
+   "original": 49.99,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_993099-MLA118374430742_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-mixer-misturador-de-bebidas-eletrico-2-em-1-portatil-recarregavel-mexedor-de-ovos-leite-whey-cafe-espuma-shake-drin/p/MLB67146264?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794674117
+  },
   {
    "n": 2285,
    "key": "mercadolivre:MLB78730229",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794640595
-  },
-  {
-   "n": 2226,
-   "key": "mercadolivre:MLB37927083",
-   "title": "Caixa de Som Philco Extreme 380W Flash Lights PCX4800",
-   "price": 439.0,
-   "original": 799.0,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_954643-MLA96761509429_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-philco-extreme-380w-flash-lights-pcx4800/p/MLB37927083?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794640174
   }
  ]
 }
