@@ -1,7 +1,21 @@
 {
- "updated": 1794688709,
+ "updated": 1794689130,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2297,
+   "key": "mercadolivre:MLB22871761",
+   "title": "Escova Rotativa Mondial Ceramica Tourmaline Ion 3x1 Erb-01 Rosa 127/220v",
+   "price": 139.0,
+   "original": 299.0,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_842831-MLA99963285219_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-rotativa-mondial-ceramica-tourmaline-ion-3x1-erb-01-rosa-127-220v/p/MLB22871761?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794689110
+  },
   {
    "n": 2296,
    "key": "mercadolivre:MLB67291937",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794649358
-  },
-  {
-   "n": 2237,
-   "key": "mercadolivre:MLB64641216",
-   "title": "Ventilador de Coluna Britânia 6 Pás de 40cm 160W BVC41A",
-   "price": 170.1,
-   "original": 189.0,
-   "pct": 10,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_702322-MLA105457895165_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-britania-6-pas-de-40cm-160w-bvc41a/p/MLB64641216?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794648750
   }
  ]
 }
