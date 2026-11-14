@@ -1,7 +1,21 @@
 {
- "updated": 1794634517,
+ "updated": 1794634938,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2219,
+   "key": "mercadolivre:MLB50026187",
+   "title": "Kit Skincare Gel de Limpeza e Hidratante com Vitamina C, Ação Antioleosidade e Uniformizadora, Pele Iluminada e Hidratada, Uniform & Matte Garnier 150g",
+   "price": 41.55,
+   "original": 67.7,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_994620-MLA84725346069_052025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-skincare-gel-de-limpeza-e-hidratante-com-vitamina-c-acao-antioleosidade-e-uniformizadora-pele-iluminada-e-hidratada-/p/MLB50026187?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794634918
+  },
   {
    "n": 2218,
    "key": "mercadolivre:MLB75879865",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794600293
-  },
-  {
-   "n": 2159,
-   "key": "mercadolivre:MLB50376945",
-   "title": "Fritadeira Elétrica Air Fryer Quad Fry Elgin 4,2 L, 1400w",
-   "price": 145.0,
-   "original": 299.0,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_927559-MLA99450788218_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fritadeira-eletrica-air-fryer-quad-fry-elgin-4-2-l-1400w/p/MLB50376945?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794599872
   }
  ]
 }
