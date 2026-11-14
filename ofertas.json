@@ -1,7 +1,21 @@
 {
- "updated": 1794620095,
+ "updated": 1794620516,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2192,
+   "key": "mercadolivre:MLB53283915",
+   "title": "Lixadeira Pneumática Orbital 6 Rokit Roquite Hookit",
+   "price": 145.56,
+   "original": 210.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_820674-MLA99527117808_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-orbital-6-rokit-roquite-hookit/p/MLB53283915?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794620496
+  },
   {
    "n": 2191,
    "key": "mercadolivre:MLB60948234",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794588724
-  },
-  {
-   "n": 2132,
-   "key": "mercadolivre:MLB28572551",
-   "title": "Smart Tv Stick Full Hd Intelbras Preto Padrão",
-   "price": 245.28,
-   "original": 434.9,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_978515-MLA99506607420_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-stick-full-hd-intelbras-preto-padrao/p/MLB28572551?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794588303
   }
  ]
 }
