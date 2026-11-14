@@ -1,7 +1,21 @@
 {
- "updated": 1794697876,
+ "updated": 1794698297,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2309,
+   "key": "mercadolivre:MLB50969758",
+   "title": "Kit Nível A Laser Verde 12 Linhas Esquadro + Suporte + Tripé Recarregavel Profissional Prumo Autonivelante Nano Bateria",
+   "price": 217.99,
+   "original": 329.97,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_609947-MLA100070739765_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-nivel-a-laser-verde-12-linhas-esquadro-suporte-tripe-recarregavel-profissional-prumo-autonivelante-nano-bateria/p/MLB50969758?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794698277
+  },
   {
    "n": 2308,
    "key": "mercadolivre:MLB19745358",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794655796
-  },
-  {
-   "n": 2249,
-   "key": "mercadolivre:MLB24205737",
-   "title": "Prancha Alisadora By Juliette Mondial Golden Rose Bivolt P-JU-01",
-   "price": 146.29,
-   "original": 190.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_797178-MLA99964856819_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/prancha-alisadora-by-juliette-mondial-golden-rose-bivolt-p-ju-01/p/MLB24205737?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794655375
   }
  ]
 }
