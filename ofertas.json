@@ -1,7 +1,21 @@
 {
- "updated": 1794672454,
+ "updated": 1794672874,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2283,
+   "key": "mercadolivre:MLB64301351",
+   "title": "Geladeira Brastemp Frost Free 385 Litros Duplex Branca - BRM46MB",
+   "price": 2469.55,
+   "original": 3685.9,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_830395-MLA104870269405_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-brastemp-frost-free-385-litros-duplex-branca-brm46mb/p/MLB64301351?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794672854
+  },
   {
    "n": 2282,
    "key": "mercadolivre:MLB24820394",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794639151
-  },
-  {
-   "n": 2223,
-   "key": "mercadolivre:MLB79377107",
-   "title": "Jogo Serra Copo 16 Peças 19mm A 127mm Para Madeira Gesso Pvc Mdf Compensado Kit Completo Para Furadeira Conjunto De Serras Para Perfuração E Corte Circular Em O",
-   "price": 41.59,
-   "original": 69.9,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631791-MLA121460787565_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/jogo-serra-copo-16-pecas-19mm-a-127mm-para-madeira-gesso-pvc-mdf-compensado-kit-completo-para-furadeira-conjunto-de-serr/p/MLB79377107?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794638528
   }
  ]
 }
