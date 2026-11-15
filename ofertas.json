@@ -1,7 +1,21 @@
 {
- "updated": 1794704230,
+ "updated": 1794705478,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2320,
+   "key": "mercadolivre:MLB69013896",
+   "title": "Caixa de Som Amplificada Philco Extreme Bluetooth 5.3 480W 2 Microfones TWS Flash Light Bateria Recarregável PCX4801",
+   "price": 699.0,
+   "original": 1212.86,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680616-MLA116669244073_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-amplificada-philco-extreme-bluetooth-5-3-480w-2-microfones-tws-flash-light-bateria-recarregavel-pcx4801/p/MLB69013896?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794705458
+  },
   {
    "n": 2319,
    "key": "mercadolivre:MLB69649128",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794660732
-  },
-  {
-   "n": 2260,
-   "key": "mercadolivre:MLB19790746",
-   "title": "Micro-ondas Electrolux 36L Branco Efficient com Descongelamento Assistido ME36B",
-   "price": 603.68,
-   "original": 899.0,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_700594-MLA99497292644_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-electrolux-36l-branco-efficient-com-descongelamento-assistido-me36b/p/MLB19790746?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794660311
   }
  ]
 }
