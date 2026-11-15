@@ -1,7 +1,21 @@
 {
- "updated": 1794701283,
+ "updated": 1794701704,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2313,
+   "key": "mercadolivre:MLB28765604",
+   "title": "Parafusadeira e Furadeira de Impacto 3/8\" WAP K21 ID02 2000 mAh",
+   "price": 189.0,
+   "original": 260.0,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_621555-MLA114663974288_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-de-impacto-3-8-wap-k21-id02-2000-mah/p/MLB28765604?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794701684
+  },
   {
    "n": 2312,
    "key": "mercadolivre:MLB67565942",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794657480
-  },
-  {
-   "n": 2253,
-   "key": "mercadolivre:MLB26168813",
-   "title": "Relógio Para Enfermagem Medicina Silicone Broche Lapela Cor Azul",
-   "price": 24.24,
-   "original": 29.9,
-   "pct": 19,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_822613-MLA99588507110_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-para-enfermagem-medicina-silicone-broche-lapela-cor-azul/p/MLB26168813?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794657059
   }
  ]
 }
