@@ -1,7 +1,21 @@
 {
- "updated": 1794703809,
+ "updated": 1794704230,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2319,
+   "key": "mercadolivre:MLB69649128",
+   "title": "Mini Ventilador Soprador Ar Potente Turbo 130000rpm Assoprador Elétrico Sem Fio Recarregável USB-C 3 Níveis Jato Forte Portátil Multiuso Limpeza Teclado Carro A",
+   "price": 46.9,
+   "original": 96.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_674554-MLA119255486606_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-ventilador-soprador-ar-potente-turbo-130000rpm-assoprador-eletrico-sem-fio-recarregavel-usb-c-3-niveis-jato-forte-p/p/MLB69649128?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794704210
+  },
   {
    "n": 2318,
    "key": "mercadolivre:MLB45828425",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794660311
-  },
-  {
-   "n": 2259,
-   "key": "mercadolivre:MLB17822924",
-   "title": "Relógio de pulso Casio GA-2100 com corria de resina cor vermelho - fondo bordô",
-   "price": 409.99,
-   "original": 998.0,
-   "pct": 59,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_884312-MLA99489775726_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-ga-2100-com-corria-de-resina-cor-vermelho-fondo-bordo/p/MLB17822924?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794659890
   }
  ]
 }
