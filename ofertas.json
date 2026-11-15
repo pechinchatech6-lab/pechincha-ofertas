@@ -1,7 +1,21 @@
 {
- "updated": 1794701704,
+ "updated": 1794702125,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2314,
+   "key": "mercadolivre:MLB19472441",
+   "title": "Chapinha De Cabelo Taiff Style Pro Titanium Preta Cor Preto",
+   "price": 166.0,
+   "original": 309.9,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_962693-MLA99881819447_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-taiff-style-pro-titanium-preta-cor-preto/p/MLB19472441?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794702105
+  },
   {
    "n": 2313,
    "key": "mercadolivre:MLB28765604",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794657901
-  },
-  {
-   "n": 2254,
-   "key": "mercadolivre:MLB68347781",
-   "title": "Cinto Duplo Masculino Couro Dupla Face 2 Em 1 Preto Marrom Social 120CM",
-   "price": 26.09,
-   "original": 29.9,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_943212-MLA112119025356_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cinto-duplo-masculino-couro-dupla-face-2-em-1-preto-marrom-social-120cm/p/MLB68347781?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794657480
   }
  ]
 }
