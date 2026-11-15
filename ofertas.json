@@ -1,7 +1,21 @@
 {
- "updated": 1794705899,
+ "updated": 1794706320,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2322,
+   "key": "mercadolivre:MLB50147982",
+   "title": "Caixa De Som Portátil Bluetooth Sabala 901 Tws 2200mah Cor Azul",
+   "price": 99.0,
+   "original": 139.0,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_795378-MLA99483618370_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-bluetooth-sabala-901-tws-2200mah-cor-azul/p/MLB50147982?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794706300
+  },
   {
    "n": 2321,
    "key": "mercadolivre:MLB65568637",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794661574
-  },
-  {
-   "n": 2262,
-   "key": "mercadolivre:MLB53769483",
-   "title": "Micro-ondas 20l Branco Mastercook Midea",
-   "price": 394.68,
-   "original": 569.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628160-MLA99466162342_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-20l-branco-mastercook-midea/p/MLB53769483?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794661153
   }
  ]
 }
