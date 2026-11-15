@@ -1,7 +1,21 @@
 {
- "updated": 1794706320,
+ "updated": 1794706741,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2323,
+   "key": "mercadolivre:MLB79854330",
+   "title": "Projetor Portátil Mini HY300 4k Full HD 1080p Smart Tv Android 11.0 Wi-Fi Bluetooth Home Theater Cinema Em Casa TV Imagem Nítida Som Potente Alta Resolução Com ",
+   "price": 179.42,
+   "original": 349.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_753311-MLA116710028684_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-portatil-mini-hy300-4k-full-hd-1080p-smart-tv-android-11-0-wi-fi-bluetooth-home-theater-cinema-em-casa-tv-image/p/MLB79854330?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794706721
+  },
   {
    "n": 2322,
    "key": "mercadolivre:MLB50147982",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794661995
-  },
-  {
-   "n": 2263,
-   "key": "mercadolivre:MLB66373729",
-   "title": "Relógio De Mesa Compacto Led Com Projetor De Parede Data Temperatura Despertador Hora Led Verde - Aero Home",
-   "price": 44.74,
-   "original": 72.47,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_953599-MLA108374286237_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-mesa-compacto-led-com-projetor-de-parede-data-temperatura-despertador-hora-led-verde-aero-home/p/MLB66373729?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794661574
   }
  ]
 }
