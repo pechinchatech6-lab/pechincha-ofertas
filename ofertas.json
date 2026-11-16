@@ -1,7 +1,21 @@
 {
- "updated": 1794857032,
+ "updated": 1794857453,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2337,
+   "key": "mercadolivre:MLB19140415",
+   "title": "Suplemento Whey Isolate Protein Fuse 1,8kg sabor Morango Dark Lab",
+   "price": 179.9,
+   "original": 699.9,
+   "pct": 74,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_989007-MLA99405715766_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suplemento-whey-isolate-protein-fuse-1-8kg-sabor-morango-dark-lab/p/MLB19140415?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794857433
+  },
   {
    "n": 2336,
    "key": "mercadolivre:MLB20689534",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794670749
-  },
-  {
-   "n": 2277,
-   "key": "mercadolivre:MLB18929667",
-   "title": "Webcam Webookers WB Full HD 1080P 30FPS USB com Microfone e Tripé Preto",
-   "price": 94.31,
-   "original": 179.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_638717-MLA113092047115_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-webookers-wb-full-hd-1080p-30fps-usb-com-microfone-e-tripe-preto/p/MLB18929667?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794670328
   }
  ]
 }
