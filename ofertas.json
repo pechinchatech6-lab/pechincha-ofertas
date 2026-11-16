@@ -1,7 +1,21 @@
 {
- "updated": 1794859979,
+ "updated": 1794860400,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2344,
+   "key": "mercadolivre:MLB24028629",
+   "title": "Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Chamadas Claras Personal",
+   "price": 129.0,
+   "original": 299.0,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_730568-MLA99983575997_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-soundcore-by-anker-p20i-graves-poderosos-e-impactantes-bluetooth-5-3-30h-de-reproducao-resistencia-a-agua/p/MLB24028629?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794860380
+  },
   {
    "n": 2343,
    "key": "mercadolivre:MLB25929487",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794673696
-  },
-  {
-   "n": 2284,
-   "key": "mercadolivre:MLB80498643",
-   "title": "Alaxe Caixa De Som Inteligente Comando Voz Portátil Bluetooth LED RGB Compatível Com Aplicativo Alexa No Celular Som Sem Fio Compacta Para Casa Quarto Escritóri",
-   "price": 42.99,
-   "original": 175.0,
-   "pct": 75,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_605157-MLA117596016824_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/alaxe-caixa-de-som-inteligente-comando-voz-portatil-bluetooth-led-rgb-compativel-com-aplicativo-alexa-no-celular-som-sem/p/MLB80498643?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794673275
   }
  ]
 }
