@@ -1,7 +1,21 @@
 {
- "updated": 1794706741,
+ "updated": 1794851981,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2324,
+   "key": "mercadolivre:MLB78889321",
+   "title": "Smartphone Motorola Moto G37 5G - 128GB 4GB RAM + 8GB RAM Boost, Camera 50MP com editor magico, Bateria de 5200 mAh e tela 6.7\" 120Hz, NFC - Azul Nautico",
+   "price": 1099.0,
+   "original": 2099.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_701453-MLA115696737028_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g37-5g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-com-editor-magico-bateria-de-5200-mah-e-tela-6-7/p/MLB78889321?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794851961
+  },
   {
    "n": 2323,
    "key": "mercadolivre:MLB79854330",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794663721
-  },
-  {
-   "n": 2264,
-   "key": "mercadolivre:MLB57719746",
-   "title": "Lava Louças 8 Serviços Branco Touch Plus Midea",
-   "price": 1643.42,
-   "original": 1999.0,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_954836-MLA92889662154_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lava-loucas-8-servicos-branco-touch-plus-midea/p/MLB57719746?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794661995
   }
  ]
 }
