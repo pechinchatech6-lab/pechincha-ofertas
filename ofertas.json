@@ -1,7 +1,21 @@
 {
- "updated": 1794870083,
+ "updated": 1794870504,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2368,
+   "key": "mercadolivre:MLB62147878",
+   "title": "Caixa De Som Speaker Aiwa AWS-SP-07-B 7w Bluetooth Ipx6 Preto",
+   "price": 123.75,
+   "original": 259.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_903303-MLA98366195301_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-speaker-aiwa-aws-sp-07-b-7w-bluetooth-ipx6-preto/p/MLB62147878?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794870484
+  },
   {
    "n": 2367,
    "key": "mercadolivre:MLB80245753",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794698277
-  },
-  {
-   "n": 2308,
-   "key": "mercadolivre:MLB19745358",
-   "title": "ISDIN Protetor Solar Facial Fusion Water Magic Color FPS 50 – Cor Clara - 50ml",
-   "price": 82.19,
-   "original": 114.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_705809-MLA99442043664_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/isdin-protetor-solar-facial-fusion-water-magic-color-fps-50-cor-clara-50ml/p/MLB19745358?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794697856
   }
  ]
 }
