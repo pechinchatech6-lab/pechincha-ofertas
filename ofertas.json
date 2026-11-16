@@ -1,7 +1,21 @@
 {
- "updated": 1794855769,
+ "updated": 1794856190,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2334,
+   "key": "mercadolivre:MLB48947564",
+   "title": "Teclado Gamer Gurumania Semi Mecanico Rgb Led Anti-Ghosting Usb Pc Xbox PS4 PS5",
+   "price": 46.19,
+   "original": 65.99,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_664235-MLA112022117474_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/teclado-gamer-gurumania-semi-mecanico-rgb-led-anti-ghosting-usb-pc-xbox-ps4-ps5/p/MLB48947564?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794856170
+  },
   {
    "n": 2333,
    "key": "mercadolivre:MLB1040287790",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794668859
-  },
-  {
-   "n": 2274,
-   "key": "mercadolivre:MLB65113053",
-   "title": "Chaleira Jarra Elétrica 1,8L Litros Em Inox Desligamento Automático Aquecimento Rápido Segura Café Chá Fácil Abertura Tampa Alça Ergométrica",
-   "price": 39.99,
-   "original": 78.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_877555-MLA114973407743_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chaleira-jarra-eletrica-1-8l-litros-em-inox-desligamento-automatico-aquecimento-rapido-segura-cafe-cha-facil-abertura-ta/p/MLB65113053?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794668286
   }
  ]
 }
