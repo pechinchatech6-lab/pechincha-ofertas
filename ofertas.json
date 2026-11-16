@@ -1,7 +1,21 @@
 {
- "updated": 1794859137,
+ "updated": 1794859558,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2342,
+   "key": "mercadolivre:MLB56064567",
+   "title": "Short Cinta Modeladora Cós Alto Compressão Redutora Selene Cor Pó De Arroz Tamanho G",
+   "price": 21.24,
+   "original": 73.98,
+   "pct": 71,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_965925-MLA92022613418_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/short-cinta-modeladora-cos-alto-compressao-redutora-selene-cor-po-de-arroz-tamanho-g/p/MLB56064567?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794859538
+  },
   {
    "n": 2341,
    "key": "mercadolivre:MLB40182325",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794672854
-  },
-  {
-   "n": 2282,
-   "key": "mercadolivre:MLB24820394",
-   "title": "Creme Depilatório Corporal Peles Delicadas 100ml - Veet",
-   "price": 34.0,
-   "original": 52.09,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_636110-MLA115154354530_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatorio-corporal-peles-delicadas-100ml-veet/p/MLB24820394?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794672433
   }
  ]
 }
