@@ -1,7 +1,21 @@
 {
- "updated": 1794869241,
+ "updated": 1794869662,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2366,
+   "key": "mercadolivre:MLB79524826",
+   "title": "Smart TV Philips 32 polegadas QLED HD Wi-Fi HDR10 Dolby Áudio 32PQG6921/78",
+   "price": 999.0,
+   "original": 1549.0,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_984410-MLA121286451921_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-philips-32-polegadas-qled-hd-wi-fi-hdr10-dolby-audio-32pqg6921-78/p/MLB79524826?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794869642
+  },
   {
    "n": 2365,
    "key": "mercadolivre:MLB58382190",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794697435
-  },
-  {
-   "n": 2306,
-   "key": "mercadolivre:MLB40346127",
-   "title": "NIVEA Hidratante Labial Hidra Color 3 em 1 Rosé 4,8g, Cor Intensa, Hidratação 24h, Proteção UVA/UVB, Lábios e Bochechas",
-   "price": 17.07,
-   "original": 30.99,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_896307-MLA104534508623_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivea-hidratante-labial-hidra-color-3-em-1-rose-4-8g-cor-intensa-hidratacao-24h-protecao-uva-uvb-labios-e-bochechas/p/MLB40346127?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794697014
   }
  ]
 }
