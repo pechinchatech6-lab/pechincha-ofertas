@@ -1,7 +1,21 @@
 {
- "updated": 1794872609,
+ "updated": 1794873030,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2374,
+   "key": "mercadolivre:MLB81483994",
+   "title": "Soundbar 350W XINGWON com 4 alto-falantes e 4.0 canais, Home Theater destacável com Dolby e DTS, Caixa De Som Bluetooth 5.3 , entradas Aux/HDMI(ARC)/USB/Óptica/",
+   "price": 316.59,
+   "original": 700.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_757334-MLA119069939232_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-350w-xingwon-com-4-alto-falantes-e-4-0-canais-home-theater-destacavel-com-dolby-e-dts-caixa-de-som-bluetooth-5-/p/MLB81483994?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794873010
+  },
   {
    "n": 2373,
    "key": "mercadolivre:MLB58338157",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794702526
-  },
-  {
-   "n": 2314,
-   "key": "mercadolivre:MLB19472441",
-   "title": "Chapinha De Cabelo Taiff Style Pro Titanium Preta Cor Preto",
-   "price": 166.0,
-   "original": 309.9,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_962693-MLA99881819447_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chapinha-de-cabelo-taiff-style-pro-titanium-preta-cor-preto/p/MLB19472441?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794702105
   }
  ]
 }
