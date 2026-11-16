@@ -1,7 +1,21 @@
 {
- "updated": 1794866715,
+ "updated": 1794867136,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2360,
+   "key": "mercadolivre:MLB15502351",
+   "title": "Caixa de Som Bluetooth Grasep D-S14 Vermelha Portátil Subwoofer 5.1",
+   "price": 124.0,
+   "original": 198.99,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_948865-MLA99939894493_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-grasep-d-s14-vermelha-portatil-subwoofer-5-1/p/MLB15502351?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794867116
+  },
   {
    "n": 2359,
    "key": "mercadolivre:MLB18630341",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794691183
-  },
-  {
-   "n": 2300,
-   "key": "mercadolivre:MLB20940529",
-   "title": "Webcam Full HD Logitech Brio 500 - Branco",
-   "price": 499.9,
-   "original": 799.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_833979-MLA106269030987_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-brio-500-branco/p/MLB20940529?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794690762
   }
  ]
 }
