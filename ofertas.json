@@ -1,7 +1,21 @@
 {
- "updated": 1794864610,
+ "updated": 1794865031,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2355,
+   "key": "mercadolivre:MLB19772622",
+   "title": "Suplemento Alimentar Whey Fort 3W Sabor Frutas Vermelhas 900g Vitafor",
+   "price": 200.51,
+   "original": 373.0,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_900386-MLU75143558182_032024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/suplemento-alimentar-whey-fort-3w-sabor-frutas-vermelhas-900g-vitafor/p/MLB19772622?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794865011
+  },
   {
    "n": 2354,
    "key": "mercadolivre:MLB53979422",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794688689
-  },
-  {
-   "n": 2295,
-   "key": "mercadolivre:MLB25246255",
-   "title": "Prancha De Cabelo Mq Pro 480°f Titânio Automatico Chumbo 127/220v",
-   "price": 398.04,
-   "original": 577.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_711920-MLA99988151489_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/prancha-de-cabelo-mq-pro-480-f-titanio-automatico-chumbo-127-220v/p/MLB25246255?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794685575
   }
  ]
 }
