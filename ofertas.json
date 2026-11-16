@@ -1,7 +1,21 @@
 {
- "updated": 1794861663,
+ "updated": 1794862084,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2348,
+   "key": "mercadolivre:MLB80713504",
+   "title": "Caixa De Som Bluetooth6.0 Sabala Dr500 Tws 3 Mais Estéreo 46H 500w 81000mah Portátil Boombox karaoke App ipx6 Potente Hifi EQ 35hz - 20khz cor preto",
+   "price": 2287.0,
+   "original": 3999.0,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_726286-MLA119814720109_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth6-0-sabala-dr500-tws-3-mais-estereo-46h-500w-81000mah-portatil-boombox-karaoke-app-ipx6-potente-hi/p/MLB80713504?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794862064
+  },
   {
    "n": 2347,
    "key": "mercadolivre:MLB19603205",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794677204
-  },
-  {
-   "n": 2288,
-   "key": "mercadolivre:MLB74952764",
-   "title": "Kit Jogo De Ferramentas Completo 122 Peças Com Soquetes Chaves Martelo Trena Alicate Bits Maleta TBNT13 The Black Tools",
-   "price": 74.0,
-   "original": 169.9,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_666540-MLA114108111681_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-jogo-de-ferramentas-completo-122-pecas-com-soquetes-chaves-martelo-trena-alicate-bits-maleta-tbnt13-the-black-tools/p/MLB74952764?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794676601
   }
  ]
 }
