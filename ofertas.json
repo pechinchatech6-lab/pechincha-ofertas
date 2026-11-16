@@ -1,7 +1,21 @@
 {
- "updated": 1794862084,
+ "updated": 1794862505,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2349,
+   "key": "mercadolivre:MLB18725308",
+   "title": "Creatina Monohidratada 500g 100% Pura - Soldiers Nutrition",
+   "price": 44.43,
+   "original": 79.9,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_839864-MLA119937153018_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creatina-monohidratada-500g-100-pura-soldiers-nutrition/p/MLB18725308?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794862485
+  },
   {
    "n": 2348,
    "key": "mercadolivre:MLB80713504",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794678224
-  },
-  {
-   "n": 2289,
-   "key": "mercadolivre:MLB74328772",
-   "title": "Relógio Digital Com Data E Alarme De Mesa E Parede Led Top Cor Vermelho",
-   "price": 47.0,
-   "original": 62.96,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_792964-MLA113590076677_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-digital-com-data-e-alarme-de-mesa-e-parede-led-top-cor-vermelho/p/MLB74328772?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794677204
   }
  ]
 }
