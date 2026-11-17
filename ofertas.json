@@ -1,7 +1,21 @@
 {
- "updated": 1794916993,
+ "updated": 1794917414,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2473,
+   "key": "mercadolivre:MLB44030620",
+   "title": "Lâmina De Serra Fita 1,46m Açougue Carnes Ossos Delta Grill",
+   "price": 35.99,
+   "original": 47.5,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_701034-MLA99141000907_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lamina-de-serra-fita-1-46m-acougue-carnes-ossos-delta-grill/p/MLB44030620?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794917394
+  },
   {
    "n": 2472,
    "key": "mercadolivre:MLB61372818",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794890262
-  },
-  {
-   "n": 2413,
-   "key": "mercadolivre:MLB47890206",
-   "title": "Lixadeira Pneumática Roto Orbital 6pol Ch O-10 Chiaperini",
-   "price": 228.99,
-   "original": 426.9,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_704005-MLA111956336055_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-roto-orbital-6pol-ch-o-10-chiaperini/p/MLB47890206?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794889841
   }
  ]
 }
