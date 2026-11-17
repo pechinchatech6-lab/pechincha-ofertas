@@ -1,7 +1,21 @@
 {
- "updated": 1794942070,
+ "updated": 1794942491,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2527,
+   "key": "mercadolivre:MLB27237304",
+   "title": "Lava Louças Brastemp 8 Serviços Preta - BLF08AE Preto",
+   "price": 1699.0,
+   "original": 2252.0,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_963744-MLA99491918360_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lava-loucas-brastemp-8-servicos-preta-blf08ae-preto/p/MLB27237304?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794942471
+  },
   {
    "n": 2526,
    "key": "mercadolivre:MLB66911368",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794915289
-  },
-  {
-   "n": 2467,
-   "key": "mercadolivre:MLB65522329",
-   "title": "Secador de Cabelo PSD16A com 6 Acessórios 1450W Motor BLDC Philco Cinza E Rosa",
-   "price": 429.9,
-   "original": 799.0,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_915896-MLA106454246356_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-psd16a-com-6-acessorios-1450w-motor-bldc-philco-cinza-e-rosa/p/MLB65522329?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794914868
   }
  ]
 }
