@@ -1,7 +1,21 @@
 {
- "updated": 1794947987,
+ "updated": 1794948408,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2538,
+   "key": "mercadolivre:MLB14748197",
+   "title": "EUCERIN Dual Sérum Facial Antimanchas e Anti-idade 30ml, Anti-Pigment, Clareador, Thiamidol, Ácido Hialurônico",
+   "price": 209.0,
+   "original": 339.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_771909-MLA103879690815_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/eucerin-dual-serum-facial-antimanchas-e-anti-idade-30ml-anti-pigment-clareador-thiamidol-acido-hialuronico/p/MLB14748197?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794948388
+  },
   {
    "n": 2537,
    "key": "mercadolivre:MLB19723843",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794919920
-  },
-  {
-   "n": 2478,
-   "key": "mercadolivre:MLB25708528",
-   "title": "Shampoo Tonalizante Grecin Control GX Reduz Grisalho 118ml",
-   "price": 74.0,
-   "original": 111.9,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631595-MLA99350047876_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-grecin-control-gx-reduz-grisalho-118ml/p/MLB25708528?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794919499
   }
  ]
 }
