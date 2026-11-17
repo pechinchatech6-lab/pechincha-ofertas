@@ -1,7 +1,21 @@
 {
- "updated": 1794886489,
+ "updated": 1794886910,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2406,
+   "key": "mercadolivre:MLB47887434",
+   "title": "Relógio Parede LED Digital Grande 46x22cm Hall Entrada Academia Hospital Igreja Comércio Recepção Calendário Termômetro Data Hora 12/24h Temperatura Dia Mês Ano",
+   "price": 123.89,
+   "original": 214.28,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_656466-MLA112698128142_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-parede-led-digital-grande-46x22cm-hall-entrada-academia-hospital-igreja-comercio-recepcao-calendario-termometro-/p/MLB47887434?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794886890
+  },
   {
    "n": 2405,
    "key": "mercadolivre:MLB29043746",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794861643
-  },
-  {
-   "n": 2346,
-   "key": "mercadolivre:MLB79663696",
-   "title": "1 Par Meia Polaina Aeróbica Academia Esporte Fitness Premium Cor Roxo Desenho do tecido Lisa Tamanho Único",
-   "price": 18.9,
-   "original": 27.8,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_987354-MLA118009293495_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/1-par-meia-polaina-aerobica-academia-esporte-fitness-premium-cor-roxo-desenho-do-tecido-lisa-tamanho-unico/p/MLB79663696?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794861222
   }
  ]
 }
