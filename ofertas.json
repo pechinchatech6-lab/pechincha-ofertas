@@ -1,7 +1,21 @@
 {
- "updated": 1794936906,
+ "updated": 1794937327,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2517,
+   "key": "mercadolivre:MLB68855045",
+   "title": "Sérum Roll-on Área Dos Olhos Adeus Olheiras 10ml Kokeshi Todo Tipo De Pele Dia/noite",
+   "price": 24.9,
+   "original": 43.9,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_840236-MLA114073228902_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/serum-roll-on-area-dos-olhos-adeus-olheiras-10ml-kokeshi-todo-tipo-de-pele-dia-noite/p/MLB68855045?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794937307
+  },
   {
    "n": 2516,
    "key": "mercadolivre:MLB64888551",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794909281
-  },
-  {
-   "n": 2457,
-   "key": "mercadolivre:MLB77579126",
-   "title": "Caixa De Som Bluetooth Sem fio inova Com Despertador Rádio Fm Relógio Led Luz RGB",
-   "price": 67.0,
-   "original": 125.0,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_653031-MLA116357189717_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-sem-fio-inova-com-despertador-radio-fm-relogio-led-luz-rgb/p/MLB77579126?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794908860
   }
  ]
 }
