@@ -1,7 +1,21 @@
 {
- "updated": 1794925201,
+ "updated": 1794926225,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2492,
+   "key": "mercadolivre:MLB55762063",
+   "title": "Smartphone Motorola Moto G06 - 256gb 4gb Ram e Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9 - Bege",
+   "price": 809.9,
+   "original": 969.9,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_793349-MLA91806774304_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g06-256gb-4gb-ram-e-camera-50mp-com-ai-bateria-de-5200-mah-tela-6-9-bege/p/MLB55762063?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794926205
+  },
   {
    "n": 2491,
    "key": "mercadolivre:MLB42495263",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794898262
-  },
-  {
-   "n": 2432,
-   "key": "mercadolivre:MLB55024225",
-   "title": "Soprador De Ar Turbo 21v Portátil Bateria Recarregável Potente Para Folhas Pó Limpeza Carro Tso-21a The Black Tools",
-   "price": 99.99,
-   "original": 199.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_987154-MLA116188035225_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-de-ar-turbo-21v-portatil-bateria-recarregavel-potente-para-folhas-po-limpeza-carro-tso-21a-the-black-tools/p/MLB55024225?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794897841
   }
  ]
 }
