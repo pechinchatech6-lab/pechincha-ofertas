@@ -1,7 +1,21 @@
 {
- "updated": 1794882713,
+ "updated": 1794883134,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2398,
+   "key": "mercadolivre:MLB24006205",
+   "title": "Batom Líquido Vermelho Radiante Glam Matte Tint 4g",
+   "price": 29.9,
+   "original": 59.99,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_839218-MLU74087957490_012024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/batom-liquido-vermelho-radiante-glam-matte-tint-4g/p/MLB24006205?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794883114
+  },
   {
    "n": 2397,
    "key": "mercadolivre:MLB31059498",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794858275
-  },
-  {
-   "n": 2338,
-   "key": "mercadolivre:MLB65411803",
-   "title": "Saida De Praia Mini Saia Plus Size Regulagem Cor Preto Desenho Do Tecido Lisa Tamanho G3 Veste 52 Ao 56",
-   "price": 31.93,
-   "original": 49.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_692735-MLA118181129729_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/saida-de-praia-mini-saia-plus-size-regulagem-cor-preto-desenho-do-tecido-lisa-tamanho-g3-veste-52-ao-56/p/MLB65411803?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794857854
   }
  ]
 }
