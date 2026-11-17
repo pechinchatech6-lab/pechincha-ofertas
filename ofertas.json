@@ -1,7 +1,21 @@
 {
- "updated": 1794883963,
+ "updated": 1794884384,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2400,
+   "key": "mercadolivre:MLB10481238",
+   "title": "Máscara de Cílios Maybelline Lash Sensational à Prova d'Água para Volume e Definição",
+   "price": 23.74,
+   "original": 29.9,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_645424-MLU72821012247_112023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mascara-de-cilios-maybelline-lash-sensational-a-prova-d-agua-para-volume-e-definicao/p/MLB10481238?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794884364
+  },
   {
    "n": 2399,
    "key": "mercadolivre:MLB67561388",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794859117
-  },
-  {
-   "n": 2340,
-   "key": "mercadolivre:MLB26607995",
-   "title": "Saia Pareô Canga Preta Marujá Beach Viscose Pompom Tamanho 42-46",
-   "price": 39.8,
-   "original": 54.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_918425-MLA99582022534_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/saia-pareo-canga-preta-maruja-beach-viscose-pompom-tamanho-42-46/p/MLB26607995?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794858696
   }
  ]
 }
