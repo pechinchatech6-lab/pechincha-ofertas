@@ -1,7 +1,21 @@
 {
- "updated": 1794933526,
+ "updated": 1794933947,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2509,
+   "key": "mercadolivre:MLB75465650",
+   "title": "Coletor Guia de Pó Furadeira Parafusadeira 4 a 12mm Dor Block",
+   "price": 19.0,
+   "original": 38.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_981968-MLA114526798003_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/coletor-guia-de-po-furadeira-parafusadeira-4-a-12mm-dor-block/p/MLB75465650?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794933927
+  },
   {
    "n": 2508,
    "key": "mercadolivre:MLB40346127",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794905913
-  },
-  {
-   "n": 2449,
-   "key": "mercadolivre:MLB62063542",
-   "title": "Despertador Digital Bluetooth G50 Relógio de Mesa LED Espelhado com Rádio FM Caixa de Som Duplo Alarme Sensor de Temperatura USB AUX Som Estéreo para Quarto Cab",
-   "price": 56.0,
-   "original": 110.0,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_801211-MLA118406742432_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/despertador-digital-bluetooth-g50-relogio-de-mesa-led-espelhado-com-radio-fm-caixa-de-som-duplo-alarme-sensor-de-tempera/p/MLB62063542?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794905492
   }
  ]
 }
