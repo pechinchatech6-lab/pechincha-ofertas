@@ -1,7 +1,21 @@
 {
- "updated": 1794876819,
+ "updated": 1794877240,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2384,
+   "key": "mercadolivre:MLB69328828",
+   "title": "Fire Tv Stick Hd 2a Geração Ger 26 Preto De Voz",
+   "price": 228.53,
+   "original": 479.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_921847-MLA113725342133_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fire-tv-stick-hd-2a-geracao-ger-26-preto-de-voz/p/MLB69328828?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794877220
+  },
   {
    "n": 2383,
    "key": "mercadolivre:MLB39962085",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794852382
-  },
-  {
-   "n": 2324,
-   "key": "mercadolivre:MLB78889321",
-   "title": "Smartphone Motorola Moto G37 5G - 128GB 4GB RAM + 8GB RAM Boost, Camera 50MP com editor magico, Bateria de 5200 mAh e tela 6.7\" 120Hz, NFC - Azul Nautico",
-   "price": 1099.0,
-   "original": 2099.0,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_701453-MLA115696737028_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g37-5g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-com-editor-magico-bateria-de-5200-mah-e-tela-6-7/p/MLB78889321?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794851961
   }
  ]
 }
