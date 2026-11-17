@@ -1,7 +1,21 @@
 {
- "updated": 1794885647,
+ "updated": 1794886068,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2404,
+   "key": "mercadolivre:MLB67610941",
+   "title": "Geladeira Electrolux Frost Free 380L AutoSense Inverter Duplex Branca (IF41)",
+   "price": 2575.0,
+   "original": 3609.0,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_782612-MLA110053671527_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-frost-free-380l-autosense-inverter-duplex-branca-if41/p/MLB67610941?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794886048
+  },
   {
    "n": 2403,
    "key": "mercadolivre:MLB63414386",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794860801
-  },
-  {
-   "n": 2344,
-   "key": "mercadolivre:MLB24028629",
-   "title": "Fone De Ouvido Soundcore by Anker P20i Graves Poderosos e Impactantes Bluetooth 5.3 30H de Reprodução Resistência à Água 2 Mics IA para Chamadas Claras Personal",
-   "price": 129.0,
-   "original": 299.0,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_730568-MLA99983575997_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-soundcore-by-anker-p20i-graves-poderosos-e-impactantes-bluetooth-5-3-30h-de-reproducao-resistencia-a-agua/p/MLB24028629?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794860380
   }
  ]
 }
