@@ -1,7 +1,21 @@
 {
- "updated": 1794908039,
+ "updated": 1794908459,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2456,
+   "key": "mercadolivre:MLB50181290",
+   "title": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Simake",
+   "price": 119.6,
+   "original": 299.0,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_835659-MLA116548375638_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-c-2-baterias-maleta-kit-completo-led-eixo-flexivel-varios-niveis-torque-simake/p/MLB50181290?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794908439
+  },
   {
    "n": 2455,
    "key": "mercadolivre:MLB51233234",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794882693
-  },
-  {
-   "n": 2396,
-   "key": "mercadolivre:MLB79059013",
-   "title": "Projetor Basike Inteligente Telescópico com Wi-Fi e Bluetooth, Full HD 4K para Cinema e Jogos",
-   "price": 331.0,
-   "original": 600.0,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_744903-MLA117388510265_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-basike-inteligente-telescopico-com-wi-fi-e-bluetooth-full-hd-4k-para-cinema-e-jogos/p/MLB79059013?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794882272
   }
  ]
 }
