@@ -1,7 +1,21 @@
 {
- "updated": 1794905933,
+ "updated": 1794906354,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2451,
+   "key": "mercadolivre:MLB65549139",
+   "title": "Soundbar - JBL Cinema SB180 - 2.1 Canais, 110W RMS, Subwoofer Sem Fio de 6,5\", Bluetooth, HDMI ARC e Modos Cinema, Música e Notícias - Preta",
+   "price": 799.0,
+   "original": 1299.0,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_981416-MLA117651094602_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-jbl-cinema-sb180-2-1-canais-110w-rms-subwoofer-sem-fio-de-6-5-bluetooth-hdmi-arc-e-modos-cinema-musica-e-notici/p/MLB65549139?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794906334
+  },
   {
    "n": 2450,
    "key": "mercadolivre:MLB72367910",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794880588
-  },
-  {
-   "n": 2391,
-   "key": "mercadolivre:MLB15977315",
-   "title": "Philco PAS4000V aspirador de pó cor preto 127 V",
-   "price": 256.0,
-   "original": 405.31,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_944895-MLA120019063981_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/philco-pas4000v-aspirador-de-po-cor-preto-127-v/p/MLB15977315?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794880167
   }
  ]
 }
