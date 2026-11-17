@@ -1,7 +1,21 @@
 {
- "updated": 1794910143,
+ "updated": 1794910564,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2461,
+   "key": "mercadolivre:MLB73418954",
+   "title": "Soprador De Ar Turbo Automotivo Limpeza Profunda Portatil Sem Fio Multifuncional Churrasqueira Janelas Poeiras Landara",
+   "price": 43.55,
+   "original": 78.99,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_855518-MLA118434888446_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-de-ar-turbo-automotivo-limpeza-profunda-portatil-sem-fio-multifuncional-churrasqueira-janelas-poeiras-landara/p/MLB73418954?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794910544
+  },
   {
    "n": 2460,
    "key": "mercadolivre:MLB62593832",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794885206
-  },
-  {
-   "n": 2401,
-   "key": "mercadolivre:MLB27157886",
-   "title": "Kit Alicate Tramontina (Bico, Corte e Universal) 43409107",
-   "price": 82.3,
-   "original": 100.53,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_861759-MLA99467985726_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-alicate-tramontina-bico-corte-e-universal-43409107/p/MLB27157886?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794884785
   }
  ]
 }
