@@ -1,7 +1,21 @@
 {
- "updated": 1794897019,
+ "updated": 1794897440,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2431,
+   "key": "mercadolivre:MLB19932033",
+   "title": "Óleo Lubrificante Para Lâminas De Máquinas 118.3ml - Wahl",
+   "price": 24.09,
+   "original": 34.5,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_748738-MLU74247860795_012024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/oleo-lubrificante-para-laminas-de-maquinas-118-3ml-wahl/p/MLB19932033?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794897420
+  },
   {
    "n": 2430,
    "key": "mercadolivre:MLB79489063",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794872168
-  },
-  {
-   "n": 2371,
-   "key": "mercadolivre:MLB18115557",
-   "title": "Relógio De Pulso Casio Youth W-218H-1AV",
-   "price": 131.0,
-   "original": 259.0,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_734707-MLA114937003722_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-youth-w-218h-1av/p/MLB18115557?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794871747
   }
  ]
 }
