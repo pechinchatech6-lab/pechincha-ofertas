@@ -1,7 +1,21 @@
 {
- "updated": 1794931421,
+ "updated": 1794931842,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2504,
+   "key": "mercadolivre:MLB69621250",
+   "title": "Soundbar Philips 2.0, bluetooth, USB e HDMI ARC TAB4000/78",
+   "price": 329.0,
+   "original": 639.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_797186-MLA111578278076_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-philips-2-0-bluetooth-usb-e-hdmi-arc-tab4000-78/p/MLB69621250?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794931822
+  },
   {
    "n": 2503,
    "key": "mercadolivre:MLB21598769",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794903803
-  },
-  {
-   "n": 2444,
-   "key": "mercadolivre:MLB80257068",
-   "title": "Relógio de Parede Analógico Silencioso Redondo 30 cm, para Sala ou Cozinha, Prata com Fundo Preto - NANY PINK",
-   "price": 53.25,
-   "original": 89.9,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628653-MLA118801358299_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-analogico-silencioso-redondo-30-cm-para-sala-ou-cozinha-prata-com-fundo-preto-nany-pink/p/MLB80257068?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794903382
   }
  ]
 }
