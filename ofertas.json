@@ -1,7 +1,21 @@
 {
- "updated": 1794900876,
+ "updated": 1794901297,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2439,
+   "key": "mercadolivre:MLB23913684",
+   "title": "Trena Profissional 10 Metros 25mm Emborrachada Reforçada Fita de Aço Com Trava Manual Medição",
+   "price": 24.49,
+   "original": 34.99,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_813291-MLA117865477671_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/trena-profissional-10-metros-25mm-emborrachada-reforcada-fita-de-aco-com-trava-manual-medicao/p/MLB23913684?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794901277
+  },
   {
    "n": 2438,
    "key": "mercadolivre:MLB30917968",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794875536
-  },
-  {
-   "n": 2379,
-   "key": "mercadolivre:MLB20288453",
-   "title": "Shampoo Tonalizante Color Change Castanho Escuro Kissnewyork",
-   "price": 26.94,
-   "original": 43.23,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_909365-MLA112260486831_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-color-change-castanho-escuro-kissnewyork/p/MLB20288453?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794875115
   }
  ]
 }
