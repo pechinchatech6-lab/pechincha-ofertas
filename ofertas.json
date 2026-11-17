@@ -1,7 +1,21 @@
 {
- "updated": 1794902560,
+ "updated": 1794902981,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2443,
+   "key": "mercadolivre:MLB54469538",
+   "title": "Amperímetro Alicate digital com pinça AstroAI de 2000C para medição de corrente e tensão,com seleção automática de faixa,para medição de tensão CA/CC,corrente C",
+   "price": 136.75,
+   "original": 298.18,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_953174-MLA99558019076_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/amperimetro-alicate-digital-com-pinca-astroai-de-2000c-para-medicao-de-corrente-e-tensao-com-selecao-automatica-de-faixa/p/MLB54469538?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794902961
+  },
   {
    "n": 2442,
    "key": "mercadolivre:MLB56563800",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794877220
-  },
-  {
-   "n": 2383,
-   "key": "mercadolivre:MLB39962085",
-   "title": "Fone De Ouvido Sem Fio Xiaomi Redmi Buds 6 Play Preto",
-   "price": 57.61,
-   "original": 73.9,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_954504-MLA118603044502_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-xiaomi-redmi-buds-6-play-preto/p/MLB39962085?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794876799
   }
  ]
 }
