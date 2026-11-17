@@ -1,7 +1,21 @@
 {
- "updated": 1794956505,
+ "updated": 1794956926,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2557,
+   "key": "mercadolivre:MLB35959035",
+   "title": "Mineral/Vitamina Bodyaction Nutri Science Magnésio E Inositol Taurina Melatonina 210g em pó sabor Maracujá x 210g",
+   "price": 42.18,
+   "original": 47.16,
+   "pct": 11,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_653067-MLA110738695437_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mineral-vitamina-bodyaction-nutri-science-magnesio-e-inositol-taurina-melatonina-210g-em-po-sabor-maracuja-x-210g/p/MLB35959035?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794956906
+  },
   {
    "n": 2556,
    "key": "mercadolivre:MLB56209495",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794929296
-  },
-  {
-   "n": 2497,
-   "key": "mercadolivre:MLB76467981",
-   "title": "Parafusadeira Furadeira de Impacto Atverce, sem Fio, com 2 Baterias e Kit 46 Peças",
-   "price": 127.99,
-   "original": 405.0,
-   "pct": 68,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_752602-MLA119168643537_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-atverce-sem-fio-com-2-baterias-e-kit-46-pecas/p/MLB76467981?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794928310
   }
  ]
 }
