@@ -1,7 +1,21 @@
 {
- "updated": 1794921203,
+ "updated": 1794921624,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2483,
+   "key": "mercadolivre:MLB26578445",
+   "title": "Secador De Cabelo Taiff Profissional Style Vermelho Clássico",
+   "price": 194.0,
+   "original": 447.36,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_895859-MLA99858387669_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-taiff-profissional-style-vermelho-classico/p/MLB26578445?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794921604
+  },
   {
    "n": 2482,
    "key": "mercadolivre:MLB55237000",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794894473
-  },
-  {
-   "n": 2423,
-   "key": "mercadolivre:MLB51763024",
-   "title": "Moto Serra Elétrica 12 Polegadas 2 Baterias 48v Portátil Recarregável Profissional Kamare",
-   "price": 291.93,
-   "original": 499.99,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_945631-MLA115520669241_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/moto-serra-eletrica-12-polegadas-2-baterias-48v-portatil-recarregavel-profissional-kamare/p/MLB51763024?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794894052
   }
  ]
 }
