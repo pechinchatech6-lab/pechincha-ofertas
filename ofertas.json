@@ -1,7 +1,21 @@
 {
- "updated": 1794873872,
+ "updated": 1794874293,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2377,
+   "key": "mercadolivre:MLB19782244",
+   "title": "Mantecorp Protetor Solar Facial Episol Fps 70 Tom 2 Claro",
+   "price": 60.39,
+   "original": 99.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_604484-MLA99833162607_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mantecorp-protetor-solar-facial-episol-fps-70-tom-2-claro/p/MLB19782244?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794874273
+  },
   {
    "n": 2376,
    "key": "mercadolivre:MLB37930434",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794703789
-  },
-  {
-   "n": 2317,
-   "key": "mercadolivre:MLB19750516",
-   "title": "Micro-ondas Electrolux 36L cor Inox Efficient com Descongelamento Assistido ME36S",
-   "price": 729.0,
-   "original": 989.0,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_864516-MLA99700643378_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-electrolux-36l-cor-inox-efficient-com-descongelamento-assistido-me36s/p/MLB19750516?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794703368
   }
  ]
 }
