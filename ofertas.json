@@ -1,7 +1,21 @@
 {
- "updated": 1794954400,
+ "updated": 1794954821,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2552,
+   "key": "mercadolivre:MLB70516181",
+   "title": "Relógio Despertador Analógico Vintage Prateado, de Metal com Dois Sinos e Luz Noturna",
+   "price": 26.99,
+   "original": 36.5,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_713937-MLA113102590587_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-despertador-analogico-vintage-prateado-de-metal-com-dois-sinos-e-luz-noturna/p/MLB70516181?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794954801
+  },
   {
    "n": 2551,
    "key": "mercadolivre:MLB61910691",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794926626
-  },
-  {
-   "n": 2492,
-   "key": "mercadolivre:MLB55762063",
-   "title": "Smartphone Motorola Moto G06 - 256gb 4gb Ram e Camera 50mp Com Ai Bateria De 5200 Mah Tela 6.9 - Bege",
-   "price": 809.9,
-   "original": 969.9,
-   "pct": 16,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_793349-MLA91806774304_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g06-256gb-4gb-ram-e-camera-50mp-com-ai-bateria-de-5200-mah-tela-6-9-bege/p/MLB55762063?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794926205
   }
  ]
 }
