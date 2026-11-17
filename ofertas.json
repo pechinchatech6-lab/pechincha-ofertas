@@ -1,7 +1,21 @@
 {
- "updated": 1794936485,
+ "updated": 1794936906,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2516,
+   "key": "mercadolivre:MLB64888551",
+   "title": "Amplificador de Fone de Ouvido Profissional Vedo VD8000 V com 8 Canais Estéreo",
+   "price": 580.0,
+   "original": 1400.0,
+   "pct": 59,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_827090-MLA105102770824_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/amplificador-de-fone-de-ouvido-profissional-vedo-vd8000-v-com-8-canais-estereo/p/MLB64888551?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794936886
+  },
   {
    "n": 2515,
    "key": "mercadolivre:MLB25925806",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794908860
-  },
-  {
-   "n": 2456,
-   "key": "mercadolivre:MLB50181290",
-   "title": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Simake",
-   "price": 119.6,
-   "original": 299.0,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_835659-MLA116548375638_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-c-2-baterias-maleta-kit-completo-led-eixo-flexivel-varios-niveis-torque-simake/p/MLB50181290?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794908439
   }
  ]
 }
