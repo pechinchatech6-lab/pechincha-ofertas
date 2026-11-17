@@ -1,7 +1,21 @@
 {
- "updated": 1794924571,
+ "updated": 1794925201,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2491,
+   "key": "mercadolivre:MLB42495263",
+   "title": "Escova Secadora Taiff Easy Oval 1200W Green",
+   "price": 159.0,
+   "original": 315.5,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_862049-MLA100043992077_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-taiff-easy-oval-1200w-green/p/MLB42495263?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794925180
+  },
   {
    "n": 2490,
    "key": "mercadolivre:MLB42162174",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794897841
-  },
-  {
-   "n": 2431,
-   "key": "mercadolivre:MLB19932033",
-   "title": "Óleo Lubrificante Para Lâminas De Máquinas 118.3ml - Wahl",
-   "price": 24.09,
-   "original": 34.5,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_748738-MLU74247860795_012024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/oleo-lubrificante-para-laminas-de-maquinas-118-3ml-wahl/p/MLB19932033?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794897420
   }
  ]
 }
