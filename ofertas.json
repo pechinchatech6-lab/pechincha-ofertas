@@ -1,7 +1,21 @@
 {
- "updated": 1794886910,
+ "updated": 1794887335,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2407,
+   "key": "mercadolivre:MLB22871761",
+   "title": "Escova Rotativa Mondial Ceramica Tourmaline Ion 3x1 Erb-01 Rosa 127/220v",
+   "price": 139.0,
+   "original": 299.0,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_842831-MLA99963285219_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-rotativa-mondial-ceramica-tourmaline-ion-3x1-erb-01-rosa-127-220v/p/MLB22871761?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794887315
+  },
   {
    "n": 2406,
    "key": "mercadolivre:MLB47887434",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794862064
-  },
-  {
-   "n": 2347,
-   "key": "mercadolivre:MLB19603205",
-   "title": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
-   "price": 34.9,
-   "original": 64.9,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_662415-MLA97812910758_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-growth-supplements-monohidratada-em-po-sem-sabor-x-250g/p/MLB19603205?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794861643
   }
  ]
 }
