@@ -1,7 +1,21 @@
 {
- "updated": 1794879345,
+ "updated": 1794879766,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2390,
+   "key": "mercadolivre:MLB66100700",
+   "title": "Depilador Elétrico Feminino 4 Em 1 Pelos Íntimos Axila Nariz Branco",
+   "price": 29.99,
+   "original": 59.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_824287-MLA107901081417_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-4-em-1-pelos-intimos-axila-nariz-branco/p/MLB66100700?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794879746
+  },
   {
    "n": 2389,
    "key": "mercadolivre:MLB74598488",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794854907
-  },
-  {
-   "n": 2330,
-   "key": "mercadolivre:MLB1055308835",
-   "title": "iPhone 17 de 256 GB - Lavanda - Distribuidor Autorizado",
-   "price": 5859.0,
-   "original": 7999.0,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_896332-MLA95400062457_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/iphone-17-de-256-gb-lavanda-distribuidor-autorizado/p/MLB1055308835?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794854486
   }
  ]
 }
