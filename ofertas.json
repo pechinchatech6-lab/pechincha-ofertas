@@ -1,7 +1,21 @@
 {
- "updated": 1794957347,
+ "updated": 1794957768,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2559,
+   "key": "mercadolivre:MLB65394114",
+   "title": "Kit 2 Microfone Sem Fio Profissional Uhf Led Com Receptor Ec Cinza",
+   "price": 111.54,
+   "original": 199.0,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_763236-MLA106765474327_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-2-microfone-sem-fio-profissional-uhf-led-com-receptor-ec-cinza/p/MLB65394114?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794957748
+  },
   {
    "n": 2558,
    "key": "mercadolivre:MLB23978905",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794930138
-  },
-  {
-   "n": 2499,
-   "key": "mercadolivre:MLB22729783",
-   "title": "Soprador Térmico 1500w Com Acessórios Razi Rz-sk1500 Cinza",
-   "price": 104.0,
-   "original": 390.0,
-   "pct": 73,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_846674-MLA100037351581_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-termico-1500w-com-acessorios-razi-rz-sk1500-cinza/p/MLB22729783?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794929717
   }
  ]
 }
