@@ -1,7 +1,21 @@
 {
- "updated": 1794900455,
+ "updated": 1794900876,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2438,
+   "key": "mercadolivre:MLB30917968",
+   "title": "Caixa de Som Amplificada Amvox ACA 1101 Duplo 8 Black 1100W Woofer 8\"",
+   "price": 795.4,
+   "original": 1299.0,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_664631-MLA99508571080_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-amplificada-amvox-aca-1101-duplo-8-black-1100w-woofer-8/p/MLB30917968?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794900856
+  },
   {
    "n": 2437,
    "key": "mercadolivre:MLB26110011",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794875115
-  },
-  {
-   "n": 2378,
-   "key": "mercadolivre:MLB80240441",
-   "title": "Novo Smartwatch Microwear W12 Pro Prateado Séries 12 Amoled 47mm 2027 SMARTWATCH ADVANCED PRO",
-   "price": 208.0,
-   "original": 349.9,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_642329-MLA118773721445_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/novo-smartwatch-microwear-w12-pro-prateado-series-12-amoled-47mm-2027-smartwatch-advanced-pro/p/MLB80240441?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794874694
   }
  ]
 }
