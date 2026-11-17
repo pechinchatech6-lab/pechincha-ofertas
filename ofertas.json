@@ -1,7 +1,21 @@
 {
- "updated": 1794957768,
+ "updated": 1794958189,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2560,
+   "key": "mercadolivre:MLB67146264",
+   "title": "Mini Mixer Misturador De Bebidas Elétrico 2 Em 1 Portátil Recarregável Mexedor De Ovos Leite Whey Café Espuma Shake Drinks Capuccino Suco Blackbom",
+   "price": 19.88,
+   "original": 45.46,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_993099-MLA118374430742_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-mixer-misturador-de-bebidas-eletrico-2-em-1-portatil-recarregavel-mexedor-de-ovos-leite-whey-cafe-espuma-shake-drin/p/MLB67146264?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794958169
+  },
   {
    "n": 2559,
    "key": "mercadolivre:MLB65394114",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794930559
-  },
-  {
-   "n": 2500,
-   "key": "mercadolivre:MLB67716854",
-   "title": "Mouse USB Com Fio 1600 Dpi Alta Precisão Plug And Play Ergonômico Confortável Ideal Para PC Notebook Escritório Trabalho Estudos Uso Diário Eduimports",
-   "price": 19.91,
-   "original": 25.87,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_624341-MLA110349319902_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-usb-com-fio-1600-dpi-alta-precisao-plug-and-play-ergonomico-confortavel-ideal-para-pc-notebook-escritorio-trabalho/p/MLB67716854?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794930138
   }
  ]
 }
