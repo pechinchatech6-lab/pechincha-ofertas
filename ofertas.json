@@ -1,7 +1,21 @@
 {
- "updated": 1794894072,
+ "updated": 1794894493,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2424,
+   "key": "mercadolivre:MLB59870058",
+   "title": "Chaleira Com Apito Brinox 2,7 L Roma Areia",
+   "price": 78.4,
+   "original": 237.71,
+   "pct": 67,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_866805-MLA104654258057_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chaleira-com-apito-brinox-2-7-l-roma-areia/p/MLB59870058?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794894473
+  },
   {
    "n": 2423,
    "key": "mercadolivre:MLB51763024",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794869221
-  },
-  {
-   "n": 2364,
-   "key": "mercadolivre:MLB79297353",
-   "title": "Controle Dualshock Sem Fio Para Playstation 4 Sony Preto",
-   "price": 110.96,
-   "original": 299.9,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_773460-MLA117594052767_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-dualshock-sem-fio-para-playstation-4-sony-preto/p/MLB79297353?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794868800
   }
  ]
 }
