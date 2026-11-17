@@ -1,7 +1,21 @@
 {
- "updated": 1794946101,
+ "updated": 1794946724,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2534,
+   "key": "mercadolivre:MLB21801939",
+   "title": "Secador de cabelo dobrável Mondial Max Travel 1200w Sc-10",
+   "price": 74.0,
+   "original": 196.27,
+   "pct": 62,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_990387-MLA99524078136_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-dobravel-mondial-max-travel-1200w-sc-10/p/MLB21801939?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794946704
+  },
   {
    "n": 2533,
    "key": "mercadolivre:MLB80526497",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794918236
-  },
-  {
-   "n": 2474,
-   "key": "mercadolivre:MLB55232692",
-   "title": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca 1L - Hidratação 48h",
-   "price": 114.9,
-   "original": 205.9,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_800625-MLA118013409895_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cetaphil-locao-hidratante-corporal-e-facial-para-pele-sensivel-normal-a-seca-1l-hidratacao-48h/p/MLB55232692?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794917815
   }
  ]
 }
