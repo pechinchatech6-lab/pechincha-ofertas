@@ -1,7 +1,21 @@
 {
- "updated": 1794914467,
+ "updated": 1794914888,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2467,
+   "key": "mercadolivre:MLB65522329",
+   "title": "Secador de Cabelo PSD16A com 6 Acessórios 1450W Motor BLDC Philco Cinza E Rosa",
+   "price": 429.9,
+   "original": 799.0,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_915896-MLA106454246356_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-psd16a-com-6-acessorios-1450w-motor-bldc-philco-cinza-e-rosa/p/MLB65522329?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794914868
+  },
   {
    "n": 2466,
    "key": "mercadolivre:MLB63738371",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794887736
-  },
-  {
-   "n": 2407,
-   "key": "mercadolivre:MLB22871761",
-   "title": "Escova Rotativa Mondial Ceramica Tourmaline Ion 3x1 Erb-01 Rosa 127/220v",
-   "price": 139.0,
-   "original": 299.0,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_842831-MLA99963285219_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-rotativa-mondial-ceramica-tourmaline-ion-3x1-erb-01-rosa-127-220v/p/MLB22871761?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794887315
   }
  ]
 }
