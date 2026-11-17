@@ -1,7 +1,21 @@
 {
- "updated": 1794906775,
+ "updated": 1794907196,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2453,
+   "key": "mercadolivre:MLB54016038",
+   "title": "LG Soundbar SH5A 600W (4.1 canais) com AI Sound Pro e WOW Interface – Som Imersivo, Voz Clara e Sincronização Total com sua TV",
+   "price": 1159.0,
+   "original": 1799.0,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_911029-MLA100231909230_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lg-soundbar-sh5a-600w-4-1-canais-com-ai-sound-pro-e-wow-interface-som-imersivo-voz-clara-e-sincronizacao-total-com-sua-t/p/MLB54016038?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794907176
+  },
   {
    "n": 2452,
    "key": "mercadolivre:MLB19160770",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794881430
-  },
-  {
-   "n": 2393,
-   "key": "mercadolivre:MLB80559379",
-   "title": "Mini Mixer Elétrico Recarregável USB 3 Velocidades – Espumador de Leite Profissional em Aço Inoxidável – Misturador Portátil para Cappuccino, Café, Matcha, Shak",
-   "price": 19.99,
-   "original": 69.99,
-   "pct": 71,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_958277-MLA119493208264_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-mixer-eletrico-recarregavel-usb-3-velocidades-espumador-de-leite-profissional-em-aco-inoxidavel-misturador-portatil/p/MLB80559379?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794881009
   }
  ]
 }
