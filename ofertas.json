@@ -1,7 +1,21 @@
 {
- "updated": 1794935210,
+ "updated": 1794935631,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2513,
+   "key": "mercadolivre:MLB69634337",
+   "title": "Secador De Tenis Sapato Eletrico Calçado Bota Previne Odor Branco",
+   "price": 135.89,
+   "original": 153.72,
+   "pct": 12,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_946001-MLA111652157347_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-tenis-sapato-eletrico-calcado-bota-previne-odor-branco/p/MLB69634337?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794935611
+  },
   {
    "n": 2512,
    "key": "mercadolivre:MLB20471726",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794907597
-  },
-  {
-   "n": 2453,
-   "key": "mercadolivre:MLB54016038",
-   "title": "LG Soundbar SH5A 600W (4.1 canais) com AI Sound Pro e WOW Interface – Som Imersivo, Voz Clara e Sincronização Total com sua TV",
-   "price": 1159.0,
-   "original": 1799.0,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_911029-MLA100231909230_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lg-soundbar-sh5a-600w-4-1-canais-com-ai-sound-pro-e-wow-interface-som-imersivo-voz-clara-e-sincronizacao-total-com-sua-t/p/MLB54016038?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794907176
   }
  ]
 }
