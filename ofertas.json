@@ -1,7 +1,21 @@
 {
- "updated": 1794907196,
+ "updated": 1794907617,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2454,
+   "key": "mercadolivre:MLB79703188",
+   "title": "Smartwatch Redmi Watch 6 Active",
+   "price": 290.0,
+   "original": 350.0,
+   "pct": 17,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_962217-MLA118017132485_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smartwatch-redmi-watch-6-active/p/MLB79703188?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794907597
+  },
   {
    "n": 2453,
    "key": "mercadolivre:MLB54016038",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794881851
-  },
-  {
-   "n": 2394,
-   "key": "mercadolivre:MLB51857731",
-   "title": "Microfone Lark A1 Hollyland Mini Usb-c Preto",
-   "price": 274.45,
-   "original": 499.0,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_836376-MLA99418800236_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-lark-a1-hollyland-mini-usb-c-preto/p/MLB51857731?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794881430
   }
  ]
 }
