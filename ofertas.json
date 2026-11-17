@@ -1,7 +1,21 @@
 {
- "updated": 1794899545,
+ "updated": 1794900455,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2437,
+   "key": "mercadolivre:MLB26110011",
+   "title": "Trena Standard 5 Metros Com Trava Iw13947 Irwin",
+   "price": 22.98,
+   "original": 50.0,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_996028-MLA99620936002_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/trena-standard-5-metros-com-trava-iw13947-irwin/p/MLB26110011?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794900435
+  },
   {
    "n": 2436,
    "key": "mercadolivre:MLB24326256",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794874694
-  },
-  {
-   "n": 2377,
-   "key": "mercadolivre:MLB19782244",
-   "title": "Mantecorp Protetor Solar Facial Episol Fps 70 Tom 2 Claro",
-   "price": 60.39,
-   "original": 99.9,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_604484-MLA99833162607_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mantecorp-protetor-solar-facial-episol-fps-70-tom-2-claro/p/MLB19782244?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794874273
   }
  ]
 }
