@@ -1,7 +1,21 @@
 {
- "updated": 1794880187,
+ "updated": 1794880608,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2392,
+   "key": "mercadolivre:MLB55776599",
+   "title": "Headphone Philips Bluetooth E Energia Para 55h Tah2300bk/00 Preto",
+   "price": 105.0,
+   "original": 239.0,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_776643-MLA97452664977_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/headphone-philips-bluetooth-e-energia-para-55h-tah2300bk-00-preto/p/MLB55776599?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794880588
+  },
   {
    "n": 2391,
    "key": "mercadolivre:MLB15977315",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794855749
-  },
-  {
-   "n": 2332,
-   "key": "mercadolivre:MLB23743709",
-   "title": "Mouse sem fio Logitech Pebble 2 M350s - Branco",
-   "price": 79.9,
-   "original": 119.9,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_965045-MLA99481399148_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-sem-fio-logitech-pebble-2-m350s-branco/p/MLB23743709?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794855328
   }
  ]
 }
