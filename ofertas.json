@@ -1,7 +1,21 @@
 {
- "updated": 1794949250,
+ "updated": 1794949671,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2541,
+   "key": "mercadolivre:MLB46342327",
+   "title": "Hollyland Microfone Sem Fio Duplo Lark M2 Usb-c Para iPhone Cor Preto",
+   "price": 593.0,
+   "original": 999.0,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_885955-MLA99563651214_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/hollyland-microfone-sem-fio-duplo-lark-m2-usb-c-para-iphone-cor-preto/p/MLB46342327?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794949651
+  },
   {
    "n": 2540,
    "key": "mercadolivre:MLB18391232",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794921183
-  },
-  {
-   "n": 2481,
-   "key": "mercadolivre:MLB65522892",
-   "title": "Console Nintendo Switch 2 + Mario Kart World Bundle Preto",
-   "price": 4414.72,
-   "original": 5659.9,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_641158-MLA109275161040_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/console-nintendo-switch-2-mario-kart-world-bundle-preto/p/MLB65522892?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794920762
   }
  ]
 }
