@@ -1,7 +1,21 @@
 {
- "updated": 1794941649,
+ "updated": 1794942070,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2526,
+   "key": "mercadolivre:MLB66911368",
+   "title": "Kit Alicate Crimpar Descascador 1200 Terminais Ilhós Tubular W&g",
+   "price": 74.59,
+   "original": 119.9,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_909617-MLA109112766975_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-alicate-crimpar-descascador-1200-terminais-ilhos-tubular-w-g/p/MLB66911368?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794942050
+  },
   {
    "n": 2525,
    "key": "mercadolivre:MLB75879865",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794914868
-  },
-  {
-   "n": 2466,
-   "key": "mercadolivre:MLB63738371",
-   "title": "Soundbar Jbl Cinema 2.1 Hdmi Arc Bluetooth 110w Rms Preto 40hz - 20khz",
-   "price": 889.9,
-   "original": 1262.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_656047-MLA102762309536_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-jbl-cinema-2-1-hdmi-arc-bluetooth-110w-rms-preto-40hz-20khz/p/MLB63738371?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794914447
   }
  ]
 }
