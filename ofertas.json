@@ -1,7 +1,21 @@
 {
- "updated": 1794908880,
+ "updated": 1794909301,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2458,
+   "key": "mercadolivre:MLB79377107",
+   "title": "Jogo Serra Copo 16 Peças 19mm A 127mm Para Madeira Gesso Pvc Mdf Compensado Kit Completo Para Furadeira Conjunto De Serras Para Perfuração E Corte Circular Em O",
+   "price": 40.34,
+   "original": 69.9,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631791-MLA121460787565_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/jogo-serra-copo-16-pecas-19mm-a-127mm-para-madeira-gesso-pvc-mdf-compensado-kit-completo-para-furadeira-conjunto-de-serr/p/MLB79377107?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794909281
+  },
   {
    "n": 2457,
    "key": "mercadolivre:MLB77579126",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794883943
-  },
-  {
-   "n": 2398,
-   "key": "mercadolivre:MLB24006205",
-   "title": "Batom Líquido Vermelho Radiante Glam Matte Tint 4g",
-   "price": 29.9,
-   "original": 59.99,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_839218-MLU74087957490_012024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/batom-liquido-vermelho-radiante-glam-matte-tint-4g/p/MLB24006205?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794883114
   }
  ]
 }
