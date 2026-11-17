@@ -1,7 +1,21 @@
 {
- "updated": 1794929316,
+ "updated": 1794929737,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2499,
+   "key": "mercadolivre:MLB22729783",
+   "title": "Soprador Térmico 1500w Com Acessórios Razi Rz-sk1500 Cinza",
+   "price": 104.0,
+   "original": 390.0,
+   "pct": 73,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_846674-MLA100037351581_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-termico-1500w-com-acessorios-razi-rz-sk1500-cinza/p/MLB22729783?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794929717
+  },
   {
    "n": 2498,
    "key": "mercadolivre:MLB18929667",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794901698
-  },
-  {
-   "n": 2439,
-   "key": "mercadolivre:MLB23913684",
-   "title": "Trena Profissional 10 Metros 25mm Emborrachada Reforçada Fita de Aço Com Trava Manual Medição",
-   "price": 24.49,
-   "original": 34.99,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_813291-MLA117865477671_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/trena-profissional-10-metros-25mm-emborrachada-reforcada-fita-de-aco-com-trava-manual-medicao/p/MLB23913684?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794901277
   }
  ]
 }
