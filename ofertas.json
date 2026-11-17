@@ -1,7 +1,21 @@
 {
- "updated": 1794941228,
+ "updated": 1794941649,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2525,
+   "key": "mercadolivre:MLB75879865",
+   "title": "Micro-ondas Philco 20L 1100W Limpa Fácil Tira Odor PMO24E",
+   "price": 499.0,
+   "original": 649.0,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_930150-MLA113958624794_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-philco-20l-1100w-limpa-facil-tira-odor-pmo24e/p/MLB75879865?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794941629
+  },
   {
    "n": 2524,
    "key": "mercadolivre:MLB53466314",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794914447
-  },
-  {
-   "n": 2465,
-   "key": "mercadolivre:MLB26208174",
-   "title": "Climatizador de Ar Ventisol Clin-16 16L Evaporativo Cinza/Branco",
-   "price": 379.0,
-   "original": 523.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_665541-MLA91981620699_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-ventisol-clin-16-16l-evaporativo-cinza-branco/p/MLB26208174?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794914026
   }
  ]
 }
