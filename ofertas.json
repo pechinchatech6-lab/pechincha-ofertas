@@ -1,7 +1,21 @@
 {
- "updated": 1794940807,
+ "updated": 1794941228,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2524,
+   "key": "mercadolivre:MLB53466314",
+   "title": "Microfone Gamer Havit GK65 USB Cardioide com RGB para PC e Live",
+   "price": 208.89,
+   "original": 232.1,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_859343-MLA99572307276_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microfone-gamer-havit-gk65-usb-cardioide-com-rgb-para-pc-e-live/p/MLB53466314?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794941208
+  },
   {
    "n": 2523,
    "key": "mercadolivre:MLB18640232",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794914026
-  },
-  {
-   "n": 2464,
-   "key": "mercadolivre:MLB28038505",
-   "title": "Caixa de Som Speaker Philco Extreme 220W PBS220BT",
-   "price": 359.0,
-   "original": 499.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_760667-MLA99822471815_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-speaker-philco-extreme-220w-pbs220bt/p/MLB28038505?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794913605
   }
  ]
 }
