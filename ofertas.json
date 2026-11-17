@@ -1,7 +1,21 @@
 {
- "updated": 1794949671,
+ "updated": 1794950092,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2542,
+   "key": "mercadolivre:MLB78730229",
+   "title": "Depilador Elétrico Feminino VB Vetka Beauty 4 em 1 com Cabeças para Rosto, Nariz, Sobrancelha e corporal Indolor Portátil",
+   "price": 39.99,
+   "original": 65.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_740093-MLA115548829984_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-vb-vetka-beauty-4-em-1-com-cabecas-para-rosto-nariz-sobrancelha-e-corporal-indolor-portatil/p/MLB78730229?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794950072
+  },
   {
    "n": 2541,
    "key": "mercadolivre:MLB46342327",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794921604
-  },
-  {
-   "n": 2482,
-   "key": "mercadolivre:MLB55237000",
-   "title": "Caixa de Som Bluetooth Portátil - JBL Boombox 4 - JBL Pro Sound, AI Sound Boost, 210W RMS, até 34h de Bateria, Bass Boost, IP68, Auracast e USB-C Lossless - Squ",
-   "price": 2467.26,
-   "original": 3199.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_966884-MLA118535139627_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-portatil-jbl-boombox-4-jbl-pro-sound-ai-sound-boost-210w-rms-ate-34h-de-bateria-bass-boost-ip68-a/p/MLB55237000?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794921183
   }
  ]
 }
