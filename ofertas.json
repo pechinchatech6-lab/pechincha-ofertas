@@ -1,7 +1,21 @@
 {
- "updated": 1794953558,
+ "updated": 1794953979,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2550,
+   "key": "mercadolivre:MLB25834979",
+   "title": "Cor de fundo do relógio masculino Opk 6010 Quartz original: preto",
+   "price": 78.99,
+   "original": 94.5,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_684260-MLU70909697639_082023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cor-de-fundo-do-relogio-masculino-opk-6010-quartz-original-preto/p/MLB25834979?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794953959
+  },
   {
    "n": 2549,
    "key": "mercadolivre:MLB53666291",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794925180
-  },
-  {
-   "n": 2490,
-   "key": "mercadolivre:MLB42162174",
-   "title": "Parafusadeira E Furadeira Sem Fio Bateria 3/8 10mm Com Maleta E Acessorios The Black Tools",
-   "price": 99.9,
-   "original": 209.9,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_649121-MLA108633953017_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-sem-fio-bateria-3-8-10mm-com-maleta-e-acessorios-the-black-tools/p/MLB42162174?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794924551
   }
  ]
 }
