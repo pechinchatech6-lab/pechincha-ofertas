@@ -1,7 +1,21 @@
 {
- "updated": 1794891967,
+ "updated": 1794892388,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2419,
+   "key": "mercadolivre:MLB19086162",
+   "title": "Redragon Adiemus GS560 Soundbar Gamer RGB com Iluminação Chroma e Design Compacto",
+   "price": 171.99,
+   "original": 324.99,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_644830-MLA96135217083_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/redragon-adiemus-gs560-soundbar-gamer-rgb-com-iluminacao-chroma-e-design-compacto/p/MLB19086162?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794892368
+  },
   {
    "n": 2418,
    "key": "mercadolivre:MLB26599190",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794867116
-  },
-  {
-   "n": 2359,
-   "key": "mercadolivre:MLB18630341",
-   "title": "Creatina Monohidratada Max Titanium Sem Sabor 100g",
-   "price": 21.69,
-   "original": 30.13,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_697835-MLA117269994412_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-monohidratada-max-titanium-sem-sabor-100g/p/MLB18630341?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794866695
   }
  ]
 }
