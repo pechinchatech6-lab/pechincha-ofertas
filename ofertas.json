@@ -1,7 +1,21 @@
 {
- "updated": 1794939965,
+ "updated": 1794940386,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2522,
+   "key": "mercadolivre:MLB28407045",
+   "title": "Webcam Full HD Logitech Brio 100 - Grafite",
+   "price": 169.0,
+   "original": 225.0,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_874264-MLA106268664373_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-brio-100-grafite/p/MLB28407045?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794940366
+  },
   {
    "n": 2521,
    "key": "mercadolivre:MLB37552867",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794913184
-  },
-  {
-   "n": 2462,
-   "key": "mercadolivre:MLB76972122",
-   "title": "Boné Ny New York Yankees Unissex Blogueira Fitão Regulável Cor Preto/Branco Desenho do tecido Lisa Tamanho Único",
-   "price": 34.9,
-   "original": 49.99,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_889380-MLA114634635694_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/bone-ny-new-york-yankees-unissex-blogueira-fitao-regulavel-cor-preto-branco-desenho-do-tecido-lisa-tamanho-unico/p/MLB76972122?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794912763
   }
  ]
 }
