@@ -1,7 +1,21 @@
 {
- "updated": 1794944467,
+ "updated": 1794944888,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2531,
+   "key": "mercadolivre:MLB75231336",
+   "title": "Batom Charm Lips Hbl6001 Ruby Rose Semi Matte Aveludado Cl11",
+   "price": 17.11,
+   "original": 24.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_815627-MLA117289283797_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/batom-charm-lips-hbl6001-ruby-rose-semi-matte-aveludado-cl11/p/MLB75231336?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794944868
+  },
   {
    "n": 2530,
    "key": "mercadolivre:MLB34016199",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794916973
-  },
-  {
-   "n": 2471,
-   "key": "mercadolivre:MLB76467562",
-   "title": "Lamina Serra Multi-corte Oscilante Kit 5 Pçs Para Wesco Makita",
-   "price": 27.35,
-   "original": 75.99,
-   "pct": 64,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_607957-MLA119667530665_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lamina-serra-multi-corte-oscilante-kit-5-pcs-para-wesco-makita/p/MLB76467562?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794916552
   }
  ]
 }
