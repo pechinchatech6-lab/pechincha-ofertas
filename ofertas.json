@@ -1,7 +1,21 @@
 {
- "updated": 1794878924,
+ "updated": 1794879345,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2389,
+   "key": "mercadolivre:MLB74598488",
+   "title": "Kit Alicate Crimpador e Desencapador de Fios Hexon Profissional com 1200 Ilhós",
+   "price": 69.9,
+   "original": 120.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_866702-MLA113979534319_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-alicate-crimpador-e-desencapador-de-fios-hexon-profissional-com-1200-ilhos/p/MLB74598488?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794879325
+  },
   {
    "n": 2388,
    "key": "mercadolivre:MLB49756297",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794854486
-  },
-  {
-   "n": 2329,
-   "key": "mercadolivre:MLB54482689",
-   "title": "Webcam Hd Full 1080p Com Microfone Usb Plug Play Para Pc Notebook",
-   "price": 36.9,
-   "original": 80.0,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_678031-MLA118747452756_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-hd-full-1080p-com-microfone-usb-plug-play-para-pc-notebook/p/MLB54482689?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794854065
   }
  ]
 }
