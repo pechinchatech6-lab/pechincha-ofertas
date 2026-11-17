@@ -1,7 +1,21 @@
 {
- "updated": 1794889019,
+ "updated": 1794889440,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2412,
+   "key": "mercadolivre:MLB19810227",
+   "title": "Creme Depilatório Veet Men Pele Normal 200ml",
+   "price": 38.7,
+   "original": 79.29,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_824173-MLA118163059710_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-depilatorio-veet-men-pele-normal-200ml/p/MLB19810227?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794889420
+  },
   {
    "n": 2411,
    "key": "mercadolivre:MLB47044981",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794864169
-  },
-  {
-   "n": 2352,
-   "key": "mercadolivre:MLB38176139",
-   "title": "Fone de Ouvido Bluetooth 5.4 soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celu",
-   "price": 196.0,
-   "original": 389.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_760745-MLA95700724020_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-5-4-soundcore-p30i-da-anker-cancelamento-de-ruido-adaptativo-graves-poderosos-45h-de-reproducao/p/MLB38176139?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794863748
   }
  ]
 }
