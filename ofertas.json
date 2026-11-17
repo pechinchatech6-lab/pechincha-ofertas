@@ -1,7 +1,21 @@
 {
- "updated": 1794875556,
+ "updated": 1794875977,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2381,
+   "key": "mercadolivre:MLB58519492",
+   "title": "Fone Ouvido Bluetooth 5.4 Sem Fio Portatil Estojo De Carregamento Anti Ruido Resistente a agua Compatível Com Ios Samsung Galaxy Android Tws Wireless Air Premiu",
+   "price": 49.7,
+   "original": 78.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_646535-MLA113987983224_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-ouvido-bluetooth-5-4-sem-fio-portatil-estojo-de-carregamento-anti-ruido-resistente-a-agua-compativel-com-ios-samsun/p/MLB58519492?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794875957
+  },
   {
    "n": 2380,
    "key": "mercadolivre:MLB68833324",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794706300
-  },
-  {
-   "n": 2321,
-   "key": "mercadolivre:MLB65568637",
-   "title": "Geladeira Brastemp Inteligente 512L Bivolt - BRM62A",
-   "price": 3199.0,
-   "original": 3879.0,
-   "pct": 18,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_940707-MLA118254331193_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-brastemp-inteligente-512l-bivolt-brm62a/p/MLB65568637?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794705879
   }
  ]
 }
