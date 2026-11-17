@@ -1,7 +1,21 @@
 {
- "updated": 1794878503,
+ "updated": 1794878924,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2388,
+   "key": "mercadolivre:MLB49756297",
+   "title": "Projetor PFL5211 Full HD 5200lm Branco Intelbras 127/220V",
+   "price": 1011.0,
+   "original": 1374.0,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_641961-MLA99935759177_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/projetor-pfl5211-full-hd-5200lm-branco-intelbras-127-220v/p/MLB49756297?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794878904
+  },
   {
    "n": 2387,
    "key": "mercadolivre:MLB64211779",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794854065
-  },
-  {
-   "n": 2328,
-   "key": "mercadolivre:MLB47245501",
-   "title": "Smartphone Motorola Edge 60 Fusion 5g - 256gb 8gb Ram+8gb Ram Boost, 50mp Sony Ai Camera Ip68 Nfc - Cinza Vegan Leather",
-   "price": 1999.0,
-   "original": 3299.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631624-MLA99926713059_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-fusion-5g-256gb-8gb-ram-8gb-ram-boost-50mp-sony-ai-camera-ip68-nfc-cinza-vegan-leather/p/MLB47245501?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794853644
   }
  ]
 }
