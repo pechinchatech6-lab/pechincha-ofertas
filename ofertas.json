@@ -1,7 +1,21 @@
 {
- "updated": 1794914888,
+ "updated": 1794915309,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2468,
+   "key": "mercadolivre:MLB78840757",
+   "title": "Caixa De Som Sound Bar Home Theater Bluetooth Para Tv Cinema 80w Cor Preto Bivolt Boyu Cell",
+   "price": 262.2,
+   "original": 360.9,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_857992-MLA118377893890_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-sound-bar-home-theater-bluetooth-para-tv-cinema-80w-cor-preto-bivolt-boyu-cell/p/MLB78840757?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794915289
+  },
   {
    "n": 2467,
    "key": "mercadolivre:MLB65522329",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794888157
-  },
-  {
-   "n": 2408,
-   "key": "mercadolivre:MLB67565942",
-   "title": "Controle Para Xbox 360 Sem Fio Android Cor Preto Console Marca Redfin Joystick Manete Gamepass Steam Tv Pc Android Pc Controle Pc Gamer Marca REDFIN",
-   "price": 84.9,
-   "original": 135.0,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_875935-MLA118214125112_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-para-xbox-360-sem-fio-android-cor-preto-console-marca-redfin-joystick-manete-gamepass-steam-tv-pc-android-pc-co/p/MLB67565942?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794887736
   }
  ]
 }
