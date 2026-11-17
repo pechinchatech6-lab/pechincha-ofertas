@@ -1,7 +1,21 @@
 {
- "updated": 1794948408,
+ "updated": 1794948829,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2539,
+   "key": "mercadolivre:MLB65113053",
+   "title": "Chaleira Jarra Elétrica 1,8L Litros Em Inox Desligamento Automático Aquecimento Rápido Segura Café Chá Fácil Abertura Tampa Alça Ergométrica",
+   "price": 39.99,
+   "original": 78.9,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_877555-MLA114973407743_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chaleira-jarra-eletrica-1-8l-litros-em-inox-desligamento-automatico-aquecimento-rapido-segura-cafe-cha-facil-abertura-ta/p/MLB65113053?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794948809
+  },
   {
    "n": 2538,
    "key": "mercadolivre:MLB14748197",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794920341
-  },
-  {
-   "n": 2479,
-   "key": "mercadolivre:MLB15144095",
-   "title": "Logitech Mouse Sem Fio M170 Preto Cinza USB 2.4GHz Ambidestro Compacto para Notebook PC Computador com Nano Receptor USB Conexão Sem Fio Tecnologia Wireless Com",
-   "price": 44.9,
-   "original": 69.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_956180-MLA99964568593_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/logitech-mouse-sem-fio-m170-preto-cinza-usb-2-4ghz-ambidestro-compacto-para-notebook-pc-computador-com-nano-receptor-usb/p/MLB15144095?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794919920
   }
  ]
 }
