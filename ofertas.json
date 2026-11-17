@@ -1,7 +1,21 @@
 {
- "updated": 1794937748,
+ "updated": 1794938504,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2519,
+   "key": "mercadolivre:MLB24820394",
+   "title": "Creme Depilatório Corporal Peles Delicadas 100ml - Veet",
+   "price": 34.0,
+   "original": 52.09,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_636110-MLA115154354530_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-depilatorio-corporal-peles-delicadas-100ml-veet/p/MLB24820394?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794938484
+  },
   {
    "n": 2518,
    "key": "mercadolivre:MLB66373729",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794910123
-  },
-  {
-   "n": 2459,
-   "key": "mercadolivre:MLB28082077",
-   "title": "Organizador Diamond Sem Divisória Gaveta Bancada Retangular",
-   "price": 39.9,
-   "original": 45.9,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_760490-MLA112368579662_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/organizador-diamond-sem-divisoria-gaveta-bancada-retangular/p/MLB28082077?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794909702
   }
  ]
 }
