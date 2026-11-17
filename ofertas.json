@@ -1,7 +1,21 @@
 {
- "updated": 1794912783,
+ "updated": 1794913204,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2463,
+   "key": "mercadolivre:MLB59033248",
+   "title": "Ventilador de Coluna Arno Essential 40cm 6 PÁS 140W VE2C",
+   "price": 299.0,
+   "original": 554.44,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_751745-MLA99477917668_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-arno-essential-40cm-6-pas-140w-ve2c/p/MLB59033248?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794913184
+  },
   {
    "n": 2462,
    "key": "mercadolivre:MLB76972122",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794886048
-  },
-  {
-   "n": 2403,
-   "key": "mercadolivre:MLB63414386",
-   "title": "Morsa Coordenada P/ Furadeira Bancada 4 Pol 100mm Vollekz Preto",
-   "price": 279.99,
-   "original": 437.38,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_852955-MLA101587007782_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/morsa-coordenada-p-furadeira-bancada-4-pol-100mm-vollekz-preto/p/MLB63414386?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794885627
   }
  ]
 }
