@@ -1,7 +1,21 @@
 {
- "updated": 1794951874,
+ "updated": 1794952295,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2546,
+   "key": "mercadolivre:MLB18572393",
+   "title": "Secador De Cabelos Taiff Style Pro 2000w Prata",
+   "price": 198.94,
+   "original": 363.65,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_811448-MLA99465155192_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-taiff-style-pro-2000w-prata/p/MLB18572393?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794952275
+  },
   {
    "n": 2545,
    "key": "mercadolivre:MLB48929479",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794923288
-  },
-  {
-   "n": 2486,
-   "key": "mercadolivre:MLB69204083",
-   "title": "Esmerilhadeira Lixadeira Angular 950w 6 Velocidades 115mm Amarelo 60hz",
-   "price": 139.0,
-   "original": 300.0,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_985186-MLA111238705441_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/esmerilhadeira-lixadeira-angular-950w-6-velocidades-115mm-amarelo-60hz/p/MLB69204083?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794922867
   }
  ]
 }
