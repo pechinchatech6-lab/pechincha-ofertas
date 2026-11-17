@@ -1,7 +1,21 @@
 {
- "updated": 1794877661,
+ "updated": 1794878082,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2386,
+   "key": "mercadolivre:MLB28525979",
+   "title": "Aquecedor Roll-on Cera Quente Depilador Elétrico Mega Bell Bivolt Automático - 110v/220v",
+   "price": 65.77,
+   "original": 131.65,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_747384-MLA85612694472_062025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aquecedor-roll-on-cera-quente-depilador-eletrico-mega-bell-bivolt-automatico-110v-220v/p/MLB28525979?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794878062
+  },
   {
    "n": 2385,
    "key": "mercadolivre:MLB65184709",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794853223
-  },
-  {
-   "n": 2326,
-   "key": "mercadolivre:MLB1046215784",
-   "title": "iPhone 16e (128 GB) - Preto - Distribuidor Autorizado",
-   "price": 3443.33,
-   "original": 5799.0,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_961264-MLA95713213402_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794852802
   }
  ]
 }
