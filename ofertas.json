@@ -1,7 +1,21 @@
 {
- "updated": 1794875135,
+ "updated": 1794875556,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2380,
+   "key": "mercadolivre:MLB68833324",
+   "title": "Caixa de Som Gamer Soundbar Redragon Neo RGB Preto, para Som Imersivo",
+   "price": 161.7,
+   "original": 300.0,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_837939-MLA111040366985_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-gamer-soundbar-redragon-neo-rgb-preto-para-som-imersivo/p/MLB68833324?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794875536
+  },
   {
    "n": 2379,
    "key": "mercadolivre:MLB20288453",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794705879
-  },
-  {
-   "n": 2320,
-   "key": "mercadolivre:MLB69013896",
-   "title": "Caixa de Som Amplificada Philco Extreme Bluetooth 5.3 480W 2 Microfones TWS Flash Light Bateria Recarregável PCX4801",
-   "price": 699.0,
-   "original": 1212.86,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_680616-MLA116669244073_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-amplificada-philco-extreme-bluetooth-5-3-480w-2-microfones-tws-flash-light-bateria-recarregavel-pcx4801/p/MLB69013896?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794705458
   }
  ]
 }
