@@ -1,7 +1,21 @@
 {
- "updated": 1794919098,
+ "updated": 1794919519,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2478,
+   "key": "mercadolivre:MLB25708528",
+   "title": "Shampoo Tonalizante Grecin Control GX Reduz Grisalho 118ml",
+   "price": 74.0,
+   "original": 111.9,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631595-MLA99350047876_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-grecin-control-gx-reduz-grisalho-118ml/p/MLB25708528?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794919499
+  },
   {
    "n": 2477,
    "key": "mercadolivre:MLB54245085",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794892368
-  },
-  {
-   "n": 2418,
-   "key": "mercadolivre:MLB26599190",
-   "title": "Prancha Alisadora InfraRed, Mondial, 55W - P-01-IR",
-   "price": 115.0,
-   "original": 222.9,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_837187-MLA99449623750_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/prancha-alisadora-infrared-mondial-55w-p-01-ir/p/MLB26599190?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794891947
   }
  ]
 }
