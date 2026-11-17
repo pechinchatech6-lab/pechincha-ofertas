@@ -1,7 +1,21 @@
 {
- "updated": 1794886068,
+ "updated": 1794886489,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2405,
+   "key": "mercadolivre:MLB29043746",
+   "title": "Webcam Emeet C960 4k Videoconferência Para Pc 1080p 60fps Preto",
+   "price": 242.99,
+   "original": 374.99,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_617398-MLA99988184761_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-emeet-c960-4k-videoconferencia-para-pc-1080p-60fps-preto/p/MLB29043746?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794886469
+  },
   {
    "n": 2404,
    "key": "mercadolivre:MLB67610941",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794861222
-  },
-  {
-   "n": 2345,
-   "key": "mercadolivre:MLB6087971",
-   "title": "Proteína Max Titanium Whey Pro Concetrado em pó sabor Morango x 1kg",
-   "price": 78.9,
-   "original": 179.84,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_608162-MLA112813208483_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/proteina-max-titanium-whey-pro-concetrado-em-po-sabor-morango-x-1kg/p/MLB6087971?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794860801
   }
  ]
 }
