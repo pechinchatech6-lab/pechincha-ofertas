@@ -1,7 +1,21 @@
 {
- "updated": 1794950092,
+ "updated": 1794950821,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2543,
+   "key": "mercadolivre:MLB38446486",
+   "title": "Lixadeira Pneumática Orbital 6 Roquite Hookit Com Aspiração Profissional TLP600V The Black Tools",
+   "price": 199.9,
+   "original": 304.5,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_895686-MLA117363374148_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-orbital-6-roquite-hookit-com-aspiracao-profissional-tlp600v-the-black-tools/p/MLB38446486?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794950801
+  },
   {
    "n": 2542,
    "key": "mercadolivre:MLB78730229",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794922025
-  },
-  {
-   "n": 2483,
-   "key": "mercadolivre:MLB26578445",
-   "title": "Secador De Cabelo Taiff Profissional Style Vermelho Clássico",
-   "price": 194.0,
-   "original": 447.36,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_895859-MLA99858387669_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-taiff-profissional-style-vermelho-classico/p/MLB26578445?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794921604
   }
  ]
 }
