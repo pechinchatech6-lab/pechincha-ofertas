@@ -1,7 +1,21 @@
 {
- "updated": 1794931000,
+ "updated": 1794931421,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2503,
+   "key": "mercadolivre:MLB21598769",
+   "title": "NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa 48h, Pele Firme e Elasticidade, Corporal, Todos os Tipos de Pele",
+   "price": 22.75,
+   "original": 43.19,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_897148-MLA118073430459_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-48h-pele-firme-e-elasticidade-corporal-todos-os-/p/MLB21598769?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794931401
+  },
   {
    "n": 2502,
    "key": "mercadolivre:MLB47519001",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794903382
-  },
-  {
-   "n": 2443,
-   "key": "mercadolivre:MLB54469538",
-   "title": "Amperímetro Alicate digital com pinça AstroAI de 2000C para medição de corrente e tensão,com seleção automática de faixa,para medição de tensão CA/CC,corrente C",
-   "price": 136.75,
-   "original": 298.18,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_953174-MLA99558019076_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/amperimetro-alicate-digital-com-pinca-astroai-de-2000c-para-medicao-de-corrente-e-tensao-com-selecao-automatica-de-faixa/p/MLB54469538?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794902961
   }
  ]
 }
