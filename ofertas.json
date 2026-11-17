@@ -1,7 +1,21 @@
 {
- "updated": 1794905512,
+ "updated": 1794905933,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2450,
+   "key": "mercadolivre:MLB72367910",
+   "title": "Haosin Escorredor Suporte Organizador De Louças E Pratos 2 Andares Aço Preto Para Pia De Cozinha Moderno",
+   "price": 99.99,
+   "original": 119.0,
+   "pct": 16,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_672135-MLA115722945598_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/haosin-escorredor-suporte-organizador-de-loucas-e-pratos-2-andares-aco-preto-para-pia-de-cozinha-moderno/p/MLB72367910?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794905913
+  },
   {
    "n": 2449,
    "key": "mercadolivre:MLB62063542",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794880167
-  },
-  {
-   "n": 2390,
-   "key": "mercadolivre:MLB66100700",
-   "title": "Depilador Elétrico Feminino 4 Em 1 Pelos Íntimos Axila Nariz Branco",
-   "price": 29.99,
-   "original": 59.0,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_824287-MLA107901081417_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-4-em-1-pelos-intimos-axila-nariz-branco/p/MLB66100700?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794879746
   }
  ]
 }
