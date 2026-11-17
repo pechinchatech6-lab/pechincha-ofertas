@@ -1,7 +1,21 @@
 {
- "updated": 1794950821,
+ "updated": 1794951242,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2544,
+   "key": "mercadolivre:MLB16030232",
+   "title": "Aparador de Pelos Kemei KM-6776 Preto 3 em 1 Nariz e Barba Sem Fio",
+   "price": 47.2,
+   "original": 118.0,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_754437-MLA99453200484_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-kemei-km-6776-preto-3-em-1-nariz-e-barba-sem-fio/p/MLB16030232?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794951222
+  },
   {
    "n": 2543,
    "key": "mercadolivre:MLB38446486",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794922446
-  },
-  {
-   "n": 2484,
-   "key": "mercadolivre:MLB47809248",
-   "title": "Caixa de Som Bluetooth, JBL Flip 7, JBL Pro Sound com AI Sound Boost, IP68, Auracast, até 16h de Reprodução, Playtime Boost, PushLock e Áudio sem Perdas USB-C, ",
-   "price": 569.0,
-   "original": 759.0,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_995433-MLA120976087447_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-jbl-flip-7-jbl-pro-sound-com-ai-sound-boost-ip68-auracast-ate-16h-de-reproducao-playtime-boost-pu/p/MLB47809248?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794922025
   }
  ]
 }
