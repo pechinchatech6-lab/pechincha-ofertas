@@ -1,7 +1,21 @@
 {
- "updated": 1794947145,
+ "updated": 1794947566,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2536,
+   "key": "mercadolivre:MLB68770277",
+   "title": "Aparador De Pelos Nariz E Orelha Elétrico Recarregável Sem Fio Acemic Preto Cortador Nasal Portátil Masculino E Feminino Para Higiene Pessoal Remoção De Pelos C",
+   "price": 19.0,
+   "original": 39.99,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_674222-MLA110090137172_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-nariz-e-orelha-eletrico-recarregavel-sem-fio-acemic-preto-cortador-nasal-portatil-masculino-e-feminino/p/MLB68770277?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794947546
+  },
   {
    "n": 2535,
    "key": "mercadolivre:MLB18185615",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794919078
-  },
-  {
-   "n": 2476,
-   "key": "mercadolivre:MLB37257779",
-   "title": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 300g",
-   "price": 94.39,
-   "original": 153.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646464-MLA112810161826_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-anticaspa-cabelos-normais-a-oleosos-dercos-ds-vichy-300g/p/MLB37257779?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794918657
   }
  ]
 }
