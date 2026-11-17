@@ -1,7 +1,21 @@
 {
- "updated": 1794919519,
+ "updated": 1794919940,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2479,
+   "key": "mercadolivre:MLB15144095",
+   "title": "Logitech Mouse Sem Fio M170 Preto Cinza USB 2.4GHz Ambidestro Compacto para Notebook PC Computador com Nano Receptor USB Conexão Sem Fio Tecnologia Wireless Com",
+   "price": 44.9,
+   "original": 69.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_956180-MLA99964568593_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/logitech-mouse-sem-fio-m170-preto-cinza-usb-2-4ghz-ambidestro-compacto-para-notebook-pc-computador-com-nano-receptor-usb/p/MLB15144095?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794919920
+  },
   {
    "n": 2478,
    "key": "mercadolivre:MLB25708528",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794892789
-  },
-  {
-   "n": 2419,
-   "key": "mercadolivre:MLB19086162",
-   "title": "Redragon Adiemus GS560 Soundbar Gamer RGB com Iluminação Chroma e Design Compacto",
-   "price": 171.99,
-   "original": 324.99,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_644830-MLA96135217083_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/redragon-adiemus-gs560-soundbar-gamer-rgb-com-iluminacao-chroma-e-design-compacto/p/MLB19086162?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794892368
   }
  ]
 }
