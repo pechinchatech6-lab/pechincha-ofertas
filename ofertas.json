@@ -1,7 +1,21 @@
 {
- "updated": 1794897440,
+ "updated": 1794897861,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2432,
+   "key": "mercadolivre:MLB55024225",
+   "title": "Soprador De Ar Turbo 21v Portátil Bateria Recarregável Potente Para Folhas Pó Limpeza Carro Tso-21a The Black Tools",
+   "price": 99.99,
+   "original": 199.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_987154-MLA116188035225_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-de-ar-turbo-21v-portatil-bateria-recarregavel-potente-para-folhas-po-limpeza-carro-tso-21a-the-black-tools/p/MLB55024225?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794897841
+  },
   {
    "n": 2431,
    "key": "mercadolivre:MLB19932033",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794872589
-  },
-  {
-   "n": 2372,
-   "key": "mercadolivre:MLB49851461",
-   "title": "Controle Gamepad Gamesir X5 Lite Usb-c Android iPhone 15/16 Mobile Hall Effect Turbo Leve Verde",
-   "price": 154.9,
-   "original": 249.0,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_718644-MLA99496654954_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamepad-gamesir-x5-lite-usb-c-android-iphone-15-16-mobile-hall-effect-turbo-leve-verde/p/MLB49851461?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794872168
   }
  ]
 }
