@@ -1,7 +1,21 @@
 {
- "updated": 1794958189,
+ "updated": 1794958610,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2561,
+   "key": "mercadolivre:MLB70308697",
+   "title": "Rádio Caixa De Som Bluetooth Recarregável Led Beexcellent Azul",
+   "price": 75.99,
+   "original": 99.9,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_840105-MLA111245741562_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/radio-caixa-de-som-bluetooth-recarregavel-led-beexcellent-azul/p/MLB70308697?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794958590
+  },
   {
    "n": 2560,
    "key": "mercadolivre:MLB67146264",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794930980
-  },
-  {
-   "n": 2501,
-   "key": "mercadolivre:MLB22630625",
-   "title": "Soprador Térmico 1500W Profissional 2 Temperaturas + 4 Bocais",
-   "price": 119.99,
-   "original": 249.0,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_848324-MLA120278012539_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-termico-1500w-profissional-2-temperaturas-4-bocais/p/MLB22630625?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794930559
   }
  ]
 }
