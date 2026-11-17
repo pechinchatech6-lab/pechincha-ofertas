@@ -1,7 +1,21 @@
 {
- "updated": 1794918677,
+ "updated": 1794919098,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2477,
+   "key": "mercadolivre:MLB54245085",
+   "title": "Geladeira Consul Frost Free 455 Litros Duplex Branca - CRM53MB",
+   "price": 3099.0,
+   "original": 4249.47,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_873031-MLA99430059608_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-consul-frost-free-455-litros-duplex-branca-crm53mb/p/MLB54245085?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794919078
+  },
   {
    "n": 2476,
    "key": "mercadolivre:MLB37257779",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794891947
-  },
-  {
-   "n": 2417,
-   "key": "mercadolivre:MLB67708763",
-   "title": "Relógio inteligente Amazfit Active 3 Amoled Preto",
-   "price": 860.35,
-   "original": 1199.0,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_813605-MLA109309782328_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-inteligente-amazfit-active-3-amoled-preto/p/MLB67708763?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794891526
   }
  ]
 }
