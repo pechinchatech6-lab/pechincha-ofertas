@@ -1,7 +1,21 @@
 {
- "updated": 1794990954,
+ "updated": 1794991996,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2614,
+   "key": "mercadolivre:MLB43546155",
+   "title": "EMEET Nova 4K Webcam 1080P 60Fps Camera Para Pc Streaming Microfone Kit Viedeo Conferencia Foco Automático Preto",
+   "price": 208.22,
+   "original": 359.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_904018-MLA114948473263_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/emeet-nova-4k-webcam-1080p-60fps-camera-para-pc-streaming-microfone-kit-viedeo-conferencia-foco-automatico-preto/p/MLB43546155?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794991976
+  },
   {
    "n": 2613,
    "key": "mercadolivre:MLB80744090",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794956064
-  },
-  {
-   "n": 2554,
-   "key": "mercadolivre:MLB51438483",
-   "title": "Caixa De Som Jbl Partybox Encore 2 Preta Com 2 Microfones Preto",
-   "price": 1763.44,
-   "original": 2890.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_903415-MLA99956091381_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-jbl-partybox-encore-2-preta-com-2-microfones-preto/p/MLB51438483?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794955643
   }
  ]
 }
