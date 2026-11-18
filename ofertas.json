@@ -1,7 +1,21 @@
 {
- "updated": 1794986039,
+ "updated": 1794986804,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2606,
+   "key": "mercadolivre:MLB77843005",
+   "title": "Lavadora De Alta Pressão Vap Portátil Sem Fio Bateria Lava Jato Elétrica Recarregável P/ Lavar Carro Moto Quintal C/ 2 Baterias Quicko Bico Mangueira Dispenser ",
+   "price": 109.9,
+   "original": 199.0,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_900627-MLA119928676927_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-vap-portatil-sem-fio-bateria-lava-jato-eletrica-recarregavel-p-lavar-carro-moto-quintal-c-2-bat/p/MLB77843005?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794986784
+  },
   {
    "n": 2605,
    "key": "mercadolivre:MLB52052995",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794952696
-  },
-  {
-   "n": 2546,
-   "key": "mercadolivre:MLB18572393",
-   "title": "Secador De Cabelos Taiff Style Pro 2000w Prata",
-   "price": 198.94,
-   "original": 363.65,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_811448-MLA99465155192_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-taiff-style-pro-2000w-prata/p/MLB18572393?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794952275
   }
  ]
 }
