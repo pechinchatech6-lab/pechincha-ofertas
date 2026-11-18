@@ -1,7 +1,21 @@
 {
- "updated": 1795030052,
+ "updated": 1795030473,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2665,
+   "key": "mercadolivre:MLB41105183",
+   "title": "8bitdo Ultimate 2c Controle Com Fio Pc/android Efeito Hall Cor Lilás",
+   "price": 206.77,
+   "original": 285.88,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_928072-MLA96138724751_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/8bitdo-ultimate-2c-controle-com-fio-pc-android-efeito-hall-cor-lilas/p/MLB41105183?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795030453
+  },
   {
    "n": 2664,
    "key": "mercadolivre:MLB1040287790",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794986784
-  },
-  {
-   "n": 2605,
-   "key": "mercadolivre:MLB52052995",
-   "title": "Air Fryer Philco 6,5l Visor Glass E Redstone 1700w Paf65a Preto 127v.",
-   "price": 280.0,
-   "original": 485.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_761173-MLA99475995202_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/air-fryer-philco-6-5l-visor-glass-e-redstone-1700w-paf65a-preto-127v/p/MLB52052995?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794986019
   }
  ]
 }
