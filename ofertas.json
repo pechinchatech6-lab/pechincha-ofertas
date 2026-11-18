@@ -1,7 +1,21 @@
 {
- "updated": 1795020653,
+ "updated": 1795021074,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2647,
+   "key": "mercadolivre:MLB40501953",
+   "title": "Relógio Despertador Digital de Mesa Display LED Curvado Espelhado com Alarme Programável Soneca de 5 Minutos Termômetro 12h e 24h USB Pilhas AAA | Cor do LED: B",
+   "price": 39.04,
+   "original": 79.99,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_771890-MLA117369078399_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-despertador-digital-de-mesa-display-led-curvado-espelhado-com-alarme-programavel-soneca-de-5-minutos-termometro-/p/MLB40501953?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795021054
+  },
   {
    "n": 2646,
    "key": "mercadolivre:MLB69001762",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794973549
-  },
-  {
-   "n": 2587,
-   "key": "mercadolivre:MLB69649128",
-   "title": "Mini Ventilador Soprador Ar Potente Turbo 130000rpm Assoprador Elétrico Sem Fio Recarregável USB-C 3 Níveis Jato Forte Portátil Multiuso Limpeza Teclado Carro A",
-   "price": 46.9,
-   "original": 96.0,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674554-MLA119255486606_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-ventilador-soprador-ar-potente-turbo-130000rpm-assoprador-eletrico-sem-fio-recarregavel-usb-c-3-niveis-jato-forte-p/p/MLB69649128?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794972929
   }
  ]
 }
