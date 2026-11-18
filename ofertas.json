@@ -1,7 +1,21 @@
 {
- "updated": 1795016986,
+ "updated": 1795017576,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2642,
+   "key": "mercadolivre:MLB81614740",
+   "title": "Coqueteleira Shakeira Academia Whey 500ml Zelvi Com Esfera Misturadora De Metal Tampa Flip E Alça Livre De BPA Cor Cinza",
+   "price": 21.99,
+   "original": 99.0,
+   "pct": 78,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_986692-MLA120960406965_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/coqueteleira-shakeira-academia-whey-500ml-zelvi-com-esfera-misturadora-de-metal-tampa-flip-e-alca-livre-de-bpa-cor-cinza/p/MLB81614740?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795017556
+  },
   {
    "n": 2641,
    "key": "mercadolivre:MLB24807108",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794970865
-  },
-  {
-   "n": 2582,
-   "key": "mercadolivre:MLB61381053",
-   "title": "Mini projetor portátil Magcubic 8k Hy300pro+ Led 260ansi Android Smart TV Dual Wifi6 Bluetooth 5.4 com HDMI USB e som Hifi",
-   "price": 263.45,
-   "original": 479.0,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_853181-MLA106925397890_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-projetor-portatil-magcubic-8k-hy300pro-led-260ansi-android-smart-tv-dual-wifi6-bluetooth-5-4-com-hdmi-usb-e-som-hif/p/MLB61381053?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794970444
   }
  ]
 }
