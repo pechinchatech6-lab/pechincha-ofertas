@@ -1,7 +1,21 @@
 {
- "updated": 1795017997,
+ "updated": 1795018418,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2644,
+   "key": "mercadolivre:MLB67338975",
+   "title": "Kit Barba De Macho Shampoo Condicionador Balm Óleo + Pente",
+   "price": 160.0,
+   "original": 325.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_762419-MLA109681534325_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-barba-de-macho-shampoo-condicionador-balm-oleo-pente/p/MLB67338975?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795018398
+  },
   {
    "n": 2643,
    "key": "mercadolivre:MLB69333502",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794971891
-  },
-  {
-   "n": 2584,
-   "key": "mercadolivre:MLB79529287",
-   "title": "Smart TV Philips 43 polegadas QLED Full HD Wi-Fi HDR10 Dolby Áudio 43PGQ6921/78",
-   "price": 1439.98,
-   "original": 2149.0,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_739870-MLA117019190220_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-philips-43-polegadas-qled-full-hd-wi-fi-hdr10-dolby-audio-43pgq6921-78/p/MLB79529287?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794971470
   }
  ]
 }
