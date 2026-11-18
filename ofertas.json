@@ -1,7 +1,21 @@
 {
- "updated": 1794961179,
+ "updated": 1794961600,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2566,
+   "key": "mercadolivre:MLB23162056",
+   "title": "Chaleira Mor 2,5L Wood Preto 7715",
+   "price": 60.0,
+   "original": 110.39,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_679547-MLA95691984446_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chaleira-mor-2-5l-wood-preto-7715/p/MLB23162056?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794961580
+  },
   {
    "n": 2565,
    "key": "mercadolivre:MLB19716757",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794933085
-  },
-  {
-   "n": 2506,
-   "key": "mercadolivre:MLB16259568",
-   "title": "Microfones Dylan DW DW-602 MAX Dinâmico Cardioide cor preto",
-   "price": 359.39,
-   "original": 433.0,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_965812-MLA99414361614_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfones-dylan-dw-dw-602-max-dinamico-cardioide-cor-preto/p/MLB16259568?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794932664
   }
  ]
 }
