@@ -1,7 +1,21 @@
 {
- "updated": 1794976624,
+ "updated": 1794977045,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2593,
+   "key": "mercadolivre:MLB66427743",
+   "title": "Mini Disco de Corte Serra Circular Para Rolken Micro Retifica Furadeira Parafusadeira Para Corte de Madeira Plástico e Alumínio",
+   "price": 21.79,
+   "original": 27.59,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_695657-MLA107761592856_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-disco-de-corte-serra-circular-para-rolken-micro-retifica-furadeira-parafusadeira-para-corte-de-madeira-plastico-e-a/p/MLB66427743?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794977025
+  },
   {
    "n": 2592,
    "key": "mercadolivre:MLB23888631",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794946704
-  },
-  {
-   "n": 2533,
-   "key": "mercadolivre:MLB80526497",
-   "title": "Kit Jogo De Ferramentas 58 Peças Completo Profissional com Catraca e Soquetes + Chave Combinada Conserto Carro Moto Casa Oficina Kit Soquetes Com Catraca Hardli",
-   "price": 71.99,
-   "original": 99.99,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_911482-MLA119848119777_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-jogo-de-ferramentas-58-pecas-completo-profissional-com-catraca-e-soquetes-chave-combinada-conserto-carro-moto-casa-o/p/MLB80526497?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794946081
   }
  ]
 }
