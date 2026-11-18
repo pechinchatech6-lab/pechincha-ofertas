@@ -1,7 +1,21 @@
 {
- "updated": 1794998065,
+ "updated": 1794998486,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2619,
+   "key": "mercadolivre:MLB14896780",
+   "title": "Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto",
+   "price": 211.25,
+   "original": 307.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_754389-MLA119103956430_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-oscilante-de-parede-ventisol-steel-6-pas-50cm-preto/p/MLB14896780?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794998466
+  },
   {
    "n": 2618,
    "key": "mercadolivre:MLB57723873",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794958169
-  },
-  {
-   "n": 2559,
-   "key": "mercadolivre:MLB65394114",
-   "title": "Kit 2 Microfone Sem Fio Profissional Uhf Led Com Receptor Ec Cinza",
-   "price": 111.54,
-   "original": 199.0,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_763236-MLA106765474327_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-2-microfone-sem-fio-profissional-uhf-led-com-receptor-ec-cinza/p/MLB65394114?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794957748
   }
  ]
 }
