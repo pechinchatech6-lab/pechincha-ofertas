@@ -1,7 +1,21 @@
 {
- "updated": 1795022539,
+ "updated": 1795022960,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2651,
+   "key": "mercadolivre:MLB50026187",
+   "title": "Kit Skincare Gel de Limpeza e Hidratante com Vitamina C, Ação Antioleosidade e Uniformizadora, Pele Iluminada e Hidratada, Uniform & Matte Garnier 150g",
+   "price": 41.55,
+   "original": 67.7,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_994620-MLA84725346069_052025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-skincare-gel-de-limpeza-e-hidratante-com-vitamina-c-acao-antioleosidade-e-uniformizadora-pele-iluminada-e-hidratada-/p/MLB50026187?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795022940
+  },
   {
    "n": 2650,
    "key": "mercadolivre:MLB39939887",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794976604
-  },
-  {
-   "n": 2591,
-   "key": "mercadolivre:MLB62496400",
-   "title": "Induzido Para Esmerilhadeira Ga4530 517648-6 Makita",
-   "price": 81.0,
-   "original": 120.53,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_895501-MLA98909140408_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/induzido-para-esmerilhadeira-ga4530-517648-6-makita/p/MLB62496400?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794975591
   }
  ]
 }
