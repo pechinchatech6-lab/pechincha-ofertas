@@ -1,7 +1,21 @@
 {
- "updated": 1795013441,
+ "updated": 1795013862,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2635,
+   "key": "mercadolivre:MLB18572380",
+   "title": "Secador de Cabelo Taiff 2000W Stylle Azul Tiffany",
+   "price": 189.09,
+   "original": 315.15,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_655896-MLU72845973255_112023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-taiff-2000w-stylle-azul-tiffany/p/MLB18572380?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795013842
+  },
   {
    "n": 2634,
    "key": "mercadolivre:MLB66787132",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794966740
-  },
-  {
-   "n": 2575,
-   "key": "mercadolivre:MLB63492030",
-   "title": "Relógio De Bolso Masculino Vintage Quartz Antigo Cor Prata",
-   "price": 39.92,
-   "original": 99.0,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_914955-MLA101950097648_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-bolso-masculino-vintage-quartz-antigo-cor-prata/p/MLB63492030?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794966319
   }
  ]
 }
