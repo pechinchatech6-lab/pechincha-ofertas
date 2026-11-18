@@ -1,7 +1,21 @@
 {
- "updated": 1795042358,
+ "updated": 1795042779,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2691,
+   "key": "mercadolivre:MLB60431738",
+   "title": "Escova Rotativa Britânia 1300w Opção Secador Bere01",
+   "price": 137.94,
+   "original": 229.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_649796-MLA115769038759_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-rotativa-britania-1300w-opcao-secador-bere01/p/MLB60431738?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795042759
+  },
   {
    "n": 2690,
    "key": "mercadolivre:MLB80306555",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795010389
-  },
-  {
-   "n": 2631,
-   "key": "mercadolivre:MLB73944353",
-   "title": "Kit Ferramentas 46 Peças Jogo Chaves Catraca Soquetes Allen Torx Fenda Phillips Hexon Maleta Completa Manual Mecânico Manutenção Casa Carro Oficina Profissional",
-   "price": 29.9,
-   "original": 50.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_699480-MLA113536583531_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-ferramentas-46-pecas-jogo-chaves-catraca-soquetes-allen-torx-fenda-phillips-hexon-maleta-completa-manual-mecanico-ma/p/MLB73944353?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795009968
   }
  ]
 }
