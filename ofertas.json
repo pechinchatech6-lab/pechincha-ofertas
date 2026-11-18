@@ -1,7 +1,21 @@
 {
- "updated": 1795038148,
+ "updated": 1795038569,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2681,
+   "key": "mercadolivre:MLB18572371",
+   "title": "Secador De Cabelos Motor Ac Profissional Easy 1700w Taiff Preto",
+   "price": 152.52,
+   "original": 375.62,
+   "pct": 59,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_723393-MLA121686815813_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-motor-ac-profissional-easy-1700w-taiff-preto/p/MLB18572371?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795038549
+  },
   {
    "n": 2680,
    "key": "mercadolivre:MLB36823493",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795000101
-  },
-  {
-   "n": 2621,
-   "key": "mercadolivre:MLB62549311",
-   "title": "Furadeira Mourão A Gasolina 26cc 2t Reversão 2 Brocas Evald",
-   "price": 899.0,
-   "original": 1162.38,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_849913-MLA99614240951_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/furadeira-mourao-a-gasolina-26cc-2t-reversao-2-brocas-evald/p/MLB62549311?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794999308
   }
  ]
 }
