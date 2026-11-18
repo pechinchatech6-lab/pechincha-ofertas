@@ -1,7 +1,21 @@
 {
- "updated": 1794960123,
+ "updated": 1794960544,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2564,
+   "key": "mercadolivre:MLB22327723",
+   "title": "Creme Reparador Protetor Avène Cicalfate+ Pele Sensível 20ml",
+   "price": 36.99,
+   "original": 52.99,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_902417-MLA99263357268_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-reparador-protetor-avene-cicalfate-pele-sensivel-20ml/p/MLB22327723?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794960524
+  },
   {
    "n": 2563,
    "key": "mercadolivre:MLB79689521",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794932243
-  },
-  {
-   "n": 2504,
-   "key": "mercadolivre:MLB69621250",
-   "title": "Soundbar Philips 2.0, bluetooth, USB e HDMI ARC TAB4000/78",
-   "price": 329.0,
-   "original": 639.0,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_797186-MLA111578278076_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-philips-2-0-bluetooth-usb-e-hdmi-arc-tab4000-78/p/MLB69621250?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794931822
   }
  ]
 }
