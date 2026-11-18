@@ -1,7 +1,21 @@
 {
- "updated": 1794978668,
+ "updated": 1794980731,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2595,
+   "key": "mercadolivre:MLB59802579",
+   "title": "Caixa de Som Bluetooth - JBL Grip - 16W RMS, AI Sound Boost, Luz Ambiente, Auracast, IP68 e até 14h de Bateria com Playtime Boost - Preta",
+   "price": 387.39,
+   "original": 559.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_991521-MLA99990481703_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-jbl-grip-16w-rms-ai-sound-boost-luz-ambiente-auracast-ip68-e-ate-14h-de-bateria-com-playtime-boos/p/MLB59802579?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794980711
+  },
   {
    "n": 2594,
    "key": "mercadolivre:MLB38919855",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794947546
-  },
-  {
-   "n": 2535,
-   "key": "mercadolivre:MLB18185615",
-   "title": "Aspirador de Pó Vertical 1450W Electrolux cabo 5,0m portátil de mão 2 em 1 potente com capacidade 1,6L filtro HEPA STK14 - Azul Denim",
-   "price": 144.0,
-   "original": 264.59,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_780947-MLA112368489574_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-1450w-electrolux-cabo-5-0m-portatil-de-mao-2-em-1-potente-com-capacidade-1-6l-filtro-hepa-stk14/p/MLB18185615?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794947125
   }
  ]
 }
