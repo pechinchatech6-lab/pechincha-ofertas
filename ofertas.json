@@ -1,7 +1,21 @@
 {
- "updated": 1794981151,
+ "updated": 1794982671,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2597,
+   "key": "mercadolivre:MLB41517253",
+   "title": "Secador De Cabelos 2200w Psc2300 Motor Dc Philco Vermelho Com Tecnologia Íons Tourmaline - Secagem rápida e eficiente",
+   "price": 106.9,
+   "original": 137.61,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_845149-MLA116164516632_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-2200w-psc2300-motor-dc-philco-vermelho-com-tecnologia-ions-tourmaline-secagem-rapida-e-eficiente/p/MLB41517253?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794982651
+  },
   {
    "n": 2596,
    "key": "mercadolivre:MLB19685656",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794948388
-  },
-  {
-   "n": 2537,
-   "key": "mercadolivre:MLB19723843",
-   "title": "Ferro de Passar a Vapor e a Seco Electrolux ESI10 com Base Antiaderente",
-   "price": 88.42,
-   "original": 109.99,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_858372-MLA99523996184_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ferro-de-passar-a-vapor-e-a-seco-electrolux-esi10-com-base-antiaderente/p/MLB19723843?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794947967
   }
  ]
 }
