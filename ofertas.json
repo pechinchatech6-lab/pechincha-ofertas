@@ -1,7 +1,21 @@
 {
- "updated": 1795017576,
+ "updated": 1795017997,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2643,
+   "key": "mercadolivre:MLB69333502",
+   "title": "Kit 3 Pedestais de Microfone Don Caprini Tripé Ajustável com Cachimbo para Estúdio e Podcast",
+   "price": 197.34,
+   "original": 299.0,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_807907-MLA110458701388_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-3-pedestais-de-microfone-don-caprini-tripe-ajustavel-com-cachimbo-para-estudio-e-podcast/p/MLB69333502?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795017977
+  },
   {
    "n": 2642,
    "key": "mercadolivre:MLB81614740",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794971470
-  },
-  {
-   "n": 2583,
-   "key": "mercadolivre:MLB28765604",
-   "title": "Parafusadeira e Furadeira de Impacto 3/8\" WAP K21 ID02 2000 mAh",
-   "price": 189.0,
-   "original": 260.0,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_621555-MLA114663974288_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-de-impacto-3-8-wap-k21-id02-2000-mah/p/MLB28765604?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794970865
   }
  ]
 }
