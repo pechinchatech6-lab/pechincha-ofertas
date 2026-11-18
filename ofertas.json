@@ -1,7 +1,21 @@
 {
- "updated": 1794972528,
+ "updated": 1794972949,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2587,
+   "key": "mercadolivre:MLB69649128",
+   "title": "Mini Ventilador Soprador Ar Potente Turbo 130000rpm Assoprador Elétrico Sem Fio Recarregável USB-C 3 Níveis Jato Forte Portátil Multiuso Limpeza Teclado Carro A",
+   "price": 46.9,
+   "original": 96.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_674554-MLA119255486606_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-ventilador-soprador-ar-potente-turbo-130000rpm-assoprador-eletrico-sem-fio-recarregavel-usb-c-3-niveis-jato-forte-p/p/MLB69649128?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794972929
+  },
   {
    "n": 2586,
    "key": "mercadolivre:MLB47407361",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794943605
-  },
-  {
-   "n": 2527,
-   "key": "mercadolivre:MLB27237304",
-   "title": "Lava Louças Brastemp 8 Serviços Preta - BLF08AE Preto",
-   "price": 1699.0,
-   "original": 2252.0,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_963744-MLA99491918360_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lava-loucas-brastemp-8-servicos-preta-blf08ae-preto/p/MLB27237304?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794942471
   }
  ]
 }
