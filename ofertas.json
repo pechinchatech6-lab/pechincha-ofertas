@@ -1,7 +1,21 @@
 {
- "updated": 1795015923,
+ "updated": 1795016565,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2640,
+   "key": "mercadolivre:MLB49822923",
+   "title": "Batedeira Planetária Philco 900W 5L Preta 12 Velocidades Turbo PBP90A",
+   "price": 289.0,
+   "original": 379.9,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_728713-MLA99416610212_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/batedeira-planetaria-philco-900w-5l-preta-12-velocidades-turbo-pbp90a/p/MLB49822923?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795016545
+  },
   {
    "n": 2639,
    "key": "mercadolivre:MLB19590006",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794969830
-  },
-  {
-   "n": 2580,
-   "key": "mercadolivre:MLB67586603",
-   "title": "Organizador De Parede Para Tanque Ou Linha Flow Preto",
-   "price": 44.97,
-   "original": 77.9,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_713314-MLA109172823024_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/organizador-de-parede-para-tanque-ou-linha-flow-preto/p/MLB67586603?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794969409
   }
  ]
 }
