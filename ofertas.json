@@ -1,7 +1,21 @@
 {
- "updated": 1795039832,
+ "updated": 1795040253,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2685,
+   "key": "mercadolivre:MLB45981292",
+   "title": "Barbeador Elétrico Acabamento Shaver Kemei 2024 Cor Preto",
+   "price": 51.53,
+   "original": 78.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_767508-MLA99987776009_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/barbeador-eletrico-acabamento-shaver-kemei-2024-cor-preto/p/MLB45981292?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795040233
+  },
   {
    "n": 2684,
    "key": "mercadolivre:MLB79287290",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795006231
-  },
-  {
-   "n": 2625,
-   "key": "mercadolivre:MLB45151298",
-   "title": "Mouse Sem Fio Logitech M196 Com Conexão Bluetooth - Rosa Rosa",
-   "price": 49.9,
-   "original": 79.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_862174-MLA99480177236_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-sem-fio-logitech-m196-com-conexao-bluetooth-rosa-rosa/p/MLB45151298?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795005209
   }
  ]
 }
