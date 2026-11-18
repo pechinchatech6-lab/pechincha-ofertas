@@ -1,7 +1,21 @@
 {
- "updated": 1795015502,
+ "updated": 1795015923,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2639,
+   "key": "mercadolivre:MLB19590006",
+   "title": "Ferro de Passar a Seco Mondial 1200W - FSN-55-B",
+   "price": 58.0,
+   "original": 109.0,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_764340-MLA99962365237_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ferro-de-passar-a-seco-mondial-1200w-fsn-55-b/p/MLB19590006?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795015903
+  },
   {
    "n": 2638,
    "key": "mercadolivre:MLB18722625",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794969409
-  },
-  {
-   "n": 2579,
-   "key": "mercadolivre:MLB69013896",
-   "title": "Caixa de Som Amplificada Philco Extreme Bluetooth 5.3 480W 2 Microfones TWS Flash Light Bateria Recarregável PCX4801",
-   "price": 699.0,
-   "original": 1212.86,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_680616-MLA116669244073_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-amplificada-philco-extreme-bluetooth-5-3-480w-2-microfones-tws-flash-light-bateria-recarregavel-pcx4801/p/MLB69013896?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794968359
   }
  ]
 }
