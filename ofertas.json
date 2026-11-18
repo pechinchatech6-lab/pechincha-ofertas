@@ -1,7 +1,21 @@
 {
- "updated": 1795031736,
+ "updated": 1795032157,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2669,
+   "key": "mercadolivre:MLB24099368",
+   "title": "Panela De Pressão 6L Antiaderente 24cm Vancouver Starflon Max Grafite Tramontina",
+   "price": 235.0,
+   "original": 375.99,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_795963-MLA100025926035_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/panela-de-pressao-6l-antiaderente-24cm-vancouver-starflon-max-grafite-tramontina/p/MLB24099368?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795032137
+  },
   {
    "n": 2668,
    "key": "mercadolivre:MLB79371322",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794988468
-  },
-  {
-   "n": 2609,
-   "key": "mercadolivre:MLB59799660",
-   "title": "Geladeira Consul Frost Free 333 Litros Duplex Branca - CRM40MB",
-   "price": 2099.0,
-   "original": 2332.0,
-   "pct": 10,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_649623-MLA94806311973_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-consul-frost-free-333-litros-duplex-branca-crm40mb/p/MLB59799660?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794988047
   }
  ]
 }
