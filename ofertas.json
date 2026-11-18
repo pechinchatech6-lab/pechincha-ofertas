@@ -1,7 +1,21 @@
 {
- "updated": 1795042779,
+ "updated": 1795043200,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2692,
+   "key": "mercadolivre:MLB56064567",
+   "title": "Short Cinta Modeladora Cós Alto Compressão Redutora Selene Cor Pó De Arroz Tamanho G",
+   "price": 21.24,
+   "original": 73.98,
+   "pct": 71,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_965925-MLA92022613418_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/short-cinta-modeladora-cos-alto-compressao-redutora-selene-cor-po-de-arroz-tamanho-g/p/MLB56064567?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795043180
+  },
   {
    "n": 2691,
    "key": "mercadolivre:MLB60431738",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795011366
-  },
-  {
-   "n": 2632,
-   "key": "mercadolivre:MLB19104022",
-   "title": "Micro-ondas Mo-01-21-w 21 Litros 1200w Branco Mondial",
-   "price": 449.0,
-   "original": 636.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_668181-MLA96417629602_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-mo-01-21-w-21-litros-1200w-branco-mondial/p/MLB19104022?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795010389
   }
  ]
 }
