@@ -1,7 +1,21 @@
 {
- "updated": 1795033420,
+ "updated": 1795033841,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2673,
+   "key": "mercadolivre:MLB70211597",
+   "title": "Porta Suplemento Acoplável Multi Uso Whay Cápsula Prottector Cores Fumê, Preto e Rosa",
+   "price": 36.0,
+   "original": 49.0,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_740321-MLA112156785355_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/porta-suplemento-acoplavel-multi-uso-whay-capsula-prottector-cores-fume-preto-e-rosa/p/MLB70211597?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795033821
+  },
   {
    "n": 2672,
    "key": "mercadolivre:MLB49653023",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794991976
-  },
-  {
-   "n": 2613,
-   "key": "mercadolivre:MLB80744090",
-   "title": "Climatizador de Ar Portátil 15L Umidificador Evaporativo 3 Velocidades 3 Modos de Vento Temporizador Resfriamento Touch Controle Remoto",
-   "price": 450.0,
-   "original": 1199.99,
-   "pct": 62,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_809505-MLA119892475101_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-portatil-15l-umidificador-evaporativo-3-velocidades-3-modos-de-vento-temporizador-resfriamento-touch-/p/MLB80744090?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794990933
   }
  ]
 }
