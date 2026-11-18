@@ -1,7 +1,21 @@
 {
- "updated": 1795008725,
+ "updated": 1795009146,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2629,
+   "key": "mercadolivre:MLB49652036",
+   "title": "Secador De Cabelos Philco psc3500 4 Em 1 dobrável motor bldc Prateado",
+   "price": 367.99,
+   "original": 649.0,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_875331-MLA117081876247_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-philco-psc3500-4-em-1-dobravel-motor-bldc-prateado/p/MLB49652036?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795009126
+  },
   {
    "n": 2628,
    "key": "mercadolivre:MLB67949109",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794963638
-  },
-  {
-   "n": 2569,
-   "key": "mercadolivre:MLB52254022",
-   "title": "Trena Laser 120m De Distancia Digital Obra Engenheiro",
-   "price": 112.49,
-   "original": 124.99,
-   "pct": 10,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_723536-MLA96419897788_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/trena-laser-120m-de-distancia-digital-obra-engenheiro/p/MLB52254022?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794963217
   }
  ]
 }
