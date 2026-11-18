@@ -1,7 +1,21 @@
 {
- "updated": 1795009567,
+ "updated": 1795009988,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2631,
+   "key": "mercadolivre:MLB73944353",
+   "title": "Kit Ferramentas 46 Peças Jogo Chaves Catraca Soquetes Allen Torx Fenda Phillips Hexon Maleta Completa Manual Mecânico Manutenção Casa Carro Oficina Profissional",
+   "price": 29.9,
+   "original": 50.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_699480-MLA113536583531_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-ferramentas-46-pecas-jogo-chaves-catraca-soquetes-allen-torx-fenda-phillips-hexon-maleta-completa-manual-mecanico-ma/p/MLB73944353?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795009968
+  },
   {
    "n": 2630,
    "key": "mercadolivre:MLB69943592",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794964480
-  },
-  {
-   "n": 2571,
-   "key": "mercadolivre:MLB24428751",
-   "title": "Medidor De Distância Trena Analógica Vonder Com Rodas 999,9m",
-   "price": 161.73,
-   "original": 185.9,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_990041-MLA99999958787_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/medidor-de-distancia-trena-analogica-vonder-com-rodas-999-9m/p/MLB24428751?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794964059
   }
  ]
 }
