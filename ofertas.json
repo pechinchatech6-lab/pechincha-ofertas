@@ -1,7 +1,21 @@
 {
- "updated": 1794970464,
+ "updated": 1794970885,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2583,
+   "key": "mercadolivre:MLB28765604",
+   "title": "Parafusadeira e Furadeira de Impacto 3/8\" WAP K21 ID02 2000 mAh",
+   "price": 189.0,
+   "original": 260.0,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_621555-MLA114663974288_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-de-impacto-3-8-wap-k21-id02-2000-mah/p/MLB28765604?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794970865
+  },
   {
    "n": 2582,
    "key": "mercadolivre:MLB61381053",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794941208
-  },
-  {
-   "n": 2523,
-   "key": "mercadolivre:MLB18640232",
-   "title": "Forno Elétrico De Bancada 110v Nardelli Top60 60litros Black",
-   "price": 385.45,
-   "original": 631.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_892018-MLA99513575620_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/forno-eletrico-de-bancada-110v-nardelli-top60-60litros-black/p/MLB18640232?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794940787
   }
  ]
 }
