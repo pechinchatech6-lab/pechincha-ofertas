@@ -1,7 +1,21 @@
 {
- "updated": 1795008304,
+ "updated": 1795008725,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2628,
+   "key": "mercadolivre:MLB67949109",
+   "title": "Forno Elétrico 52l Family Grill Inox Mondial 1800w Frn-52-bi",
+   "price": 434.58,
+   "original": 596.9,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_921149-MLA112261101800_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/forno-eletrico-52l-family-grill-inox-mondial-1800w-frn-52-bi/p/MLB67949109?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795008705
+  },
   {
    "n": 2627,
    "key": "mercadolivre:MLB52135607",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794963217
-  },
-  {
-   "n": 2568,
-   "key": "mercadolivre:MLB58330076",
-   "title": "Panela de Pressão Antiaderente Mimo Style Presscook 4.2 L para Indução e Gás",
-   "price": 172.76,
-   "original": 298.08,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_644018-MLA93296053690_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/panela-de-pressao-antiaderente-mimo-style-presscook-4-2-l-para-inducao-e-gas/p/MLB58330076?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794962422
   }
  ]
 }
