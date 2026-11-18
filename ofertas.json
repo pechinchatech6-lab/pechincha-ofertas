@@ -1,7 +1,21 @@
 {
- "updated": 1794984776,
+ "updated": 1794985197,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2603,
+   "key": "mercadolivre:MLB69345065",
+   "title": "Micro-ondas Consul 23 Litros Função Marmita - CMS23A",
+   "price": 510.0,
+   "original": 589.0,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_894054-MLA110468601326_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-consul-23-litros-funcao-marmita-cms23a/p/MLB69345065?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794985177
+  },
   {
    "n": 2602,
    "key": "mercadolivre:MLB77950516",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794951222
-  },
-  {
-   "n": 2543,
-   "key": "mercadolivre:MLB38446486",
-   "title": "Lixadeira Pneumática Orbital 6 Roquite Hookit Com Aspiração Profissional TLP600V The Black Tools",
-   "price": 199.9,
-   "original": 304.5,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_895686-MLA117363374148_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-orbital-6-roquite-hookit-com-aspiracao-profissional-tlp600v-the-black-tools/p/MLB38446486?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794950801
   }
  ]
 }
