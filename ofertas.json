@@ -1,7 +1,21 @@
 {
- "updated": 1795039411,
+ "updated": 1795039832,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2684,
+   "key": "mercadolivre:MLB79287290",
+   "title": "Relógio Inteligente Xiaomi Redmi Watch 6 Active Preto",
+   "price": 298.76,
+   "original": 388.0,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_965138-MLA117575256419_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-inteligente-xiaomi-redmi-watch-6-active-preto/p/MLB79287290?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795039812
+  },
   {
    "n": 2683,
    "key": "mercadolivre:MLB19772622",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795005209
-  },
-  {
-   "n": 2624,
-   "key": "mercadolivre:MLB74698581",
-   "title": "Relógio Digital Com Data E Alarme De Mesa E Parede Led Top Cor Branco",
-   "price": 47.0,
-   "original": 62.96,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_769141-MLA113971536417_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-digital-com-data-e-alarme-de-mesa-e-parede-led-top-cor-branco/p/MLB74698581?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795004202
   }
  ]
 }
