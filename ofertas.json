@@ -1,7 +1,21 @@
 {
- "updated": 1795014482,
+ "updated": 1795014903,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2637,
+   "key": "mercadolivre:MLB68260085",
+   "title": "Kemei Barbeador Eletrico 1910 Removedor Pelos Intimo Mas Fem Azul",
+   "price": 59.26,
+   "original": 99.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_851464-MLA110566056817_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kemei-barbeador-eletrico-1910-removedor-pelos-intimo-mas-fem-azul/p/MLB68260085?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795014883
+  },
   {
    "n": 2636,
    "key": "mercadolivre:MLB54549630",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794967582
-  },
-  {
-   "n": 2577,
-   "key": "mercadolivre:MLB72717309",
-   "title": "Nivel Laser Verde 2 Linhas Autonivelante Profissional 360 Graus + Tripé",
-   "price": 140.13,
-   "original": 399.0,
-   "pct": 65,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_650496-MLA111742439286_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-2-linhas-autonivelante-profissional-360-graus-tripe/p/MLB72717309?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794967161
   }
  ]
 }
