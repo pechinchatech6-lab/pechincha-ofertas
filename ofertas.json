@@ -1,7 +1,21 @@
 {
- "updated": 1795014903,
+ "updated": 1795015502,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2638,
+   "key": "mercadolivre:MLB18722625",
+   "title": "Proteína Darkness Carnibol Beef em pó sabor Chocolate x 1.8kg",
+   "price": 285.0,
+   "original": 399.9,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_775815-MLA99993472513_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/proteina-darkness-carnibol-beef-em-po-sabor-chocolate-x-1-8kg/p/MLB18722625?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795015482
+  },
   {
    "n": 2637,
    "key": "mercadolivre:MLB68260085",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794968359
-  },
-  {
-   "n": 2578,
-   "key": "mercadolivre:MLB21727613",
-   "title": "Shampoo Wella Invigo Nutri Enrich - Nutrição Cabelos Secos Danificados 1 Litro",
-   "price": 142.5,
-   "original": 250.0,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_787511-MLA96417908662_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-wella-invigo-nutri-enrich-nutricao-cabelos-secos-danificados-1-litro/p/MLB21727613?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794967582
   }
  ]
 }
