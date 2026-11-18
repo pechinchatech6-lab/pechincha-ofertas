@@ -1,7 +1,21 @@
 {
- "updated": 1795029210,
+ "updated": 1795029631,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2663,
+   "key": "mercadolivre:MLB70449712",
+   "title": "Body Splash Masculino Vibration 200ml - Primacial Perfume Bergamota Fresco",
+   "price": 41.19,
+   "original": 69.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_617155-MLA118231595864_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/body-splash-masculino-vibration-200ml-primacial-perfume-bergamota-fresco/p/MLB70449712?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795029611
+  },
   {
    "n": 2662,
    "key": "mercadolivre:MLB1055308835",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794985598
-  },
-  {
-   "n": 2603,
-   "key": "mercadolivre:MLB69345065",
-   "title": "Micro-ondas Consul 23 Litros Função Marmita - CMS23A",
-   "price": 510.0,
-   "original": 589.0,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_894054-MLA110468601326_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-consul-23-litros-funcao-marmita-cms23a/p/MLB69345065?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794985177
   }
  ]
 }
