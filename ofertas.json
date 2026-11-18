@@ -1,7 +1,21 @@
 {
- "updated": 1795021074,
+ "updated": 1795021697,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2648,
+   "key": "mercadolivre:MLB70361842",
+   "title": "Soprador De Folhas Elétrico Turbo 1.050w Portátil 21v Super Potente 5700 Rpm Bateria Bivolt Sem Fio - Dewen",
+   "price": 112.49,
+   "original": 199.97,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_719419-MLA112318025645_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-de-folhas-eletrico-turbo-1-050w-portatil-21v-super-potente-5700-rpm-bateria-bivolt-sem-fio-dewen/p/MLB70361842?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795021677
+  },
   {
    "n": 2647,
    "key": "mercadolivre:MLB40501953",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794974574
-  },
-  {
-   "n": 2588,
-   "key": "mercadolivre:MLB79475250",
-   "title": "Soundbar Com Subwoofer Desmontável 420W 5.1 Canais Home Theater Subwoofer Maizhelun Som Imersivo Conectividade Aux/HDMI (ARC)/USB/Óptico/Coaxial/Antena FM Bluet",
-   "price": 483.06,
-   "original": 998.0,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_831721-MLA116440066636_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-com-subwoofer-desmontavel-420w-5-1-canais-home-theater-subwoofer-maizhelun-som-imersivo-conectividade-aux-hdmi-/p/MLB79475250?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794973549
   }
  ]
 }
