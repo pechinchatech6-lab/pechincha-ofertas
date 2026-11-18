@@ -1,7 +1,21 @@
 {
- "updated": 1795025842,
+ "updated": 1795026263,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2655,
+   "key": "mercadolivre:MLB25295297",
+   "title": "Mini Mixer Elétrico Portátil Misturador De Bebidas Café Leite Cappuccino Whey Protein Shake Ovos Espumador Batedor Fouet Inox Compacto Cozinha Drinks Mackie Fer",
+   "price": 19.9,
+   "original": 44.9,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_938885-MLA117943518284_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-mixer-eletrico-portatil-misturador-de-bebidas-cafe-leite-cappuccino-whey-protein-shake-ovos-espumador-batedor-fouet/p/MLB25295297?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795026243
+  },
   {
    "n": 2654,
    "key": "mercadolivre:MLB53218854",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794981131
-  },
-  {
-   "n": 2595,
-   "key": "mercadolivre:MLB59802579",
-   "title": "Caixa de Som Bluetooth - JBL Grip - 16W RMS, AI Sound Boost, Luz Ambiente, Auracast, IP68 e até 14h de Bateria com Playtime Boost - Preta",
-   "price": 387.39,
-   "original": 559.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_991521-MLA99990481703_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-jbl-grip-16w-rms-ai-sound-boost-luz-ambiente-auracast-ip68-e-ate-14h-de-bateria-com-playtime-boos/p/MLB59802579?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794980711
   }
  ]
 }
