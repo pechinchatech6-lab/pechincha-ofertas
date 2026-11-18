@@ -1,7 +1,21 @@
 {
- "updated": 1795010409,
+ "updated": 1795011386,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2633,
+   "key": "mercadolivre:MLB28757015",
+   "title": "Escova Secadora Ga.ma Babosa Brush 3d 1300W Verde Bivolt",
+   "price": 133.9,
+   "original": 279.9,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_899031-MLA114756927320_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-ga-ma-babosa-brush-3d-1300w-verde-bivolt/p/MLB28757015?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795011366
+  },
   {
    "n": 2632,
    "key": "mercadolivre:MLB19104022",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794965322
-  },
-  {
-   "n": 2573,
-   "key": "mercadolivre:MLB64896720",
-   "title": "Projetor Epson Powerlite E24 Xga Até 300 Poleg. 3600 Lumens Branco",
-   "price": 3020.9,
-   "original": 4879.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_800736-MLA105691957457_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/projetor-epson-powerlite-e24-xga-ate-300-poleg-3600-lumens-branco/p/MLB64896720?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794964901
   }
  ]
 }
