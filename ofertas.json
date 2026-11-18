@@ -1,7 +1,21 @@
 {
- "updated": 1794963237,
+ "updated": 1794963658,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2570,
+   "key": "mercadolivre:MLB19153400",
+   "title": "NIVEA Hidratante Labial Morango Shine 4,8g, BBB 26, Hidratação Intensa 24h, Cor Suave, Brilho Delicado, Cuidado Diário, Manteiga de Karité",
+   "price": 12.87,
+   "original": 26.29,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_714175-MLA103993749106_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivea-hidratante-labial-morango-shine-4-8g-bbb-26-hidratacao-intensa-24h-cor-suave-brilho-delicado-cuidado-diario-mantei/p/MLB19153400?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794963638
+  },
   {
    "n": 2569,
    "key": "mercadolivre:MLB52254022",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794934769
-  },
-  {
-   "n": 2510,
-   "key": "mercadolivre:MLB19685236",
-   "title": "Mantecorp Protetor Solar Facial Episol Fps 70 Tom 3 Médio",
-   "price": 60.39,
-   "original": 99.9,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_684981-MLA99450554546_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mantecorp-protetor-solar-facial-episol-fps-70-tom-3-medio/p/MLB19685236?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794934348
   }
  ]
 }
