@@ -1,7 +1,21 @@
 {
- "updated": 1794983092,
+ "updated": 1794983513,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2599,
+   "key": "mercadolivre:MLB44463715",
+   "title": "Lizze Extreme 480 Chapinha Profissional",
+   "price": 353.0,
+   "original": 744.66,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_912494-MLA99992658679_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lizze-extreme-480-chapinha-profissional/p/MLB44463715?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794983493
+  },
   {
    "n": 2598,
    "key": "mercadolivre:MLB77331725",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794949230
-  },
-  {
-   "n": 2539,
-   "key": "mercadolivre:MLB65113053",
-   "title": "Chaleira Jarra Elétrica 1,8L Litros Em Inox Desligamento Automático Aquecimento Rápido Segura Café Chá Fácil Abertura Tampa Alça Ergométrica",
-   "price": 39.99,
-   "original": 78.9,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_877555-MLA114973407743_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chaleira-jarra-eletrica-1-8l-litros-em-inox-desligamento-automatico-aquecimento-rapido-segura-cafe-cha-facil-abertura-ta/p/MLB65113053?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794948809
   }
  ]
 }
