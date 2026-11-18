@@ -1,7 +1,21 @@
 {
- "updated": 1795037546,
+ "updated": 1795038148,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2680,
+   "key": "mercadolivre:MLB36823493",
+   "title": "Induzido Rotor Esmerilhadeira Makita M9510 515548-4",
+   "price": 89.0,
+   "original": 132.0,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_614259-MLA106975292850_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/induzido-rotor-esmerilhadeira-makita-m9510-515548-4/p/MLB36823493?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795038128
+  },
   {
    "n": 2679,
    "key": "mercadolivre:MLB22211235",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794999308
-  },
-  {
-   "n": 2620,
-   "key": "mercadolivre:MLB21801610",
-   "title": "Kérastase Densifique Bain Densité Shampoo Densificador para Cabelos Finos com Perda de Densidade, Fortalece e Dá Volume, Com Stemoxydine e Ácido Hialurônico, 25",
-   "price": 187.9,
-   "original": 259.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_635057-MLA99933798695_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kerastase-densifique-bain-densite-shampoo-densificador-para-cabelos-finos-com-perda-de-densidade-fortalece-e-da-volume-c/p/MLB21801610?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794998887
   }
  ]
 }
