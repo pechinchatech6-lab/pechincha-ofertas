@@ -1,7 +1,21 @@
 {
- "updated": 1795016565,
+ "updated": 1795016986,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2641,
+   "key": "mercadolivre:MLB24807108",
+   "title": "Escova Prancha Para Alisar E Modelar Barba E Cabelo Bivolt Cerâmica Pente Anti Frizz Portátil Masculina Branca Branco Sngames",
+   "price": 26.3,
+   "original": 59.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_721748-MLA118279156332_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-prancha-para-alisar-e-modelar-barba-e-cabelo-bivolt-ceramica-pente-anti-frizz-portatil-masculina-branca-branco-sn/p/MLB24807108?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795016966
+  },
   {
    "n": 2640,
    "key": "mercadolivre:MLB49822923",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794970444
-  },
-  {
-   "n": 2581,
-   "key": "mercadolivre:MLB80764337",
-   "title": "Depilador Elétrico Krizeus 4 em 1 Recarregável USB sem Fio para Rosto e Corpo",
-   "price": 36.96,
-   "original": 69.9,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_817000-MLA118280543560_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-eletrico-krizeus-4-em-1-recarregavel-usb-sem-fio-para-rosto-e-corpo/p/MLB80764337?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794969830
   }
  ]
 }
