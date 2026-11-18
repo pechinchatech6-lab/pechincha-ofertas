@@ -1,7 +1,21 @@
 {
- "updated": 1795009146,
+ "updated": 1795009567,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2630,
+   "key": "mercadolivre:MLB69943592",
+   "title": "Forno Elétrico De Bancada Fischer Gourmet Grill 44 Litros Cor Prata",
+   "price": 799.0,
+   "original": 1079.0,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_635221-MLA110863753094_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/forno-eletrico-de-bancada-fischer-gourmet-grill-44-litros-cor-prata/p/MLB69943592?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795009547
+  },
   {
    "n": 2629,
    "key": "mercadolivre:MLB49652036",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794964059
-  },
-  {
-   "n": 2570,
-   "key": "mercadolivre:MLB19153400",
-   "title": "NIVEA Hidratante Labial Morango Shine 4,8g, BBB 26, Hidratação Intensa 24h, Cor Suave, Brilho Delicado, Cuidado Diário, Manteiga de Karité",
-   "price": 12.87,
-   "original": 26.29,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_714175-MLA103993749106_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivea-hidratante-labial-morango-shine-4-8g-bbb-26-hidratacao-intensa-24h-cor-suave-brilho-delicado-cuidado-diario-mantei/p/MLB19153400?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794963638
   }
  ]
 }
