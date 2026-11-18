@@ -1,7 +1,21 @@
 {
- "updated": 1794982671,
+ "updated": 1794983092,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2598,
+   "key": "mercadolivre:MLB77331725",
+   "title": "Alicate Tesoura para Cortar Arame Vergalhão e Cabo de Aço 3,2mm para Construção Serralheria Oficina Ferramenta Manual 8 Polegadas",
+   "price": 29.75,
+   "original": 64.99,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_659601-MLA116194121551_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-tesoura-para-cortar-arame-vergalhao-e-cabo-de-aco-3-2mm-para-construcao-serralheria-oficina-ferramenta-manual-8-/p/MLB77331725?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794983072
+  },
   {
    "n": 2597,
    "key": "mercadolivre:MLB41517253",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794948809
-  },
-  {
-   "n": 2538,
-   "key": "mercadolivre:MLB14748197",
-   "title": "EUCERIN Dual Sérum Facial Antimanchas e Anti-idade 30ml, Anti-Pigment, Clareador, Thiamidol, Ácido Hialurônico",
-   "price": 209.0,
-   "original": 339.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_771909-MLA103879690815_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/eucerin-dual-serum-facial-antimanchas-e-anti-idade-30ml-anti-pigment-clareador-thiamidol-acido-hialuronico/p/MLB14748197?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794948388
   }
  ]
 }
