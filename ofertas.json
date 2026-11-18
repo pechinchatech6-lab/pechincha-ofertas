@@ -1,7 +1,21 @@
 {
- "updated": 1795043621,
+ "updated": 1795044042,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2694,
+   "key": "mercadolivre:MLB27747316",
+   "title": "Prancha Cerâmica Taiff Profissional 180° Preto",
+   "price": 108.69,
+   "original": 186.25,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_815162-MLA99896276503_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/prancha-ceramica-taiff-profissional-180-preto/p/MLB27747316?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795044022
+  },
   {
    "n": 2693,
    "key": "mercadolivre:MLB46051297",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795013842
-  },
-  {
-   "n": 2634,
-   "key": "mercadolivre:MLB66787132",
-   "title": "Máquina de Lavar Consul 14Kg Branca com Modo Eco - CWN14AB",
-   "price": 1599.99,
-   "original": 2384.16,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_671408-MLA108160715106_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-consul-14kg-branca-com-modo-eco-cwn14ab/p/MLB66787132?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795013421
   }
  ]
 }
