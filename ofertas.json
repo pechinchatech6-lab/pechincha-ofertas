@@ -1,7 +1,21 @@
 {
- "updated": 1794962442,
+ "updated": 1794963237,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2569,
+   "key": "mercadolivre:MLB52254022",
+   "title": "Trena Laser 120m De Distancia Digital Obra Engenheiro",
+   "price": 112.49,
+   "original": 124.99,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_723536-MLA96419897788_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/trena-laser-120m-de-distancia-digital-obra-engenheiro/p/MLB52254022?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794963217
+  },
   {
    "n": 2568,
    "key": "mercadolivre:MLB58330076",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794934348
-  },
-  {
-   "n": 2509,
-   "key": "mercadolivre:MLB75465650",
-   "title": "Coletor Guia de Pó Furadeira Parafusadeira 4 a 12mm Dor Block",
-   "price": 19.0,
-   "original": 38.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_981968-MLA114526798003_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/coletor-guia-de-po-furadeira-parafusadeira-4-a-12mm-dor-block/p/MLB75465650?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794933927
   }
  ]
 }
