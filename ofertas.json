@@ -1,7 +1,21 @@
 {
- "updated": 1794969850,
+ "updated": 1794970464,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2582,
+   "key": "mercadolivre:MLB61381053",
+   "title": "Mini projetor portátil Magcubic 8k Hy300pro+ Led 260ansi Android Smart TV Dual Wifi6 Bluetooth 5.4 com HDMI USB e som Hifi",
+   "price": 263.45,
+   "original": 479.0,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_853181-MLA106925397890_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-projetor-portatil-magcubic-8k-hy300pro-led-260ansi-android-smart-tv-dual-wifi6-bluetooth-5-4-com-hdmi-usb-e-som-hif/p/MLB61381053?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794970444
+  },
   {
    "n": 2581,
    "key": "mercadolivre:MLB80764337",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794940787
-  },
-  {
-   "n": 2522,
-   "key": "mercadolivre:MLB28407045",
-   "title": "Webcam Full HD Logitech Brio 100 - Grafite",
-   "price": 169.0,
-   "original": 225.0,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_874264-MLA106268664373_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-brio-100-grafite/p/MLB28407045?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794940366
   }
  ]
 }
