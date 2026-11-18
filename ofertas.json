@@ -1,7 +1,21 @@
 {
- "updated": 1794961600,
+ "updated": 1794962021,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2567,
+   "key": "mercadolivre:MLB18390579",
+   "title": "Cetaphil Creme Hidratante Corporal para Pele Seca e Sensível 453g",
+   "price": 79.9,
+   "original": 134.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_906094-MLA118070993607_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cetaphil-creme-hidratante-corporal-para-pele-seca-e-sensivel-453g/p/MLB18390579?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794962001
+  },
   {
    "n": 2566,
    "key": "mercadolivre:MLB23162056",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794933506
-  },
-  {
-   "n": 2507,
-   "key": "mercadolivre:MLB50567982",
-   "title": "Controle Gamepad GameSir X5 Lite USB-C Android iPhone 15/16 Mobile Hall Effect Turbo Leve Preto",
-   "price": 154.9,
-   "original": 249.0,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_877627-MLA99998011217_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamepad-gamesir-x5-lite-usb-c-android-iphone-15-16-mobile-hall-effect-turbo-leve-preto/p/MLB50567982?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794933085
   }
  ]
 }
