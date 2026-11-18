@@ -1,7 +1,21 @@
 {
- "updated": 1795031315,
+ "updated": 1795031736,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2668,
+   "key": "mercadolivre:MLB79371322",
+   "title": "Depilador Aparador Elétrico Feminino Indolor 4 Em 1 Pelos Íntimo Facial Nariz Orelha Sobrancelha - Crowley",
+   "price": 35.49,
+   "original": 54.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_993413-MLA116209048116_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-aparador-eletrico-feminino-indolor-4-em-1-pelos-intimo-facial-nariz-orelha-sobrancelha-crowley/p/MLB79371322?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795031716
+  },
   {
    "n": 2667,
    "key": "mercadolivre:MLB20691601",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794988047
-  },
-  {
-   "n": 2608,
-   "key": "mercadolivre:MLB28659782",
-   "title": "Lavadora De Alta Pressão Wap Ousada Wl 2610 1500w E 1750psi Cor Cinza e amarelo Frequência 60 Hz 110V",
-   "price": 479.99,
-   "original": 755.71,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_878526-MLU77370348383_072024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-wap-ousada-wl-2610-1500w-e-1750psi-cor-cinza-e-amarelo-frequencia-60-hz-110v/p/MLB28659782?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794987626
   }
  ]
 }
