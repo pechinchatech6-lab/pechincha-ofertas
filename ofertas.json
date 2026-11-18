@@ -1,7 +1,21 @@
 {
- "updated": 1795024823,
+ "updated": 1795025842,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2654,
+   "key": "mercadolivre:MLB53218854",
+   "title": "Webcam Full HD 1080p com Microfone USB Plug & Play Foco Automático Para PC Notebook Zoom Teams Meet Skype YouTube Discord e Mais – Ideal para Home Office Reuniõ",
+   "price": 29.9,
+   "original": 69.9,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_632903-MLA121207601925_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/webcam-full-hd-1080p-com-microfone-usb-plug-play-foco-automatico-para-pc-notebook-zoom-teams-meet-skype-youtube-discord-/p/MLB53218854?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795025822
+  },
   {
    "n": 2653,
    "key": "mercadolivre:MLB54456751",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794980711
-  },
-  {
-   "n": 2594,
-   "key": "mercadolivre:MLB38919855",
-   "title": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 200g",
-   "price": 63.65,
-   "original": 98.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_686877-MLA114006261577_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-anticaspa-cabelos-normais-a-oleosos-dercos-ds-vichy-200g/p/MLB38919855?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794978648
   }
  ]
 }
