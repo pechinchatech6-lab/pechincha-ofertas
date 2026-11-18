@@ -1,7 +1,21 @@
 {
- "updated": 1795028789,
+ "updated": 1795029210,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2662,
+   "key": "mercadolivre:MLB1055308835",
+   "title": "iPhone 17 de 256 GB - Lavanda - Distribuidor Autorizado",
+   "price": 5859.0,
+   "original": 7999.0,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_896332-MLA95400062457_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/iphone-17-de-256-gb-lavanda-distribuidor-autorizado/p/MLB1055308835?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795029190
+  },
   {
    "n": 2661,
    "key": "mercadolivre:MLB54482689",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794985177
-  },
-  {
-   "n": 2602,
-   "key": "mercadolivre:MLB77950516",
-   "title": "Chave de Impacto a Bateria Atverce 300 Nm 1/2\" Brushless com Soquete",
-   "price": 135.99,
-   "original": 410.0,
-   "pct": 67,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_977518-MLA116528649395_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chave-de-impacto-a-bateria-atverce-300-nm-1-2-brushless-com-soquete/p/MLB77950516?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794984756
   }
  ]
 }
