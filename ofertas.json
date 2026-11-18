@@ -1,7 +1,21 @@
 {
- "updated": 1794991996,
+ "updated": 1794992417,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2615,
+   "key": "mercadolivre:MLB73383988",
+   "title": "Soprador Térmico ABLEMARK 600 °C Para Artesanato, Com 5 Bicos e Aquecimento Rápido",
+   "price": 128.99,
+   "original": 231.0,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_711023-MLA113130189801_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-termico-ablemark-600-c-para-artesanato-com-5-bicos-e-aquecimento-rapido/p/MLB73383988?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794992397
+  },
   {
    "n": 2614,
    "key": "mercadolivre:MLB43546155",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794956485
-  },
-  {
-   "n": 2555,
-   "key": "mercadolivre:MLB31795061",
-   "title": "Escova Alisadora Elétrica Mondial Golden Rose Cabo 360° EA-02",
-   "price": 96.0,
-   "original": 151.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_955572-MLA99995730993_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-alisadora-eletrica-mondial-golden-rose-cabo-360-ea-02/p/MLB31795061?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794956064
   }
  ]
 }
