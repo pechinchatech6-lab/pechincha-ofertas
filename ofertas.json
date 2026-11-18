@@ -1,7 +1,21 @@
 {
- "updated": 1794969429,
+ "updated": 1794969850,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2581,
+   "key": "mercadolivre:MLB80764337",
+   "title": "Depilador Elétrico Krizeus 4 em 1 Recarregável USB sem Fio para Rosto e Corpo",
+   "price": 36.96,
+   "original": 69.9,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_817000-MLA118280543560_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-eletrico-krizeus-4-em-1-recarregavel-usb-sem-fio-para-rosto-e-corpo/p/MLB80764337?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794969830
+  },
   {
    "n": 2580,
    "key": "mercadolivre:MLB67586603",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794940366
-  },
-  {
-   "n": 2521,
-   "key": "mercadolivre:MLB37552867",
-   "title": "Forno Elétrico Mondial FR-09 Pratic Cook 6l 650w",
-   "price": 195.0,
-   "original": 335.98,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_755228-MLA100072592203_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/forno-eletrico-mondial-fr-09-pratic-cook-6l-650w/p/MLB37552867?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794939945
   }
  ]
 }
