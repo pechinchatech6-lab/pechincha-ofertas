@@ -1,7 +1,21 @@
 {
- "updated": 1794987225,
+ "updated": 1794987646,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2608,
+   "key": "mercadolivre:MLB28659782",
+   "title": "Lavadora De Alta Pressão Wap Ousada Wl 2610 1500w E 1750psi Cor Cinza e amarelo Frequência 60 Hz 110V",
+   "price": 479.99,
+   "original": 755.71,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_878526-MLU77370348383_072024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-wap-ousada-wl-2610-1500w-e-1750psi-cor-cinza-e-amarelo-frequencia-60-hz-110v/p/MLB28659782?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794987626
+  },
   {
    "n": 2607,
    "key": "mercadolivre:MLB43990036",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794953538
-  },
-  {
-   "n": 2548,
-   "key": "mercadolivre:MLB6077910",
-   "title": "Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca RE31 127v",
-   "price": 1381.95,
-   "original": 2399.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_642557-MLA99992303995_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-cycle-defrost-240l-degelo-pratico-uma-porta-branca-re31-127v/p/MLB6077910?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794953117
   }
  ]
 }
