@@ -1,7 +1,21 @@
 {
- "updated": 1794971911,
+ "updated": 1794972528,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2586,
+   "key": "mercadolivre:MLB47407361",
+   "title": "Samsung Galaxy A36 5g 256gb 8gb Awesome Black",
+   "price": 2999.0,
+   "original": 3999.0,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_932722-MLA99424085944_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/samsung-galaxy-a36-5g-256gb-8gb-awesome-black/p/MLB47407361?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794972508
+  },
   {
    "n": 2585,
    "key": "mercadolivre:MLB57689750",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794942471
-  },
-  {
-   "n": 2526,
-   "key": "mercadolivre:MLB66911368",
-   "title": "Kit Alicate Crimpar Descascador 1200 Terminais Ilhós Tubular W&g",
-   "price": 74.59,
-   "original": 119.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_909617-MLA109112766975_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-alicate-crimpar-descascador-1200-terminais-ilhos-tubular-w-g/p/MLB66911368?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794942050
   }
  ]
 }
