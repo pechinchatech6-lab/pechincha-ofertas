@@ -1,7 +1,21 @@
 {
- "updated": 1794964921,
+ "updated": 1794965342,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2574,
+   "key": "mercadolivre:MLB62629982",
+   "title": "Alicate Amperímetro Digital Minipa ET-3200 1000A AC/DC Peak Hold",
+   "price": 140.55,
+   "original": 271.44,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_624826-MLA114684424492_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-amperimetro-digital-minipa-et-3200-1000a-ac-dc-peak-hold/p/MLB62629982?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794965322
+  },
   {
    "n": 2573,
    "key": "mercadolivre:MLB64896720",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794936465
-  },
-  {
-   "n": 2514,
-   "key": "mercadolivre:MLB75784950",
-   "title": "Relógio Parede Led Digital Alarme Sensor Umidade Temperatura Grande 47x23cm Entrada Academia Hospital Igreja Comércio Recepção Calendário Data Hora 12/24h Dia M",
-   "price": 139.99,
-   "original": 499.9,
-   "pct": 72,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_982517-MLA121537693171_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-parede-led-digital-alarme-sensor-umidade-temperatura-grande-47x23cm-entrada-academia-hospital-igreja-comercio-re/p/MLB75784950?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794936044
   }
  ]
 }
