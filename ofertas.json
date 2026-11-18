@@ -1,7 +1,21 @@
 {
- "updated": 1795043200,
+ "updated": 1795043621,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2693,
+   "key": "mercadolivre:MLB46051297",
+   "title": "Fone de ouvido Tws Philips Tat1109bk/00 preto Ipx4",
+   "price": 94.96,
+   "original": 199.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_638013-MLA99988533713_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-tws-philips-tat1109bk-00-preto-ipx4/p/MLB46051297?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795043601
+  },
   {
    "n": 2692,
    "key": "mercadolivre:MLB56064567",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795013421
-  },
-  {
-   "n": 2633,
-   "key": "mercadolivre:MLB28757015",
-   "title": "Escova Secadora Ga.ma Babosa Brush 3d 1300W Verde Bivolt",
-   "price": 133.9,
-   "original": 279.9,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_899031-MLA114756927320_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-ga-ma-babosa-brush-3d-1300w-verde-bivolt/p/MLB28757015?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795011366
   }
  ]
 }
