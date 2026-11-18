@@ -1,7 +1,21 @@
 {
- "updated": 1794971490,
+ "updated": 1794971911,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2585,
+   "key": "mercadolivre:MLB57689750",
+   "title": "Caixa de Som Basike Boombox Bluetooth 200W, Portátil e à Prova D'Água IPX6",
+   "price": 839.81,
+   "original": 1376.74,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_620090-MLA99986834815_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-basike-boombox-bluetooth-200w-portatil-e-a-prova-d-agua-ipx6/p/MLB57689750?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794971891
+  },
   {
    "n": 2584,
    "key": "mercadolivre:MLB79529287",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794942050
-  },
-  {
-   "n": 2525,
-   "key": "mercadolivre:MLB75879865",
-   "title": "Micro-ondas Philco 20L 1100W Limpa Fácil Tira Odor PMO24E",
-   "price": 499.0,
-   "original": 649.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_930150-MLA113958624794_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-philco-20l-1100w-limpa-facil-tira-odor-pmo24e/p/MLB75879865?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794941629
   }
  ]
 }
