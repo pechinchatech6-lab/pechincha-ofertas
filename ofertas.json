@@ -1,7 +1,21 @@
 {
- "updated": 1795018418,
+ "updated": 1795018839,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2645,
+   "key": "mercadolivre:MLB80865770",
+   "title": "Relógio Decorativo de Parede 30cm com Números Grandes Fácil de Ver para Cozinha Sala de Estar Quarto Recepção E Escritório",
+   "price": 49.0,
+   "original": 62.3,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_638930-MLA118437560424_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-decorativo-de-parede-30cm-com-numeros-grandes-facil-de-ver-para-cozinha-sala-de-estar-quarto-recepcao-e-escritor/p/MLB80865770?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795018819
+  },
   {
    "n": 2644,
    "key": "mercadolivre:MLB67338975",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794972508
-  },
-  {
-   "n": 2585,
-   "key": "mercadolivre:MLB57689750",
-   "title": "Caixa de Som Basike Boombox Bluetooth 200W, Portátil e à Prova D'Água IPX6",
-   "price": 839.81,
-   "original": 1376.74,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_620090-MLA99986834815_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-basike-boombox-bluetooth-200w-portatil-e-a-prova-d-agua-ipx6/p/MLB57689750?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794971891
   }
  ]
 }
