@@ -1,7 +1,21 @@
 {
- "updated": 1794975015,
+ "updated": 1794975611,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2591,
+   "key": "mercadolivre:MLB62496400",
+   "title": "Induzido Para Esmerilhadeira Ga4530 517648-6 Makita",
+   "price": 81.0,
+   "original": 120.53,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_895501-MLA98909140408_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/induzido-para-esmerilhadeira-ga4530-517648-6-makita/p/MLB62496400?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1794975591
+  },
   {
    "n": 2590,
    "key": "mercadolivre:MLB29490023",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794945660
-  },
-  {
-   "n": 2531,
-   "key": "mercadolivre:MLB75231336",
-   "title": "Batom Charm Lips Hbl6001 Ruby Rose Semi Matte Aveludado Cl11",
-   "price": 17.11,
-   "original": 24.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_815627-MLA117289283797_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/batom-charm-lips-hbl6001-ruby-rose-semi-matte-aveludado-cl11/p/MLB75231336?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794944868
   }
  ]
 }
