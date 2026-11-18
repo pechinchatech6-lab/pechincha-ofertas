@@ -1,7 +1,21 @@
 {
- "updated": 1795034683,
+ "updated": 1795035106,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2676,
+   "key": "mercadolivre:MLB47100887",
+   "title": "Kit Maquiagem Infantil Kalon Lashes Maleta 8 Peças Com Batom e Acessórios",
+   "price": 49.99,
+   "original": 78.99,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_758173-MLA112465206752_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-maquiagem-infantil-kalon-lashes-maleta-8-pecas-com-batom-e-acessorios/p/MLB47100887?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795035086
+  },
   {
    "n": 2675,
    "key": "mercadolivre:MLB40182325",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794995424
-  },
-  {
-   "n": 2616,
-   "key": "mercadolivre:MLB29415147",
-   "title": "Controle Gamepad GameSir G8 Galileo USB-C para Android iPhone 15/16 Hall Effect, Botões Mapeáveis e Carregamento Pass-Through Cinza",
-   "price": 359.0,
-   "original": 587.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_908568-MLU75128400957_032024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamepad-gamesir-g8-galileo-usb-c-para-android-iphone-15-16-hall-effect-botoes-mapeaveis-e-carregamento-pass-thr/p/MLB29415147?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794995003
   }
  ]
 }
