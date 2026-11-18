@@ -1,7 +1,21 @@
 {
- "updated": 1795021697,
+ "updated": 1795022118,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2649,
+   "key": "mercadolivre:MLB65602425",
+   "title": "Geladeira Electrolux Frost Free 400l Autosense Branca (if44)",
+   "price": 2869.46,
+   "original": 3359.0,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_600123-MLA107244625265_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-frost-free-400l-autosense-branca-if44/p/MLB65602425?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795022098
+  },
   {
    "n": 2648,
    "key": "mercadolivre:MLB70361842",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794974995
-  },
-  {
-   "n": 2589,
-   "key": "mercadolivre:MLB73436853",
-   "title": "Organizador Multiuso Mesa Maquiagem Pincel Skincare Banheiro Cristal",
-   "price": 28.0,
-   "original": 36.99,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_947433-MLA113158137831_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/organizador-multiuso-mesa-maquiagem-pincel-skincare-banheiro-cristal/p/MLB73436853?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794974574
   }
  ]
 }
