@@ -1,7 +1,21 @@
 {
- "updated": 1795018839,
+ "updated": 1795020653,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2646,
+   "key": "mercadolivre:MLB69001762",
+   "title": "Caixa de som Philco Pcx22000 Com Bluetooth Preto",
+   "price": 1125.79,
+   "original": 1999.0,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_861663-MLA110194440350_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-philco-pcx22000-com-bluetooth-preto/p/MLB69001762?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795020633
+  },
   {
    "n": 2645,
    "key": "mercadolivre:MLB80865770",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794972929
-  },
-  {
-   "n": 2586,
-   "key": "mercadolivre:MLB47407361",
-   "title": "Samsung Galaxy A36 5g 256gb 8gb Awesome Black",
-   "price": 2999.0,
-   "original": 3999.0,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_932722-MLA99424085944_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/samsung-galaxy-a36-5g-256gb-8gb-awesome-black/p/MLB47407361?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794972508
   }
  ]
 }
