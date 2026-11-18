@@ -1,7 +1,21 @@
 {
- "updated": 1794977045,
+ "updated": 1794978668,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2594,
+   "key": "mercadolivre:MLB38919855",
+   "title": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 200g",
+   "price": 63.65,
+   "original": 98.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_686877-MLA114006261577_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-anticaspa-cabelos-normais-a-oleosos-dercos-ds-vichy-200g/p/MLB38919855?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794978648
+  },
   {
    "n": 2593,
    "key": "mercadolivre:MLB66427743",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794947125
-  },
-  {
-   "n": 2534,
-   "key": "mercadolivre:MLB21801939",
-   "title": "Secador de cabelo dobrável Mondial Max Travel 1200w Sc-10",
-   "price": 74.0,
-   "original": 196.27,
-   "pct": 62,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_990387-MLA99524078136_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-dobravel-mondial-max-travel-1200w-sc-10/p/MLB21801939?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794946704
   }
  ]
 }
