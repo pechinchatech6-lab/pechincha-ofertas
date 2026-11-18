@@ -1,7 +1,21 @@
 {
- "updated": 1794987646,
+ "updated": 1794988067,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2609,
+   "key": "mercadolivre:MLB59799660",
+   "title": "Geladeira Consul Frost Free 333 Litros Duplex Branca - CRM40MB",
+   "price": 2099.0,
+   "original": 2332.0,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_649623-MLA94806311973_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-consul-frost-free-333-litros-duplex-branca-crm40mb/p/MLB59799660?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1794988047
+  },
   {
    "n": 2608,
    "key": "mercadolivre:MLB28659782",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794953959
-  },
-  {
-   "n": 2549,
-   "key": "mercadolivre:MLB53666291",
-   "title": "Controle Gamesir T4 Nova Lite Sem Fio Para Pc Switch Android Ios Steam Hall Effect Cor Space Purple",
-   "price": 168.78,
-   "original": 299.0,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_628100-MLA99480320238_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-t4-nova-lite-sem-fio-para-pc-switch-android-ios-steam-hall-effect-cor-space-purple/p/MLB53666291?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794953538
   }
  ]
 }
