@@ -1,7 +1,21 @@
 {
- "updated": 1795037125,
+ "updated": 1795037546,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2679,
+   "key": "mercadolivre:MLB22211235",
+   "title": "Máscara De Cílios Melu By Ruby Rose Peel Off Challenge 14,5g Cor Preto",
+   "price": 16.0,
+   "original": 24.95,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_692342-MLA79558582633_092024-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mascara-de-cilios-melu-by-ruby-rose-peel-off-challenge-14-5g-cor-preto/p/MLB22211235?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795037526
+  },
   {
    "n": 2678,
    "key": "mercadolivre:MLB19533185",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1794998887
-  },
-  {
-   "n": 2619,
-   "key": "mercadolivre:MLB14896780",
-   "title": "Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto",
-   "price": 211.25,
-   "original": 307.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_754389-MLA119103956430_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-oscilante-de-parede-ventisol-steel-6-pas-50cm-preto/p/MLB14896780?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1794998466
   }
  ]
 }
