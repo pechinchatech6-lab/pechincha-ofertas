@@ -1,7 +1,21 @@
 {
- "updated": 1795005229,
+ "updated": 1795006251,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2626,
+   "key": "mercadolivre:MLB28047478",
+   "title": "Corretivo Líquido Claro Concealer Edition Tom Light 15g Océane",
+   "price": 39.7,
+   "original": 76.36,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_835317-MLU72697942292_112023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/corretivo-liquido-claro-concealer-edition-tom-light-15g-oceane/p/MLB28047478?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795006231
+  },
   {
    "n": 2625,
    "key": "mercadolivre:MLB45151298",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1794962001
-  },
-  {
-   "n": 2566,
-   "key": "mercadolivre:MLB23162056",
-   "title": "Chaleira Mor 2,5L Wood Preto 7715",
-   "price": 60.0,
-   "original": 110.39,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_679547-MLA95691984446_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chaleira-mor-2-5l-wood-preto-7715/p/MLB23162056?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1794961580
   }
  ]
 }
