@@ -1,7 +1,21 @@
 {
- "updated": 1795098574,
+ "updated": 1795098995,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2788,
+   "key": "mercadolivre:MLB61852968",
+   "title": "Máscara de Cílios Payot Boca Rosa Preta Volume Instantâneo",
+   "price": 14.8,
+   "original": 19.0,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_775812-MLA97120768966_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mascara-de-cilios-payot-boca-rosa-preta-volume-instantaneo/p/MLB61852968?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795098975
+  },
   {
    "n": 2787,
    "key": "mercadolivre:MLB59870058",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795060951
-  },
-  {
-   "n": 2728,
-   "key": "mercadolivre:MLB30996900",
-   "title": "Ventilador De Mesa Portátil Com Iluminação Umidificador Climatizador Com Reservatório USB com Luz LED HW",
-   "price": 43.29,
-   "original": 71.99,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_784436-MLA120879909545_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-mesa-portatil-com-iluminacao-umidificador-climatizador-com-reservatorio-usb-com-luz-led-hw/p/MLB30996900?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795060530
   }
  ]
 }
