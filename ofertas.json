@@ -1,7 +1,21 @@
 {
- "updated": 1795091898,
+ "updated": 1795092319,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2778,
+   "key": "mercadolivre:MLB40336256",
+   "title": "Uomini Spirit Desodorante Colônia 100ml",
+   "price": 94.9,
+   "original": 209.9,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_740927-MLA106407688549_022026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/uomini-spirit-desodorante-colonia-100ml/p/MLB40336256?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795092299
+  },
   {
    "n": 2777,
    "key": "mercadolivre:MLB10892513",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795055738
-  },
-  {
-   "n": 2718,
-   "key": "mercadolivre:MLB24432654",
-   "title": "Creme Reparador Protetor Avène Cicalfate+ Pele Sensível 100ml",
-   "price": 94.8,
-   "original": 132.99,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_726787-MLA94671270402_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-reparador-protetor-avene-cicalfate-pele-sensivel-100ml/p/MLB24432654?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795055317
   }
  ]
 }
