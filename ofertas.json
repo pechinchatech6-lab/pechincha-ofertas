@@ -1,7 +1,21 @@
 {
- "updated": 1795059287,
+ "updated": 1795059708,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2726,
+   "key": "mercadolivre:MLB62195834",
+   "title": "Climatizador De Ar 4 Litros Portátil 4 Em 1 Itatiaia Branco",
+   "price": 287.27,
+   "original": 599.99,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_643672-MLA98461747787_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-4-litros-portatil-4-em-1-itatiaia-branco/p/MLB62195834?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795059688
+  },
   {
    "n": 2725,
    "key": "mercadolivre:MLB19314356",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795031295
-  },
-  {
-   "n": 2666,
-   "key": "mercadolivre:MLB18931576",
-   "title": "Webcam HD Logitech C270 Com Microfone Embutido Preto",
-   "price": 129.9,
-   "original": 179.9,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_798375-MLA105664345376_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-hd-logitech-c270-com-microfone-embutido-preto/p/MLB18931576?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795030874
   }
  ]
 }
