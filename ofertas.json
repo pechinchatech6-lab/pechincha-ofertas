@@ -1,7 +1,21 @@
 {
- "updated": 1795064319,
+ "updated": 1795066353,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2734,
+   "key": "mercadolivre:MLB74598488",
+   "title": "Kit Elétrico Profissional Com Alicate Decapador Fios + Alicate Crimpador + 1200 Ilhós Profissional Alicates Kit Eletricista Profissional Ferramentas Etetricista",
+   "price": 69.9,
+   "original": 120.0,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_866702-MLA113979534319_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-eletrico-profissional-com-alicate-decapador-fios-alicate-crimpador-1200-ilhos-profissional-alicates-kit-eletricista-/p/MLB74598488?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795066333
+  },
   {
    "n": 2733,
    "key": "mercadolivre:MLB31059498",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795034663
-  },
-  {
-   "n": 2674,
-   "key": "mercadolivre:MLB18611173",
-   "title": "Lavadora de Alta Pressão Kärcher K5 2100 PSI 380L/h 1900W Motor Indução Com Jato Turbo Rotativo e Lança Leque",
-   "price": 849.0,
-   "original": 1199.0,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_727669-MLA121749505775_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-karcher-k5-2100-psi-380l-h-1900w-motor-inducao-com-jato-turbo-rotativo-e-lanca-leque/p/MLB18611173?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795034242
   }
  ]
 }
