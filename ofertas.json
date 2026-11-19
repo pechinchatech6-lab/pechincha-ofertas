@@ -1,7 +1,21 @@
 {
- "updated": 1795066774,
+ "updated": 1795067195,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2736,
+   "key": "mercadolivre:MLB70063359",
+   "title": "Alicate Crimpar Prensa Terminais 1200 Ilhós Tubular W&g",
+   "price": 41.98,
+   "original": 78.9,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_984860-MLA112698871104_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-crimpar-prensa-terminais-1200-ilhos-tubular-w-g/p/MLB70063359?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795067175
+  },
   {
    "n": 2735,
    "key": "mercadolivre:MLB77363281",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795036086
-  },
-  {
-   "n": 2676,
-   "key": "mercadolivre:MLB47100887",
-   "title": "Kit Maquiagem Infantil Kalon Lashes Maleta 8 Peças Com Batom e Acessórios",
-   "price": 49.99,
-   "original": 78.99,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_758173-MLA112465206752_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-maquiagem-infantil-kalon-lashes-maleta-8-pecas-com-batom-e-acessorios/p/MLB47100887?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795035086
   }
  ]
 }
