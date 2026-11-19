@@ -1,7 +1,21 @@
 {
- "updated": 1795072296,
+ "updated": 1795072717,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2745,
+   "key": "mercadolivre:MLB27157886",
+   "title": "Kit Alicate Tramontina (Bico, Corte e Universal) 43409107",
+   "price": 82.3,
+   "original": 100.53,
+   "pct": 18,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_861759-MLA99467985726_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-alicate-tramontina-bico-corte-e-universal-43409107/p/MLB27157886?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795072697
+  },
   {
    "n": 2744,
    "key": "mercadolivre:MLB19810227",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795040654
-  },
-  {
-   "n": 2685,
-   "key": "mercadolivre:MLB45981292",
-   "title": "Barbeador Elétrico Acabamento Shaver Kemei 2024 Cor Preto",
-   "price": 51.53,
-   "original": 78.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_767508-MLA99987776009_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/barbeador-eletrico-acabamento-shaver-kemei-2024-cor-preto/p/MLB45981292?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795040233
   }
  ]
 }
