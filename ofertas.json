@@ -1,7 +1,21 @@
 {
- "updated": 1795104572,
+ "updated": 1795104993,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2799,
+   "key": "mercadolivre:MLB19380821",
+   "title": "Deo Colônia Natura Hoje Masculino 100ml",
+   "price": 67.56,
+   "original": 168.9,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_809219-MLU72675777427_112023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/deo-colonia-natura-hoje-masculino-100ml/p/MLB19380821?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795104973
+  },
   {
    "n": 2798,
    "key": "mercadolivre:MLB32101995",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795069795
-  },
-  {
-   "n": 2739,
-   "key": "mercadolivre:MLB22871761",
-   "title": "Escova Rotativa Mondial Ceramica Tourmaline Ion 3x1 Erb-01 Rosa 127/220v",
-   "price": 139.0,
-   "original": 299.0,
-   "pct": 54,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_842831-MLA99963285219_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-rotativa-mondial-ceramica-tourmaline-ion-3x1-erb-01-rosa-127-220v/p/MLB22871761?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795069374
   }
  ]
 }
