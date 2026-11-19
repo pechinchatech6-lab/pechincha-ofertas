@@ -1,7 +1,21 @@
 {
- "updated": 1795049099,
+ "updated": 1795049725,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2705,
+   "key": "mercadolivre:MLB35556218",
+   "title": "Ventilador De Teto C/ Controle 6 Vel. Fenix Ventisol",
+   "price": 299.0,
+   "original": 349.0,
+   "pct": 14,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_963344-MLA96100910929_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-teto-c-controle-6-vel-fenix-ventisol/p/MLB35556218?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795049705
+  },
   {
    "n": 2704,
    "key": "mercadolivre:MLB26611483",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795020633
-  },
-  {
-   "n": 2645,
-   "key": "mercadolivre:MLB80865770",
-   "title": "Relógio Decorativo de Parede 30cm com Números Grandes Fácil de Ver para Cozinha Sala de Estar Quarto Recepção E Escritório",
-   "price": 49.0,
-   "original": 62.3,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_638930-MLA118437560424_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-decorativo-de-parede-30cm-com-numeros-grandes-facil-de-ver-para-cozinha-sala-de-estar-quarto-recepcao-e-escritor/p/MLB80865770?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795018819
   }
  ]
 }
