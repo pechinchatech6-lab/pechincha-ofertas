@@ -1,7 +1,21 @@
 {
- "updated": 1795071875,
+ "updated": 1795072296,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2744,
+   "key": "mercadolivre:MLB19810227",
+   "title": "Creme Depilatório Veet Men Pele Normal 200ml",
+   "price": 38.7,
+   "original": 79.29,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_824173-MLA118163059710_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-depilatorio-veet-men-pele-normal-200ml/p/MLB19810227?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795072276
+  },
   {
    "n": 2743,
    "key": "mercadolivre:MLB67561388",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795040233
-  },
-  {
-   "n": 2684,
-   "key": "mercadolivre:MLB79287290",
-   "title": "Relógio Inteligente Xiaomi Redmi Watch 6 Active Preto",
-   "price": 298.76,
-   "original": 388.0,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_965138-MLA117575256419_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-inteligente-xiaomi-redmi-watch-6-active-preto/p/MLB79287290?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795039812
   }
  ]
 }
