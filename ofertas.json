@@ -1,7 +1,21 @@
 {
- "updated": 1795048513,
+ "updated": 1795049099,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2704,
+   "key": "mercadolivre:MLB26611483",
+   "title": "Serra Tico Tico Profissional 500W 3000 Gpm Cor Preto Ângulo De 45° Com Acessórios Bst500 The Black Tools",
+   "price": 155.1,
+   "original": 241.03,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_687278-MLA112992269704_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/serra-tico-tico-profissional-500w-3000-gpm-cor-preto-angulo-de-45-com-acessorios-bst500-the-black-tools/p/MLB26611483?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795049079
+  },
   {
    "n": 2703,
    "key": "mercadolivre:MLB20570214",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795018819
-  },
-  {
-   "n": 2644,
-   "key": "mercadolivre:MLB67338975",
-   "title": "Kit Barba De Macho Shampoo Condicionador Balm Óleo + Pente",
-   "price": 160.0,
-   "original": 325.0,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_762419-MLA109681534325_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-barba-de-macho-shampoo-condicionador-balm-oleo-pente/p/MLB67338975?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795018398
   }
  ]
 }
