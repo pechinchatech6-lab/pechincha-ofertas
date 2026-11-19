@@ -1,7 +1,21 @@
 {
- "updated": 1795074822,
+ "updated": 1795076601,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2751,
+   "key": "mercadolivre:MLB69440670",
+   "title": "Forno Elétrico 60l Family Grill Inox Mondial 1800w Frn-60-wi",
+   "price": 509.0,
+   "original": 672.9,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_813114-MLA113817915707_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/forno-eletrico-60l-family-grill-inox-mondial-1800w-frn-60-wi/p/MLB69440670?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795076581
+  },
   {
    "n": 2750,
    "key": "mercadolivre:MLB26599190",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795043180
-  },
-  {
-   "n": 2691,
-   "key": "mercadolivre:MLB60431738",
-   "title": "Escova Rotativa Britânia 1300w Opção Secador Bere01",
-   "price": 137.94,
-   "original": 229.9,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_649796-MLA115769038759_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-rotativa-britania-1300w-opcao-secador-bere01/p/MLB60431738?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795042759
   }
  ]
 }
