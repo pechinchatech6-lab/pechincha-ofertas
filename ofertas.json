@@ -1,7 +1,21 @@
 {
- "updated": 1795047671,
+ "updated": 1795048092,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2702,
+   "key": "mercadolivre:MLB54468896",
+   "title": "Esmerilhadeira Lixadeira Angular 880w Hanabi 115mm Cor Azul-petróleo Frequência 60hz",
+   "price": 126.94,
+   "original": 194.02,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_633280-MLA117513003981_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/esmerilhadeira-lixadeira-angular-880w-hanabi-115mm-cor-azul-petroleo-frequencia-60hz/p/MLB54468896?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795048072
+  },
   {
    "n": 2701,
    "key": "mercadolivre:MLB32419427",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795017977
-  },
-  {
-   "n": 2642,
-   "key": "mercadolivre:MLB81614740",
-   "title": "Coqueteleira Shakeira Academia Whey 500ml Zelvi Com Esfera Misturadora De Metal Tampa Flip E Alça Livre De BPA Cor Cinza",
-   "price": 21.99,
-   "original": 99.0,
-   "pct": 78,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_986692-MLA120960406965_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/coqueteleira-shakeira-academia-whey-500ml-zelvi-com-esfera-misturadora-de-metal-tampa-flip-e-alca-livre-de-bpa-cor-cinza/p/MLB81614740?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795017556
   }
  ]
 }
