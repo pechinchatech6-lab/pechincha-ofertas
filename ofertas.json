@@ -1,7 +1,21 @@
 {
- "updated": 1795090635,
+ "updated": 1795091056,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2775,
+   "key": "mercadolivre:MLB59806138",
+   "title": "Geladeira Consul Frost Free 455 Litros Duplex Branca - CRM56MB",
+   "price": 3219.0,
+   "original": 3577.0,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_755118-MLA94379321280_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-consul-frost-free-455-litros-duplex-branca-crm56mb/p/MLB59806138?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795091036
+  },
   {
    "n": 2774,
    "key": "mercadolivre:MLB29360695",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795054475
-  },
-  {
-   "n": 2715,
-   "key": "mercadolivre:MLB80245753",
-   "title": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6\" E À Prova D'Água",
-   "price": 68.99,
-   "original": 269.0,
-   "pct": 74,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_680341-MLA118784298481_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mochila-reforcada-jiesipote-para-viagem-com-compartimento-para-notebook-15-6-e-a-prova-d-agua/p/MLB80245753?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795054054
   }
  ]
 }
