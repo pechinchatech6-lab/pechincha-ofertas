@@ -1,7 +1,21 @@
 {
- "updated": 1795046552,
+ "updated": 1795046972,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2700,
+   "key": "mercadolivre:MLB74031327",
+   "title": "880nm Chave De Impacto Sem Fio Brushless Com 2 Bateria Amarelo 60hz",
+   "price": 199.0,
+   "original": 500.0,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_898262-MLA113467659067_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/880nm-chave-de-impacto-sem-fio-brushless-com-2-bateria-amarelo-60hz/p/MLB74031327?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795046952
+  },
   {
    "n": 2699,
    "key": "mercadolivre:MLB19938121",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795016966
-  },
-  {
-   "n": 2640,
-   "key": "mercadolivre:MLB49822923",
-   "title": "Batedeira Planetária Philco 900W 5L Preta 12 Velocidades Turbo PBP90A",
-   "price": 289.0,
-   "original": 379.9,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_728713-MLA99416610212_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/batedeira-planetaria-philco-900w-5l-preta-12-velocidades-turbo-pbp90a/p/MLB49822923?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795016545
   }
  ]
 }
