@@ -1,7 +1,21 @@
 {
- "updated": 1795081082,
+ "updated": 1795081675,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2761,
+   "key": "mercadolivre:MLB51054606",
+   "title": "Máquina de Lavar Electrolux 18 kg Efficient Branca com Cesto Inox e Jet&Clean LEE18",
+   "price": 2099.0,
+   "original": 3039.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_822477-MLA99566766842_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-electrolux-18-kg-efficient-branca-com-cesto-inox-e-jet-clean-lee18/p/MLB51054606?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795081655
+  },
   {
    "n": 2760,
    "key": "mercadolivre:MLB51763024",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795048072
-  },
-  {
-   "n": 2701,
-   "key": "mercadolivre:MLB32419427",
-   "title": "Creme De Barbear Natura Essencial Masculino 75g",
-   "price": 27.39,
-   "original": 68.9,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_705845-MLA99361907550_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-de-barbear-natura-essencial-masculino-75g/p/MLB32419427?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795047651
   }
  ]
 }
