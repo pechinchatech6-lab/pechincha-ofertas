@@ -1,7 +1,21 @@
 {
- "updated": 1795123164,
+ "updated": 1795124772,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2835,
+   "key": "mercadolivre:MLB54961455",
+   "title": "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Preto 5G",
+   "price": 1449.0,
+   "original": 2199.0,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_720238-MLA99713095990_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-com-ia-256gb-8gb-ram-cam-de-50mp-tela-de-6-7-nfc-ip54-preto-5g/p/MLB54961455?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795124752
+  },
   {
    "n": 2834,
    "key": "mercadolivre:MLB62593832",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795091457
-  },
-  {
-   "n": 2775,
-   "key": "mercadolivre:MLB59806138",
-   "title": "Geladeira Consul Frost Free 455 Litros Duplex Branca - CRM56MB",
-   "price": 3219.0,
-   "original": 3577.0,
-   "pct": 10,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_755118-MLA94379321280_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-consul-frost-free-455-litros-duplex-branca-crm56mb/p/MLB59806138?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795091036
   }
  ]
 }
