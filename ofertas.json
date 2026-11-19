@@ -1,7 +1,21 @@
 {
- "updated": 1795074401,
+ "updated": 1795074822,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2750,
+   "key": "mercadolivre:MLB26599190",
+   "title": "Prancha Alisadora InfraRed, Mondial, 55W - P-01-IR",
+   "price": 115.0,
+   "original": 222.9,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_837187-MLA99449623750_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/prancha-alisadora-infrared-mondial-55w-p-01-ir/p/MLB26599190?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795074802
+  },
   {
    "n": 2749,
    "key": "mercadolivre:MLB63414386",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795042759
-  },
-  {
-   "n": 2690,
-   "key": "mercadolivre:MLB80306555",
-   "title": "Kit 10 Lâminas de Serra Sabre Evofix HSS para Madeira, Metal e PVC – Encaixe Universal",
-   "price": 55.99,
-   "original": 69.99,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_897136-MLA117441653026_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-10-laminas-de-serra-sabre-evofix-hss-para-madeira-metal-e-pvc-encaixe-universal/p/MLB80306555?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795042338
   }
  ]
 }
