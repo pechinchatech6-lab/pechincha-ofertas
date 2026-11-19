@@ -1,7 +1,21 @@
 {
- "updated": 1795067616,
+ "updated": 1795068397,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2738,
+   "key": "mercadolivre:MLB80865771",
+   "title": "Relógio de Parede 30cm Quartzo Números Grandes Fácil Leitura Design Moderno para Sala de Estar Cozinha Quarto Escritório e Recepção Elegante",
+   "price": 49.0,
+   "original": 62.3,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_892012-MLA118436859292_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-30cm-quartzo-numeros-grandes-facil-leitura-design-moderno-para-sala-de-estar-cozinha-quarto-escritorio/p/MLB80865771?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795068377
+  },
   {
    "n": 2737,
    "key": "mercadolivre:MLB10481238",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795037526
-  },
-  {
-   "n": 2678,
-   "key": "mercadolivre:MLB19533185",
-   "title": "Creatina 100% Pura 60 Cápsulas Integralmédica",
-   "price": 16.62,
-   "original": 32.0,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_782298-MLA100076194863_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creatina-100-pura-60-capsulas-integralmedica/p/MLB19533185?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795037105
   }
  ]
 }
