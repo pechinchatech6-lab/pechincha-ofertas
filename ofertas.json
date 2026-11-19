@@ -1,7 +1,21 @@
 {
- "updated": 1795098995,
+ "updated": 1795099416,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2789,
+   "key": "mercadolivre:MLB32972865",
+   "title": "Caixa Acrílica Organizador De Cápsulas Café Nespresso Cor Transparente Cristal",
+   "price": 30.13,
+   "original": 68.48,
+   "pct": 56,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_786808-MLA99597671866_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-acrilica-organizador-de-capsulas-cafe-nespresso-cor-transparente-cristal/p/MLB32972865?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795099396
+  },
   {
    "n": 2788,
    "key": "mercadolivre:MLB61852968",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795061372
-  },
-  {
-   "n": 2729,
-   "key": "mercadolivre:MLB63950827",
-   "title": "Soundbar Tcl Com Subwoofer Sem Fio Bluetooth 5.1 Canais 580w Rms Hdmi Arc Q65h",
-   "price": 1574.59,
-   "original": 1899.0,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_851472-MLA103999262107_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-tcl-com-subwoofer-sem-fio-bluetooth-5-1-canais-580w-rms-hdmi-arc-q65h/p/MLB63950827?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795060951
   }
  ]
 }
