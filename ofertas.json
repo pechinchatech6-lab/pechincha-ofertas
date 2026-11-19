@@ -1,7 +1,21 @@
 {
- "updated": 1795091056,
+ "updated": 1795091477,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2776,
+   "key": "mercadolivre:MLB53226472",
+   "title": "Multímetro Smart Minipa Sm-1000 True Rms Escalas Automáticas",
+   "price": 67.29,
+   "original": 101.66,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_723066-MLA100036849019_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/multimetro-smart-minipa-sm-1000-true-rms-escalas-automaticas/p/MLB53226472?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795091457
+  },
   {
    "n": 2775,
    "key": "mercadolivre:MLB59806138",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795054896
-  },
-  {
-   "n": 2716,
-   "key": "mercadolivre:MLB64211779",
-   "title": "Controle Com Fio Usb Para Pc Tv Manete Joystick - Crowley",
-   "price": 27.9,
-   "original": 44.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_660259-MLA110461450931_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-com-fio-usb-para-pc-tv-manete-joystick-crowley/p/MLB64211779?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795054475
   }
  ]
 }
