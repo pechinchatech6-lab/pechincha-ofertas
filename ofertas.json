@@ -1,7 +1,21 @@
 {
- "updated": 1795128069,
+ "updated": 1795129855,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2843,
+   "key": "mercadolivre:MLB35959035",
+   "title": "Mineral/Vitamina Bodyaction Nutri Science Magnésio E Inositol Taurina Melatonina 210g em pó sabor Maracujá x 210g",
+   "price": 42.0,
+   "original": 79.9,
+   "pct": 47,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_653067-MLA110738695437_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mineral-vitamina-bodyaction-nutri-science-magnesio-e-inositol-taurina-melatonina-210g-em-po-sabor-maracuja-x-210g/p/MLB35959035?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795129835
+  },
   {
    "n": 2842,
    "key": "mercadolivre:MLB66911368",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795095060
-  },
-  {
-   "n": 2783,
-   "key": "mercadolivre:MLB78840757",
-   "title": "Caixa De Som Sound Bar Home Theater Bluetooth Para Tv Cinema 80w Cor Preto Bivolt Boyu Cell",
-   "price": 262.2,
-   "original": 360.9,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_857992-MLA118377893890_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-sound-bar-home-theater-bluetooth-para-tv-cinema-80w-cor-preto-bivolt-boyu-cell/p/MLB78840757?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795094464
   }
  ]
 }
