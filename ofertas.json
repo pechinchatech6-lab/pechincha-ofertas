@@ -1,7 +1,21 @@
 {
- "updated": 1795067195,
+ "updated": 1795067616,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2737,
+   "key": "mercadolivre:MLB10481238",
+   "title": "Máscara de Cílios Maybelline Lash Sensational à Prova d'Água para Volume e Definição",
+   "price": 23.74,
+   "original": 29.9,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_645424-MLU72821012247_112023-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mascara-de-cilios-maybelline-lash-sensational-a-prova-d-agua-para-volume-e-definicao/p/MLB10481238?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795067596
+  },
   {
    "n": 2736,
    "key": "mercadolivre:MLB70063359",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795037105
-  },
-  {
-   "n": 2677,
-   "key": "mercadolivre:MLB75898900",
-   "title": "Nível Laser Verde 16 Linhas War Shark 360° Autonivelante + 2 Baterias",
-   "price": 199.0,
-   "original": 400.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_612772-MLA117503682685_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-360-autonivelante-2-baterias/p/MLB75898900?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795036086
   }
  ]
 }
