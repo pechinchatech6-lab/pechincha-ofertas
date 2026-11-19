@@ -1,7 +1,21 @@
 {
- "updated": 1795085219,
+ "updated": 1795085640,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2766,
+   "key": "mercadolivre:MLB70107397",
+   "title": "Controle GameSir G7 Pro Tri-Mode Xbox Series X e S One PC Android Hall Effect TMR Wireless Base Carregadora Edição Dragon's Dogma 2",
+   "price": 449.55,
+   "original": 999.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_620902-MLA112057744307_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-pro-tri-mode-xbox-series-x-e-s-one-pc-android-hall-effect-tmr-wireless-base-carregadora-edicao-drago/p/MLB70107397?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795085620
+  },
   {
    "n": 2765,
    "key": "mercadolivre:MLB80257068",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795050547
-  },
-  {
-   "n": 2706,
-   "key": "mercadolivre:MLB53905228",
-   "title": "Lixadeira De Parede E Teto 1000w Profissional 5 Velocidades 360° Com Led 6 Lixas Saco Coletor Tlt900 The Black Tools",
-   "price": 418.9,
-   "original": 649.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_777026-MLA116987590778_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-de-parede-e-teto-1000w-profissional-5-velocidades-360-com-led-6-lixas-saco-coletor-tlt900-the-black-tools/p/MLB53905228?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795050126
   }
  ]
 }
