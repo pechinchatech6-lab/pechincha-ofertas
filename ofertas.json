@@ -1,7 +1,21 @@
 {
- "updated": 1795077865,
+ "updated": 1795078286,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2755,
+   "key": "mercadolivre:MLB22479338",
+   "title": "Microondas Panasonic Dupla Refeição 34L Black Glass - NN-ST66NBRU",
+   "price": 709.0,
+   "original": 949.0,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_988154-MLA99938073705_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microondas-panasonic-dupla-refeicao-34l-black-glass-nn-st66nbru/p/MLB22479338?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795078266
+  },
   {
    "n": 2754,
    "key": "mercadolivre:MLB64961480",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795044864
-  },
-  {
-   "n": 2695,
-   "key": "mercadolivre:MLB77579125",
-   "title": "Caixa De Som Bluetooth Sem fio Inova Branco Com Despertador Rádio Fm Relógio Led Luz RGB",
-   "price": 66.68,
-   "original": 125.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_924392-MLA116356748095_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-sem-fio-inova-branco-com-despertador-radio-fm-relogio-led-luz-rgb/p/MLB77579125?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795044443
   }
  ]
 }
