@@ -1,7 +1,21 @@
 {
- "updated": 1795061392,
+ "updated": 1795063303,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2731,
+   "key": "mercadolivre:MLB45474714",
+   "title": "Chinelo Feminino Slim Havaianas",
+   "price": 39.0,
+   "original": 54.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_671885-MLA81672743644_012025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chinelo-feminino-slim-havaianas/p/MLB45474714?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795063283
+  },
   {
    "n": 2730,
    "key": "mercadolivre:MLB28525979",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795033400
-  },
-  {
-   "n": 2671,
-   "key": "mercadolivre:MLB19140415",
-   "title": "Suplemento Whey Isolate Protein Fuse 1,8kg sabor Morango Dark Lab",
-   "price": 179.92,
-   "original": 699.9,
-   "pct": 74,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_989007-MLA99405715766_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suplemento-whey-isolate-protein-fuse-1-8kg-sabor-morango-dark-lab/p/MLB19140415?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795032979
   }
  ]
 }
