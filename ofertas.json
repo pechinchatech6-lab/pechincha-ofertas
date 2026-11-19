@@ -1,7 +1,21 @@
 {
- "updated": 1795111455,
+ "updated": 1795111876,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2812,
+   "key": "mercadolivre:MLB47945119",
+   "title": "Lavadora De Alta Pressão Kärcher Prática Black 1500 Psi 1400w 300l/h Com Aplicador De Detergente E Lança Regulável",
+   "price": 282.0,
+   "original": 449.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_768492-MLA117261476752_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-karcher-pratica-black-1500-psi-1400w-300l-h-com-aplicador-de-detergente-e-lanca-regulavel/p/MLB47945119?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795111856
+  },
   {
    "n": 2811,
    "key": "mercadolivre:MLB1046215784",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795077423
-  },
-  {
-   "n": 2752,
-   "key": "mercadolivre:MLB47890206",
-   "title": "Lixadeira Pneumática Roto Orbital 6pol Ch O-10 Chiaperini",
-   "price": 228.0,
-   "original": 426.9,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_704005-MLA111956336055_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-roto-orbital-6pol-ch-o-10-chiaperini/p/MLB47890206?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795077002
   }
  ]
 }
