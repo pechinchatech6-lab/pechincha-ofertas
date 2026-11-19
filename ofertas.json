@@ -1,7 +1,21 @@
 {
- "updated": 1795102704,
+ "updated": 1795103309,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2795,
+   "key": "mercadolivre:MLB67716854",
+   "title": "Mouse USB Com Fio 1600 Dpi Alta Precisão Plug And Play Ergonômico Confortável Ideal Para PC Notebook Escritório Trabalho Estudos Uso Diário Eduimports",
+   "price": 19.91,
+   "original": 25.87,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_624341-MLA110349319902_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mouse-usb-com-fio-1600-dpi-alta-precisao-plug-and-play-ergonomico-confortavel-ideal-para-pc-notebook-escritorio-trabalho/p/MLB67716854?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795103289
+  },
   {
    "n": 2794,
    "key": "mercadolivre:MLB19750535",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795067175
-  },
-  {
-   "n": 2735,
-   "key": "mercadolivre:MLB77363281",
-   "title": "Kit de Brilho Labial Hidratante Fran by Franciny Ehlke com Gloss Lip Bunny e Franboesa",
-   "price": 38.0,
-   "original": 104.7,
-   "pct": 64,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_842770-MLA116205993339_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-de-brilho-labial-hidratante-fran-by-franciny-ehlke-com-gloss-lip-bunny-e-franboesa/p/MLB77363281?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795066754
   }
  ]
 }
