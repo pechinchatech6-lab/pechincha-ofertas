@@ -1,7 +1,21 @@
 {
- "updated": 1795093161,
+ "updated": 1795093582,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2781,
+   "key": "mercadolivre:MLB67420932",
+   "title": "Nível A Laser Verde 2 Linhas Esquadro + Suporte + Tripé Profissional Prumo 20m Autonivelante Pilhas W&g",
+   "price": 109.01,
+   "original": 219.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_873744-MLA117485875143_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-a-laser-verde-2-linhas-esquadro-suporte-tripe-profissional-prumo-20m-autonivelante-pilhas-w-g/p/MLB67420932?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795093562
+  },
   {
    "n": 2780,
    "key": "mercadolivre:MLB66100700",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795058004
-  },
-  {
-   "n": 2721,
-   "key": "mercadolivre:MLB49851699",
-   "title": "Controle GameSir Tegenaria T3 Lite Com Fio para PC Switch Android iOS Steam Celular Hall Effect USB-A Design Ergonômico Branco",
-   "price": 92.0,
-   "original": 159.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_667956-MLA100010532689_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-tegenaria-t3-lite-com-fio-para-pc-switch-android-ios-steam-celular-hall-effect-usb-a-design-ergonomico-/p/MLB49851699?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795057583
   }
  ]
 }
