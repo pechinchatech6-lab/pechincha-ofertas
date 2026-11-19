@@ -1,7 +1,21 @@
 {
- "updated": 1795050988,
+ "updated": 1795051409,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2709,
+   "key": "mercadolivre:MLB23213805",
+   "title": "Prancha Chapinha Babyliss Pro Nano Titanium 450ºf By Roger",
+   "price": 464.0,
+   "original": 599.9,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_697199-MLA99416117532_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/prancha-chapinha-babyliss-pro-nano-titanium-450of-by-roger/p/MLB23213805?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795051389
+  },
   {
    "n": 2708,
    "key": "mercadolivre:MLB81483994",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795022519
-  },
-  {
-   "n": 2649,
-   "key": "mercadolivre:MLB65602425",
-   "title": "Geladeira Electrolux Frost Free 400l Autosense Branca (if44)",
-   "price": 2869.46,
-   "original": 3359.0,
-   "pct": 15,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_600123-MLA107244625265_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-frost-free-400l-autosense-branca-if44/p/MLB65602425?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795022098
   }
  ]
 }
