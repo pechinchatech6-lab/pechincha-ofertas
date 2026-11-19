@@ -1,7 +1,21 @@
 {
- "updated": 1795060129,
+ "updated": 1795060550,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2728,
+   "key": "mercadolivre:MLB30996900",
+   "title": "Ventilador De Mesa Portátil Com Iluminação Umidificador Climatizador Com Reservatório USB com Luz LED HW",
+   "price": 43.29,
+   "original": 71.99,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_784436-MLA120879909545_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-mesa-portatil-com-iluminacao-umidificador-climatizador-com-reservatorio-usb-com-luz-led-hw/p/MLB30996900?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795060530
+  },
   {
    "n": 2727,
    "key": "mercadolivre:MLB21727613",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795032137
-  },
-  {
-   "n": 2668,
-   "key": "mercadolivre:MLB79371322",
-   "title": "Depilador Aparador Elétrico Feminino Indolor 4 Em 1 Pelos Íntimo Facial Nariz Orelha Sobrancelha - Crowley",
-   "price": 35.49,
-   "original": 54.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_993413-MLA116209048116_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-aparador-eletrico-feminino-indolor-4-em-1-pelos-intimo-facial-nariz-orelha-sobrancelha-crowley/p/MLB79371322?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795031716
   }
  ]
 }
