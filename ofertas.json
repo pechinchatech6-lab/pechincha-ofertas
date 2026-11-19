@@ -1,7 +1,21 @@
 {
- "updated": 1795071454,
+ "updated": 1795071875,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2743,
+   "key": "mercadolivre:MLB67561388",
+   "title": "Kit Jogo De Ferramentas 58 Peças Completo Profissional Hexon Soquete 46 Peças + Chave Combinada 12 Peças Conserto Carro Moto Casa Oficina",
+   "price": 76.53,
+   "original": 150.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_887585-MLA109559899308_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-jogo-de-ferramentas-58-pecas-completo-profissional-hexon-soquete-46-pecas-chave-combinada-12-pecas-conserto-carro-mo/p/MLB67561388?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795071855
+  },
   {
    "n": 2742,
    "key": "mercadolivre:MLB68347781",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795039812
-  },
-  {
-   "n": 2683,
-   "key": "mercadolivre:MLB19772622",
-   "title": "Whey Fort 3w 900g Protein Sabor Frutas Vermelhas - Vitafor",
-   "price": 200.51,
-   "original": 373.0,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_900386-MLU75143558182_032024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/whey-fort-3w-900g-protein-sabor-frutas-vermelhas-vitafor/p/MLB19772622?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795039391
   }
  ]
 }
