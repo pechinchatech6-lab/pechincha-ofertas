@@ -1,7 +1,21 @@
 {
- "updated": 1795053514,
+ "updated": 1795054074,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2715,
+   "key": "mercadolivre:MLB80245753",
+   "title": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6\" E À Prova D'Água",
+   "price": 68.99,
+   "original": 269.0,
+   "pct": 74,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680341-MLA118784298481_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-reforcada-jiesipote-para-viagem-com-compartimento-para-notebook-15-6-e-a-prova-d-agua/p/MLB80245753?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795054054
+  },
   {
    "n": 2714,
    "key": "mercadolivre:MLB69968669",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795026664
-  },
-  {
-   "n": 2655,
-   "key": "mercadolivre:MLB25295297",
-   "title": "Mini Mixer Elétrico Portátil Misturador De Bebidas Café Leite Cappuccino Whey Protein Shake Ovos Espumador Batedor Fouet Inox Compacto Cozinha Drinks Mackie Fer",
-   "price": 19.9,
-   "original": 44.9,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_938885-MLA117943518284_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-mixer-eletrico-portatil-misturador-de-bebidas-cafe-leite-cappuccino-whey-protein-shake-ovos-espumador-batedor-fouet/p/MLB25295297?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795026243
   }
  ]
 }
