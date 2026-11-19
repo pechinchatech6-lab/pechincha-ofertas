@@ -1,7 +1,21 @@
 {
- "updated": 1795104993,
+ "updated": 1795105414,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2800,
+   "key": "mercadolivre:MLB14180098",
+   "title": "Prancha Alisadora Mondial Golden Rose/Preto Bivolt P-20",
+   "price": 87.76,
+   "original": 130.0,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_937184-MLA100013378601_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/prancha-alisadora-mondial-golden-rose-preto-bivolt-p-20/p/MLB14180098?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795105394
+  },
   {
    "n": 2799,
    "key": "mercadolivre:MLB19380821",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795070400
-  },
-  {
-   "n": 2740,
-   "key": "mercadolivre:MLB60126432",
-   "title": "Relógio Chroma Masculino Preto Saint Germain Clássico Caixa Preta Detalhes Prata 42mm",
-   "price": 116.9,
-   "original": 259.9,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_682402-MLA99403901858_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-chroma-masculino-preto-saint-germain-classico-caixa-preta-detalhes-prata-42mm/p/MLB60126432?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795069795
   }
  ]
 }
