@@ -1,7 +1,21 @@
 {
- "updated": 1795086904,
+ "updated": 1795088951,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2770,
+   "key": "mercadolivre:MLB60948234",
+   "title": "Caixa De Som Bluetooth Caixinha Som Portátil Potente Tws Com Rádio Rgb Hifi Som À Prova D'água Ipx67 De Multimodo Bluetooth/Cartão Tf/Entrada Aux/Tws Para Inter",
+   "price": 169.0,
+   "original": 241.43,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_731403-MLA99979896537_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-caixinha-som-portatil-potente-tws-com-radio-rgb-hifi-som-a-prova-d-agua-ipx67-de-multimodo-blueto/p/MLB60948234?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795088931
+  },
   {
    "n": 2769,
    "key": "mercadolivre:MLB47437377",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795052231
-  },
-  {
-   "n": 2710,
-   "key": "mercadolivre:MLB39962085",
-   "title": "Fone De Ouvido Sem Fio Xiaomi Redmi Buds 6 Play Preto",
-   "price": 57.61,
-   "original": 73.9,
-   "pct": 22,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_954504-MLA118603044502_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-xiaomi-redmi-buds-6-play-preto/p/MLB39962085?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795051810
   }
  ]
 }
