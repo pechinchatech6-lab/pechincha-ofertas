@@ -1,7 +1,21 @@
 {
- "updated": 1795094484,
+ "updated": 1795095080,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2784,
+   "key": "mercadolivre:MLB79377107",
+   "title": "Jogo Serra Copo 16 Peças 19mm A 127mm Para Madeira Gesso Pvc Mdf Compensado Kit Completo Para Furadeira Conjunto De Serras Para Perfuração E Corte Circular Em O",
+   "price": 40.34,
+   "original": 69.9,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631791-MLA121460787565_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/jogo-serra-copo-16-pecas-19mm-a-127mm-para-madeira-gesso-pvc-mdf-compensado-kit-completo-para-furadeira-conjunto-de-serr/p/MLB79377107?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795095060
+  },
   {
    "n": 2783,
    "key": "mercadolivre:MLB78840757",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795059267
-  },
-  {
-   "n": 2724,
-   "key": "mercadolivre:MLB67714382",
-   "title": "Smartwatch HUAWEI WATCH FIT 5 AMOLED de 182\" Design Leve Mini Treino Bateria com Até 10 Dias 64 GB Gerenciamento Avançado da Saúde Monitor do Sono SpO2 GPS Comp",
-   "price": 699.0,
-   "original": 1499.0,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_888241-MLA110593054037_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartwatch-huawei-watch-fit-5-amoled-de-182-design-leve-mini-treino-bateria-com-ate-10-dias-64-gb-gerenciamento-avancado/p/MLB67714382?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795058846
   }
  ]
 }
