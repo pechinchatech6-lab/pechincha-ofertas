@@ -1,7 +1,21 @@
 {
- "updated": 1795108839,
+ "updated": 1795109260,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2806,
+   "key": "mercadolivre:MLB47104607",
+   "title": "Parafusadeira Chave De Impacto A Bateria Lítio 21v Motor Brushless 800nm 80kgf.m Tb21ix The Black Tools",
+   "price": 399.9,
+   "original": 799.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_793824-MLA118387664379_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-chave-de-impacto-a-bateria-litio-21v-motor-brushless-800nm-80kgf-m-tb21ix-the-black-tools/p/MLB47104607?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795109240
+  },
   {
    "n": 2805,
    "key": "mercadolivre:MLB51115132",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795073539
-  },
-  {
-   "n": 2746,
-   "key": "mercadolivre:MLB19512139",
-   "title": "Secador Taiff Vulcan Diamante Íon Cerâmica 2500W Grafite Profissional",
-   "price": 545.0,
-   "original": 691.0,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_712282-MLA79689374261_102024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-taiff-vulcan-diamante-ion-ceramica-2500w-grafite-profissional/p/MLB19512139?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795073118
   }
  ]
 }
