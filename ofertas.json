@@ -1,7 +1,21 @@
 {
- "updated": 1795102283,
+ "updated": 1795102704,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2794,
+   "key": "mercadolivre:MLB19750535",
+   "title": "Escova Secadora de Cabelos Soft Beauty Cherry Philco Pec13 1300w 4 em 1 seca, alisa, modela e dá volume",
+   "price": 98.34,
+   "original": 124.32,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_653169-MLA99851166997_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-de-cabelos-soft-beauty-cherry-philco-pec13-1300w-4-em-1-seca-alisa-modela-e-da-volume/p/MLB19750535?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795102684
+  },
   {
    "n": 2793,
    "key": "mercadolivre:MLB41234257",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795066754
-  },
-  {
-   "n": 2734,
-   "key": "mercadolivre:MLB74598488",
-   "title": "Kit Elétrico Profissional Com Alicate Decapador Fios + Alicate Crimpador + 1200 Ilhós Profissional Alicates Kit Eletricista Profissional Ferramentas Etetricista",
-   "price": 69.9,
-   "original": 120.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_866702-MLA113979534319_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-eletrico-profissional-com-alicate-decapador-fios-alicate-crimpador-1200-ilhos-profissional-alicates-kit-eletricista-/p/MLB74598488?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795066333
   }
  ]
 }
