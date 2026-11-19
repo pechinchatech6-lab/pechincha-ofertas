@@ -1,7 +1,21 @@
 {
- "updated": 1795069394,
+ "updated": 1795069815,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2740,
+   "key": "mercadolivre:MLB60126432",
+   "title": "Relógio Chroma Masculino Preto Saint Germain Clássico Caixa Preta Detalhes Prata 42mm",
+   "price": 116.9,
+   "original": 259.9,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_682402-MLA99403901858_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-chroma-masculino-preto-saint-germain-classico-caixa-preta-detalhes-prata-42mm/p/MLB60126432?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795069795
+  },
   {
    "n": 2739,
    "key": "mercadolivre:MLB22871761",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795038549
-  },
-  {
-   "n": 2680,
-   "key": "mercadolivre:MLB36823493",
-   "title": "Induzido Rotor Esmerilhadeira Makita M9510 515548-4",
-   "price": 89.0,
-   "original": 132.0,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_614259-MLA106975292850_022026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/induzido-rotor-esmerilhadeira-makita-m9510-515548-4/p/MLB36823493?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795038128
   }
  ]
 }
