@@ -1,7 +1,21 @@
 {
- "updated": 1795122743,
+ "updated": 1795123164,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2834,
+   "key": "mercadolivre:MLB62593832",
+   "title": "Depilador Luz Pulsada Intensa (IPL) Basike Sensacao Gelo Indolor Depilacao Definitiva 999999 Disparos 9 Niveis Rosto Corpo aparelho depilacao feminino depilação",
+   "price": 310.0,
+   "original": 569.82,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680245-MLA100075970499_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-luz-pulsada-intensa-ipl-basike-sensacao-gelo-indolor-depilacao-definitiva-999999-disparos-9-niveis-rosto-corpo/p/MLB62593832?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795123144
+  },
   {
    "n": 2833,
    "key": "mercadolivre:MLB38176139",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795091036
-  },
-  {
-   "n": 2774,
-   "key": "mercadolivre:MLB29360695",
-   "title": "Kit Multímetro Digital Minipa ET-1002 10A CAT I 600V Com 2 Conectores De Emenda Wago 221-2411",
-   "price": 86.9,
-   "original": 178.0,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_821614-MLA120870943041_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-multimetro-digital-minipa-et-1002-10a-cat-i-600v-com-2-conectores-de-emenda-wago-221-2411/p/MLB29360695?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795090615
   }
  ]
 }
