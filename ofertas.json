@@ -1,7 +1,21 @@
 {
- "updated": 1795085640,
+ "updated": 1795086061,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2767,
+   "key": "mercadolivre:MLB80559379",
+   "title": "Mini Mixer Elétrico Recarregável USB 3 Velocidades – Espumador de Leite Profissional em Aço Inoxidável – Misturador Portátil para Cappuccino, Café, Matcha, Shak",
+   "price": 19.99,
+   "original": 69.99,
+   "pct": 71,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_958277-MLA119493208264_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-mixer-eletrico-recarregavel-usb-3-velocidades-espumador-de-leite-profissional-em-aco-inoxidavel-misturador-portatil/p/MLB80559379?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795086041
+  },
   {
    "n": 2766,
    "key": "mercadolivre:MLB70107397",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795050968
-  },
-  {
-   "n": 2707,
-   "key": "mercadolivre:MLB67134099",
-   "title": "Lixadeira Orbital DESOON 300W com Velocidade Ajustável e Coletor de Pó para Madeira e Parede",
-   "price": 154.71,
-   "original": 209.0,
-   "pct": 26,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_650950-MLA109449844213_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-orbital-desoon-300w-com-velocidade-ajustavel-e-coletor-de-po-para-madeira-e-parede/p/MLB67134099?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795050547
   }
  ]
 }
