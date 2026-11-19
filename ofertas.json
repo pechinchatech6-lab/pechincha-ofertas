@@ -1,7 +1,21 @@
 {
- "updated": 1795106677,
+ "updated": 1795108418,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2804,
+   "key": "mercadolivre:MLB25748650",
+   "title": "Caixa de Som Philco PCX6700 Amplificada 650W Ex Bass",
+   "price": 539.9,
+   "original": 899.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_977921-MLA96972461760_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-philco-pcx6700-amplificada-650w-ex-bass/p/MLB25748650?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795108398
+  },
   {
    "n": 2803,
    "key": "mercadolivre:MLB54944960",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795072697
-  },
-  {
-   "n": 2744,
-   "key": "mercadolivre:MLB19810227",
-   "title": "Creme Depilatório Veet Men Pele Normal 200ml",
-   "price": 38.7,
-   "original": 79.29,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_824173-MLA118163059710_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatorio-veet-men-pele-normal-200ml/p/MLB19810227?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795072276
   }
  ]
 }
