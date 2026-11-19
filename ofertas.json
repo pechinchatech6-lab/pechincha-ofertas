@@ -1,7 +1,21 @@
 {
- "updated": 1795119147,
+ "updated": 1795119568,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2827,
+   "key": "mercadolivre:MLB19721946",
+   "title": "Relógio Casio Unissex Vintage Prata Aq-230a-1dmq",
+   "price": 95.96,
+   "original": 299.9,
+   "pct": 68,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_633473-MLA115741902361_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-casio-unissex-vintage-prata-aq-230a-1dmq/p/MLB19721946?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795119548
+  },
   {
    "n": 2826,
    "key": "mercadolivre:MLB60948213",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795086463
-  },
-  {
-   "n": 2767,
-   "key": "mercadolivre:MLB80559379",
-   "title": "Mini Mixer Elétrico Recarregável USB 3 Velocidades – Espumador de Leite Profissional em Aço Inoxidável – Misturador Portátil para Cappuccino, Café, Matcha, Shak",
-   "price": 19.99,
-   "original": 69.99,
-   "pct": 71,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_958277-MLA119493208264_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-mixer-eletrico-recarregavel-usb-3-velocidades-espumador-de-leite-profissional-em-aco-inoxidavel-misturador-portatil/p/MLB80559379?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795086041
   }
  ]
 }
