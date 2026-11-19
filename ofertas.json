@@ -1,7 +1,21 @@
 {
- "updated": 1795058866,
+ "updated": 1795059287,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2725,
+   "key": "mercadolivre:MLB19314356",
+   "title": "Creme Alisante Vintage Girls 100g Lola Cosmetics",
+   "price": 24.89,
+   "original": 35.0,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_647156-MLA112798121105_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-alisante-vintage-girls-100g-lola-cosmetics/p/MLB19314356?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795059267
+  },
   {
    "n": 2724,
    "key": "mercadolivre:MLB67714382",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795030874
-  },
-  {
-   "n": 2665,
-   "key": "mercadolivre:MLB41105183",
-   "title": "8bitdo Ultimate 2c Controle Com Fio Pc/android Efeito Hall Cor Lilás",
-   "price": 206.77,
-   "original": 285.88,
-   "pct": 28,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_928072-MLA96138724751_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/8bitdo-ultimate-2c-controle-com-fio-pc-android-efeito-hall-cor-lilas/p/MLB41105183?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795030453
   }
  ]
 }
