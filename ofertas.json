@@ -1,7 +1,21 @@
 {
- "updated": 1795092319,
+ "updated": 1795092740,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2779,
+   "key": "mercadolivre:MLB62445524",
+   "title": "Nível Laser Verde 16 Linhas War Shark 2 Bateria+1.2m Tripé",
+   "price": 259.0,
+   "original": 500.0,
+   "pct": 48,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_770451-MLA113890807023_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-2-bateria-1-2m-tripe/p/MLB62445524?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795092720
+  },
   {
    "n": 2778,
    "key": "mercadolivre:MLB40336256",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795057162
-  },
-  {
-   "n": 2719,
-   "key": "mercadolivre:MLB27955327",
-   "title": "Soprador térmico Vonder STV-1500N amarelo/preto potência de 1.5kW -",
-   "price": 148.9,
-   "original": 290.19,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_729757-MLA99932089109_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-termico-vonder-stv-1500n-amarelo-preto-potencia-de-1-5kw/p/MLB27955327?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795055738
   }
  ]
 }
