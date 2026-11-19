@@ -1,7 +1,21 @@
 {
- "updated": 1795126192,
+ "updated": 1795126806,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2839,
+   "key": "mercadolivre:MLB19768081",
+   "title": "Climatizador De Ar Midea Akaf2 Com Controle Remoto Cor Branco",
+   "price": 700.9,
+   "original": 1056.9,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_671917-MLA99442019644_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-midea-akaf2-com-controle-remoto-cor-branco/p/MLB19768081?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795126786
+  },
   {
    "n": 2838,
    "key": "mercadolivre:MLB36811176",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795093141
-  },
-  {
-   "n": 2779,
-   "key": "mercadolivre:MLB62445524",
-   "title": "Nível Laser Verde 16 Linhas War Shark 2 Bateria+1.2m Tripé",
-   "price": 259.0,
-   "original": 500.0,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_770451-MLA113890807023_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-2-bateria-1-2m-tripe/p/MLB62445524?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795092720
   }
  ]
 }
