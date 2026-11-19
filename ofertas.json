@@ -1,7 +1,21 @@
 {
- "updated": 1795063303,
+ "updated": 1795063723,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2732,
+   "key": "mercadolivre:MLB69328828",
+   "title": "Fire Tv Stick Hd 2a Geração Ger 26 Preto De Voz",
+   "price": 227.0,
+   "original": 479.0,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_921847-MLA113725342133_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fire-tv-stick-hd-2a-geracao-ger-26-preto-de-voz/p/MLB69328828?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795063703
+  },
   {
    "n": 2731,
    "key": "mercadolivre:MLB45474714",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795033821
-  },
-  {
-   "n": 2672,
-   "key": "mercadolivre:MLB49653023",
-   "title": "Fones de ouvido para jogos sem fio Redragon H510-PRO H510-PRO pretos com luz LED",
-   "price": 283.0,
-   "original": 314.9,
-   "pct": 10,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_685800-MLA95634757877_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fones-de-ouvido-para-jogos-sem-fio-redragon-h510-pro-h510-pro-pretos-com-luz-led/p/MLB49653023?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795033400
   }
  ]
 }
