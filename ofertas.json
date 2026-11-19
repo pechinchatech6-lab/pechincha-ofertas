@@ -1,7 +1,21 @@
 {
- "updated": 1795059708,
+ "updated": 1795060129,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2727,
+   "key": "mercadolivre:MLB21727613",
+   "title": "Shampoo Wella Invigo Nutri Enrich - Nutrição Cabelos Secos Danificados 1 Litro",
+   "price": 117.0,
+   "original": 180.0,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_787511-MLA96417908662_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-wella-invigo-nutri-enrich-nutricao-cabelos-secos-danificados-1-litro/p/MLB21727613?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795060109
+  },
   {
    "n": 2726,
    "key": "mercadolivre:MLB62195834",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795031716
-  },
-  {
-   "n": 2667,
-   "key": "mercadolivre:MLB20691601",
-   "title": "Kit 2 Manete Controle Compativel Sem Fio Ps3 Cabo Carregador Sngames",
-   "price": 60.0,
-   "original": 120.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_730400-MLA99238212360_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-2-manete-controle-compativel-sem-fio-ps3-cabo-carregador-sngames/p/MLB20691601?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795031295
   }
  ]
 }
