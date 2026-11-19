@@ -1,7 +1,21 @@
 {
- "updated": 1795129855,
+ "updated": 1795130276,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2844,
+   "key": "mercadolivre:MLB68770277",
+   "title": "Aparador De Pelos Nariz E Orelha Elétrico Recarregável Sem Fio Acemic Preto Cortador Nasal Portátil Masculino E Feminino Para Higiene Pessoal Remoção De Pelos C",
+   "price": 19.0,
+   "original": 39.99,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_674222-MLA110090137172_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-nariz-e-orelha-eletrico-recarregavel-sem-fio-acemic-preto-cortador-nasal-portatil-masculino-e-feminino/p/MLB68770277?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795130256
+  },
   {
    "n": 2843,
    "key": "mercadolivre:MLB35959035",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795097092
-  },
-  {
-   "n": 2784,
-   "key": "mercadolivre:MLB79377107",
-   "title": "Jogo Serra Copo 16 Peças 19mm A 127mm Para Madeira Gesso Pvc Mdf Compensado Kit Completo Para Furadeira Conjunto De Serras Para Perfuração E Corte Circular Em O",
-   "price": 40.34,
-   "original": 69.9,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631791-MLA121460787565_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/jogo-serra-copo-16-pecas-19mm-a-127mm-para-madeira-gesso-pvc-mdf-compensado-kit-completo-para-furadeira-conjunto-de-serr/p/MLB79377107?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795095060
   }
  ]
 }
