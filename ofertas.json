@@ -1,7 +1,21 @@
 {
- "updated": 1795126806,
+ "updated": 1795127227,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2840,
+   "key": "mercadolivre:MLB47027227",
+   "title": "Kit 100 Paletas Mixer Mini Misturador De Pigmentos E Henna! Cor Preto",
+   "price": 17.22,
+   "original": 28.0,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_899967-MLA92117305930_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-100-paletas-mixer-mini-misturador-de-pigmentos-e-henna-cor-preto/p/MLB47027227?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795127207
+  },
   {
    "n": 2839,
    "key": "mercadolivre:MLB19768081",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795093562
-  },
-  {
-   "n": 2780,
-   "key": "mercadolivre:MLB66100700",
-   "title": "Depilador Elétrico Feminino 4 Em 1 Pelos Íntimos Axila Nariz Branco",
-   "price": 29.99,
-   "original": 59.0,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_824287-MLA107901081417_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-4-em-1-pelos-intimos-axila-nariz-branco/p/MLB66100700?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795093141
   }
  ]
 }
