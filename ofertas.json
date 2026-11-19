@@ -1,7 +1,21 @@
 {
- "updated": 1795118726,
+ "updated": 1795119147,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2826,
+   "key": "mercadolivre:MLB60948213",
+   "title": "Controle Mancer Rcw99, Pc/switch/ps3/android, Preto Preto",
+   "price": 74.99,
+   "original": 258.81,
+   "pct": 71,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_967494-MLA95623109852_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/controle-mancer-rcw99-pc-switch-ps3-android-preto-preto/p/MLB60948213?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795119127
+  },
   {
    "n": 2825,
    "key": "mercadolivre:MLB24028629",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795086041
-  },
-  {
-   "n": 2766,
-   "key": "mercadolivre:MLB70107397",
-   "title": "Controle GameSir G7 Pro Tri-Mode Xbox Series X e S One PC Android Hall Effect TMR Wireless Base Carregadora Edição Dragon's Dogma 2",
-   "price": 449.55,
-   "original": 999.0,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_620902-MLA112057744307_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-gamesir-g7-pro-tri-mode-xbox-series-x-e-s-one-pc-android-hall-effect-tmr-wireless-base-carregadora-edicao-drago/p/MLB70107397?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795085620
   }
  ]
 }
