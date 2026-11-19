@@ -1,7 +1,21 @@
 {
- "updated": 1795121252,
+ "updated": 1795121715,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2832,
+   "key": "mercadolivre:MLB24820394",
+   "title": "Creme Depilatório Corporal Peles Delicadas 100ml - Veet",
+   "price": 34.0,
+   "original": 52.09,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_636110-MLA115154354530_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-depilatorio-corporal-peles-delicadas-100ml-veet/p/MLB24820394?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795121695
+  },
   {
    "n": 2831,
    "key": "mercadolivre:MLB19104021",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795090194
-  },
-  {
-   "n": 2772,
-   "key": "mercadolivre:MLB37274471",
-   "title": "Shampoo Anticaspa para Cabelos Secos com Selênio DS, Dercos DS Vichy, 300g",
-   "price": 94.39,
-   "original": 153.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_624345-MLA116028720425_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-anticaspa-para-cabelos-secos-com-selenio-ds-dercos-ds-vichy-300g/p/MLB37274471?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795089773
   }
  ]
 }
