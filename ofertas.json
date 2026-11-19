@@ -1,7 +1,21 @@
 {
- "updated": 1795103730,
+ "updated": 1795104151,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2797,
+   "key": "mercadolivre:MLB26578445",
+   "title": "Secador De Cabelo Taiff Profissional Style Vermelho Clássico",
+   "price": 194.0,
+   "original": 447.36,
+   "pct": 57,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_895859-MLA99858387669_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-taiff-profissional-style-vermelho-classico/p/MLB26578445?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795104131
+  },
   {
    "n": 2796,
    "key": "mercadolivre:MLB28463712",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795068377
-  },
-  {
-   "n": 2737,
-   "key": "mercadolivre:MLB10481238",
-   "title": "Máscara de Cílios Maybelline Lash Sensational à Prova d'Água para Volume e Definição",
-   "price": 23.74,
-   "original": 29.9,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_645424-MLU72821012247_112023-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mascara-de-cilios-maybelline-lash-sensational-a-prova-d-agua-para-volume-e-definicao/p/MLB10481238?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795067596
   }
  ]
 }
