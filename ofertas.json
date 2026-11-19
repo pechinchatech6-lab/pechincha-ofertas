@@ -1,7 +1,21 @@
 {
- "updated": 1795049725,
+ "updated": 1795050146,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2706,
+   "key": "mercadolivre:MLB53905228",
+   "title": "Lixadeira De Parede E Teto 1000w Profissional 5 Velocidades 360° Com Led 6 Lixas Saco Coletor Tlt900 The Black Tools",
+   "price": 418.9,
+   "original": 649.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_777026-MLA116987590778_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lixadeira-de-parede-e-teto-1000w-profissional-5-velocidades-360-com-led-6-lixas-saco-coletor-tlt900-the-black-tools/p/MLB53905228?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795050126
+  },
   {
    "n": 2705,
    "key": "mercadolivre:MLB35556218",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795021054
-  },
-  {
-   "n": 2646,
-   "key": "mercadolivre:MLB69001762",
-   "title": "Caixa de som Philco Pcx22000 Com Bluetooth Preto",
-   "price": 1125.79,
-   "original": 1999.0,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_861663-MLA110194440350_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-philco-pcx22000-com-bluetooth-preto/p/MLB69001762?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795020633
   }
  ]
 }
