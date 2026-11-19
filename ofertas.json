@@ -1,7 +1,21 @@
 {
- "updated": 1795104151,
+ "updated": 1795104572,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2798,
+   "key": "mercadolivre:MLB32101995",
+   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Branco MICGEEK",
+   "price": 23.95,
+   "original": 40.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_785462-MLA110586324994_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-branco-micgeek/p/MLB32101995?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795104552
+  },
   {
    "n": 2797,
    "key": "mercadolivre:MLB26578445",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795069374
-  },
-  {
-   "n": 2738,
-   "key": "mercadolivre:MLB80865771",
-   "title": "Relógio de Parede 30cm Quartzo Números Grandes Fácil Leitura Design Moderno para Sala de Estar Cozinha Quarto Escritório e Recepção Elegante",
-   "price": 49.0,
-   "original": 62.3,
-   "pct": 21,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_892012-MLA118436859292_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-parede-30cm-quartzo-numeros-grandes-facil-leitura-design-moderno-para-sala-de-estar-cozinha-quarto-escritorio/p/MLB80865771?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795068377
   }
  ]
 }
