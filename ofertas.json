@@ -1,7 +1,21 @@
 {
- "updated": 1795117463,
+ "updated": 1795117884,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2823,
+   "key": "mercadolivre:MLB22630625",
+   "title": "Soprador Térmico 1500W Profissional 2 Temperaturas + 4 Bocais",
+   "price": 119.99,
+   "original": 249.0,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_848324-MLA120278012539_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-termico-1500w-profissional-2-temperaturas-4-bocais/p/MLB22630625?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795117864
+  },
   {
    "n": 2822,
    "key": "mercadolivre:MLB29149224",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795084778
-  },
-  {
-   "n": 2763,
-   "key": "mercadolivre:MLB22598240",
-   "title": "Ferro de Passar a Vapor Philips Walita Série 5000 com Base Cerâmica SteamGlide Plus",
-   "price": 289.0,
-   "original": 414.29,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_705851-MLA99549829202_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ferro-de-passar-a-vapor-philips-walita-serie-5000-com-base-ceramica-steamglide-plus/p/MLB22598240?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795083714
   }
  ]
 }
