@@ -1,7 +1,21 @@
 {
- "updated": 1795045726,
+ "updated": 1795046552,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2699,
+   "key": "mercadolivre:MLB19938121",
+   "title": "Fone Sem Fio Lenovo Gm2 Pro 5.3 Bluetooth - Touch - Gamer Preto Luz Azul",
+   "price": 69.49,
+   "original": 78.97,
+   "pct": 12,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_896426-MLA118354508175_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-sem-fio-lenovo-gm2-pro-5-3-bluetooth-touch-gamer-preto-luz-azul/p/MLB19938121?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795046531
+  },
   {
    "n": 2698,
    "key": "mercadolivre:MLB79663696",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795016545
-  },
-  {
-   "n": 2639,
-   "key": "mercadolivre:MLB19590006",
-   "title": "Ferro de Passar a Seco Mondial 1200W - FSN-55-B",
-   "price": 58.0,
-   "original": 109.0,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_764340-MLA99962365237_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ferro-de-passar-a-seco-mondial-1200w-fsn-55-b/p/MLB19590006?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795015903
   }
  ]
 }
