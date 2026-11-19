@@ -1,7 +1,21 @@
 {
- "updated": 1795084798,
+ "updated": 1795085219,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2765,
+   "key": "mercadolivre:MLB80257068",
+   "title": "Relógio de Parede Analógico Silencioso Redondo 30 cm, para Sala ou Cozinha, Prata com Fundo Preto - NANY PINK",
+   "price": 53.25,
+   "original": 89.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_628653-MLA118801358299_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-analogico-silencioso-redondo-30-cm-para-sala-ou-cozinha-prata-com-fundo-preto-nany-pink/p/MLB80257068?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795085199
+  },
   {
    "n": 2764,
    "key": "mercadolivre:MLB22341315",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795050126
-  },
-  {
-   "n": 2705,
-   "key": "mercadolivre:MLB35556218",
-   "title": "Ventilador De Teto C/ Controle 6 Vel. Fenix Ventisol",
-   "price": 299.0,
-   "original": 349.0,
-   "pct": 14,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_963344-MLA96100910929_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ventilador-de-teto-c-controle-6-vel-fenix-ventisol/p/MLB35556218?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795049705
   }
  ]
 }
