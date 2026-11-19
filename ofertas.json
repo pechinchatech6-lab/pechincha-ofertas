@@ -1,7 +1,21 @@
 {
- "updated": 1795127227,
+ "updated": 1795127648,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2841,
+   "key": "mercadolivre:MLB44881343",
+   "title": "Climatizador De Ar Frio Midea Branco 5l Cor branco e cinza",
+   "price": 468.84,
+   "original": 539.0,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_812881-MLA84848377019_052025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-frio-midea-branco-5l-cor-branco-e-cinza/p/MLB44881343?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795127628
+  },
   {
    "n": 2840,
    "key": "mercadolivre:MLB47027227",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795094043
-  },
-  {
-   "n": 2781,
-   "key": "mercadolivre:MLB67420932",
-   "title": "Nível A Laser Verde 2 Linhas Esquadro + Suporte + Tripé Profissional Prumo 20m Autonivelante Pilhas W&g",
-   "price": 109.01,
-   "original": 219.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_873744-MLA117485875143_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivel-a-laser-verde-2-linhas-esquadro-suporte-tripe-profissional-prumo-20m-autonivelante-pilhas-w-g/p/MLB67420932?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795093562
   }
  ]
 }
