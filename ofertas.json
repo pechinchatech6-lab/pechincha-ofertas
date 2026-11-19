@@ -1,7 +1,21 @@
 {
- "updated": 1795050567,
+ "updated": 1795050988,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2708,
+   "key": "mercadolivre:MLB81483994",
+   "title": "Soundbar 350W XINGWON com 4 alto-falantes e 4.0 canais, Home Theater destacável com Dolby e DTS, Caixa De Som Bluetooth 5.3 , entradas Aux/HDMI(ARC)/USB/Óptica/",
+   "price": 312.0,
+   "original": 700.0,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_757334-MLA119069939232_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soundbar-350w-xingwon-com-4-alto-falantes-e-4-0-canais-home-theater-destacavel-com-dolby-e-dts-caixa-de-som-bluetooth-5-/p/MLB81483994?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795050968
+  },
   {
    "n": 2707,
    "key": "mercadolivre:MLB67134099",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795022098
-  },
-  {
-   "n": 2648,
-   "key": "mercadolivre:MLB70361842",
-   "title": "Soprador De Folhas Elétrico Turbo 1.050w Portátil 21v Super Potente 5700 Rpm Bateria Bivolt Sem Fio - Dewen",
-   "price": 112.49,
-   "original": 199.97,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_719419-MLA112318025645_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-de-folhas-eletrico-turbo-1-050w-portatil-21v-super-potente-5700-rpm-bateria-bivolt-sem-fio-dewen/p/MLB70361842?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795021677
   }
  ]
 }
