@@ -1,7 +1,21 @@
 {
- "updated": 1795112297,
+ "updated": 1795112718,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2814,
+   "key": "mercadolivre:MLB68723058",
+   "title": "Lava Jato Lavadora Portátil Alta Pressão 2 Baterias Com Maleta Lavar Lava Carro Moto Quintal Lavagem Automotiva Elétrica Potente Jardim Calçada Piso Limpeza Com",
+   "price": 99.99,
+   "original": 129.99,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_881855-MLA118419916764_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lava-jato-lavadora-portatil-alta-pressao-2-baterias-com-maleta-lavar-lava-carro-moto-quintal-lavagem-automotiva-eletrica/p/MLB68723058?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795112698
+  },
   {
    "n": 2813,
    "key": "mercadolivre:MLB51233234",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795078266
-  },
-  {
-   "n": 2754,
-   "key": "mercadolivre:MLB64961480",
-   "title": "Lixadeira Pneumática Prof Orbital 6 Pol Roquite Hookit Aspir",
-   "price": 128.1,
-   "original": 210.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_664844-MLA105905689903_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-prof-orbital-6-pol-roquite-hookit-aspir/p/MLB64961480?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795077845
   }
  ]
 }
