@@ -1,7 +1,21 @@
 {
- "updated": 1795050146,
+ "updated": 1795050567,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2707,
+   "key": "mercadolivre:MLB67134099",
+   "title": "Lixadeira Orbital DESOON 300W com Velocidade Ajustável e Coletor de Pó para Madeira e Parede",
+   "price": 154.71,
+   "original": 209.0,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_650950-MLA109449844213_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lixadeira-orbital-desoon-300w-com-velocidade-ajustavel-e-coletor-de-po-para-madeira-e-parede/p/MLB67134099?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795050547
+  },
   {
    "n": 2706,
    "key": "mercadolivre:MLB53905228",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795021677
-  },
-  {
-   "n": 2647,
-   "key": "mercadolivre:MLB40501953",
-   "title": "Relógio Despertador Digital de Mesa Display LED Curvado Espelhado com Alarme Programável Soneca de 5 Minutos Termômetro 12h e 24h USB Pilhas AAA | Cor do LED: B",
-   "price": 39.04,
-   "original": 79.99,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_771890-MLA117369078399_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-despertador-digital-de-mesa-display-led-curvado-espelhado-com-alarme-programavel-soneca-de-5-minutos-termometro-/p/MLB40501953?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795021054
   }
  ]
 }
