@@ -1,7 +1,21 @@
 {
- "updated": 1795089372,
+ "updated": 1795089793,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2772,
+   "key": "mercadolivre:MLB37274471",
+   "title": "Shampoo Anticaspa para Cabelos Secos com Selênio DS, Dercos DS Vichy, 300g",
+   "price": 94.39,
+   "original": 153.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_624345-MLA116028720425_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/shampoo-anticaspa-para-cabelos-secos-com-selenio-ds-dercos-ds-vichy-300g/p/MLB37274471?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795089773
+  },
   {
    "n": 2771,
    "key": "mercadolivre:MLB23913684",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795053073
-  },
-  {
-   "n": 2712,
-   "key": "mercadolivre:MLB53979422",
-   "title": "Microfone Lapela Sem Fio Kaidi Tipo-C",
-   "price": 44.34,
-   "original": 99.59,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_681459-MLA99623098811_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/microfone-lapela-sem-fio-kaidi-tipo-c/p/MLB53979422?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795052652
   }
  ]
 }
