@@ -1,7 +1,21 @@
 {
- "updated": 1795086483,
+ "updated": 1795086904,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2769,
+   "key": "mercadolivre:MLB47437377",
+   "title": "Fones De Ouvido Sem Fio Haylou Hq5 T020 Com Anc E Enc Black",
+   "price": 94.0,
+   "original": 199.99,
+   "pct": 53,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_948822-MLA96422615429_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fones-de-ouvido-sem-fio-haylou-hq5-t020-com-anc-e-enc-black/p/MLB47437377?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795086884
+  },
   {
    "n": 2768,
    "key": "mercadolivre:MLB56106647",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795051810
-  },
-  {
-   "n": 2709,
-   "key": "mercadolivre:MLB23213805",
-   "title": "Prancha Chapinha Babyliss Pro Nano Titanium 450ºf By Roger",
-   "price": 464.0,
-   "original": 599.9,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_697199-MLA99416117532_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/prancha-chapinha-babyliss-pro-nano-titanium-450of-by-roger/p/MLB23213805?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795051389
   }
  ]
 }
