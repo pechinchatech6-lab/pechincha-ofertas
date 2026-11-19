@@ -1,7 +1,21 @@
 {
- "updated": 1795051830,
+ "updated": 1795052251,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2711,
+   "key": "mercadolivre:MLB32265367",
+   "title": "Relógio De Parede Digital LT-1970",
+   "price": 66.9,
+   "original": 133.8,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_633293-MLA99445948004_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-digital-lt-1970/p/MLB32265367?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795052231
+  },
   {
    "n": 2710,
    "key": "mercadolivre:MLB39962085",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795023754
-  },
-  {
-   "n": 2651,
-   "key": "mercadolivre:MLB50026187",
-   "title": "Kit Skincare Gel de Limpeza e Hidratante com Vitamina C, Ação Antioleosidade e Uniformizadora, Pele Iluminada e Hidratada, Uniform & Matte Garnier 150g",
-   "price": 41.55,
-   "original": 67.7,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_994620-MLA84725346069_052025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-skincare-gel-de-limpeza-e-hidratante-com-vitamina-c-acao-antioleosidade-e-uniformizadora-pele-iluminada-e-hidratada-/p/MLB50026187?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795022940
   }
  ]
 }
