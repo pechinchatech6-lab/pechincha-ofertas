@@ -1,7 +1,21 @@
 {
- "updated": 1795090214,
+ "updated": 1795090635,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2774,
+   "key": "mercadolivre:MLB29360695",
+   "title": "Kit Multímetro Digital Minipa ET-1002 10A CAT I 600V Com 2 Conectores De Emenda Wago 221-2411",
+   "price": 86.9,
+   "original": 178.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_821614-MLA120870943041_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-multimetro-digital-minipa-et-1002-10a-cat-i-600v-com-2-conectores-de-emenda-wago-221-2411/p/MLB29360695?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795090615
+  },
   {
    "n": 2773,
    "key": "mercadolivre:MLB52053067",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795054054
-  },
-  {
-   "n": 2714,
-   "key": "mercadolivre:MLB69968669",
-   "title": "Parafusadeira e Furadeira Inova 21V de Impacto Sem Fio com 2 Baterias e Maleta",
-   "price": 127.43,
-   "original": 326.75,
-   "pct": 61,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_914105-MLA110995470274_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-inova-21v-de-impacto-sem-fio-com-2-baterias-e-maleta/p/MLB69968669?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795053494
   }
  ]
 }
