@@ -1,7 +1,21 @@
 {
- "updated": 1795077443,
+ "updated": 1795077865,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2754,
+   "key": "mercadolivre:MLB64961480",
+   "title": "Lixadeira Pneumática Prof Orbital 6 Pol Roquite Hookit Aspir",
+   "price": 128.1,
+   "original": 210.0,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_664844-MLA105905689903_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lixadeira-pneumatica-prof-orbital-6-pol-roquite-hookit-aspir/p/MLB64961480?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795077845
+  },
   {
    "n": 2753,
    "key": "mercadolivre:MLB33794301",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795044443
-  },
-  {
-   "n": 2694,
-   "key": "mercadolivre:MLB27747316",
-   "title": "Prancha Cerâmica Taiff Profissional 180° Preto",
-   "price": 108.69,
-   "original": 186.25,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_815162-MLA99896276503_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/prancha-ceramica-taiff-profissional-180-preto/p/MLB27747316?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795044022
   }
  ]
 }
