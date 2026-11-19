@@ -1,7 +1,21 @@
 {
- "updated": 1795055337,
+ "updated": 1795055758,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2719,
+   "key": "mercadolivre:MLB27955327",
+   "title": "Soprador térmico Vonder STV-1500N amarelo/preto potência de 1.5kW -",
+   "price": 148.9,
+   "original": 290.19,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_729757-MLA99932089109_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-termico-vonder-stv-1500n-amarelo-preto-potencia-de-1-5kw/p/MLB27955327?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795055738
+  },
   {
    "n": 2718,
    "key": "mercadolivre:MLB24432654",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795028348
-  },
-  {
-   "n": 2659,
-   "key": "mercadolivre:MLB47245501",
-   "title": "Smartphone Motorola Edge 60 Fusion 5g - 256gb 8gb Ram+8gb Ram Boost, 50mp Sony Ai Camera Ip68 Nfc - Cinza Vegan Leather",
-   "price": 1999.0,
-   "original": 3299.0,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631624-MLA99926713059_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-fusion-5g-256gb-8gb-ram-8gb-ram-boost-50mp-sony-ai-camera-ip68-nfc-cinza-vegan-leather/p/MLB47245501?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795027927
   }
  ]
 }
