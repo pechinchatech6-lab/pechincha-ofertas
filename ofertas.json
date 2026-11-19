@@ -1,7 +1,21 @@
 {
- "updated": 1795070420,
+ "updated": 1795071454,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2742,
+   "key": "mercadolivre:MLB68347781",
+   "title": "Cinto Duplo Masculino Couro Dupla Face 2 Em 1 Preto Marrom Social 120CM",
+   "price": 26.09,
+   "original": 29.9,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_943212-MLA112119025356_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cinto-duplo-masculino-couro-dupla-face-2-em-1-preto-marrom-social-120cm/p/MLB68347781?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795071434
+  },
   {
    "n": 2741,
    "key": "mercadolivre:MLB79865645",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795039391
-  },
-  {
-   "n": 2682,
-   "key": "mercadolivre:MLB43398945",
-   "title": "Rotor Induzido Menegotti P/ Lixadeira Mlp750 Profissional",
-   "price": 101.78,
-   "original": 158.34,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_616880-MLA95664378756_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/rotor-induzido-menegotti-p-lixadeira-mlp750-profissional/p/MLB43398945?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795038970
   }
  ]
 }
