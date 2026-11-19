@@ -1,7 +1,21 @@
 {
- "updated": 1795094063,
+ "updated": 1795094484,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2783,
+   "key": "mercadolivre:MLB78840757",
+   "title": "Caixa De Som Sound Bar Home Theater Bluetooth Para Tv Cinema 80w Cor Preto Bivolt Boyu Cell",
+   "price": 262.2,
+   "original": 360.9,
+   "pct": 27,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_857992-MLA118377893890_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-sound-bar-home-theater-bluetooth-para-tv-cinema-80w-cor-preto-bivolt-boyu-cell/p/MLB78840757?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795094464
+  },
   {
    "n": 2782,
    "key": "mercadolivre:MLB66140783",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795058846
-  },
-  {
-   "n": 2723,
-   "key": "mercadolivre:MLB20288453",
-   "title": "Shampoo Tonalizante Color Change Castanho Escuro Kissnewyork",
-   "price": 26.94,
-   "original": 43.23,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_909365-MLA112260486831_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-tonalizante-color-change-castanho-escuro-kissnewyork/p/MLB20288453?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795058425
   }
  ]
 }
