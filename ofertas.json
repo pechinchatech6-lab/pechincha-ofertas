@@ -1,7 +1,21 @@
 {
- "updated": 1795052672,
+ "updated": 1795053094,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2713,
+   "key": "mercadolivre:MLB70378764",
+   "title": "Relógio de Parede Quartz Kasa Redondo, com 30 cm, para Cozinha",
+   "price": 33.78,
+   "original": 37.99,
+   "pct": 11,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_615934-MLA119342359333_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-parede-quartz-kasa-redondo-com-30-cm-para-cozinha/p/MLB70378764?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795053073
+  },
   {
    "n": 2712,
    "key": "mercadolivre:MLB53979422",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795025822
-  },
-  {
-   "n": 2653,
-   "key": "mercadolivre:MLB54456751",
-   "title": "Principia Kit Protetor Solar Facial Ps-01 Fps60",
-   "price": 81.34,
-   "original": 98.0,
-   "pct": 17,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_986471-MLA99264193954_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/principia-kit-protetor-solar-facial-ps-01-fps60/p/MLB54456751?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795024803
   }
  ]
 }
