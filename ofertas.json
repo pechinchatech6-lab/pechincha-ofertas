@@ -1,7 +1,21 @@
 {
- "updated": 1795117042,
+ "updated": 1795117463,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2822,
+   "key": "mercadolivre:MLB29149224",
+   "title": "Pré-treino Evolution 300G Termogênico Melancia - Soldiers Nutrition",
+   "price": 45.9,
+   "original": 99.9,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_874204-MLA99607101834_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/pre-treino-evolution-300g-termogenico-melancia-soldiers-nutrition/p/MLB29149224?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795117443
+  },
   {
    "n": 2821,
    "key": "mercadolivre:MLB19782244",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795083714
-  },
-  {
-   "n": 2762,
-   "key": "mercadolivre:MLB24326256",
-   "title": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 40ml",
-   "price": 71.52,
-   "original": 109.9,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_695558-MLA119937437423_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-multirreparador-pele-sensivel-cicaplast-baume-b5-la-roche-posay-40ml/p/MLB24326256?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795082683
   }
  ]
 }
