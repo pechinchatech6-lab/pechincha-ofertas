@@ -1,7 +1,21 @@
 {
- "updated": 1795097112,
+ "updated": 1795098153,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2786,
+   "key": "mercadolivre:MLB76972122",
+   "title": "Boné Ny New York Yankees Unissex Blogueira Fitão Regulável Cor Preto/Branco Desenho do tecido Lisa Tamanho Único",
+   "price": 34.9,
+   "original": 49.99,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_889380-MLA114634635694_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/bone-ny-new-york-yankees-unissex-blogueira-fitao-regulavel-cor-preto-branco-desenho-do-tecido-lisa-tamanho-unico/p/MLB76972122?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795098133
+  },
   {
    "n": 2785,
    "key": "mercadolivre:MLB38659083",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795060109
-  },
-  {
-   "n": 2726,
-   "key": "mercadolivre:MLB62195834",
-   "title": "Climatizador De Ar 4 Litros Portátil 4 Em 1 Itatiaia Branco",
-   "price": 287.27,
-   "original": 599.99,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_643672-MLA98461747787_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-4-litros-portatil-4-em-1-itatiaia-branco/p/MLB62195834?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795059688
   }
  ]
 }
