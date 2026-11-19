@@ -1,7 +1,21 @@
 {
- "updated": 1795046972,
+ "updated": 1795047671,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2701,
+   "key": "mercadolivre:MLB32419427",
+   "title": "Creme De Barbear Natura Essencial Masculino 75g",
+   "price": 27.39,
+   "original": 68.9,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_705845-MLA99361907550_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-de-barbear-natura-essencial-masculino-75g/p/MLB32419427?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795047651
+  },
   {
    "n": 2700,
    "key": "mercadolivre:MLB74031327",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795017556
-  },
-  {
-   "n": 2641,
-   "key": "mercadolivre:MLB24807108",
-   "title": "Escova Prancha Para Alisar E Modelar Barba E Cabelo Bivolt Cerâmica Pente Anti Frizz Portátil Masculina Branca Branco Sngames",
-   "price": 26.3,
-   "original": 59.0,
-   "pct": 55,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_721748-MLA118279156332_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-prancha-para-alisar-e-modelar-barba-e-cabelo-bivolt-ceramica-pente-anti-frizz-portatil-masculina-branca-branco-sn/p/MLB24807108?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795016966
   }
  ]
 }
