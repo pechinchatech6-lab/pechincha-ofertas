@@ -1,7 +1,21 @@
 {
- "updated": 1795051409,
+ "updated": 1795051830,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2710,
+   "key": "mercadolivre:MLB39962085",
+   "title": "Fone De Ouvido Sem Fio Xiaomi Redmi Buds 6 Play Preto",
+   "price": 57.61,
+   "original": 73.9,
+   "pct": 22,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_954504-MLA118603044502_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-xiaomi-redmi-buds-6-play-preto/p/MLB39962085?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795051810
+  },
   {
    "n": 2709,
    "key": "mercadolivre:MLB23213805",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795022940
-  },
-  {
-   "n": 2650,
-   "key": "mercadolivre:MLB39939887",
-   "title": "Soprador De Folhas E Resíduos Elétrico 2000w Para Jardim Bsf2000 The Black Tools",
-   "price": 199.9,
-   "original": 363.05,
-   "pct": 45,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_981451-MLA116500116147_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-de-folhas-e-residuos-eletrico-2000w-para-jardim-bsf2000-the-black-tools/p/MLB39939887?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795022519
   }
  ]
 }
