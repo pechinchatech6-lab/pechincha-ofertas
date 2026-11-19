@@ -1,7 +1,21 @@
 {
- "updated": 1795052251,
+ "updated": 1795052672,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2712,
+   "key": "mercadolivre:MLB53979422",
+   "title": "Microfone Lapela Sem Fio Kaidi Tipo-C",
+   "price": 44.34,
+   "original": 99.59,
+   "pct": 55,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_681459-MLA99623098811_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/microfone-lapela-sem-fio-kaidi-tipo-c/p/MLB53979422?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795052652
+  },
   {
    "n": 2711,
    "key": "mercadolivre:MLB32265367",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795024803
-  },
-  {
-   "n": 2652,
-   "key": "mercadolivre:MLB75681377",
-   "title": "Smart TV PRO LG 55'' 4K Ultra HD AI 55UN85C",
-   "price": 2599.0,
-   "original": 4999.0,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646395-MLA116823736237_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smart-tv-pro-lg-55-4k-ultra-hd-ai-55un85c/p/MLB75681377?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795023754
   }
  ]
 }
