@@ -1,7 +1,21 @@
 {
- "updated": 1795054916,
+ "updated": 1795055337,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2718,
+   "key": "mercadolivre:MLB24432654",
+   "title": "Creme Reparador Protetor Avène Cicalfate+ Pele Sensível 100ml",
+   "price": 94.8,
+   "original": 132.99,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_726787-MLA94671270402_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-reparador-protetor-avene-cicalfate-pele-sensivel-100ml/p/MLB24432654?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795055317
+  },
   {
    "n": 2717,
    "key": "mercadolivre:MLB58382190",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795027927
-  },
-  {
-   "n": 2658,
-   "key": "mercadolivre:MLB46220824",
-   "title": "Webcam Camera Full Hd Zoom 1080p 360 Graus Videoconferencia Streamcam Web Cam Entrada Usb 2.0 Com Microfone- GoodVision",
-   "price": 36.7,
-   "original": 78.0,
-   "pct": 53,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_807092-MLA100966388363_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/webcam-camera-full-hd-zoom-1080p-360-graus-videoconferencia-streamcam-web-cam-entrada-usb-2-0-com-microfone-goodvision/p/MLB46220824?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795027506
   }
  ]
 }
