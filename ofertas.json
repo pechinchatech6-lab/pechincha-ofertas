@@ -1,7 +1,21 @@
 {
- "updated": 1795082703,
+ "updated": 1795083734,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2763,
+   "key": "mercadolivre:MLB22598240",
+   "title": "Ferro de Passar a Vapor Philips Walita Série 5000 com Base Cerâmica SteamGlide Plus",
+   "price": 289.0,
+   "original": 414.29,
+   "pct": 30,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_705851-MLA99549829202_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ferro-de-passar-a-vapor-philips-walita-serie-5000-com-base-ceramica-steamglide-plus/p/MLB22598240?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795083714
+  },
   {
    "n": 2762,
    "key": "mercadolivre:MLB24326256",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795049079
-  },
-  {
-   "n": 2703,
-   "key": "mercadolivre:MLB20570214",
-   "title": "Escova Secadora Stylish Keration Brush 3d Bivolt",
-   "price": 134.89,
-   "original": 279.9,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_767793-MLA99568255858_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-stylish-keration-brush-3d-bivolt/p/MLB20570214?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795048493
   }
  ]
 }
