@@ -1,7 +1,21 @@
 {
- "updated": 1795073980,
+ "updated": 1795074401,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2749,
+   "key": "mercadolivre:MLB63414386",
+   "title": "Morsa Coordenada P/ Furadeira Bancada 4 Pol 100mm Vollekz Preto",
+   "price": 279.99,
+   "original": 437.38,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_852955-MLA101587007782_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/morsa-coordenada-p-furadeira-bancada-4-pol-100mm-vollekz-preto/p/MLB63414386?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795074381
+  },
   {
    "n": 2748,
    "key": "mercadolivre:MLB27208726",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795042338
-  },
-  {
-   "n": 2689,
-   "key": "mercadolivre:MLB24807116",
-   "title": "Escova Secadora Mondial Keratin - Es-11-bi Grafite/golden Rose",
-   "price": 113.55,
-   "original": 199.0,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_822745-MLA99966514757_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-mondial-keratin-es-11-bi-grafite-golden-rose/p/MLB24807116?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795041917
   }
  ]
 }
