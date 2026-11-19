@@ -1,7 +1,21 @@
 {
- "updated": 1795117884,
+ "updated": 1795118305,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2824,
+   "key": "mercadolivre:MLB26208174",
+   "title": "Climatizador de Ar Ventisol Clin-16 16L Evaporativo Cinza/Branco",
+   "price": 379.0,
+   "original": 523.0,
+   "pct": 28,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_665541-MLA91981620699_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-ventisol-clin-16-16l-evaporativo-cinza-branco/p/MLB26208174?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795118285
+  },
   {
    "n": 2823,
    "key": "mercadolivre:MLB22630625",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795085199
-  },
-  {
-   "n": 2764,
-   "key": "mercadolivre:MLB22341315",
-   "title": "Fone De Ouvido Com Fio Usb H390 Rosa Logitech Luz Nude",
-   "price": 177.75,
-   "original": 229.9,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_607621-MLA99549027968_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-com-fio-usb-h390-rosa-logitech-luz-nude/p/MLB22341315?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795084778
   }
  ]
 }
