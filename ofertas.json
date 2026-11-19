@@ -1,7 +1,21 @@
 {
- "updated": 1795092740,
+ "updated": 1795093161,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2780,
+   "key": "mercadolivre:MLB66100700",
+   "title": "Depilador Elétrico Feminino 4 Em 1 Pelos Íntimos Axila Nariz Branco",
+   "price": 29.99,
+   "original": 59.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_824287-MLA107901081417_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-4-em-1-pelos-intimos-axila-nariz-branco/p/MLB66100700?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795093141
+  },
   {
    "n": 2779,
    "key": "mercadolivre:MLB62445524",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795057583
-  },
-  {
-   "n": 2720,
-   "key": "mercadolivre:MLB65411803",
-   "title": "Saida De Praia Mini Saia Plus Size Regulagem Cor Preto Desenho Do Tecido Lisa Tamanho G3 Veste 52 Ao 56",
-   "price": 31.93,
-   "original": 49.9,
-   "pct": 36,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_692735-MLA118181129729_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/saida-de-praia-mini-saia-plus-size-regulagem-cor-preto-desenho-do-tecido-lisa-tamanho-g3-veste-52-ao-56/p/MLB65411803?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795057162
   }
  ]
 }
