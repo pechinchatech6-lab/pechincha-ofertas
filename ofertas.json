@@ -1,7 +1,21 @@
 {
- "updated": 1795060971,
+ "updated": 1795061392,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2730,
+   "key": "mercadolivre:MLB28525979",
+   "title": "Aquecedor Roll-on Cera Quente Depilador Elétrico Mega Bell Bivolt Automático - 110v/220v",
+   "price": 65.77,
+   "original": 131.65,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_747384-MLA85612694472_062025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aquecedor-roll-on-cera-quente-depilador-eletrico-mega-bell-bivolt-automatico-110v-220v/p/MLB28525979?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795061372
+  },
   {
    "n": 2729,
    "key": "mercadolivre:MLB63950827",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795032979
-  },
-  {
-   "n": 2670,
-   "key": "mercadolivre:MLB62925370",
-   "title": "Depilador Elétrico Feminino de Sobrancelhas Black Raipe, Caneta Recarregável e Indolor",
-   "price": 21.99,
-   "original": 29.99,
-   "pct": 27,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_713881-MLA112707674461_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-de-sobrancelhas-black-raipe-caneta-recarregavel-e-indolor/p/MLB62925370?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795032558
   }
  ]
 }
