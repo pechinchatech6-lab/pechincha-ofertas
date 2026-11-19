@@ -1,7 +1,21 @@
 {
- "updated": 1795081675,
+ "updated": 1795082703,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2762,
+   "key": "mercadolivre:MLB24326256",
+   "title": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 40ml",
+   "price": 71.52,
+   "original": 109.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_695558-MLA119937437423_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/creme-multirreparador-pele-sensivel-cicaplast-baume-b5-la-roche-posay-40ml/p/MLB24326256?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795082683
+  },
   {
    "n": 2761,
    "key": "mercadolivre:MLB51054606",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795048493
-  },
-  {
-   "n": 2702,
-   "key": "mercadolivre:MLB54468896",
-   "title": "Esmerilhadeira Lixadeira Angular 880w Hanabi 115mm Cor Azul-petróleo Frequência 60hz",
-   "price": 126.94,
-   "original": 194.02,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_633280-MLA117513003981_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/esmerilhadeira-lixadeira-angular-880w-hanabi-115mm-cor-azul-petroleo-frequencia-60hz/p/MLB54468896?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795048072
   }
  ]
 }
