@@ -1,7 +1,21 @@
 {
- "updated": 1795078286,
+ "updated": 1795078707,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2756,
+   "key": "mercadolivre:MLB50912942",
+   "title": "Escova Secadora Alisadora Volumizadora Rotativa Philco PER03 1300w Cor Dourado-escuro",
+   "price": 191.8,
+   "original": 249.9,
+   "pct": 23,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_701646-MLA91559093774_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-alisadora-volumizadora-rotativa-philco-per03-1300w-cor-dourado-escuro/p/MLB50912942?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795078687
+  },
   {
    "n": 2755,
    "key": "mercadolivre:MLB22479338",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795045285
-  },
-  {
-   "n": 2696,
-   "key": "mercadolivre:MLB58623212",
-   "title": "Nintendo Switch Console Oled 64gb + Super Mario Bros Wonder",
-   "price": 1855.0,
-   "original": 2999.9,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nintendo-switch-console-oled-64gb-super-mario-bros-wonder/p/MLB58623212?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795044864
   }
  ]
 }
