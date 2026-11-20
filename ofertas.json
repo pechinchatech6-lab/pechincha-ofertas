@@ -1,7 +1,21 @@
 {
- "updated": 1795181566,
+ "updated": 1795181987,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2932,
+   "key": "mercadolivre:MLB63047503",
+   "title": "Mochila Viagem Feminina Masculina Para Notebook Executiva Cor Preto",
+   "price": 187.38,
+   "original": 208.2,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_974650-MLA114948542868_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-viagem-feminina-masculina-para-notebook-executiva-cor-preto/p/MLB63047503?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795181967
+  },
   {
    "n": 2931,
    "key": "mercadolivre:MLB19174981",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795147942
-  },
-  {
-   "n": 2872,
-   "key": "mercadolivre:MLB29527654",
-   "title": "Hidratante Labial Nivea Ultra Hialurônico 5,2g",
-   "price": 23.0,
-   "original": 36.89,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_683043-MLA117370206881_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/hidratante-labial-nivea-ultra-hialuronico-5-2g/p/MLB29527654?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795147520
   }
  ]
 }
