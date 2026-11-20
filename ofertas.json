@@ -1,7 +1,21 @@
 {
- "updated": 1795196885,
+ "updated": 1795197306,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2960,
+   "key": "mercadolivre:MLB45254298",
+   "title": "Tv Stick Android Streaming Hdmi Wifi 4k 128gb",
+   "price": 172.99,
+   "original": 299.99,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_736919-MLA95970509444_102025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/tv-stick-android-streaming-hdmi-wifi-4k-128gb/p/MLB45254298?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795197286
+  },
   {
    "n": 2959,
    "key": "mercadolivre:MLB18572380",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795162036
-  },
-  {
-   "n": 2900,
-   "key": "mercadolivre:MLB75829537",
-   "title": "Mini Mixer Eléctrico Portátil 2 em 1 USB Recarregável Branco, Batedor Fouet Inox para Espuma de Leite e Ovos, Café Cappuccino Whey Protein Shake, Compacto",
-   "price": 34.91,
-   "original": 51.98,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_671515-MLA116489943640_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-mixer-electrico-portatil-2-em-1-usb-recarregavel-branco-batedor-fouet-inox-para-espuma-de-leite-e-ovos-cafe-cappucc/p/MLB75829537?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795161615
   }
  ]
 }
