@@ -1,7 +1,21 @@
 {
- "updated": 1795150153,
+ "updated": 1795150575,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2878,
+   "key": "mercadolivre:MLB31414435",
+   "title": "Condicionador Antiqueda Fortalecedor Aminexil Dercos Energy+ Vichy 200g",
+   "price": 103.54,
+   "original": 164.9,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_649993-MLA119927459608_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/condicionador-antiqueda-fortalecedor-aminexil-dercos-energy-vichy-200g/p/MLB31414435?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795150555
+  },
   {
    "n": 2877,
    "key": "mercadolivre:MLB59322248",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795115996
-  },
-  {
-   "n": 2818,
-   "key": "mercadolivre:MLB44000843",
-   "title": "Relógio de Bolso Steampunk Vintage Bronze com Corrente 40 cm Estilo Antigo 4.9 cm",
-   "price": 42.0,
-   "original": 47.99,
-   "pct": 12,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_739528-MLA95503072382_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-bolso-steampunk-vintage-bronze-com-corrente-40-cm-estilo-antigo-4-9-cm/p/MLB44000843?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795115575
   }
  ]
 }
