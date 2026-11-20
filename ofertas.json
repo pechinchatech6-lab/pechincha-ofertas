@@ -1,7 +1,21 @@
 {
- "updated": 1795145435,
+ "updated": 1795145856,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2868,
+   "key": "mercadolivre:MLB55750802",
+   "title": "Skincare Glow Rejuvenecedor Mascarilla Facial Medicube-cn",
+   "price": 29.0,
+   "original": 37.98,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_789689-MLA92203641391_092025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/skincare-glow-rejuvenecedor-mascarilla-facial-medicube-cn/p/MLB55750802?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795145836
+  },
   {
    "n": 2867,
    "key": "mercadolivre:MLB37552867",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795110503
-  },
-  {
-   "n": 2808,
-   "key": "mercadolivre:MLB76114589",
-   "title": "Escorredor De Louça Secador De Pratos Cozinha Metal Preto 2 Andares Porta Talher Tigela E Copos para Pia LARUNO",
-   "price": 109.9,
-   "original": 299.9,
-   "pct": 63,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_750449-MLA114308211878_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escorredor-de-louca-secador-de-pratos-cozinha-metal-preto-2-andares-porta-talher-tigela-e-copos-para-pia-laruno/p/MLB76114589?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795110082
   }
  ]
 }
