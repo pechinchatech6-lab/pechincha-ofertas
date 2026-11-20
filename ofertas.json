@@ -1,7 +1,21 @@
 {
- "updated": 1795213506,
+ "updated": 1795213927,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2994,
+   "key": "mercadolivre:MLB79371322",
+   "title": "Depilador Aparador Elétrico Feminino Indolor 4 Em 1 Pelos Íntimo Facial Nariz Orelha Sobrancelha - Crowley",
+   "price": 35.49,
+   "original": 54.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_993413-MLA116209048116_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-aparador-eletrico-feminino-indolor-4-em-1-pelos-intimo-facial-nariz-orelha-sobrancelha-crowley/p/MLB79371322?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795213907
+  },
   {
    "n": 2993,
    "key": "mercadolivre:MLB77828327",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795183230
-  },
-  {
-   "n": 2934,
-   "key": "mercadolivre:MLB54150718",
-   "title": "Caixa de Som Bluetooth Portátil - JBL Boombox 4 - JBL Pro Sound, AI Sound Boost, 210W RMS, até 34h de Bateria, Bass Boost, IP68, Auracast e USB-C Lossless - Bra",
-   "price": 2559.0,
-   "original": 3415.81,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_946596-MLA118535144431_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-portatil-jbl-boombox-4-jbl-pro-sound-ai-sound-boost-210w-rms-ate-34h-de-bateria-bass-boost-ip68-a/p/MLB54150718?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795182809
   }
  ]
 }
