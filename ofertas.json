@@ -1,7 +1,21 @@
 {
- "updated": 1795165705,
+ "updated": 1795166126,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2905,
+   "key": "mercadolivre:MLB80756614",
+   "title": "Prensa Francesa Cafeteira 600 Ml Café Gourmet Leite Cremoso Chá Cafeteria Café Expresso Compacto Leve Cozinha Logda",
+   "price": 29.49,
+   "original": 78.9,
+   "pct": 63,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_836493-MLA119919360079_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/prensa-francesa-cafeteira-600-ml-cafe-gourmet-leite-cremoso-cha-cafeteria-cafe-expresso-compacto-leve-cozinha-logda/p/MLB80756614?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795166106
+  },
   {
    "n": 2904,
    "key": "mercadolivre:MLB76467562",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795131886
-  },
-  {
-   "n": 2845,
-   "key": "mercadolivre:MLB79380541",
-   "title": "Caixa Caixinha De Som Bluetooth Pendrive Fm Sd Portátil 50W",
-   "price": 59.9,
-   "original": 86.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_882937-MLA116430422614_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-caixinha-de-som-bluetooth-pendrive-fm-sd-portatil-50w/p/MLB79380541?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795130858
   }
  ]
 }
