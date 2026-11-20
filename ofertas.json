@@ -1,7 +1,21 @@
 {
- "updated": 1795217271,
+ "updated": 1795217692,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3001,
+   "key": "mercadolivre:MLB47100887",
+   "title": "Kit Maquiagem Infantil Kalon Lashes Maleta 8 Peças Com Batom e Acessórios",
+   "price": 49.99,
+   "original": 78.99,
+   "pct": 37,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_758173-MLA112465206752_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-maquiagem-infantil-kalon-lashes-maleta-8-pecas-com-batom-e-acessorios/p/MLB47100887?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795217672
+  },
   {
    "n": 3000,
    "key": "mercadolivre:MLB32162099",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795188615
-  },
-  {
-   "n": 2941,
-   "key": "mercadolivre:MLB21649364",
-   "title": "2 Potes Vitamina B12 Metilcobalamina - 60 Cápsulas Nutrify",
-   "price": 45.0,
-   "original": 64.9,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_661238-MLA100080909657_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/2-potes-vitamina-b12-metilcobalamina-60-capsulas-nutrify/p/MLB21649364?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795188194
   }
  ]
 }
