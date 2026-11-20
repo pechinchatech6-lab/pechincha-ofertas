@@ -1,7 +1,21 @@
 {
- "updated": 1795186385,
+ "updated": 1795186806,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2940,
+   "key": "mercadolivre:MLB80376121",
+   "title": "Chapinha Kive KV-864 Profissional 3 Em 1 Alisa e Faz Cachos Vapor Infravermelho Íons Negativos Anti Frizz Bivolt,Cabelos Grossos e Volumosos",
+   "price": 184.0,
+   "original": 342.72,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_949600-MLA117461477450_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-kive-kv-864-profissional-3-em-1-alisa-e-faz-cachos-vapor-infravermelho-ions-negativos-anti-frizz-bivolt-cabelos/p/MLB80376121?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795186786
+  },
   {
    "n": 2939,
    "key": "mercadolivre:MLB23122766",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795151819
-  },
-  {
-   "n": 2880,
-   "key": "mercadolivre:MLB50949075",
-   "title": "Kit Braé Stages Nutrition Shampoo,cond,másc + Essential 60ml",
-   "price": 114.9,
-   "original": 149.9,
-   "pct": 23,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_984607-MLA99442195502_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-brae-stages-nutrition-shampoo-cond-masc-essential-60ml/p/MLB50949075?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795151397
   }
  ]
 }
