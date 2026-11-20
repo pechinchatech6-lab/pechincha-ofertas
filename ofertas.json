@@ -1,7 +1,21 @@
 {
- "updated": 1795183250,
+ "updated": 1795185122,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2936,
+   "key": "mercadolivre:MLB59033248",
+   "title": "Ventilador de Coluna Arno Essential 40cm 6 PÁS 140W VE2C",
+   "price": 299.0,
+   "original": 554.44,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_751745-MLA99477917668_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-de-coluna-arno-essential-40cm-6-pas-140w-ve2c/p/MLB59033248?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795185102
+  },
   {
    "n": 2935,
    "key": "mercadolivre:MLB62568815",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795150133
-  },
-  {
-   "n": 2876,
-   "key": "mercadolivre:MLB37257779",
-   "title": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 300g",
-   "price": 94.39,
-   "original": 153.9,
-   "pct": 39,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_646464-MLA112810161826_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-anticaspa-cabelos-normais-a-oleosos-dercos-ds-vichy-300g/p/MLB37257779?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795149712
   }
  ]
 }
