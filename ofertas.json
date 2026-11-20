@@ -1,7 +1,21 @@
 {
- "updated": 1795193745,
+ "updated": 1795194359,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2953,
+   "key": "mercadolivre:MLB80744090",
+   "title": "Climatizador de Ar Portátil 15L Umidificador Evaporativo 3 Velocidades 3 Modos de Vento Temporizador Resfriamento Touch Controle Remoto",
+   "price": 450.0,
+   "original": 1199.99,
+   "pct": 62,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_809505-MLA119892475101_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-portatil-15l-umidificador-evaporativo-3-velocidades-3-modos-de-vento-temporizador-resfriamento-touch-/p/MLB80744090?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795194339
+  },
   {
    "n": 2952,
    "key": "mercadolivre:MLB28757015",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795158581
-  },
-  {
-   "n": 2893,
-   "key": "mercadolivre:MLB66454860",
-   "title": "Geladeira Electrolux Frost Free 380L AutoSense Inverter Duplex Branca (IF41)",
-   "price": 2564.9,
-   "original": 3399.0,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_952475-MLA108569273143_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-frost-free-380l-autosense-inverter-duplex-branca-if41/p/MLB66454860?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795158160
   }
  ]
 }
