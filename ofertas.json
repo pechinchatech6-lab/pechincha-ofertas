@@ -1,7 +1,21 @@
 {
- "updated": 1795208912,
+ "updated": 1795209333,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2984,
+   "key": "mercadolivre:MLB79529287",
+   "title": "Smart TV Philips 43\" QLED Full HD 43PQG6921/78 Sem Bordas HDR10 e Dolby Audio",
+   "price": 1439.98,
+   "original": 2149.0,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_739870-MLA117019190220_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-philips-43-qled-full-hd-43pqg6921-78-sem-bordas-hdr10-e-dolby-audio/p/MLB79529287?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795209313
+  },
   {
    "n": 2983,
    "key": "mercadolivre:MLB40182325",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795179019
-  },
-  {
-   "n": 2924,
-   "key": "mercadolivre:MLB63738371",
-   "title": "Soundbar Jbl Cinema 2.1 Hdmi Arc Bluetooth 110w Rms Preto 40hz - 20khz",
-   "price": 889.9,
-   "original": 1262.9,
-   "pct": 30,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_656047-MLA102762309536_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soundbar-jbl-cinema-2-1-hdmi-arc-bluetooth-110w-rms-preto-40hz-20khz/p/MLB63738371?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795178487
   }
  ]
 }
