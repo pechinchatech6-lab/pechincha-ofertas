@@ -1,7 +1,21 @@
 {
- "updated": 1795191531,
+ "updated": 1795191952,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2948,
+   "key": "mercadolivre:MLB55232692",
+   "title": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca 1L - Hidratação 48h",
+   "price": 114.9,
+   "original": 205.9,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_800625-MLA118013409895_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cetaphil-locao-hidratante-corporal-e-facial-para-pele-sensivel-normal-a-seca-1l-hidratacao-48h/p/MLB55232692?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795191932
+  },
   {
    "n": 2947,
    "key": "mercadolivre:MLB60190954",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795156476
-  },
-  {
-   "n": 2888,
-   "key": "mercadolivre:MLB37258669",
-   "title": "Ferro De Passar Cadence 2 Em 1 iro215 Cor Cinza",
-   "price": 60.0,
-   "original": 89.9,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_729868-MLA99475311530_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/ferro-de-passar-cadence-2-em-1-iro215-cor-cinza/p/MLB37258669?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795154777
   }
  ]
 }
