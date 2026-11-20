@@ -1,7 +1,21 @@
 {
- "updated": 1795160015,
+ "updated": 1795160630,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2898,
+   "key": "mercadolivre:MLB45308620",
+   "title": "Cabeçote Compressor Pró Euro 10 Pcm Pés 140 Psi Libras",
+   "price": 679.9,
+   "original": 999.9,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_754151-MLA118250519029_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabecote-compressor-pro-euro-10-pcm-pes-140-psi-libras/p/MLB45308620?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795160610
+  },
   {
    "n": 2897,
    "key": "mercadolivre:MLB23888631",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795126786
-  },
-  {
-   "n": 2838,
-   "key": "mercadolivre:MLB36811176",
-   "title": "Kit Maquiagem Completo Profissional Sarahs Beauty",
-   "price": 56.0,
-   "original": 78.99,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_736126-MLU76125139404_052024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-maquiagem-completo-profissional-sarahs-beauty/p/MLB36811176?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795126172
   }
  ]
 }
