@@ -1,7 +1,21 @@
 {
- "updated": 1795165091,
+ "updated": 1795165705,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2904,
+   "key": "mercadolivre:MLB76467562",
+   "title": "Lamina Serra Multi-corte Oscilante Kit 5 Pçs Para Wesco Makita",
+   "price": 27.35,
+   "original": 75.99,
+   "pct": 64,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_607957-MLA119667530665_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lamina-serra-multi-corte-oscilante-kit-5-pcs-para-wesco-makita/p/MLB76467562?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795165685
+  },
   {
    "n": 2903,
    "key": "mercadolivre:MLB81601926",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795130858
-  },
-  {
-   "n": 2844,
-   "key": "mercadolivre:MLB68770277",
-   "title": "Aparador De Pelos Nariz E Orelha Elétrico Recarregável Sem Fio Acemic Preto Cortador Nasal Portátil Masculino E Feminino Para Higiene Pessoal Remoção De Pelos C",
-   "price": 19.0,
-   "original": 39.99,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_674222-MLA110090137172_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-nariz-e-orelha-eletrico-recarregavel-sem-fio-acemic-preto-cortador-nasal-portatil-masculino-e-feminino/p/MLB68770277?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795130256
   }
  ]
 }
