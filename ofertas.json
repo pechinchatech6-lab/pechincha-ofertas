@@ -1,7 +1,21 @@
 {
- "updated": 1795177244,
+ "updated": 1795177665,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2922,
+   "key": "mercadolivre:MLB19685236",
+   "title": "Mantecorp Protetor Solar Facial Episol Fps 70 Tom 3 Médio",
+   "price": 59.9,
+   "original": 99.9,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_684981-MLA99450554546_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mantecorp-protetor-solar-facial-episol-fps-70-tom-3-medio/p/MLB19685236?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795177645
+  },
   {
    "n": 2921,
    "key": "mercadolivre:MLB47146181",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795141082
-  },
-  {
-   "n": 2862,
-   "key": "mercadolivre:MLB63405326",
-   "title": "Caixa de Som Portátil LG Xboom RNC7 Bluetooth Com Luzes LED",
-   "price": 1069.0,
-   "original": 1499.0,
-   "pct": 29,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_615079-MLA101583963122_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-lg-xboom-rnc7-bluetooth-com-luzes-led/p/MLB63405326?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795139404
   }
  ]
 }
