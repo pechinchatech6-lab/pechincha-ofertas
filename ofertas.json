@@ -1,7 +1,21 @@
 {
- "updated": 1795135214,
+ "updated": 1795135635,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2853,
+   "key": "mercadolivre:MLB18115557",
+   "title": "Relógio De Pulso Casio Youth W-218H-1AV",
+   "price": 131.0,
+   "original": 259.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_734707-MLA114937003722_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-de-pulso-casio-youth-w-218h-1av/p/MLB18115557?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795135615
+  },
   {
    "n": 2852,
    "key": "mercadolivre:MLB18607536",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795102684
-  },
-  {
-   "n": 2793,
-   "key": "mercadolivre:MLB41234257",
-   "title": "LG Soundbar S60tr 440w Rms, 5.1 Canais, Bluetooth 5.3, Dol Preto 120 Hz",
-   "price": 1521.08,
-   "original": 2199.0,
-   "pct": 31,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_610679-MLA79349332342_092024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/lg-soundbar-s60tr-440w-rms-5-1-canais-bluetooth-5-3-dol-preto-120-hz/p/MLB41234257?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795102263
   }
  ]
 }
