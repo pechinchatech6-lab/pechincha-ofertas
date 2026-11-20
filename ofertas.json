@@ -1,7 +1,21 @@
 {
- "updated": 1795182408,
+ "updated": 1795182829,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2934,
+   "key": "mercadolivre:MLB54150718",
+   "title": "Caixa de Som Bluetooth Portátil - JBL Boombox 4 - JBL Pro Sound, AI Sound Boost, 210W RMS, até 34h de Bateria, Bass Boost, IP68, Auracast e USB-C Lossless - Bra",
+   "price": 2559.0,
+   "original": 3415.81,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_946596-MLA118535144431_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-portatil-jbl-boombox-4-jbl-pro-sound-ai-sound-boost-210w-rms-ate-34h-de-bateria-bass-boost-ip68-a/p/MLB54150718?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795182809
+  },
   {
    "n": 2933,
    "key": "mercadolivre:MLB28082077",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795149291
-  },
-  {
-   "n": 2874,
-   "key": "mercadolivre:MLB61642416",
-   "title": "Caixa De Som Portatil Inova Caixinha Com Rgb Tws Recarregável Subwoofer, Potente Caixas Bluetooth Ideal Festas Ao Ar Livre E Uso Diário, Preto",
-   "price": 70.0,
-   "original": 143.62,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_720363-MLA99931033474_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-inova-caixinha-com-rgb-tws-recarregavel-subwoofer-potente-caixas-bluetooth-ideal-festas-ao-ar-livr/p/MLB61642416?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795148516
   }
  ]
 }
