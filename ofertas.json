@@ -1,7 +1,21 @@
 {
- "updated": 1795185964,
+ "updated": 1795186385,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2939,
+   "key": "mercadolivre:MLB23122766",
+   "title": "EMEET S600 4K Webcam 1080P 60Fps Camera Para Pc Streaming Con Microfone Automático Full HD Videoconferencia",
+   "price": 355.11,
+   "original": 399.0,
+   "pct": 11,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_639218-MLA112743784625_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/emeet-s600-4k-webcam-1080p-60fps-camera-para-pc-streaming-con-microfone-automatico-full-hd-videoconferencia/p/MLB23122766?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795186365
+  },
   {
    "n": 2938,
    "key": "mercadolivre:MLB14896780",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795151397
-  },
-  {
-   "n": 2879,
-   "key": "mercadolivre:MLB47887434",
-   "title": "Relógio Parede LED Digital Grande 46x22cm Hall Entrada Academia Hospital Igreja Comércio Recepção Calendário Termômetro Data Hora 12/24h Temperatura Dia Mês Ano",
-   "price": 123.89,
-   "original": 214.28,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_656466-MLA112698128142_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-parede-led-digital-grande-46x22cm-hall-entrada-academia-hospital-igreja-comercio-recepcao-calendario-termometro-/p/MLB47887434?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795150976
   }
  ]
 }
