@@ -1,7 +1,21 @@
 {
- "updated": 1795191952,
+ "updated": 1795192373,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2949,
+   "key": "mercadolivre:MLB81614740",
+   "title": "Coqueteleira Shakeira Academia Whey 500ml Zelvi Com Esfera Misturadora De Metal Tampa Flip E Alça Livre De BPA Cor Cinza",
+   "price": 21.99,
+   "original": 99.0,
+   "pct": 78,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_986692-MLA120960406965_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/coqueteleira-shakeira-academia-whey-500ml-zelvi-com-esfera-misturadora-de-metal-tampa-flip-e-alca-livre-de-bpa-cor-cinza/p/MLB81614740?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795192353
+  },
   {
    "n": 2948,
    "key": "mercadolivre:MLB55232692",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795156897
-  },
-  {
-   "n": 2889,
-   "key": "mercadolivre:MLB51380242",
-   "title": "Caixa de Som Portátil - JBL PartyBox 520 - 400W RMS, AI Sound Boost, Show de Luzes, até 15h de Bateria, Auracast, IPX4, Bluetooth 5.4 e Entradas XLR - Preta",
-   "price": 3585.0,
-   "original": 5999.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_750325-MLA116970202608_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-jbl-partybox-520-400w-rms-ai-sound-boost-show-de-luzes-ate-15h-de-bateria-auracast-ipx4-bluetooth-/p/MLB51380242?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795156476
   }
  ]
 }
