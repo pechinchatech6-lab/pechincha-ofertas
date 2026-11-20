@@ -1,7 +1,21 @@
 {
- "updated": 1795193324,
+ "updated": 1795193745,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2952,
+   "key": "mercadolivre:MLB28757015",
+   "title": "Escova Secadora Ga.ma Babosa Brush 3d 1300W Verde Bivolt",
+   "price": 133.9,
+   "original": 279.9,
+   "pct": 52,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_899031-MLA114756927320_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-secadora-ga-ma-babosa-brush-3d-1300w-verde-bivolt/p/MLB28757015?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795193725
+  },
   {
    "n": 2951,
    "key": "mercadolivre:MLB52135607",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795158160
-  },
-  {
-   "n": 2892,
-   "key": "mercadolivre:MLB66062182",
-   "title": "Paleta De Maquiagem Colormake Chroma Cream 12 Cores Colormake",
-   "price": 59.9,
-   "original": 78.9,
-   "pct": 24,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_710189-MLA116318983122_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/paleta-de-maquiagem-colormake-chroma-cream-12-cores-colormake/p/MLB66062182?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795157739
   }
  ]
 }
