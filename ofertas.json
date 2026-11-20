@@ -1,7 +1,21 @@
 {
- "updated": 1795200365,
+ "updated": 1795200786,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2968,
+   "key": "mercadolivre:MLB67338975",
+   "title": "Kit Barba De Macho Shampoo Condicionador Balm Óleo + Pente",
+   "price": 160.0,
+   "original": 325.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_762419-MLA109681534325_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-barba-de-macho-shampoo-condicionador-balm-oleo-pente/p/MLB67338975?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795200766
+  },
   {
    "n": 2967,
    "key": "mercadolivre:MLB78863823",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795167790
-  },
-  {
-   "n": 2908,
-   "key": "mercadolivre:MLB18917848",
-   "title": "Controle Dualsense Cfi-zct1 Sem Fio Ps5 Galactic Purple",
-   "price": 399.0,
-   "original": 499.9,
-   "pct": 20,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_988275-MLA99995954413_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-dualsense-cfi-zct1-sem-fio-ps5-galactic-purple/p/MLB18917848?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795167369
   }
  ]
 }
