@@ -1,7 +1,21 @@
 {
- "updated": 1795138161,
+ "updated": 1795138582,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2860,
+   "key": "mercadolivre:MLB80240441",
+   "title": "Novo Smartwatch Microwear W12 Pro Prateado Séries 12 Amoled 47mm 2027 SMARTWATCH ADVANCED PRO",
+   "price": 208.0,
+   "original": 349.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_642329-MLA118773721445_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/novo-smartwatch-microwear-w12-pro-prateado-series-12-amoled-47mm-2027-smartwatch-advanced-pro/p/MLB80240441?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795138562
+  },
   {
    "n": 2859,
    "key": "mercadolivre:MLB39167899",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795105815
-  },
-  {
-   "n": 2800,
-   "key": "mercadolivre:MLB14180098",
-   "title": "Prancha Alisadora Mondial Golden Rose/Preto Bivolt P-20",
-   "price": 87.76,
-   "original": 130.0,
-   "pct": 32,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_937184-MLA100013378601_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/prancha-alisadora-mondial-golden-rose-preto-bivolt-p-20/p/MLB14180098?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795105394
   }
  ]
 }
