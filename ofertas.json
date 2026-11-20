@@ -1,7 +1,21 @@
 {
- "updated": 1795151417,
+ "updated": 1795151839,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2881,
+   "key": "mercadolivre:MLB53155512",
+   "title": "Multimetro Digital Portátil Profissional Com Bateria Inclusa Para Teste Medição Tensão Personalized View",
+   "price": 24.99,
+   "original": 29.99,
+   "pct": 17,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_863906-MLA110244293958_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/multimetro-digital-portatil-profissional-com-bateria-inclusa-para-teste-medicao-tensao-personalized-view/p/MLB53155512?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795151819
+  },
   {
    "n": 2880,
    "key": "mercadolivre:MLB50949075",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795117443
-  },
-  {
-   "n": 2821,
-   "key": "mercadolivre:MLB19782244",
-   "title": "Mantecorp Protetor Solar Facial Episol Fps 70 Tom 2 Claro",
-   "price": 59.9,
-   "original": 99.9,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_604484-MLA99833162607_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mantecorp-protetor-solar-facial-episol-fps-70-tom-2-claro/p/MLB19782244?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795117022
   }
  ]
 }
