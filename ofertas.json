@@ -1,7 +1,21 @@
 {
- "updated": 1795203733,
+ "updated": 1795204154,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2976,
+   "key": "mercadolivre:MLB70449712",
+   "title": "Body Splash Masculino Vibration 200ml - Primacial Perfume Bergamota Fresco",
+   "price": 41.19,
+   "original": 69.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_617155-MLA118231595864_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/body-splash-masculino-vibration-200ml-primacial-perfume-bergamota-fresco/p/MLB70449712?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795204134
+  },
   {
    "n": 2975,
    "key": "mercadolivre:MLB54482689",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795174334
-  },
-  {
-   "n": 2916,
-   "key": "mercadolivre:MLB18964467",
-   "title": "Principia Sérum Vitamina C-10",
-   "price": 24.59,
-   "original": 69.97,
-   "pct": 65,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_614742-MLA98385730409_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/principia-serum-vitamina-c-10/p/MLB18964467?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795173913
   }
  ]
 }
