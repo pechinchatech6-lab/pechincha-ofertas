@@ -1,7 +1,21 @@
 {
- "updated": 1795216223,
+ "updated": 1795217271,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3000,
+   "key": "mercadolivre:MLB32162099",
+   "title": "Relógio Unissex Casio Digital Esportivo A158wa-1df Prata Retrô Vintage Pulseira em Aço Inoxidável",
+   "price": 115.99,
+   "original": 289.99,
+   "pct": 60,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_723628-MLA118260371869_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-unissex-casio-digital-esportivo-a158wa-1df-prata-retro-vintage-pulseira-em-aco-inoxidavel/p/MLB32162099?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795217251
+  },
   {
    "n": 2999,
    "key": "mercadolivre:MLB75898900",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795188194
-  },
-  {
-   "n": 2940,
-   "key": "mercadolivre:MLB80376121",
-   "title": "Chapinha Kive KV-864 Profissional 3 Em 1 Alisa e Faz Cachos Vapor Infravermelho Íons Negativos Anti Frizz Bivolt,Cabelos Grossos e Volumosos",
-   "price": 184.0,
-   "original": 342.72,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_949600-MLA117461477450_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/chapinha-kive-kv-864-profissional-3-em-1-alisa-e-faz-cachos-vapor-infravermelho-ions-negativos-anti-frizz-bivolt-cabelos/p/MLB80376121?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795186786
   }
  ]
 }
