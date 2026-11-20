@@ -1,7 +1,21 @@
 {
- "updated": 1795201207,
+ "updated": 1795201628,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2970,
+   "key": "mercadolivre:MLB54422844",
+   "title": "Relógio Masculino Clássico Pulseira Prata Correia Prateada Bisel Prateado Fundo Azul Marinho Saint Germain 42mm Elegante Detalhes Bronze",
+   "price": 97.0,
+   "original": 249.9,
+   "pct": 61,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_758835-MLA100010183395_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-masculino-classico-pulseira-prata-correia-prateada-bisel-prateado-fundo-azul-marinho-saint-germain-42mm-elegante/p/MLB54422844?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795201608
+  },
   {
    "n": 2969,
    "key": "mercadolivre:MLB64888551",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795169206
-  },
-  {
-   "n": 2910,
-   "key": "mercadolivre:MLB62063542",
-   "title": "Despertador Digital Bluetooth G50 Relógio de Mesa LED Espelhado com Rádio FM Caixa de Som Duplo Alarme Sensor de Temperatura USB AUX Som Estéreo para Quarto Cab",
-   "price": 56.0,
-   "original": 110.0,
-   "pct": 49,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_801211-MLA118406742432_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/despertador-digital-bluetooth-g50-relogio-de-mesa-led-espelhado-com-radio-fm-caixa-de-som-duplo-alarme-sensor-de-tempera/p/MLB62063542?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795168785
   }
  ]
 }
