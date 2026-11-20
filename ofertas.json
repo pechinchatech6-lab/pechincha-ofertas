@@ -1,7 +1,21 @@
 {
- "updated": 1795170910,
+ "updated": 1795173933,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2916,
+   "key": "mercadolivre:MLB18964467",
+   "title": "Principia Sérum Vitamina C-10",
+   "price": 24.59,
+   "original": 69.97,
+   "pct": 65,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_614742-MLA98385730409_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/principia-serum-vitamina-c-10/p/MLB18964467?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795173913
+  },
   {
    "n": 2915,
    "key": "mercadolivre:MLB77950516",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795137299
-  },
-  {
-   "n": 2856,
-   "key": "mercadolivre:MLB61910691",
-   "title": "Enssu Aparador de Pelos com Lâmina de Cerâmica e Recarga Rápida",
-   "price": 159.0,
-   "original": 318.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_761397-MLA111846748613_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/enssu-aparador-de-pelos-com-lamina-de-ceramica-e-recarga-rapida/p/MLB61910691?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795136878
   }
  ]
 }
