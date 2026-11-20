@@ -1,7 +1,21 @@
 {
- "updated": 1795139003,
+ "updated": 1795139424,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2862,
+   "key": "mercadolivre:MLB63405326",
+   "title": "Caixa de Som Portátil LG Xboom RNC7 Bluetooth Com Luzes LED",
+   "price": 1069.0,
+   "original": 1499.0,
+   "pct": 29,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_615079-MLA101583963122_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-lg-xboom-rnc7-bluetooth-com-luzes-led/p/MLB63405326?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795139404
+  },
   {
    "n": 2861,
    "key": "mercadolivre:MLB23215730",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795106657
-  },
-  {
-   "n": 2802,
-   "key": "mercadolivre:MLB61608274",
-   "title": "Smartwatch X-watch Prisma Troca Pulseiras Faz Ligações Rose Gold",
-   "price": 297.9,
-   "original": 399.0,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_609389-MLA96971978792_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/smartwatch-x-watch-prisma-troca-pulseiras-faz-ligacoes-rose-gold/p/MLB61608274?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795106236
   }
  ]
 }
