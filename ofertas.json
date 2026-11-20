@@ -1,7 +1,21 @@
 {
- "updated": 1795214769,
+ "updated": 1795215190,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2997,
+   "key": "mercadolivre:MLB69274486",
+   "title": "Multímetro Digital Com Iluminação Bip Profissional Portátil Md-180l B Basto Com Bateria",
+   "price": 34.29,
+   "original": 49.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_722130-MLA110446246164_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/multimetro-digital-com-iluminacao-bip-profissional-portatil-md-180l-b-basto-com-bateria/p/MLB69274486?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795215170
+  },
   {
    "n": 2996,
    "key": "mercadolivre:MLB19772622",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795185944
-  },
-  {
-   "n": 2937,
-   "key": "mercadolivre:MLB74698581",
-   "title": "Relógio Digital Com Data E Alarme De Mesa E Parede Led Top Cor Branco",
-   "price": 47.0,
-   "original": 62.96,
-   "pct": 25,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_769141-MLA113971536417_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-digital-com-data-e-alarme-de-mesa-e-parede-led-top-cor-branco/p/MLB74698581?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795185523
   }
  ]
 }
