@@ -1,7 +1,21 @@
 {
- "updated": 1795191110,
+ "updated": 1795191531,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2947,
+   "key": "mercadolivre:MLB60190954",
+   "title": "Alicate Desencapador De Fios E Crimpador Hytalux",
+   "price": 37.9,
+   "original": 41.9,
+   "pct": 10,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_825937-MLA100090806317_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-desencapador-de-fios-e-crimpador-hytalux/p/MLB60190954?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795191511
+  },
   {
    "n": 2946,
    "key": "mercadolivre:MLB30917968",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795154777
-  },
-  {
-   "n": 2887,
-   "key": "mercadolivre:MLB80769867",
-   "title": "Nível Laser Verde 2 Linhas com Tripé de 1 Metro para Alinhamento Profissional",
-   "price": 108.89,
-   "original": 199.9,
-   "pct": 46,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_719885-MLA119961502331_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-2-linhas-com-tripe-de-1-metro-para-alinhamento-profissional/p/MLB80769867?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795154356
   }
  ]
 }
