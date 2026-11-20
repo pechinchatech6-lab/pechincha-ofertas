@@ -1,7 +1,21 @@
 {
- "updated": 1795149732,
+ "updated": 1795150153,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2877,
+   "key": "mercadolivre:MLB59322248",
+   "title": "Máquina De Lavar Branca Consul 12kg Com Dosagem Econômica E Cor Branco 110v",
+   "price": 1599.0,
+   "original": 1832.0,
+   "pct": 13,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612560-MLA99968162739_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-branca-consul-12kg-com-dosagem-economica-e-cor-branco-110v/p/MLB59322248?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795150133
+  },
   {
    "n": 2876,
    "key": "mercadolivre:MLB37257779",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795115575
-  },
-  {
-   "n": 2817,
-   "key": "mercadolivre:MLB50181290",
-   "title": "Parafusadeira Furadeira C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Simake",
-   "price": 119.6,
-   "original": 299.0,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_835659-MLA116548375638_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-c-2-baterias-maleta-kit-completo-led-eixo-flexivel-varios-niveis-torque-simake/p/MLB50181290?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795114540
   }
  ]
 }
