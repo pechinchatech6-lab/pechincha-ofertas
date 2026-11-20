@@ -1,7 +1,21 @@
 {
- "updated": 1795150575,
+ "updated": 1795150996,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2879,
+   "key": "mercadolivre:MLB47887434",
+   "title": "Relógio Parede LED Digital Grande 46x22cm Hall Entrada Academia Hospital Igreja Comércio Recepção Calendário Termômetro Data Hora 12/24h Temperatura Dia Mês Ano",
+   "price": 123.89,
+   "original": 214.28,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_656466-MLA112698128142_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-parede-led-digital-grande-46x22cm-hall-entrada-academia-hospital-igreja-comercio-recepcao-calendario-termometro-/p/MLB47887434?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795150976
+  },
   {
    "n": 2878,
    "key": "mercadolivre:MLB31414435",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795116601
-  },
-  {
-   "n": 2819,
-   "key": "mercadolivre:MLB40346127",
-   "title": "Nivea Hidratante Labial Hidra Color Rosé 4,8g",
-   "price": 16.56,
-   "original": 30.99,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_896307-MLA104534508623_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivea-hidratante-labial-hidra-color-rose-4-8g/p/MLB40346127?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795115996
   }
  ]
 }
