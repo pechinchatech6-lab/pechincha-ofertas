@@ -1,7 +1,21 @@
 {
- "updated": 1795177665,
+ "updated": 1795178086,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2923,
+   "key": "mercadolivre:MLB76467981",
+   "title": "Parafusadeira Furadeira de Impacto Atverce, sem Fio, com 2 Baterias e Kit 46 Peças",
+   "price": 127.99,
+   "original": 405.0,
+   "pct": 68,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_752602-MLA119168643537_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-atverce-sem-fio-com-2-baterias-e-kit-46-pecas/p/MLB76467981?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795178066
+  },
   {
    "n": 2922,
    "key": "mercadolivre:MLB19685236",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795144152
-  },
-  {
-   "n": 2863,
-   "key": "mercadolivre:MLB63440128",
-   "title": "Kit Pentes para Barbeador Philips OneBlade: 6 Cabeças Guia de Plástico",
-   "price": 31.0,
-   "original": 35.86,
-   "pct": 14,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_880600-MLA104771913283_012026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-pentes-para-barbeador-philips-oneblade-6-cabecas-guia-de-plastico/p/MLB63440128?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795141082
   }
  ]
 }
