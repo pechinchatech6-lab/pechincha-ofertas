@@ -1,7 +1,21 @@
 {
- "updated": 1795157338,
+ "updated": 1795157759,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2892,
+   "key": "mercadolivre:MLB66062182",
+   "title": "Paleta De Maquiagem Colormake Chroma Cream 12 Cores Colormake",
+   "price": 59.9,
+   "original": 78.9,
+   "pct": 24,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_710189-MLA116318983122_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/paleta-de-maquiagem-colormake-chroma-cream-12-cores-colormake/p/MLB66062182?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795157739
+  },
   {
    "n": 2891,
    "key": "mercadolivre:MLB28894895",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795122723
-  },
-  {
-   "n": 2832,
-   "key": "mercadolivre:MLB24820394",
-   "title": "Creme Depilatório Corporal Peles Delicadas 100ml - Veet",
-   "price": 34.0,
-   "original": 52.09,
-   "pct": 35,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_636110-MLA115154354530_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/creme-depilatorio-corporal-peles-delicadas-100ml-veet/p/MLB24820394?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795121695
   }
  ]
 }
