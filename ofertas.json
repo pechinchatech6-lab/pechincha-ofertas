@@ -1,7 +1,21 @@
 {
- "updated": 1795157759,
+ "updated": 1795158180,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2893,
+   "key": "mercadolivre:MLB66454860",
+   "title": "Geladeira Electrolux Frost Free 380L AutoSense Inverter Duplex Branca (IF41)",
+   "price": 2564.9,
+   "original": 3399.0,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_952475-MLA108569273143_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-frost-free-380l-autosense-inverter-duplex-branca-if41/p/MLB66454860?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795158160
+  },
   {
    "n": 2892,
    "key": "mercadolivre:MLB66062182",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795123144
-  },
-  {
-   "n": 2833,
-   "key": "mercadolivre:MLB38176139",
-   "title": "Fone de Ouvido Bluetooth 5.4 soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celu",
-   "price": 196.0,
-   "original": 389.0,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_760745-MLA95700724020_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-5-4-soundcore-p30i-da-anker-cancelamento-de-ruido-adaptativo-graves-poderosos-45h-de-reproducao/p/MLB38176139?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795122723
   }
  ]
 }
