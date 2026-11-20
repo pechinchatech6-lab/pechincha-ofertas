@@ -1,7 +1,21 @@
 {
- "updated": 1795154797,
+ "updated": 1795156496,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2889,
+   "key": "mercadolivre:MLB51380242",
+   "title": "Caixa de Som Portátil - JBL PartyBox 520 - 400W RMS, AI Sound Boost, Show de Luzes, até 15h de Bateria, Auracast, IPX4, Bluetooth 5.4 e Entradas XLR - Preta",
+   "price": 3585.0,
+   "original": 5999.0,
+   "pct": 40,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_750325-MLA116970202608_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-portatil-jbl-partybox-520-400w-rms-ai-sound-boost-show-de-luzes-ate-15h-de-bateria-auracast-ipx4-bluetooth-/p/MLB51380242?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795156476
+  },
   {
    "n": 2888,
    "key": "mercadolivre:MLB37258669",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795120811
-  },
-  {
-   "n": 2829,
-   "key": "mercadolivre:MLB66373729",
-   "title": "Relógio De Mesa Compacto Led Com Projetor De Parede Data Temperatura Despertador Hora Led Verde - Aero Home",
-   "price": 44.74,
-   "original": 72.47,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_953599-MLA108374286237_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-de-mesa-compacto-led-com-projetor-de-parede-data-temperatura-despertador-hora-led-verde-aero-home/p/MLB66373729?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795120390
   }
  ]
 }
