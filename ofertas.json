@@ -1,7 +1,21 @@
 {
- "updated": 1795161051,
+ "updated": 1795161635,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2900,
+   "key": "mercadolivre:MLB75829537",
+   "title": "Mini Mixer Eléctrico Portátil 2 em 1 USB Recarregável Branco, Batedor Fouet Inox para Espuma de Leite e Ovos, Café Cappuccino Whey Protein Shake, Compacto",
+   "price": 34.91,
+   "original": 51.98,
+   "pct": 33,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_671515-MLA116489943640_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mini-mixer-electrico-portatil-2-em-1-usb-recarregavel-branco-batedor-fouet-inox-para-espuma-de-leite-e-ovos-cafe-cappucc/p/MLB75829537?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795161615
+  },
   {
    "n": 2899,
    "key": "mercadolivre:MLB59251129",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795127628
-  },
-  {
-   "n": 2840,
-   "key": "mercadolivre:MLB47027227",
-   "title": "Kit 100 Paletas Mixer Mini Misturador De Pigmentos E Henna! Cor Preto",
-   "price": 17.22,
-   "original": 28.0,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_899967-MLA92117305930_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-100-paletas-mixer-mini-misturador-de-pigmentos-e-henna-cor-preto/p/MLB47027227?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795127207
   }
  ]
 }
