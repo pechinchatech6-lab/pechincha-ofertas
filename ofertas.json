@@ -1,7 +1,21 @@
 {
- "updated": 1795138582,
+ "updated": 1795139003,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2861,
+   "key": "mercadolivre:MLB23215730",
+   "title": "Escova Rotativa Infinity Keratin, Mondial, 1000W - ER-11-KR",
+   "price": 119.0,
+   "original": 239.9,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_819751-MLA99483057610_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/escova-rotativa-infinity-keratin-mondial-1000w-er-11-kr/p/MLB23215730?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795138983
+  },
   {
    "n": 2860,
    "key": "mercadolivre:MLB80240441",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795106236
-  },
-  {
-   "n": 2801,
-   "key": "mercadolivre:MLB63552752",
-   "title": "Caixa de Som JBL PartyBox 720 800W RMS Luzes IPX4 com Rodas",
-   "price": 5180.0,
-   "original": 8880.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_714015-MLA102678338511_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-jbl-partybox-720-800w-rms-luzes-ipx4-com-rodas/p/MLB63552752?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795105815
   }
  ]
 }
