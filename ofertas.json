@@ -1,7 +1,21 @@
 {
- "updated": 1795145856,
+ "updated": 1795146277,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2869,
+   "key": "mercadolivre:MLB16591405",
+   "title": "Micro-ondas De Mesa Panasonic, 21 Litros, Branco, Espelhada",
+   "price": 462.44,
+   "original": 699.0,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_723967-MLA100019104621_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/micro-ondas-de-mesa-panasonic-21-litros-branco-espelhada/p/MLB16591405?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795146257
+  },
   {
    "n": 2868,
    "key": "mercadolivre:MLB55750802",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795110924
-  },
-  {
-   "n": 2809,
-   "key": "mercadolivre:MLB57490795",
-   "title": "Mini Compressor Digital Portátil Bomba De Encher Pneus Bola Inflável Para Carro Moto Bicicleta Com Calibrador De Ar Preto",
-   "price": 65.0,
-   "original": 157.98,
-   "pct": 59,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_826381-MLA110944602250_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mini-compressor-digital-portatil-bomba-de-encher-pneus-bola-inflavel-para-carro-moto-bicicleta-com-calibrador-de-ar-pret/p/MLB57490795?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795110503
   }
  ]
 }
