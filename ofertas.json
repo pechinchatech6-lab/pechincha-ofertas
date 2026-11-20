@@ -1,7 +1,21 @@
 {
- "updated": 1795194359,
+ "updated": 1795194780,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2954,
+   "key": "mercadolivre:MLB16030232",
+   "title": "Aparador de Pelos Kemei KM-6776 Preto 3 em 1 Nariz e Barba Sem Fio",
+   "price": 46.9,
+   "original": 78.89,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_754437-MLA99453200484_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-kemei-km-6776-preto-3-em-1-nariz-e-barba-sem-fio/p/MLB16030232?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795194760
+  },
   {
    "n": 2953,
    "key": "mercadolivre:MLB80744090",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795159002
-  },
-  {
-   "n": 2894,
-   "key": "mercadolivre:MLB45436713",
-   "title": "Vedo HA400 Amplificador para Fones de Ouvido 4 Canais Compacto 6,35mm",
-   "price": 70.0,
-   "original": 78.0,
-   "pct": 10,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_968956-MLA100004958541_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/vedo-ha400-amplificador-para-fones-de-ouvido-4-canais-compacto-6-35mm/p/MLB45436713?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795158581
   }
  ]
 }
