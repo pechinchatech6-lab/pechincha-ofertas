@@ -1,7 +1,21 @@
 {
- "updated": 1795185543,
+ "updated": 1795185964,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2938,
+   "key": "mercadolivre:MLB14896780",
+   "title": "Ventilador oscilante de parede ventisol Steel 6 pás 50cm preto",
+   "price": 211.25,
+   "original": 307.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_754389-MLA119103956430_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-oscilante-de-parede-ventisol-steel-6-pas-50cm-preto/p/MLB14896780?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795185944
+  },
   {
    "n": 2937,
    "key": "mercadolivre:MLB74698581",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795150976
-  },
-  {
-   "n": 2878,
-   "key": "mercadolivre:MLB31414435",
-   "title": "Condicionador Antiqueda Fortalecedor Aminexil Dercos Energy+ Vichy 200g",
-   "price": 103.54,
-   "original": 164.9,
-   "pct": 37,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_649993-MLA119927459608_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/condicionador-antiqueda-fortalecedor-aminexil-dercos-energy-vichy-200g/p/MLB31414435?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795150555
   }
  ]
 }
