@@ -1,7 +1,21 @@
 {
- "updated": 1795209333,
+ "updated": 1795209754,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2985,
+   "key": "mercadolivre:MLB69649128",
+   "title": "Soprador Davely Davely4688 USB-C 5V Preto",
+   "price": 46.9,
+   "original": 96.0,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_674554-MLA119255486606_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/soprador-davely-davely4688-usb-c-5v-preto/p/MLB69649128?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795209734
+  },
   {
    "n": 2984,
    "key": "mercadolivre:MLB79529287",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795179441
-  },
-  {
-   "n": 2925,
-   "key": "mercadolivre:MLB81850647",
-   "title": "Mecolour Soprador Elétrico Térmico 1500W Com 6 bicos + Espátula + Raspador Com Ajuste Facilitado de Calor",
-   "price": 107.73,
-   "original": 189.0,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_684646-MLA121239778711_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mecolour-soprador-eletrico-termico-1500w-com-6-bicos-espatula-raspador-com-ajuste-facilitado-de-calor/p/MLB81850647?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795179019
   }
  ]
 }
