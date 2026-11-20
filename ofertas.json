@@ -1,7 +1,21 @@
 {
- "updated": 1795137319,
+ "updated": 1795137740,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2858,
+   "key": "mercadolivre:MLB79524826",
+   "title": "Smart TV Philips 32 polegadas QLED HD Wi-Fi HDR10 Dolby Áudio 32PQG6921/78",
+   "price": 949.0,
+   "original": 1549.0,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_984410-MLA121286451921_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/smart-tv-philips-32-polegadas-qled-hd-wi-fi-hdr10-dolby-audio-32pqg6921-78/p/MLB79524826?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795137720
+  },
   {
    "n": 2857,
    "key": "mercadolivre:MLB70516181",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795104973
-  },
-  {
-   "n": 2798,
-   "key": "mercadolivre:MLB32101995",
-   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Branco MICGEEK",
-   "price": 23.95,
-   "original": 40.0,
-   "pct": 40,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_785462-MLA110586324994_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-branco-micgeek/p/MLB32101995?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795104552
   }
  ]
 }
