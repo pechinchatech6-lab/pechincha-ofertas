@@ -1,7 +1,21 @@
 {
- "updated": 1795178507,
+ "updated": 1795179039,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2925,
+   "key": "mercadolivre:MLB81850647",
+   "title": "Mecolour Soprador Elétrico Térmico 1500W Com 6 bicos + Espátula + Raspador Com Ajuste Facilitado de Calor",
+   "price": 107.73,
+   "original": 189.0,
+   "pct": 43,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_684646-MLA121239778711_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mecolour-soprador-eletrico-termico-1500w-com-6-bicos-espatula-raspador-com-ajuste-facilitado-de-calor/p/MLB81850647?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795179019
+  },
   {
    "n": 2924,
    "key": "mercadolivre:MLB63738371",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795144994
-  },
-  {
-   "n": 2865,
-   "key": "mercadolivre:MLB55776599",
-   "title": "Headphone Philips Bluetooth E Energia Para 55h Tah2300bk/00 Preto",
-   "price": 105.0,
-   "original": 239.0,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_776643-MLA97452664977_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/headphone-philips-bluetooth-e-energia-para-55h-tah2300bk-00-preto/p/MLB55776599?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795144573
   }
  ]
 }
