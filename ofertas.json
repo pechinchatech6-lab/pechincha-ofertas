@@ -1,7 +1,21 @@
 {
- "updated": 1795176823,
+ "updated": 1795177244,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2921,
+   "key": "mercadolivre:MLB47146181",
+   "title": "Parafusadeira e Furadeira de Impacto 13mm 20V DEWALT DCD7781D2 Com 2 Baterias, Carregador e Maleta",
+   "price": 919.99,
+   "original": 1699.0,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_860756-MLA99451844492_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-de-impacto-13mm-20v-dewalt-dcd7781d2-com-2-baterias-carregador-e-maleta/p/MLB47146181?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795177224
+  },
   {
    "n": 2920,
    "key": "mercadolivre:MLB47841547",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795139404
-  },
-  {
-   "n": 2861,
-   "key": "mercadolivre:MLB23215730",
-   "title": "Escova Rotativa Infinity Keratin, Mondial, 1000W - ER-11-KR",
-   "price": 119.0,
-   "original": 239.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_819751-MLA99483057610_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-rotativa-infinity-keratin-mondial-1000w-er-11-kr/p/MLB23215730?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795138983
   }
  ]
 }
