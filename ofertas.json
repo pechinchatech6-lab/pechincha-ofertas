@@ -1,7 +1,21 @@
 {
- "updated": 1795166126,
+ "updated": 1795166547,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2906,
+   "key": "mercadolivre:MLB66834852",
+   "title": "Mondial Secador Multifuncional Sm-01-bldc-cp 5 Em 1",
+   "price": 509.0,
+   "original": 799.9,
+   "pct": 36,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_644418-MLA117649981757_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mondial-secador-multifuncional-sm-01-bldc-cp-5-em-1/p/MLB66834852?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795166527
+  },
   {
    "n": 2905,
    "key": "mercadolivre:MLB80756614",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795132307
-  },
-  {
-   "n": 2846,
-   "key": "mercadolivre:MLB10312330",
-   "title": "Controle Playstation Dualshock 4 Sony Cor Preto Ps4",
-   "price": 115.99,
-   "original": 289.99,
-   "pct": 60,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_697241-MLA95349422371_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-playstation-dualshock-4-sony-cor-preto-ps4/p/MLB10312330?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795131886
   }
  ]
 }
