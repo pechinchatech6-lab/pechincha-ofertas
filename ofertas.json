@@ -1,7 +1,21 @@
 {
- "updated": 1795215611,
+ "updated": 1795216223,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2999,
+   "key": "mercadolivre:MLB75898900",
+   "title": "Nível Laser Verde 16 Linhas War Shark 360° Autonivelante + 2 Baterias",
+   "price": 199.0,
+   "original": 400.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_612772-MLA117503682685_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-360-autonivelante-2-baterias/p/MLB75898900?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795216203
+  },
   {
    "n": 2998,
    "key": "mercadolivre:MLB18630341",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795186786
-  },
-  {
-   "n": 2939,
-   "key": "mercadolivre:MLB23122766",
-   "title": "EMEET S600 4K Webcam 1080P 60Fps Camera Para Pc Streaming Con Microfone Automático Full HD Videoconferencia",
-   "price": 355.11,
-   "original": 399.0,
-   "pct": 11,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_639218-MLA112743784625_062026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/emeet-s600-4k-webcam-1080p-60fps-camera-para-pc-streaming-con-microfone-automatico-full-hd-videoconferencia/p/MLB23122766?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795186365
   }
  ]
 }
