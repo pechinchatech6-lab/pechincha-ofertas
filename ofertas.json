@@ -1,7 +1,21 @@
 {
- "updated": 1795153951,
+ "updated": 1795154376,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2887,
+   "key": "mercadolivre:MLB80769867",
+   "title": "Nível Laser Verde 2 Linhas com Tripé de 1 Metro para Alinhamento Profissional",
+   "price": 108.89,
+   "original": 199.9,
+   "pct": 46,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_719885-MLA119961502331_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivel-laser-verde-2-linhas-com-tripe-de-1-metro-para-alinhamento-profissional/p/MLB80769867?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795154356
+  },
   {
    "n": 2886,
    "key": "mercadolivre:MLB78730229",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795119969
-  },
-  {
-   "n": 2827,
-   "key": "mercadolivre:MLB19721946",
-   "title": "Relógio Casio Unissex Vintage Prata Aq-230a-1dmq",
-   "price": 95.96,
-   "original": 299.9,
-   "pct": 68,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_633473-MLA115741902361_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-casio-unissex-vintage-prata-aq-230a-1dmq/p/MLB19721946?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795119548
   }
  ]
 }
