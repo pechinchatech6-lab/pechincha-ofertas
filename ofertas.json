@@ -1,7 +1,21 @@
 {
- "updated": 1795168805,
+ "updated": 1795169226,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2911,
+   "key": "mercadolivre:MLB77331725",
+   "title": "Alicate Tesoura para Cortar Arame Vergalhão e Cabo de Aço 3,2mm para Construção Serralheria Oficina Ferramenta Manual 8 Polegadas",
+   "price": 29.75,
+   "original": 64.99,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_659601-MLA116194121551_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/alicate-tesoura-para-cortar-arame-vergalhao-e-cabo-de-aco-3-2mm-para-construcao-serralheria-oficina-ferramenta-manual-8-/p/MLB77331725?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795169206
+  },
   {
    "n": 2910,
    "key": "mercadolivre:MLB62063542",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795135194
-  },
-  {
-   "n": 2851,
-   "key": "mercadolivre:MLB80837307",
-   "title": "Caixa De Som Bluetooth Sabala Dr-500 Boombox Bluetooth 6.0 TWS 81000mah Rgb",
-   "price": 2287.0,
-   "original": 3999.0,
-   "pct": 43,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_607342-MLA119908403764_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-sabala-dr-500-boombox-bluetooth-6-0-tws-81000mah-rgb/p/MLB80837307?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795134773
   }
  ]
 }
