@@ -1,7 +1,21 @@
 {
- "updated": 1795200786,
+ "updated": 1795201207,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2969,
+   "key": "mercadolivre:MLB64888551",
+   "title": "Amplificador de Fone de Ouvido Profissional Vedo VD8000 V com 8 Canais Estéreo",
+   "price": 580.0,
+   "original": 1400.0,
+   "pct": 59,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_827090-MLA105102770824_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/amplificador-de-fone-de-ouvido-profissional-vedo-vd8000-v-com-8-canais-estereo/p/MLB64888551?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795201187
+  },
   {
    "n": 2968,
    "key": "mercadolivre:MLB67338975",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795168785
-  },
-  {
-   "n": 2909,
-   "key": "mercadolivre:MLB58330076",
-   "title": "Panela de Pressão Antiaderente Mimo Style Presscook 4.2 L para Indução e Gás",
-   "price": 172.76,
-   "original": 298.08,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_644018-MLA93296053690_092025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/panela-de-pressao-antiaderente-mimo-style-presscook-4-2-l-para-inducao-e-gas/p/MLB58330076?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795167790
   }
  ]
 }
