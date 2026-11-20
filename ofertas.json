@@ -1,7 +1,21 @@
 {
- "updated": 1795207637,
+ "updated": 1795208912,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2983,
+   "key": "mercadolivre:MLB40182325",
+   "title": "Whey Protein Concentrado 1kg Morango Dark Lab",
+   "price": 136.9,
+   "original": 349.9,
+   "pct": 61,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_927988-MLA99469885866_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-morango-dark-lab/p/MLB40182325?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795208892
+  },
   {
    "n": 2982,
    "key": "mercadolivre:MLB18643725",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795178487
-  },
-  {
-   "n": 2923,
-   "key": "mercadolivre:MLB76467981",
-   "title": "Parafusadeira Furadeira de Impacto Atverce, sem Fio, com 2 Baterias e Kit 46 Peças",
-   "price": 127.99,
-   "original": 405.0,
-   "pct": 68,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_752602-MLA119168643537_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-atverce-sem-fio-com-2-baterias-e-kit-46-pecas/p/MLB76467981?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795178066
   }
  ]
 }
