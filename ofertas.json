@@ -1,7 +1,21 @@
 {
- "updated": 1795148536,
+ "updated": 1795149311,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2875,
+   "key": "mercadolivre:MLB36579268",
+   "title": "Máquina de Lavar 15kg Electrolux Premium Care com Cesto Inox, Jet&Clean e Time Control LEC15",
+   "price": 1849.0,
+   "original": 2699.0,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_904132-MLA99986926583_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-15kg-electrolux-premium-care-com-cesto-inox-jet-clean-e-time-control-lec15/p/MLB36579268?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795149291
+  },
   {
    "n": 2874,
    "key": "mercadolivre:MLB61642416",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795113911
-  },
-  {
-   "n": 2815,
-   "key": "mercadolivre:MLB23743709",
-   "title": "Mouse sem fio Logitech Pebble 2 M350s - Branco",
-   "price": 79.9,
-   "original": 119.9,
-   "pct": 33,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_965045-MLA99481399148_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mouse-sem-fio-logitech-pebble-2-m350s-branco/p/MLB23743709?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795113490
   }
  ]
 }
