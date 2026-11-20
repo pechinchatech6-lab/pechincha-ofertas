@@ -1,7 +1,21 @@
 {
- "updated": 1795197306,
+ "updated": 1795197727,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2961,
+   "key": "mercadolivre:MLB61910691",
+   "title": "Enssu Aparador de Pelos com Lâmina de Cerâmica e Recarga Rápida",
+   "price": 130.71,
+   "original": 318.0,
+   "pct": 59,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_761397-MLA111846748613_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/enssu-aparador-de-pelos-com-lamina-de-ceramica-e-recarga-rapida/p/MLB61910691?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795197707
+  },
   {
    "n": 2960,
    "key": "mercadolivre:MLB45254298",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795164650
-  },
-  {
-   "n": 2901,
-   "key": "mercadolivre:MLB19160770",
-   "title": "Shampoo Para Bebê Johnson's Baby De Glicerina, 400ml",
-   "price": 17.59,
-   "original": 34.99,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_631466-MLA109737821200_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/shampoo-para-bebe-johnson-s-baby-de-glicerina-400ml/p/MLB19160770?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795162036
   }
  ]
 }
