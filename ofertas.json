@@ -1,7 +1,21 @@
 {
- "updated": 1795195201,
+ "updated": 1795195622,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2956,
+   "key": "mercadolivre:MLB67189809",
+   "title": "Máquina de Cortar Cabelo e Barba Inova Sem Fio Com Display LED e 4 Pentes",
+   "price": 69.9,
+   "original": 112.72,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_698498-MLA109075410420_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/maquina-de-cortar-cabelo-e-barba-inova-sem-fio-com-display-led-e-4-pentes/p/MLB67189809?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795195602
+  },
   {
    "n": 2955,
    "key": "mercadolivre:MLB75207034",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795159995
-  },
-  {
-   "n": 2896,
-   "key": "mercadolivre:MLB55024225",
-   "title": "Soprador De Ar Turbo 21v Portátil Bateria Recarregável Potente Para Folhas Pó Limpeza Carro Tso-21a The Black Tools",
-   "price": 99.99,
-   "original": 199.9,
-   "pct": 50,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_987154-MLA116188035225_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/soprador-de-ar-turbo-21v-portatil-bateria-recarregavel-potente-para-folhas-po-limpeza-carro-tso-21a-the-black-tools/p/MLB55024225?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795159574
   }
  ]
 }
