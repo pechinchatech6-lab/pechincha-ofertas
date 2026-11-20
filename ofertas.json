@@ -1,7 +1,21 @@
 {
- "updated": 1795156917,
+ "updated": 1795157338,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2891,
+   "key": "mercadolivre:MLB28894895",
+   "title": "Relógio Digital Despertador Mesa Cabeceira Quarto Idoso Cor Preto Micgeek",
+   "price": 24.94,
+   "original": 40.0,
+   "pct": 38,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_767519-MLA108974232726_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-digital-despertador-mesa-cabeceira-quarto-idoso-cor-preto-micgeek/p/MLB28894895?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795157318
+  },
   {
    "n": 2890,
    "key": "mercadolivre:MLB62958868",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795121695
-  },
-  {
-   "n": 2831,
-   "key": "mercadolivre:MLB19104021",
-   "title": "Micro-ondas MO-01-21-W 1200W Mondial",
-   "price": 419.0,
-   "original": 636.9,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_971379-MLA99957853113_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/micro-ondas-mo-01-21-w-1200w-mondial/p/MLB19104021?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795121232
   }
  ]
 }
