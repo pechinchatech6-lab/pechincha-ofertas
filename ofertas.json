@@ -1,7 +1,21 @@
 {
- "updated": 1795195622,
+ "updated": 1795196043,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2957,
+   "key": "mercadolivre:MLB69333502",
+   "title": "Kit 3 Pedestais de Microfone Don Caprini Tripé Ajustável com Cachimbo para Estúdio e Podcast",
+   "price": 197.34,
+   "original": 299.0,
+   "pct": 34,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_807907-MLA110458701388_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-3-pedestais-de-microfone-don-caprini-tripe-ajustavel-com-cachimbo-para-estudio-e-podcast/p/MLB69333502?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795196023
+  },
   {
    "n": 2956,
    "key": "mercadolivre:MLB67189809",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795160610
-  },
-  {
-   "n": 2897,
-   "key": "mercadolivre:MLB23888631",
-   "title": "Secador Taiff Tourmaline Íon 2100W – Alta Performance Preto",
-   "price": 304.38,
-   "original": 459.9,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_656647-MLA119750623728_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-taiff-tourmaline-ion-2100w-alta-performance-preto/p/MLB23888631?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795159995
   }
  ]
 }
