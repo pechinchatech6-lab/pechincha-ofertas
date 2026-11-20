@@ -1,7 +1,21 @@
 {
- "updated": 1795164670,
+ "updated": 1795165091,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2903,
+   "key": "mercadolivre:MLB81601926",
+   "title": "Chapinha Prancha Profissional Titanium Para Cabelo Modela E Alisa - Crowley Rosa",
+   "price": 35.21,
+   "original": 59.9,
+   "pct": 41,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_819301-MLA119243541824_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/chapinha-prancha-profissional-titanium-para-cabelo-modela-e-alisa-crowley-rosa/p/MLB81601926?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795165071
+  },
   {
    "n": 2902,
    "key": "mercadolivre:MLB25640671",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795130256
-  },
-  {
-   "n": 2843,
-   "key": "mercadolivre:MLB35959035",
-   "title": "Mineral/Vitamina Bodyaction Nutri Science Magnésio E Inositol Taurina Melatonina 210g em pó sabor Maracujá x 210g",
-   "price": 42.0,
-   "original": 79.9,
-   "pct": 47,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_653067-MLA110738695437_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/mineral-vitamina-bodyaction-nutri-science-magnesio-e-inositol-taurina-melatonina-210g-em-po-sabor-maracuja-x-210g/p/MLB35959035?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795129835
   }
  ]
 }
