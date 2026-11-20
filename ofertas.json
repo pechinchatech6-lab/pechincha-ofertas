@@ -1,7 +1,21 @@
 {
- "updated": 1795153529,
+ "updated": 1795153951,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2886,
+   "key": "mercadolivre:MLB78730229",
+   "title": "Depilador Elétrico Feminino VB Vetka Beauty 4 em 1 com Cabeças para Rosto, Nariz, Sobrancelha e corporal Indolor Portátil",
+   "price": 39.99,
+   "original": 65.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_740093-MLA115548829984_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/depilador-eletrico-feminino-vb-vetka-beauty-4-em-1-com-cabecas-para-rosto-nariz-sobrancelha-e-corporal-indolor-portatil/p/MLB78730229?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795153931
+  },
   {
    "n": 2885,
    "key": "mercadolivre:MLB22530387",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795119548
-  },
-  {
-   "n": 2826,
-   "key": "mercadolivre:MLB60948213",
-   "title": "Controle Mancer Rcw99, Pc/switch/ps3/android, Preto Preto",
-   "price": 74.99,
-   "original": 258.81,
-   "pct": 71,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_967494-MLA95623109852_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/controle-mancer-rcw99-pc-switch-ps3-android-preto-preto/p/MLB60948213?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795119127
   }
  ]
 }
