@@ -1,7 +1,21 @@
 {
- "updated": 1795134793,
+ "updated": 1795135214,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2852,
+   "key": "mercadolivre:MLB18607536",
+   "title": "Ventilador Parede 50cm 6Pás Monta Fácil Preto Ventisol",
+   "price": 182.66,
+   "original": 265.9,
+   "pct": 31,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_719817-MLA113216396562_072026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/ventilador-parede-50cm-6pas-monta-facil-preto-ventisol/p/MLB18607536?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795135194
+  },
   {
    "n": 2851,
    "key": "mercadolivre:MLB80837307",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795102263
-  },
-  {
-   "n": 2792,
-   "key": "mercadolivre:MLB22203782",
-   "title": "Óleo Capilar wella Oil Reflect 30ml",
-   "price": 34.29,
-   "original": 69.9,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_690433-MLA116380162305_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/oleo-capilar-wella-oil-reflect-30ml/p/MLB22203782?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795101655
   }
  ]
 }
