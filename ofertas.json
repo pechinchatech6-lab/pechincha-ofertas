@@ -1,7 +1,21 @@
 {
- "updated": 1795136477,
+ "updated": 1795136898,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2856,
+   "key": "mercadolivre:MLB61910691",
+   "title": "Enssu Aparador de Pelos com Lâmina de Cerâmica e Recarga Rápida",
+   "price": 159.0,
+   "original": 318.0,
+   "pct": 50,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_761397-MLA111846748613_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/enssu-aparador-de-pelos-com-lamina-de-ceramica-e-recarga-rapida/p/MLB61910691?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795136878
+  },
   {
    "n": 2855,
    "key": "mercadolivre:MLB25834979",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795104131
-  },
-  {
-   "n": 2796,
-   "key": "mercadolivre:MLB28463712",
-   "title": "Relógio Digital Mesa Despertador Inteligente Cabeceira Quarto Idoso Com Sensor De Temperatura Micgeek",
-   "price": 23.33,
-   "original": 40.0,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_824487-MLA116332700754_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-digital-mesa-despertador-inteligente-cabeceira-quarto-idoso-com-sensor-de-temperatura-micgeek/p/MLB28463712?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795103710
   }
  ]
 }
