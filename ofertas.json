@@ -1,7 +1,21 @@
 {
- "updated": 1795167810,
+ "updated": 1795168805,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2910,
+   "key": "mercadolivre:MLB62063542",
+   "title": "Despertador Digital Bluetooth G50 Relógio de Mesa LED Espelhado com Rádio FM Caixa de Som Duplo Alarme Sensor de Temperatura USB AUX Som Estéreo para Quarto Cab",
+   "price": 56.0,
+   "original": 110.0,
+   "pct": 49,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_801211-MLA118406742432_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/despertador-digital-bluetooth-g50-relogio-de-mesa-led-espelhado-com-radio-fm-caixa-de-som-duplo-alarme-sensor-de-tempera/p/MLB62063542?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795168785
+  },
   {
    "n": 2909,
    "key": "mercadolivre:MLB58330076",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795134773
-  },
-  {
-   "n": 2850,
-   "key": "mercadolivre:MLB74952764",
-   "title": "Kit Jogo De Ferramentas Completo 122 Peças Com Soquetes Chaves Martelo Trena Alicate Bits Maleta TBNT13 The Black Tools",
-   "price": 74.0,
-   "original": 169.9,
-   "pct": 56,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_666540-MLA114108111681_072026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-jogo-de-ferramentas-completo-122-pecas-com-soquetes-chaves-martelo-trena-alicate-bits-maleta-tbnt13-the-black-tools/p/MLB74952764?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795134352
   }
  ]
 }
