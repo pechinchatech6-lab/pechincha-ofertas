@@ -1,7 +1,21 @@
 {
- "updated": 1795136898,
+ "updated": 1795137319,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2857,
+   "key": "mercadolivre:MLB70516181",
+   "title": "Relógio Despertador Analógico Vintage Prateado, de Metal com Dois Sinos e Luz Noturna",
+   "price": 26.99,
+   "original": 36.5,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_713937-MLA113102590587_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-despertador-analogico-vintage-prateado-de-metal-com-dois-sinos-e-luz-noturna/p/MLB70516181?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795137299
+  },
   {
    "n": 2856,
    "key": "mercadolivre:MLB61910691",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795104552
-  },
-  {
-   "n": 2797,
-   "key": "mercadolivre:MLB26578445",
-   "title": "Secador De Cabelo Taiff Profissional Style Vermelho Clássico",
-   "price": 194.0,
-   "original": 447.36,
-   "pct": 57,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_895859-MLA99858387669_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/secador-de-cabelo-taiff-profissional-style-vermelho-classico/p/MLB26578445?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795104131
   }
  ]
 }
