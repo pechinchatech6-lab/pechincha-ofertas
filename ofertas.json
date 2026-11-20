@@ -1,7 +1,21 @@
 {
- "updated": 1795185122,
+ "updated": 1795185543,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 2937,
+   "key": "mercadolivre:MLB74698581",
+   "title": "Relógio Digital Com Data E Alarme De Mesa E Parede Led Top Cor Branco",
+   "price": 47.0,
+   "original": 62.96,
+   "pct": 25,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_769141-MLA113971536417_062026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/relogio-digital-com-data-e-alarme-de-mesa-e-parede-led-top-cor-branco/p/MLB74698581?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795185523
+  },
   {
    "n": 2936,
    "key": "mercadolivre:MLB59033248",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795150555
-  },
-  {
-   "n": 2877,
-   "key": "mercadolivre:MLB59322248",
-   "title": "Máquina De Lavar Branca Consul 12kg Com Dosagem Econômica E Cor Branco 110v",
-   "price": 1599.0,
-   "original": 1832.0,
-   "pct": 13,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_612560-MLA99968162739_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/maquina-de-lavar-branca-consul-12kg-com-dosagem-economica-e-cor-branco-110v/p/MLB59322248?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795150133
   }
  ]
 }
