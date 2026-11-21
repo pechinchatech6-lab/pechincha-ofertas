@@ -1,7 +1,21 @@
 {
- "updated": 1795226915,
+ "updated": 1795227336,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3017,
+   "key": "mercadolivre:MLB34113516",
+   "title": "Caixa De Som Boombox Aiwa AWS-BBS-01-B 200w IP66 30hs De Bateria",
+   "price": 1239.9,
+   "original": 2699.0,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_864411-MLA99591392870_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-boombox-aiwa-aws-bbs-01-b-200w-ip66-30hs-de-bateria/p/MLB34113516?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795227316
+  },
   {
    "n": 3016,
    "key": "mercadolivre:MLB38714294",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795196444
-  },
-  {
-   "n": 2957,
-   "key": "mercadolivre:MLB69333502",
-   "title": "Kit 3 Pedestais de Microfone Don Caprini Tripé Ajustável com Cachimbo para Estúdio e Podcast",
-   "price": 197.34,
-   "original": 299.0,
-   "pct": 34,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_807907-MLA110458701388_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-3-pedestais-de-microfone-don-caprini-tripe-ajustavel-com-cachimbo-para-estudio-e-podcast/p/MLB69333502?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795196023
   }
  ]
 }
