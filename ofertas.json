@@ -1,7 +1,21 @@
 {
- "updated": 1795225652,
+ "updated": 1795226073,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3014,
+   "key": "mercadolivre:MLB27747316",
+   "title": "Prancha Cerâmica Taiff Profissional 180° Preto",
+   "price": 108.69,
+   "original": 186.25,
+   "pct": 42,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_815162-MLA99896276503_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/prancha-ceramica-taiff-profissional-180-preto/p/MLB27747316?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795226053
+  },
   {
    "n": 3013,
    "key": "mercadolivre:MLB6077911",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795195181
-  },
-  {
-   "n": 2954,
-   "key": "mercadolivre:MLB16030232",
-   "title": "Aparador de Pelos Kemei KM-6776 Preto 3 em 1 Nariz e Barba Sem Fio",
-   "price": 46.9,
-   "original": 78.89,
-   "pct": 41,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_754437-MLA99453200484_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-kemei-km-6776-preto-3-em-1-nariz-e-barba-sem-fio/p/MLB16030232?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795194760
   }
  ]
 }
