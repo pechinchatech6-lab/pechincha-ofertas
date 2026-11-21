@@ -1,7 +1,21 @@
 {
- "updated": 1795230704,
+ "updated": 1795231964,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3026,
+   "key": "mercadolivre:MLB61072496",
+   "title": "Caixa De Som Pc Notebook Gamer Soundbar Usb 6w Estéreo P2",
+   "price": 48.0,
+   "original": 78.9,
+   "pct": 39,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_644552-MLA120792015981_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-pc-notebook-gamer-soundbar-usb-6w-estereo-p2/p/MLB61072496?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795231944
+  },
   {
    "n": 3025,
    "key": "mercadolivre:MLB25295297",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795200345
-  },
-  {
-   "n": 2966,
-   "key": "mercadolivre:MLB75784950",
-   "title": "Relógio Parede Led Digital Alarme Sensor Umidade Temperatura Grande 47x23cm Entrada Academia Hospital Igreja Comércio Recepção Calendário Data Hora 12/24h Dia M",
-   "price": 141.11,
-   "original": 499.9,
-   "pct": 72,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_982517-MLA121537693171_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-parede-led-digital-alarme-sensor-umidade-temperatura-grande-47x23cm-entrada-academia-hospital-igreja-comercio-re/p/MLB75784950?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795199924
   }
  ]
 }
