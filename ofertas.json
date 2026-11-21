@@ -1,7 +1,21 @@
 {
- "updated": 1795228599,
+ "updated": 1795229020,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3021,
+   "key": "mercadolivre:MLB80306555",
+   "title": "Kit 10 Lâminas de Serra Sabre Evofix HSS para Madeira, Metal e PVC – Encaixe Universal",
+   "price": 55.99,
+   "original": 69.99,
+   "pct": 20,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_897136-MLA117441653026_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/kit-10-laminas-de-serra-sabre-evofix-hss-para-madeira-metal-e-pvc-encaixe-universal/p/MLB80306555?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795229000
+  },
   {
    "n": 3020,
    "key": "mercadolivre:MLB45981292",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795198128
-  },
-  {
-   "n": 2961,
-   "key": "mercadolivre:MLB61910691",
-   "title": "Enssu Aparador de Pelos com Lâmina de Cerâmica e Recarga Rápida",
-   "price": 130.71,
-   "original": 318.0,
-   "pct": 59,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_761397-MLA111846748613_052026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/enssu-aparador-de-pelos-com-lamina-de-ceramica-e-recarga-rapida/p/MLB61910691?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795197707
   }
  ]
 }
