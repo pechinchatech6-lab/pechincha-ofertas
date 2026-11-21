@@ -1,7 +1,21 @@
 {
- "updated": 1795222111,
+ "updated": 1795223562,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3009,
+   "key": "mercadolivre:MLB45308620",
+   "title": "Cabeçote Compressor Pró Euro 10 Pcm Pés 140 Psi Libras",
+   "price": 564.9,
+   "original": 999.9,
+   "pct": 44,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_754151-MLA118250519029_092026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/cabecote-compressor-pro-euro-10-pcm-pes-140-psi-libras/p/MLB45308620?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795223542
+  },
   {
    "n": 3008,
    "key": "mercadolivre:MLB18391232",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795192774
-  },
-  {
-   "n": 2949,
-   "key": "mercadolivre:MLB81614740",
-   "title": "Coqueteleira Shakeira Academia Whey 500ml Zelvi Com Esfera Misturadora De Metal Tampa Flip E Alça Livre De BPA Cor Cinza",
-   "price": 21.99,
-   "original": 99.0,
-   "pct": 78,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_986692-MLA120960406965_112026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/coqueteleira-shakeira-academia-whey-500ml-zelvi-com-esfera-misturadora-de-metal-tampa-flip-e-alca-livre-de-bpa-cor-cinza/p/MLB81614740?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795192353
   }
  ]
 }
