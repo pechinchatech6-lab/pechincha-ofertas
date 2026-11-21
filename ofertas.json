@@ -1,7 +1,21 @@
 {
- "updated": 1795233852,
+ "updated": 1795234273,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3030,
+   "key": "mercadolivre:MLB67406797",
+   "title": "Compressor De Ar Digital Portátil Mini Multiuso Elétrico Potente Branco Para Viagem E Enchimento Infláveis Branco",
+   "price": 56.0,
+   "original": 157.98,
+   "pct": 65,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_871266-MLA109109644562_042026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/compressor-de-ar-digital-portatil-mini-multiuso-eletrico-potente-branco-para-viagem-e-enchimento-inflaveis-branco/p/MLB67406797?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795234253
+  },
   {
    "n": 3029,
    "key": "mercadolivre:MLB32265367",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795202029
-  },
-  {
-   "n": 2970,
-   "key": "mercadolivre:MLB54422844",
-   "title": "Relógio Masculino Clássico Pulseira Prata Correia Prateada Bisel Prateado Fundo Azul Marinho Saint Germain 42mm Elegante Detalhes Bronze",
-   "price": 97.0,
-   "original": 249.9,
-   "pct": 61,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_758835-MLA100010183395_122025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-masculino-classico-pulseira-prata-correia-prateada-bisel-prateado-fundo-azul-marinho-saint-germain-42mm-elegante/p/MLB54422844?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795201608
   }
  ]
 }
