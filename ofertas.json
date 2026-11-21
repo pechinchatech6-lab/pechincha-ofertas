@@ -1,7 +1,21 @@
 {
- "updated": 1795221690,
+ "updated": 1795222111,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3008,
+   "key": "mercadolivre:MLB18391232",
+   "title": "NIVEA Loção Deo-Hidratante Corporal Milk 400ml, 72h de hidratação, Cuidado Intensivo",
+   "price": 18.32,
+   "original": 26.99,
+   "pct": 32,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_974841-MLA121137466497_112026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivea-locao-deo-hidratante-corporal-milk-400ml-72h-de-hidratacao-cuidado-intensivo/p/MLB18391232?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795222091
+  },
   {
    "n": 3007,
    "key": "mercadolivre:MLB79287290",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795192353
-  },
-  {
-   "n": 2948,
-   "key": "mercadolivre:MLB55232692",
-   "title": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca 1L - Hidratação 48h",
-   "price": 114.9,
-   "original": 205.9,
-   "pct": 44,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_800625-MLA118013409895_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/cetaphil-locao-hidratante-corporal-e-facial-para-pele-sensivel-normal-a-seca-1l-hidratacao-48h/p/MLB55232692?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795191932
   }
  ]
 }
