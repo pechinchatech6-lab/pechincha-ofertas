@@ -1,7 +1,21 @@
 {
- "updated": 1795225025,
+ "updated": 1795225652,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3013,
+   "key": "mercadolivre:MLB6077911",
+   "title": "Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca RE31",
+   "price": 1549.0,
+   "original": 1958.0,
+   "pct": 21,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_631165-MLA111827765025_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/geladeira-electrolux-cycle-defrost-240l-degelo-pratico-uma-porta-branca-re31/p/MLB6077911?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795225632
+  },
   {
    "n": 3012,
    "key": "mercadolivre:MLB18572393",
@@ -827,20 +841,6 @@
    "free_shipping": false,
    "coupon": null,
    "ts": 1795194760
-  },
-  {
-   "n": 2953,
-   "key": "mercadolivre:MLB80744090",
-   "title": "Climatizador de Ar Portátil 15L Umidificador Evaporativo 3 Velocidades 3 Modos de Vento Temporizador Resfriamento Touch Controle Remoto",
-   "price": 450.0,
-   "original": 1199.99,
-   "pct": 62,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_809505-MLA119892475101_102026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/climatizador-de-ar-portatil-15l-umidificador-evaporativo-3-velocidades-3-modos-de-vento-temporizador-resfriamento-touch-/p/MLB80744090?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795194339
   }
  ]
 }
