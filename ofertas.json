@@ -1,7 +1,21 @@
 {
- "updated": 1795226494,
+ "updated": 1795226915,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3016,
+   "key": "mercadolivre:MLB38714294",
+   "title": "Aparador de Pelos Philco Multigroom 8 Em 1 Pap16 Cor Chumbo",
+   "price": 109.9,
+   "original": 169.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_999787-MLA100009174297_122025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/aparador-de-pelos-philco-multigroom-8-em-1-pap16-cor-chumbo/p/MLB38714294?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795226895
+  },
   {
    "n": 3015,
    "key": "mercadolivre:MLB65069504",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795196023
-  },
-  {
-   "n": 2956,
-   "key": "mercadolivre:MLB67189809",
-   "title": "Máquina de Cortar Cabelo e Barba Inova Sem Fio Com Display LED e 4 Pentes",
-   "price": 69.9,
-   "original": 112.72,
-   "pct": 38,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_698498-MLA109075410420_042026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/maquina-de-cortar-cabelo-e-barba-inova-sem-fio-com-display-led-e-4-pentes/p/MLB67189809?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795195602
   }
  ]
 }
