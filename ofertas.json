@@ -1,7 +1,21 @@
 {
- "updated": 1795224604,
+ "updated": 1795225025,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3012,
+   "key": "mercadolivre:MLB18572393",
+   "title": "Secador De Cabelos Taiff Style Pro 2000w Prata",
+   "price": 198.94,
+   "original": 363.65,
+   "pct": 45,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_811448-MLA99465155192_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/secador-de-cabelos-taiff-style-pro-2000w-prata/p/MLB18572393?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795225005
+  },
   {
    "n": 3011,
    "key": "mercadolivre:MLB48929479",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795194339
-  },
-  {
-   "n": 2952,
-   "key": "mercadolivre:MLB28757015",
-   "title": "Escova Secadora Ga.ma Babosa Brush 3d 1300W Verde Bivolt",
-   "price": 133.9,
-   "original": 279.9,
-   "pct": 52,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_899031-MLA114756927320_082026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/escova-secadora-ga-ma-babosa-brush-3d-1300w-verde-bivolt/p/MLB28757015?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795193725
   }
  ]
 }
