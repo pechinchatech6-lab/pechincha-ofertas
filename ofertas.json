@@ -1,7 +1,21 @@
 {
- "updated": 1795233010,
+ "updated": 1795233431,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3028,
+   "key": "mercadolivre:MLB69013896",
+   "title": "Caixa de Som Amplificada Philco Extreme Bluetooth 5.3 480W 2 Microfones TWS Flash Light Bateria Recarregável PCX4801",
+   "price": 680.0,
+   "original": 800.0,
+   "pct": 15,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680616-MLA116669244073_082026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/caixa-de-som-amplificada-philco-extreme-bluetooth-5-3-480w-2-microfones-tws-flash-light-bateria-recarregavel-pcx4801/p/MLB69013896?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795233411
+  },
   {
    "n": 3027,
    "key": "mercadolivre:MLB61381053",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795201187
-  },
-  {
-   "n": 2968,
-   "key": "mercadolivre:MLB67338975",
-   "title": "Kit Barba De Macho Shampoo Condicionador Balm Óleo + Pente",
-   "price": 160.0,
-   "original": 325.0,
-   "pct": 51,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_762419-MLA109681534325_032026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/kit-barba-de-macho-shampoo-condicionador-balm-oleo-pente/p/MLB67338975?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795200766
   }
  ]
 }
