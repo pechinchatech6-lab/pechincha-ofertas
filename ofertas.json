@@ -1,7 +1,21 @@
 {
- "updated": 1795237871,
+ "updated": 1795238292,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3039,
+   "key": "mercadolivre:MLB67134099",
+   "title": "Lixadeira Orbital DESOON 300W com Velocidade Ajustável e Coletor de Pó para Madeira e Parede",
+   "price": 154.71,
+   "original": 209.0,
+   "pct": 26,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_650950-MLA109449844213_032026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/lixadeira-orbital-desoon-300w-com-velocidade-ajustavel-e-coletor-de-po-para-madeira-e-parede/p/MLB67134099?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795238272
+  },
   {
    "n": 3038,
    "key": "mercadolivre:MLB19153400",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795206775
-  },
-  {
-   "n": 2979,
-   "key": "mercadolivre:MLB21598769",
-   "title": "NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa 48h, Pele Firme e Elasticidade, Corporal, Todos os Tipos de Pele",
-   "price": 22.3,
-   "original": 43.19,
-   "pct": 48,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_897148-MLA118073430459_092026-F.jpg",
-   "link": "https://www.mercadolivre.com.br/nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-48h-pele-firme-e-elasticidade-corporal-todos-os-/p/MLB21598769?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795205397
   }
  ]
 }
