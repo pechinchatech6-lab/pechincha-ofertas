@@ -1,7 +1,21 @@
 {
- "updated": 1795228178,
+ "updated": 1795228599,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3020,
+   "key": "mercadolivre:MLB45981292",
+   "title": "Barbeador Elétrico Acabamento Shaver Kemei 2024 Cor Preto",
+   "price": 51.53,
+   "original": 78.9,
+   "pct": 35,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_767508-MLA99987776009_112025-F.jpg",
+   "link": "https://www.mercadolivre.com.br/barbeador-eletrico-acabamento-shaver-kemei-2024-cor-preto/p/MLB45981292?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795228579
+  },
   {
    "n": 3019,
    "key": "mercadolivre:MLB26082979",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795197707
-  },
-  {
-   "n": 2960,
-   "key": "mercadolivre:MLB45254298",
-   "title": "Tv Stick Android Streaming Hdmi Wifi 4k 128gb",
-   "price": 172.99,
-   "original": 299.99,
-   "pct": 42,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_736919-MLA95970509444_102025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/tv-stick-android-streaming-hdmi-wifi-4k-128gb/p/MLB45254298?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795197286
   }
  ]
 }
