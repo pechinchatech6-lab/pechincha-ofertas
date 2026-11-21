@@ -1,7 +1,21 @@
 {
- "updated": 1795234694,
+ "updated": 1795235115,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3032,
+   "key": "mercadolivre:MLB69204083",
+   "title": "Esmerilhadeira Lixadeira Angular 950w 6 Velocidades 115mm Amarelo 60hz",
+   "price": 139.0,
+   "original": 300.0,
+   "pct": 54,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_985186-MLA111238705441_052026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/esmerilhadeira-lixadeira-angular-950w-6-velocidades-115mm-amarelo-60hz/p/MLB69204083?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795235095
+  },
   {
    "n": 3031,
    "key": "mercadolivre:MLB77739989",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795202871
-  },
-  {
-   "n": 2972,
-   "key": "mercadolivre:MLB38933355",
-   "title": "Relógio Despertador Digital de Mesa Quadrado Preto com Alarme e Temperatura",
-   "price": 20.27,
-   "original": 22.99,
-   "pct": 12,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_877552-MLU78411285135_082024-F.jpg",
-   "link": "https://www.mercadolivre.com.br/relogio-despertador-digital-de-mesa-quadrado-preto-com-alarme-e-temperatura/p/MLB38933355?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": false,
-   "coupon": null,
-   "ts": 1795202450
   }
  ]
 }
