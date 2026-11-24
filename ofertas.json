@@ -1,7 +1,21 @@
 {
- "updated": 1795238713,
+ "updated": 1795549467,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3041,
+   "key": "mercadolivre:MLB80245753",
+   "title": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6\" E À Prova D'Água",
+   "price": 68.99,
+   "original": 269.0,
+   "pct": 74,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_680341-MLA118784298481_102026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/mochila-reforcada-jiesipote-para-viagem-com-compartimento-para-notebook-15-6-e-a-prova-d-agua/p/MLB80245753?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": false,
+   "coupon": null,
+   "ts": 1795549447
+  },
   {
    "n": 3040,
    "key": "mercadolivre:MLB50732928",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795207617
-  },
-  {
-   "n": 2981,
-   "key": "mercadolivre:MLB53250495",
-   "title": "Caixa De Som Bluetooth Potente Amplificada 1000w PMPO Grande Potencia Microfone P10 10w-Saida Karaoke Usb Pendrive",
-   "price": 144.0,
-   "original": 469.89,
-   "pct": 69,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_782932-MLA99490697473_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-potente-amplificada-1000w-pmpo-grande-potencia-microfone-p10-10w-saida-karaoke-usb-pendrive/p/MLB53250495?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795207196
   }
  ]
 }
