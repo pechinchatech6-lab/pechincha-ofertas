@@ -1,7 +1,21 @@
 {
- "updated": 1795238292,
+ "updated": 1795238713,
  "channel": "pechinchatechbr",
  "items": [
+  {
+   "n": 3040,
+   "key": "mercadolivre:MLB50732928",
+   "title": "Nivea Hidratante Labial Rapunzel Disney Princesa 4,8g",
+   "price": 12.87,
+   "original": 26.29,
+   "pct": 51,
+   "image": "https://http2.mlstatic.com/D_NQ_NP_772033-MLA104546636889_012026-F.jpg",
+   "link": "https://www.mercadolivre.com.br/nivea-hidratante-labial-rapunzel-disney-princesa-4-8g/p/MLB50732928?matt_tool=77739078&matt_word=instagram",
+   "store": "mercadolivre",
+   "free_shipping": true,
+   "coupon": null,
+   "ts": 1795238693
+  },
   {
    "n": 3039,
    "key": "mercadolivre:MLB67134099",
@@ -827,20 +841,6 @@
    "free_shipping": true,
    "coupon": null,
    "ts": 1795207196
-  },
-  {
-   "n": 2980,
-   "key": "mercadolivre:MLB19140415",
-   "title": "Suplemento Whey Isolate Protein Fuse 1,8kg sabor Morango Dark Lab",
-   "price": 179.92,
-   "original": 699.9,
-   "pct": 74,
-   "image": "https://http2.mlstatic.com/D_NQ_NP_989007-MLA99405715766_112025-F.jpg",
-   "link": "https://www.mercadolivre.com.br/suplemento-whey-isolate-protein-fuse-1-8kg-sabor-morango-dark-lab/p/MLB19140415?matt_tool=77739078&matt_word=instagram",
-   "store": "mercadolivre",
-   "free_shipping": true,
-   "coupon": null,
-   "ts": 1795206775
   }
  ]
 }
